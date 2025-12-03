@@ -3,7 +3,7 @@ name: build
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 23 * * *"   # 日本时间10:00自动运行，可自行调整
+    - cron: "0 23 * * *"   # 北京时间7点
 
 jobs:
   build:
