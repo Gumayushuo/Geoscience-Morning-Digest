@@ -4,6 +4,7 @@ import json
 import os
 from datetime import datetime
 
+# -------------------
 RSS_FEEDS = [
     "http://www.nature.com/nature/current_issue/rss",
     "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
@@ -23,48 +24,67 @@ RSS_FEEDS = [
 
 SEEN_FILE = "state/seen.json"
 
-def load_seen():
-    if not os.path.exists(SEEN_FILE):
-        return {}
+today = datetime.now().strftime("%Y-%m-%d")
+
+# -------------------
+# 读取已有 seen.json
+if os.path.exists(SEEN_FILE):
     try:
         with open(SEEN_FILE, "r", encoding="utf-8") as f:
-            data = json.load(f)
-            # 用 uid 做 key，快速去重
-            return {p.get("uid"): p for p in data if "uid" in p}
-    except:
-        return {}
+            seen = json.load(f)
+    except Exception:
+        seen = []
+else:
+    seen = []
 
-def save_seen(seen_dict):
-    os.makedirs(os.path.dirname(SEEN_FILE), exist_ok=True)
-    with open(SEEN_FILE, "w", encoding="utf-8") as f:
-        json.dump(list(seen_dict.values()), f, ensure_ascii=False, indent=2)
+# 用 set 来快速检查已抓取的链接或 ID
+seen_ids = set()
+for entry in seen:
+    uid = entry.get("id") or entry.get("link")
+    if uid:
+        seen_ids.add(uid)
 
-def fetch_feeds():
-    today = datetime.now().strftime("%Y-%m-%d")
-    seen = load_seen()
-    new_count = 0
+new_entries = []
 
-    for url in RSS_FEEDS:
-        feed = feedparser.parse(url)
-        source_name = feed.feed.get("title", "未知来源")
-        for entry in feed.entries:
-            uid = entry.get("id") or entry.get("link")
-            if not uid or uid in seen:
-                continue
-            paper = {
-                "uid": uid,
-                "title": entry.get("title", "未知标题"),
-                "link": entry.get("link", ""),
-                "summary": entry.get("summary", ""),
-                "source": source_name,
-                "authors": [a.get("name") for a in entry.get("authors", [])] if entry.get("authors") else [],
-                "date": today
-            }
-            seen[uid] = paper
-            new_count += 1
+# -------------------
+# 遍历 RSS 抓取新条目
+for feed_url in RSS_FEEDS:
+    print(f"抓取 RSS：{feed_url}")
+    feed = feedparser.parse(feed_url)
+    source_name = feed.feed.get("title", "未知来源")
+    for entry in feed.entries:
+        uid = entry.get("id") or entry.get("link")
+        if not uid or uid in seen_ids:
+            continue
 
-    save_seen(seen)
-    print(f"抓取完成，新文章 {new_count} 条，总计 {len(seen)} 条")
+        authors_list = []
+        if "authors" in entry:
+            for a in entry["authors"]:
+                name = a.get("name") or ""
+                if name:
+                    authors_list.append(name)
 
-if __name__ == "__main__":
-    fetch_feeds()
+        new_entry = {
+            "id": uid,
+            "title": entry.get("title", "未知标题"),
+            "link": entry.get("link", ""),
+            "source": source_name,
+            "summary": entry.get("summary", "").strip(),
+            "authors": authors_list,
+            "date": today
+        }
+
+        seen.append(new_entry)
+        seen_ids.add(uid)
+        new_entries.append(new_entry)
+
+print(f"本次抓取新论文数量：{len(new_entries)}")
+print(f"累计论文总数：{len(seen)}")
+
+# -------------------
+# 保存 seen.json
+os.makedirs(os.path.dirname(SEEN_FILE), exist_ok=True)
+with open(SEEN_FILE, "w", encoding="utf-8") as f:
+    json.dump(seen, f, ensure_ascii=False, indent=2)
+
+print(f"seen.json 已更新：{SEEN_FILE}")
