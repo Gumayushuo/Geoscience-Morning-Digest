@@ -127,8 +127,8 @@ def fetch_new_entries():
     # 因为我们只用新的 entry 对象填充 new_entries_list，所以只需将新旧列表合并
     
     # 🚨 注意：为了保证 seen_list 不会无限增长，我们可能需要限制其大小。
-    # 假设我们保留 5000 篇历史文章。
-    MAX_HISTORY = 5000
+    # 假设我们保留 500000 篇历史文章。
+    MAX_HISTORY = 500000000
     
     # 过滤掉旧列表中重复的 ID，然后合并
     # 确保 seen_list 只包含那些 ID 不在 new_entries_list 中的旧条目
