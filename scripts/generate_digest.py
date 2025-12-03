@@ -6,7 +6,7 @@ from openai import OpenAI
 
 # -------------------
 SEEN_JSON_PATH = "state/seen.json"
-OUTPUT_PATH = "output/daily.md"
+OUTPUT_PATH = "output/daily.md"  
 
 today = datetime.now().strftime("%Y-%m-%d")
 
@@ -36,13 +36,18 @@ else:
         raise ValueError("请设置环境变量 DEEPSEEK_API_KEY")
 
     client = OpenAI(api_key=DEEPSEEK_API_KEY, base_url="https://api.deepseek.com")
-
+if len(papers_today) > 50:
+    print(f"警告：今日新增论文过多 ({len(papers_today)}篇)，为防止 AI 崩溃，仅选取前 30 篇进行摘要。")
+    # 截取前30篇用于生成摘要，但原始列表保留全部
+    papers_for_ai = papers_today[:30] 
+else:
+    papers_for_ai = papers_today
+    
     # 构建 AI 输入
-    papers_brief = "\n".join(
-        f"{p.get('title','未知标题')} ({p.get('source','未知期刊')})"
-        for p in papers_today
-    )
-
+papers_brief = "\n".join(
+    f"{p.get('title','未知标题')} ({p.get('source','未知期刊')})"
+    for p in papers_for_ai
+)
     system_prompt = (
         "你是一名地球科学领域科研助手。\n"
         "请根据以下论文列表生成日报。\n"
