@@ -20,12 +20,12 @@ RSS_URLS = [
     "https://www.nature.com/natrevearthenviron.rss",
     "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=topic&tagCode=earth-sci",
     "https://www.annualreviews.org/rss/content/journals/earth/latestarticles?fmt=rss",
-    "https://rss.sciencedirect.com/publication/science/00128252", # Deep Sea Research Part I
-    "https://rss.sciencedirect.com/publication/science/0012821X", # Deep Sea Research Part II
-    "https://agupubs.onlinelibrary.wiley.com/feed/19448007/most-recent", # JGR Atmospheres
-    "https://agupubs.onlinelibrary.wiley.com/feed/21699356/most-recent", # Earth and Space Science
-    "https://agupubs.onlinelibrary.wiley.com/feed/15252027/most-recent", # Reviews of Geophysics
-    "https://rss.sciencedirect.com/publication/science/00167037", # Geochimica et Cosmochimica Acta
+    "https://rss.sciencedirect.com/publication/science/00128252",
+    "https://rss.sciencedirect.com/publication/science/0012821X",
+    "https://agupubs.onlinelibrary.wiley.com/feed/19448007/most-recent",
+    "https://agupubs.onlinelibrary.wiley.com/feed/21699356/most-recent", 
+    "https://agupubs.onlinelibrary.wiley.com/feed/15252027/most-recent", 
+    "https://rss.sciencedirect.com/publication/science/00167037",
 ]
 
 def load_seen_papers():
