@@ -2,7 +2,7 @@ name: Daily Paper Digest
 
 on:
   schedule:
-    - cron: '0 23 * * *' # 北京时间 7:00
+    - cron: '0 0 * * *' # 北京时间 8:00
   workflow_dispatch:
 
 # 1. 必须添加写入权限，否则无法 push
