@@ -80,11 +80,16 @@ def parse_date(entry):
 def fetch_new_entries():
     """Fetches new entries from all RSS feeds."""
     
+    # ---- 关键修复：判断是否第一次运行 ----
+    is_first_run = (not os.path.exists(SEEN_JSON_PATH)) or (os.path.getsize(SEEN_JSON_PATH) == 0)
+
     seen_ids, seen_list = load_seen_papers()
     new_entries_list = []
     
     print(f"Loaded {len(seen_ids)} existing paper IDs.")
-    
+    if is_first_run:
+        print("🚨 检测到首次运行：将仅初始化数据库，不会推送任何历史论文。")
+
     for url in RSS_URLS:
         print(f"解析 RSS: {url}")
         try:
@@ -92,66 +97,61 @@ def fetch_new_entries():
             source_name = feed.feed.get('title', url.split('/')[2])
             
             for entry in feed.entries:
-                # Use 'id' or 'link' as a unique identifier (ID is usually better)
                 uid = entry.get("id") or entry.get("link")
-                
                 if not uid:
-                    continue # Skip entries without a usable ID
+                    continue
                 
-                # 1. 检查是否已存在
                 if uid in seen_ids:
-                    continue # Skip if already seen
+                    continue
 
-                # 2. 如果是新文章，则记录
-                
-                # Clean up summary (remove HTML/CDATA tags often left by feedparser)
-                summary_raw = entry.get('summary', entry.get('content', [{}])[0].get('value'))
-                summary_text = summary_raw.replace('<p>', '').replace('</p>', '').replace('<br>', '').strip() if summary_raw else ""
-                
-                # Extract authors
+                # ---- 首次运行：只记录，不推送 ----
+                if is_first_run:
+                    seen_ids.add(uid)
+                    seen_list.append({
+                        "id": uid,
+                        "title": entry.get('title',''),
+                        "link": entry.get('link',''),
+                        "authors": [a.get("name") for a in entry.get("authors", [])],
+                        "summary": "",
+                        "source": source_name,
+                        "date": parse_date(entry),
+                        "sent": True
+                    })
+                    continue
+
+                # ---- 正常运行：新增论文 ----
+                summary_raw = entry.get('summary') or entry.get('content', [{}])[0].get('value')
+                summary_text = summary_raw.replace('<p>', '').replace('</p>', '').strip() if summary_raw else ""
+
                 authors_list = [author.get('name') for author in entry.get('authors', [])]
-                
+
                 new_entry = {
                     "id": uid,
-                    "title": entry.get('title', 'Unknown Title'),
-                    "link": entry.get('link', ''),
+                    "title": entry.get('title','Unknown Title'),
+                    "link": entry.get('link',''),
                     "authors": authors_list,
                     "summary": summary_text,
                     "source": source_name,
-                    # 🚀 【关键修复】使用文章本身的发布日期
-                    "date": parse_date(entry) ,
+                    "date": parse_date(entry),
                     "sent": False
                 }
-                
+
                 new_entries_list.append(new_entry)
-                seen_ids.add(uid) # Add to the seen set immediately
+                seen_ids.add(uid)
 
         except Exception as e:
             print(f"Error processing RSS feed {url}: {e}")
-            
-    # Combine old seen list with new entries
-    # Note: We must update the seen list to include the newly fetched data structure
+
+    # ---- 合并 seen_list，仅限非首次运行 ----
+    if not is_first_run:
+        current_ids = {p["id"] for p in new_entries_list}
+        filtered_old = [p for p in seen_list if p.get("id") not in current_ids]
+        seen_list = new_entries_list + filtered_old
+
+    save_seen_papers(seen_list)
     
-    # 重新构建 seen_list: 确保只包含唯一的、最新的条目
-    # 因为我们只用新的 entry 对象填充 new_entries_list，所以只需将新旧列表合并
-    
-    # 🚨 注意：为了保证 seen_list 不会无限增长，我们可能需要限制其大小。
-    # 假设我们保留 500000 篇历史文章。
-    MAX_HISTORY = 500000000
-    
-    # 过滤掉旧列表中重复的 ID，然后合并
-    # 确保 seen_list 只包含那些 ID 不在 new_entries_list 中的旧条目
-    current_seen_ids = {p['id'] for p in new_entries_list}
-    filtered_old_seen = [p for p in seen_list if p.get('id') not in current_seen_ids]
-    
-    updated_seen_list = new_entries_list + filtered_old_seen
-    
-    # 裁剪列表以限制大小
-    updated_seen_list = updated_seen_list[:MAX_HISTORY]
-    
-    save_seen_papers(updated_seen_list)
-    
-    return new_entries_list
+    return new_entries_list if not is_first_run else []
+
 
 if __name__ == "__main__":
     new_papers = fetch_new_entries()
