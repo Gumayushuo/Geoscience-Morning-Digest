@@ -1,5 +1,166 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-025-66855-w",
+    "title": "SlingBAG: point cloud-based iterative algorithm for large-scale 3D photoacoustic imaging",
+    "link": "https://www.nature.com/articles/s41467-025-66855-w",
+    "authors": [
+      "Shuang Li",
+      "Yibing Wang",
+      "Jian Gao",
+      "Chulhong Kim",
+      "Seongwook Choi",
+      "Yu Zhang",
+      "Qian Chen",
+      "Yao Yao",
+      "Changhui Li"
+    ],
+    "summary": "Nature Communications, Published online: 06 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-66855-w\">doi:10.1038/s41467-025-66855-w</a>Researchers present SlingBAG, an iterative reconstruction algorithm for large-scale 3D photoacoustic imaging. It uses an adaptive point cloud model to achieve high-quality imaging from sparse data, notably cutting cost in both memory and time.",
+    "source": "Nature Communications",
+    "date": "2025-12-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67256-9",
+    "title": "A next-generation dual guide CRISPR system for genetic interaction library screening",
+    "link": "https://www.nature.com/articles/s41467-025-67256-9",
+    "authors": [
+      "Thomas Burgold",
+      "Emre Karakoc",
+      "Emanuel Gonçalves",
+      "Inigo Barrio-Hernandez",
+      "Lisa Dwane",
+      "Romina Silva",
+      "Emily Souster",
+      "Mamta Sharma",
+      "Alexandra Beck",
+      "Gene Ching Chiek Koh",
+      "Lykourgos-Panagiotis Zalmas",
+      "Mathew J. Garnett",
+      "Andrew R. Bassett"
+    ],
+    "summary": "Nature Communications, Published online: 06 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67256-9\">doi:10.1038/s41467-025-67256-9</a>Large-scale combinatorial perturbation screens are important to identify genetic interactions and synthetic lethal gene pairs. Here, Burgold et al. present a next-generation dual guide system that allows library-scale screening across hundreds of thousands of genetic interactions.",
+    "source": "Nature Communications",
+    "date": "2025-12-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67176-8",
+    "title": "Subsurface engineering for directional-selective CO₂-to-ethanol electrocatalysis at industrial-level",
+    "link": "https://www.nature.com/articles/s41467-025-67176-8",
+    "authors": [
+      "Ming-Zheng Gu",
+      "Yuan Min",
+      "Ling Jiang",
+      "Fu Zhou",
+      "Qiao Chen",
+      "Xiao-Jun Zhang",
+      "Jie-Jie Chen",
+      "Han-Qing Yu",
+      "Guang-Feng Wang"
+    ],
+    "summary": "Nature Communications, Published online: 06 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67176-8\">doi:10.1038/s41467-025-67176-8</a>Precisely controlling the configuration of oxygen-binding intermediates is crucial for selective CO2-to-ethanol electroreduction. Here, the authors present a subsurface Co-doped CuS catalyst, which transforms key intermediates via surface-O bonds to achieve directional selectivity for ethanol.",
+    "source": "Nature Communications",
+    "date": "2025-12-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-66862-x",
+    "title": "A light-induced microprotein triggers regulated intramembrane proteolysis to promote photo-sensing in a pathogenic bacterium",
+    "link": "https://www.nature.com/articles/s41467-025-66862-x",
+    "authors": [
+      "Dimitrios Manias",
+      "Ayushi Mishra",
+      "Jonathan D. Winkelman",
+      "Gong Chen",
+      "Sampriti Mukherjee"
+    ],
+    "summary": "Nature Communications, Published online: 06 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-66862-x\">doi:10.1038/s41467-025-66862-x</a>Light represses biofilm formation and production of virulence factors in the pathogenic bacterium Pseudomonas aeruginosa. Here, Manias et al. identify a periplasmic microprotein that regulates this process by activating the degradation of a component of the light-sensing pathway.",
+    "source": "Nature Communications",
+    "date": "2025-12-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-66839-w",
+    "title": "CMIP6 models cannot capture long-term forced changes in the tropical Pacific sea surface temperature gradient",
+    "link": "https://www.nature.com/articles/s41467-025-66839-w",
+    "authors": [
+      "Hannah Byrne",
+      "Richard Seager",
+      "Jason E. Smerdon"
+    ],
+    "summary": "Nature Communications, Published online: 06 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-66839-w\">doi:10.1038/s41467-025-66839-w</a>Climate models cannot match long-term observed changes in the tropical Pacific zonal sea surface temperature gradient, implying that model responses to increasing radiative forcing from atmospheric greenhouse gases are diverging from the real world.",
+    "source": "Nature Communications",
+    "date": "2025-12-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-66973-5",
+    "title": "Arraying faceted manganese oxides for selective ethylene electro-oxidation to ethylene glycol in aqueous electrolytes",
+    "link": "https://www.nature.com/articles/s41467-025-66973-5",
+    "authors": [
+      "Nan-Nan Liang",
+      "Haibin Wang",
+      "Yi Wei",
+      "Teng Wang",
+      "Wenhe Yu",
+      "Zehong Yin",
+      "Yilin Zhao",
+      "Tingting Mao",
+      "Jingrui Han",
+      "Yong-Yan Zhao",
+      "Jianan Erick Huang",
+      "Mingchuan Luo"
+    ],
+    "summary": "Nature Communications, Published online: 06 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-66973-5\">doi:10.1038/s41467-025-66973-5</a>The electrooxidation of ethylene to ethylene glycol (EG) offers a sustainable pathway for chemical manufacturing, but demands selective non-precious-metal electrocatalysts. Here, the authors report a class of (111)-rich Mn2O3 nanoarray electrode, which achieves a high selectivity of 52.6% for for ethylene-to-EG conversion in aqueous electrolytes.",
+    "source": "Nature Communications",
+    "date": "2025-12-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67035-6",
+    "title": "Anti-swelling and self-activating artificial proteoglycan assemblies as cartilaginous implant for post-microfracture healing",
+    "link": "https://www.nature.com/articles/s41467-025-67035-6",
+    "authors": [
+      "Zhulian Li",
+      "Mingda Zhao",
+      "Jiayi Zhu",
+      "Yuxiang Wang",
+      "Xiaolin Xiao",
+      "Zhaoxi Deng",
+      "Xu Peng",
+      "Junli Liu",
+      "Jie Liang",
+      "Qing Jiang",
+      "Yujiang Fan",
+      "Xingdong Zhang",
+      "Yong Sun"
+    ],
+    "summary": "Nature Communications, Published online: 06 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67035-6\">doi:10.1038/s41467-025-67035-6</a>The insufficient structure and biofunction of cartilaginous implant impede cartilage regeneration. Here, the authors develop anti-swelling and self-activating artificial proteoglycan assemblies for post-microfracture healing by downregulate calcium signaling pathway and reducing ossification.",
+    "source": "Nature Communications",
+    "date": "2025-12-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X25005631",
+    "title": "Role of hydrothermal alteration and thermally activated healing on earthquake dynamics along oceanic transform faults",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X25005631?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 February 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 675Author(s): Mingqi Liu, Sylvain Barbot",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2025-12-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725006775",
+    "title": "Evaluation of shallow-marine carbonates as archives of seawater cerium isotope composition: implications for paleoredox reconstruction",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725006775?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 5 December 2025<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Mengchun Cao, Sihui Chen, Yi-Bo Lin, Ryoichi Nakada, Kai Sheng, Jian Cao, Shu-zhong Shen",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-07",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-025-67268-5",
     "title": "Worldwide trends in metabolic syndrome from 2000 to 2023: a systematic review and modelling analysis",
     "link": "https://www.nature.com/articles/s41467-025-67268-5",
