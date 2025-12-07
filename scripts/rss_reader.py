@@ -34,6 +34,7 @@ RSS_URLS = [
     "https://academic.oup.com/rss/site_5332/advanceAccess_3198.xml",     #NSR
     "https://agupubs.onlinelibrary.wiley.com/feed/19449194/most-recent",  #Tectonic
     "https://www.earthsciencefrontiers.net.cn/CN/rss_zxly_1005-2321.xml",#geoscience frontiers  地学前缘（英文版）
+    "https://rss.sciencedirect.com/publication/science/01691368",   #OGR
 ]
 
 def load_seen_papers():
