@@ -1,5 +1,267 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-025-67390-4",
+    "title": "Concise synthesis of chiral tricyclic γ-lactams via synergistic isothiourea/Ir catalyzed asymmetric [3 + 2] annulation",
+    "link": "https://www.nature.com/articles/s41467-025-67390-4",
+    "authors": [
+      "Guorong Xiao",
+      "Mengjiao Yang",
+      "Duanyang Kong"
+    ],
+    "summary": "Nature Communications, Published online: 07 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67390-4\">doi:10.1038/s41467-025-67390-4</a>Accessing tricyclic frameworks with multiple contiguous stereocenters remains challenging. Here, the authors report a isothiourea/Ir-catalyzed [3 + 2] annulation providing trans-fused tricyclic γ-lactams with three contiguous tertiary stereocenters.",
+    "source": "Nature Communications",
+    "date": "2025-12-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67084-x",
+    "title": "CASSIA: a multi-agent large language model for automated and interpretable cell annotation",
+    "link": "https://www.nature.com/articles/s41467-025-67084-x",
+    "authors": [
+      "Elliot Xie",
+      "Lingxin Cheng",
+      "Jack Shireman",
+      "Yujia Cai",
+      "Jihua Liu",
+      "Chitrasen Mohanty",
+      "Mahua Dey",
+      "Christina Kendziorski"
+    ],
+    "summary": "Nature Communications, Published online: 07 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67084-x\">doi:10.1038/s41467-025-67084-x</a>Assigning cell types in single-cell RNA-seq is essential yet challenging, as it requires expertise, time, and is often subjective. Here, the authors present CASSIA, a multi-agent AI system that provides automated, interpretable, and quality-controlled annotations with high accuracy.",
+    "source": "Nature Communications",
+    "date": "2025-12-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67143-3",
+    "title": "Molecular competition induced Janus hydrogel bioelectronic interface for electroceutical modulation",
+    "link": "https://www.nature.com/articles/s41467-025-67143-3",
+    "authors": [
+      "Xinyu Qu",
+      "Qian Wang",
+      "Hanjun Sun",
+      "Dingli Gan",
+      "Youliang Zhu",
+      "Zhenhua Ni",
+      "Xiaochen Dong"
+    ],
+    "summary": "Nature Communications, Published online: 07 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67143-3\">doi:10.1038/s41467-025-67143-3</a>Janus hydrogel bioelectronic interfaces are challenged by complex fabrication, poor tunability of asymmetric properties and weak interlayer bonding strength. Here, the authors create a Janus hydrogel with dual structural and compositional gradients in one step via molecular competition induction mechanism.",
+    "source": "Nature Communications",
+    "date": "2025-12-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67171-z",
+    "title": "EP300 deficiency leads to chronic replication stress mediated by defective replication fork protection",
+    "link": "https://www.nature.com/articles/s41467-025-67171-z",
+    "authors": [
+      "Angelica Barreto-Galvez",
+      "Mrunmai Niljikar",
+      "Julia Elizabeth Gagliardi",
+      "Carolina Plasencia Guzman",
+      "Ranran Zhang",
+      "Vasudha Kumar",
+      "Aastha Juwarwala",
+      "Archana Pradeep",
+      "Ankit Saxena",
+      "Cristina Montagna",
+      "Priya Mittal",
+      "Jeannine Gerhardt",
+      "Bing Xia",
+      "Jian Cao",
+      "Keisuke Kataoka",
+      "Adam David Durbin",
+      "Jun Qi",
+      "B. Hilda Ye",
+      "Advaitha Madireddy"
+    ],
+    "summary": "Nature Communications, Published online: 07 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67171-z\">doi:10.1038/s41467-025-67171-z</a>Loss-of-function mutations in EP300/KAT3B and CBP/KAT3A have been implicated in the pathogenesis of cancer. Here, the authors reveal that the EP300 protein has a role in mediating replication fork protection at sites of replication stalling and show that EP300-mutated cells recapitulate features of BRCA-deficient cancers.",
+    "source": "Nature Communications",
+    "date": "2025-12-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67162-0",
+    "title": "Retro-inversion imparts antimycobacterial specificity to host defense peptides",
+    "link": "https://www.nature.com/articles/s41467-025-67162-0",
+    "authors": [
+      "Hugh D. Glossop",
+      "Gebremichal Gebretsadik",
+      "Sabiha Sultana",
+      "Diptomit Biswas",
+      "Nathan A. Schacht",
+      "Neela H. Yennawar",
+      "Muzafar Ahmad Rather",
+      "Anthony D. Baughn",
+      "Scott H. Medina"
+    ],
+    "summary": "Nature Communications, Published online: 07 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67162-0\">doi:10.1038/s41467-025-67162-0</a>In this work, authors show that retro-inversion of host-defense peptides markedly improves their antitubercular potency and selectivity, highlighting the potential of this simple chemical modification to advance the design of novel antimycobacterial biotherapeutics.",
+    "source": "Nature Communications",
+    "date": "2025-12-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-64439-2",
+    "title": "Multichannel, ultra-wideband Rydberg electrometry with an optical frequency comb",
+    "link": "https://www.nature.com/articles/s41467-025-64439-2",
+    "authors": [
+      "Nikunjkumar Prajapati",
+      "David A. Long",
+      "Alexandra B. Artusio-Glimpse",
+      "Sean M. Bresler",
+      "Christopher L. Holloway"
+    ],
+    "summary": "Nature Communications, Published online: 07 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-64439-2\">doi:10.1038/s41467-025-64439-2</a>Rydberg atoms have the potential to serve as broadband receivers but require lasers with > 100 GHz scan ranges to observe multiple states. We bridge this major gap with an optical frequency comb for rapid preparation of over 7 Rydberg states.",
+    "source": "Nature Communications",
+    "date": "2025-12-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-66999-9",
+    "title": "Carboxymethylcytosine is a natural base modification and a handle for bacteriophage DNA hypermodification",
+    "link": "https://www.nature.com/articles/s41467-025-66999-9",
+    "authors": [
+      "Qiaoyu Yang",
+      "Lin Zhang",
+      "Yantao Liang",
+      "Haoyu Ma",
+      "Lifu Song",
+      "Lin Luo",
+      "Jason Tan",
+      "Yiling Hu",
+      "Kailiang Ma",
+      "Yiwei Chen",
+      "Yang Tong",
+      "Chuyuan Zhang",
+      "Suwen Zhao",
+      "Min Wang",
+      "Liang Zhang",
+      "Yifeng Wei",
+      "Yan Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 07 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-66999-9\">doi:10.1038/s41467-025-66999-9</a>DNA in many bacteriophages contains unusual chemical modifications. Here, the authors discover that carboxymethylcytosine is a natural DNA base and reveal its role as an intermediate enabling further DNA hypermodification.",
+    "source": "Nature Communications",
+    "date": "2025-12-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-66822-5",
+    "title": "Global floating algae blooms are expanding",
+    "link": "https://www.nature.com/articles/s41467-025-66822-5",
+    "authors": [
+      "Lin Qi",
+      "Menghua Wang",
+      "Brian B. Barnes",
+      "Douglas G. Capone",
+      "Joaquim I. Goes",
+      "Edward J. Carpenter",
+      "Yuyuan Xie",
+      "Chuanmin Hu"
+    ],
+    "summary": "Nature Communications, Published online: 07 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-66822-5\">doi:10.1038/s41467-025-66822-5</a>While phytoplankton are well studied and understood at the global scale, floating macroalgae are not. This study presents a comprehensive picture of the global distributions of floating macroalgae and phytoplankton surface scums, both showing expanding trends from 2003 to 2022.",
+    "source": "Nature Communications",
+    "date": "2025-12-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03067-6",
+    "title": "Nutrient limitation regimes control sunlight-stimulated chlorophyll fluorescence in the South Atlantic Ocean",
+    "link": "https://www.nature.com/articles/s43247-025-03067-6",
+    "authors": [
+      "Tiera-Brandy Robinson",
+      "Haoran Liu",
+      "Shungudzemwoyo P. Garaba",
+      "Daniela Voss",
+      "Nina Schuback",
+      "C. Mark Moore",
+      "Kevin Oxborough",
+      "Eric P. Achterberg",
+      "Thomas J. Browning"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 07 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03067-6\">doi:10.1038/s43247-025-03067-6</a>Passive chlorophyll fluorescence is sensitive to phytoplankton nutrient limitation, according to in-situ observations from the South Atlantic Ocean.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119397",
+    "title": "Along‐Strike Variation of the Unilateral Rupture of the 2025 Mw7.1 Dingri, Xizang Earthquake: One of the Shallowest M7+ Normal‐Faulting Events on the Tibetan Plateau",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119397?af=R",
+    "authors": [
+      "Xu Zhao, \nZhuowei Xiao, \nWei Wang, \nJuan Li"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 23, 16 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118799",
+    "title": "Extending the Surface Energy Budget View on Arctic Atmospheric Rivers: Climatological Classifications and Dependence on the Flavor",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118799?af=R",
+    "authors": [
+      "Sofie Tiedeck, \nAnnette Rinke"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 23, 16 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119151",
+    "title": "Seismo‐Acoustic Detection and Localization of Iceberg Collapse in Atka Bay, Antarctica",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119151?af=R",
+    "authors": [
+      "G. Averbuch, \nA. Houstin, \nD. P. Zitterbart, \nJ. Bonnel, \nJ. A. Collins, \nJ. D. Assink"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 23, 16 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2024JB030819",
+    "title": "Inferring Long‐Term Tectonic Uplift Patterns From Bayesian Inversion of Fluvially‐Incised Landscapes",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JB030819?af=R",
+    "authors": [
+      "Bar Oryan, \nBoris Gailleton, \nJean‐Arthur Olive, \nLuca C. Malatesta, \nRomain Jolivet"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 130, Issue 12, December 2025.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2025-12-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725006751",
+    "title": "Global distribution of marine bacterial BrGDGTs in sediments: patterns and implications",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725006751?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 6 December 2025<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Wenjie Xiao, Xiaotong Peng, Yunping Xu, Yufei Chen, Wenyong Yao, Kaiwen Ta, Chuanlun Zhang, Ronnie N. Glud",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S001670372500674X",
+    "title": "Neodymium isotopes in marginal seawater trace continental weathering inputs",
+    "link": "https://www.sciencedirect.com/science/article/pii/S001670372500674X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 6 December 2025<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Zhaojie Yu, Zehua Song, Xiaojie Tang, David J. Wilson, Germain Bayon, Yi Huang, Xiaoying Kang, Hualong Jin, Shiming Wan, Christophe Colin",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136825005967",
+    "title": "Corrigendum to “Fingerprinting hydrothermal alteration associated with pegmatite-type Li-(Be) mineralization using titanite” [Ore Geol. Rev. 187 (2025) 106993]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136825005967?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 6 December 2025<b>Source:</b> Ore Geology ReviewsAuthor(s): Ming-Jie Tuo, Yong-Qi Xia, Nuerkanati Madayipu, Deng-feng Li, Jie Yu, Nuo Li",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s43247-025-03046-x",
     "title": "Precious metal enrichment during impacts on the Moon",
     "link": "https://www.nature.com/articles/s43247-025-03046-x",
