@@ -30,7 +30,7 @@ papers_unsent = [p for p in seen if not p.get("sent", False)]
 # ==========================================
 # 【关键修改 1】设置最大显示数量，避免邮件爆炸
 # ==========================================
-MAX_DISPLAY_COUNT = 30  # 每天最多处理和显示多少篇
+MAX_DISPLAY_COUNT = 100  # 每天最多处理和显示多少篇
 
 # -------------------
 if not papers_unsent:
