@@ -1,5 +1,786 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-025-09995-9",
+    "title": "Publisher Correction: CRISPR activation for <i>SCN2A</i>-related neurodevelopmental disorders",
+    "link": "https://www.nature.com/articles/s41586-025-09995-9",
+    "authors": [
+      "Serena Tamura",
+      "Andrew D. Nelson",
+      "Perry W. E. Spratt",
+      "Elizabeth C. Hamada",
+      "Xujia Zhou",
+      "Henry Kyoung",
+      "Zizheng Li",
+      "Coline Arnould",
+      "Vladyslav Barskyi",
+      "Beniamin Krupkin",
+      "Kiana Young",
+      "Jingjing Zhao",
+      "Stephanie S. Holden",
+      "Atehsa Sahagun",
+      "Caroline M. Keeshen",
+      "Congyi Lu",
+      "Roy Ben-Shalom",
+      "Sunrae E. Taloma",
+      "Selin Schamiloglu",
+      "Ying C. Li",
+      "Lia Min",
+      "Paul M. Jenkins",
+      "Jen Q. Pan",
+      "Jeanne T. Paz",
+      "Stephan J. Sanders",
+      "Navneet Matharu",
+      "Nadav Ahituv",
+      "Kevin J. Bender"
+    ],
+    "summary": "Nature, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/s41586-025-09995-9\">doi:10.1038/s41586-025-09995-9</a>Publisher Correction: CRISPR activation for <i>SCN2A</i>-related neurodevelopmental disorders",
+    "source": "Nature",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03848-1",
+    "title": "<i>Nature</i>’s 10: Ten people who shaped science in 2025",
+    "link": "https://www.nature.com/articles/d41586-025-03848-1",
+    "authors": [],
+    "summary": "Nature, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03848-1\">doi:10.1038/d41586-025-03848-1</a>A fired public-health official, a mosquito breeder and a baby with a smile seen around the world. These are just a few of the remarkable people chosen for Nature’s 10.",
+    "source": "Nature",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03980-y",
+    "title": "Home-field advantage: how local research leads to new discoveries",
+    "link": "https://www.nature.com/articles/d41586-025-03980-y",
+    "authors": [
+      "Nikki Forrester"
+    ],
+    "summary": "Nature, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03980-y\">doi:10.1038/d41586-025-03980-y</a>By studying caves near his home in Johannesburg, South Africa, geologist Tebogo Makhubela ventures into places people have never been before.",
+    "source": "Nature",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03844-5",
+    "title": "This scientist is breeding billions of mosquitoes to fight disease in Brazil",
+    "link": "https://www.nature.com/articles/d41586-025-03844-5",
+    "authors": [
+      "Mariana Lenharo"
+    ],
+    "summary": "Nature, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03844-5\">doi:10.1038/d41586-025-03844-5</a>Luciano Moreira is part of Nature’s 10, a list of people who shaped science in 2025.",
+    "source": "Nature",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03976-8",
+    "title": "How the Royal Institution made science a seasonal spectacle",
+    "link": "https://www.nature.com/articles/d41586-025-03976-8",
+    "authors": [
+      "Philip Ball"
+    ],
+    "summary": "Nature, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03976-8\">doi:10.1038/d41586-025-03976-8</a>From flaming raisins to robots and rockets, the institution’s Christmas Lectures have educated and entertained for two centuries.",
+    "source": "Nature",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03847-2",
+    "title": "The baby whose life was saved by the first personalized CRISPR therapy",
+    "link": "https://www.nature.com/articles/d41586-025-03847-2",
+    "authors": [
+      "Heidi Ledford"
+    ],
+    "summary": "Nature, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03847-2\">doi:10.1038/d41586-025-03847-2</a>KJ Muldoon is part of Nature’s 10, a list of people who shaped science in 2025.",
+    "source": "Nature",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03979-5",
+    "title": "Five important financial moves for PhD students",
+    "link": "https://www.nature.com/articles/d41586-025-03979-5",
+    "authors": [
+      "Maddi Langweil"
+    ],
+    "summary": "Nature, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03979-5\">doi:10.1038/d41586-025-03979-5</a>Students and a financial planner give their advice on budgeting, saving and investing during doctoral studies.",
+    "source": "Nature",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03842-7",
+    "title": "‘Giant step forward’ for Huntington’s — the scientist behind the first gene therapy",
+    "link": "https://www.nature.com/articles/d41586-025-03842-7",
+    "authors": [
+      "Elie Dolgin"
+    ],
+    "summary": "Nature, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03842-7\">doi:10.1038/d41586-025-03842-7</a>Sarah Tabrizi is part of Nature’s 10, a list of people who shaped science in 2025.",
+    "source": "Nature",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03838-3",
+    "title": "The top US health director who stood up for science — and was fired",
+    "link": "https://www.nature.com/articles/d41586-025-03838-3",
+    "authors": [
+      "Max Kozlov"
+    ],
+    "summary": "Nature, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03838-3\">doi:10.1038/d41586-025-03838-3</a>Susan Monarez is part of Nature’s 10, a list of people who shaped science in 2025.",
+    "source": "Nature",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03845-4",
+    "title": "The Chinese finance whizz whose DeepSeek AI model stunned the world",
+    "link": "https://www.nature.com/articles/d41586-025-03845-4",
+    "authors": [
+      "Elizabeth Gibney"
+    ],
+    "summary": "Nature, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03845-4\">doi:10.1038/d41586-025-03845-4</a>Liang Wenfeng is part of Nature’s 10, a list of people who shaped science in 2025.",
+    "source": "Nature",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03904-w",
+    "title": "Long-COVID research just got a big funding boost: will it find new treatments?",
+    "link": "https://www.nature.com/articles/d41586-025-03904-w",
+    "authors": [
+      "Michael Marshall"
+    ],
+    "summary": "Nature, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03904-w\">doi:10.1038/d41586-025-03904-w</a>The German government has committed half a billion euros for research on long COVID and other post-infection syndromes.",
+    "source": "Nature",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03840-9",
+    "title": "The visionary physicist who gave us a new way to view the cosmos",
+    "link": "https://www.nature.com/articles/d41586-025-03840-9",
+    "authors": [
+      "Davide Castelvecchi"
+    ],
+    "summary": "Nature, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03840-9\">doi:10.1038/d41586-025-03840-9</a>Tony Tyson is part of Nature’s 10, a list of people who shaped science in 2025.",
+    "source": "Nature",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03843-6",
+    "title": "9,000 metres under the sea: this researcher found the deepest animal ecosystems on Earth",
+    "link": "https://www.nature.com/articles/d41586-025-03843-6",
+    "authors": [
+      "Rachel Fieldhouse"
+    ],
+    "summary": "Nature, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03843-6\">doi:10.1038/d41586-025-03843-6</a>Mengran Du is part of Nature’s 10, a list of people who shaped science in 2025.",
+    "source": "Nature",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03839-2",
+    "title": "This science sleuth revealed a retraction crisis at Indian universities",
+    "link": "https://www.nature.com/articles/d41586-025-03839-2",
+    "authors": [
+      "Miryam Naddaf"
+    ],
+    "summary": "Nature, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03839-2\">doi:10.1038/d41586-025-03839-2</a>Achal Agrawal is part of Nature’s 10, a list of people who shaped science in 2025.",
+    "source": "Nature",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03846-3",
+    "title": "This scientist found a new trick of the immune system by digging through cellular rubbish",
+    "link": "https://www.nature.com/articles/d41586-025-03846-3",
+    "authors": [
+      "Cassandra Willyard"
+    ],
+    "summary": "Nature, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03846-3\">doi:10.1038/d41586-025-03846-3</a>Yifat Merbl is part of Nature’s 10, a list of people who shaped science in 2025.",
+    "source": "Nature",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03978-6",
+    "title": "How to get science back into policymaking",
+    "link": "https://www.nature.com/articles/d41586-025-03978-6",
+    "authors": [
+      "Diane Coyle",
+      "Michael Kenny"
+    ],
+    "summary": "Nature, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03978-6\">doi:10.1038/d41586-025-03978-6</a>Misunderstanding and hubris have broken public trust in governments’ use of science, but it can be restored.",
+    "source": "Nature",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03841-8",
+    "title": "The first global pandemic treaty — and the woman who made it happen",
+    "link": "https://www.nature.com/articles/d41586-025-03841-8",
+    "authors": [
+      "Celeste Biever"
+    ],
+    "summary": "Nature, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03841-8\">doi:10.1038/d41586-025-03841-8</a>Precious Matsoso is part of Nature’s 10, a list of people who shaped science in 2025.",
+    "source": "Nature",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03992-8",
+    "title": "Five years of COVID vaccines: how a breakthrough created a public-heath crisis",
+    "link": "https://www.nature.com/articles/d41586-025-03992-8",
+    "authors": [
+      "Miryam Naddaf",
+      "Fred Schwaller"
+    ],
+    "summary": "Nature, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03992-8\">doi:10.1038/d41586-025-03992-8</a>Physician and science communicator Kristen Panthagani talks about why public trust in vaccines has fallen since the COVID-19 pandemic.",
+    "source": "Nature",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01865-3",
+    "title": "Refining the crust",
+    "link": "https://www.nature.com/articles/s41561-025-01865-3",
+    "authors": [
+      "Simon L. Harley"
+    ],
+    "summary": "Nature Geoscience, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/s41561-025-01865-3\">doi:10.1038/s41561-025-01865-3</a>Heat-producing elements like uranium and thorium are depleted in the lower crust. The geochemistry of crustal rocks suggests ultrahigh melting temperatures are needed to produce this depletion and may also help stabilize the crust.",
+    "source": "Nature Geoscience",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01852-8",
+    "title": "Mesoamerican beliefs sculpted in jadeite",
+    "link": "https://www.nature.com/articles/s41561-025-01852-8",
+    "authors": [
+      "Mayra D. Manrique-Ortega",
+      "Henri N. Bernard",
+      "José Luis Ruvalcaba Sil"
+    ],
+    "summary": "Nature Geoscience, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/s41561-025-01852-8\">doi:10.1038/s41561-025-01852-8</a>Jadeite is a green jade mineral that forms in unique geological environments. Mayra Manrique-Ortega and colleagues explain its archaeological importance for pre-Columbian Mesoamerican civilizations.",
+    "source": "Nature Geoscience",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01871-5",
+    "title": "Climate change fuels the Great Atlantic <i>Sargassum</i> Belt",
+    "link": "https://www.nature.com/articles/s41561-025-01871-5",
+    "authors": [
+      "David M. Baker",
+      "Mengqiu Wang"
+    ],
+    "summary": "Nature Geoscience, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/s41561-025-01871-5\">doi:10.1038/s41561-025-01871-5</a>Our oceans are changing rapidly, with climate-driven shifts in circulation and nutrient cycles reshaping marine ecosystems in profound ways. One of the most visible and disruptive outcomes is the explosive growth of Sargassum — a floating brown alga that has, since 2011, formed vast rafts stretching thousands of kilometres across the Atlantic Ocean. Once largely confined to the Sargasso Sea, where it provides habitat for fish, turtles, and eels, Sargassum now inundates coastlines from West Africa to the Caribbean Islands and Florida. In a new report in Nature Geoscience, Jung et al.1 have identified the source of nutrients fueling Sargassum blooms, which are increasing as a result of climate change.",
+    "source": "Nature Geoscience",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01886-y",
+    "title": "Tightening the <i>Sargassum</i> belt",
+    "link": "https://www.nature.com/articles/s41561-025-01886-y",
+    "authors": [],
+    "summary": "Nature Geoscience, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/s41561-025-01886-y\">doi:10.1038/s41561-025-01886-y</a>A belt of seaweed has formed across the tropical Atlantic nearly every year since 2011, despite reduction in its extent elsewhere. The causes of this growth are now coming into clearer focus.",
+    "source": "Nature Geoscience",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01846-6",
+    "title": "Neglecting vertical transport leads to underestimated soil carbon dynamics",
+    "link": "https://www.nature.com/articles/s41561-025-01846-6",
+    "authors": [
+      "Ronald Amundson",
+      "Jonathan Sanderman",
+      "Kyungsoo Yoo",
+      "Maedeh Chitsaz",
+      "Anna Abramova",
+      "Katerina Georgiou"
+    ],
+    "summary": "Nature Geoscience, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/s41561-025-01846-6\">doi:10.1038/s41561-025-01846-6</a>A reassessment of soil radiocarbon profiles, which shows a strong influence of vertical transport processes, suggests that soil organic carbon is similarly responsive to environmental changes regardless of depth.",
+    "source": "Nature Geoscience",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67407-y",
+    "title": "Author Correction: Inhibition of protein glycosylation is a novel pro-angiogenic strategy that acts via activation of stress pathways",
+    "link": "https://www.nature.com/articles/s41467-025-67407-y",
+    "authors": [
+      "Cuiling Zhong",
+      "Pin Li",
+      "Sulabha Argade",
+      "Lixian Liu",
+      "Anastasia Chillá",
+      "Wei Liang",
+      "Hong Xin",
+      "Brian Eliceiri",
+      "Biswa Choudhury",
+      "Napoleone Ferrara"
+    ],
+    "summary": "Nature Communications, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67407-y\">doi:10.1038/s41467-025-67407-y</a>Author Correction: Inhibition of protein glycosylation is a novel pro-angiogenic strategy that acts via activation of stress pathways",
+    "source": "Nature Communications",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-66660-5",
+    "title": "Publisher Correction: Light patterning semiconductor nanoparticles by modulating surface charges",
+    "link": "https://www.nature.com/articles/s41467-025-66660-5",
+    "authors": [
+      "Xiaoli He",
+      "Hongri Gu",
+      "Yanmei Ma",
+      "Yuhang Cai",
+      "Huaide Jiang",
+      "Yi Zhang",
+      "Hanhan Xie",
+      "Ming Yang",
+      "Xinjian Fan",
+      "Liang Guo",
+      "Zhan Yang",
+      "Chengzhi Hu"
+    ],
+    "summary": "Nature Communications, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-66660-5\">doi:10.1038/s41467-025-66660-5</a>Publisher Correction: Light patterning semiconductor nanoparticles by modulating surface charges",
+    "source": "Nature Communications",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-66808-3",
+    "title": "In-situ grafting of cobalt phthalocyanine on gas diffusion electrodes enables ampere-level CO<sub>2</sub> reduction",
+    "link": "https://www.nature.com/articles/s41467-025-66808-3",
+    "authors": [
+      "Huihui Yan",
+      "Gaoxiang He",
+      "Rongli Fan",
+      "Minyue Zhao",
+      "Huiting Huang",
+      "Zhexing Lin",
+      "Bin Gao",
+      "Jianyong Feng",
+      "Zhigang Zou",
+      "Zhaosheng Li"
+    ],
+    "summary": "Nature Communications, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-66808-3\">doi:10.1038/s41467-025-66808-3</a>The development of carbon dioxide reduction catalysts at industrial current densities remains challenging. Here, the authors demonstrate that in situ electro-polymerization of cobalt phthalocyanine on a gas diffusion electrode achieves high carbon monoxide selectivity at high current densities.",
+    "source": "Nature Communications",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67105-9",
+    "title": "Widespread Fab-arm exchange affects all endogenous serum IgG4",
+    "link": "https://www.nature.com/articles/s41467-025-67105-9",
+    "authors": [
+      "Linus Wollenweber",
+      "Albert Bondt",
+      "Gestur Vidarsson",
+      "Maartje G. Huijbers",
+      "Albert J. R. Heck"
+    ],
+    "summary": "Nature Communications, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67105-9\">doi:10.1038/s41467-025-67105-9</a>Among the antibody subclasses, IgG4 is unique in its capability to fragment-antigen-binding (Fab)-arm exchange, a process that renders IgG4 bispecific for antigen binding. Here authors analyse serum IgG4 clonal repertoires of healthy human donors to show that Fab-arm exchange is widespread and affects all IgG4 clones.",
+    "source": "Nature Communications",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67195-5",
+    "title": "Dissipative quadratic soliton in the cascaded nonlinearity limit",
+    "link": "https://www.nature.com/articles/s41467-025-67195-5",
+    "authors": [
+      "Mingming Nie",
+      "Jonathan Musgrave",
+      "Shu-Wei Huang"
+    ],
+    "summary": "Nature Communications, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67195-5\">doi:10.1038/s41467-025-67195-5</a>In this work, the authors demonstrate nonlinearity-engineered dissipative quadratic solitons (DQS) for the first time. Moreover, they achieve an in-situ sign reversal of the effective nonlinearity, enabling a transition from bright DQS to platicon generation without requiring any dispersion engineering.",
+    "source": "Nature Communications",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67051-6",
+    "title": "Continuous flow photosynthesis of methanol from methane by plasmonic charge accumulation",
+    "link": "https://www.nature.com/articles/s41467-025-67051-6",
+    "authors": [
+      "Huiping Peng",
+      "Fei Xue",
+      "Yujin Ji",
+      "Youyong Li",
+      "Shangheng Liu",
+      "Qingyu Kong",
+      "Zhiwei Hu",
+      "Xuanli Zheng",
+      "Nanjun Chen",
+      "Qi Shao",
+      "Xiaoqing Huang"
+    ],
+    "summary": "Nature Communications, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67051-6\">doi:10.1038/s41467-025-67051-6</a>The combination of plasmon-mediated electron enrichment and a continuous-flow reactor overcomes key challenges in selective methane oxidation, achieving a methanol production rate of over 6.5 mmol·g-1·h-1 with the selectivity of 100% and sustained stability over 100 h under ambient pressure.",
+    "source": "Nature Communications",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67183-9",
+    "title": "Inflammation-specific DNA origami nanodevice for delivery of siRNAs to treat ulcerative colitis",
+    "link": "https://www.nature.com/articles/s41467-025-67183-9",
+    "authors": [
+      "Tianci Zhang",
+      "Ruoqing Li",
+      "Zhenghao Wang",
+      "Ye Zhou",
+      "Yaojia Zhou",
+      "Xiaoting Chen",
+      "Cui Peng",
+      "Yi Jiang",
+      "Nanwei Tong",
+      "Wei Li"
+    ],
+    "summary": "Nature Communications, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67183-9\">doi:10.1038/s41467-025-67183-9</a>Optimal siRNA assembly, delivery, and release are key to ulcerative colitis treatment. Here the authors develop an inflammation-specific DNA origami nanodevice for targeted delivery of siRNAs to the intestine and selective exposure of siRNAs at inflamed sites, achieving effective therapy.",
+    "source": "Nature Communications",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67214-5",
+    "title": "Metabolic support protects mucosa from ferroptosis in radiation-induced mucositis",
+    "link": "https://www.nature.com/articles/s41467-025-67214-5",
+    "authors": [
+      "Weiwei Yu",
+      "Kai Jiao",
+      "Kaiyan Wang",
+      "Xiang Li",
+      "Qianqian Wan",
+      "Wen Qin",
+      "Xinyi Hao",
+      "Meichen Wan",
+      "Yuxuan Ma",
+      "Jiao Wu",
+      "Qing Liu",
+      "Mei Shi",
+      "Conrado Aparicio",
+      "Franklin Tay",
+      "Lina Niu"
+    ],
+    "summary": "Nature Communications, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67214-5\">doi:10.1038/s41467-025-67214-5</a>Here the authors show that radiation triggers oral mucositis via ferroptosis in basal epithelial cells, while fibroblasts provide early protection by supplying polyamines that inhibit this cell death pathway.",
+    "source": "Nature Communications",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03061-y",
+    "title": "Author Correction: Marsh restoration in front of seawalls is an economically justified nature-based solution for coastal protection",
+    "link": "https://www.nature.com/articles/s43247-025-03061-y",
+    "authors": [
+      "Ernie I. H. Lee",
+      "Heidi Nepf"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03061-y\">doi:10.1038/s43247-025-03061-y</a>Author Correction: Marsh restoration in front of seawalls is an economically justified nature-based solution for coastal protection",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03062-x",
+    "title": "Dual function of root systems in balancing soil water flow behavior",
+    "link": "https://www.nature.com/articles/s43247-025-03062-x",
+    "authors": [
+      "Zhiying Tang",
+      "He Ba",
+      "Wenqi Zhang",
+      "Yinghu Zhang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03062-x\">doi:10.1038/s43247-025-03062-x</a>Root systems under loam soil conditions promote both preferential flow and soil matrix flow behavior, according to X-ray computed microtomography, dye-tracing experiments, and 3-dimensional soil-water flow modelling software at the mixed forest stands, eastern China.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-02994-8",
+    "title": "The 2025 Blatten disaster in the Swiss Alps followed exceptional warming and&#xa0;highlights the vulnerability of people and heritage in glaciated landscapes",
+    "link": "https://www.nature.com/articles/s43247-025-02994-8",
+    "authors": [
+      "Ulf Büntgen",
+      "Clive Oppenheimer",
+      "Daniel Farinotti",
+      "Tim Nahtz",
+      "Jan Esper"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-02994-8\">doi:10.1038/s43247-025-02994-8</a>On 28 May 2025, twenty million cubic metres of rock and ice buried the medieval village of Blatten and nearby settlements in the Swiss Lötschen valley. In the wake of the warmest decade since at least 742 CE, the disaster underlines the impact of climate warming on people and heritage.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03059-6",
+    "title": "Declining number of northern hemisphere land-surface frozen days under global warming and thinner snowpacks",
+    "link": "https://www.nature.com/articles/s43247-025-03059-6",
+    "authors": [
+      "Shadi Hatami",
+      "Masoud Zaerpour",
+      "André S. Ballarin",
+      "Jan Franklin Adamowski",
+      "Simon Michael Papalexiou",
+      "Alain Pietroniro",
+      "John S. Kimball"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03059-6\">doi:10.1038/s43247-025-03059-6</a>Rising air temperatures and thinning snowpacks result in a significantly declining number of frozen days per year across 70% of northern hemisphere ecoregions, according to analysis of satellite-based freeze-thaw data.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-02920-y",
+    "title": "Reservoir artificial flood discharge is a critical driver for the compositional and functional shifts of dissolved organic matter in river mouth",
+    "link": "https://www.nature.com/articles/s43247-025-02920-y",
+    "authors": [
+      "Donglei Niu",
+      "Yang Tan",
+      "Chao Ma",
+      "Yulin Qi",
+      "Yanan Li",
+      "Yanfang Li",
+      "Jianhui Tang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-02920-y\">doi:10.1038/s43247-025-02920-y</a>During water release, rapid discharge of upper-layer water from Xiaolangdi Reservoir increased bio-labile dissolved organic matter at the Yellow River mouth, while sediment flushing resuspended bottom sediments and enhanced aromatic components, as shown by optical spectroscopy and isotope analysis.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-02961-3",
+    "title": "Onset of summer aridification and the decline of <i>Homo floresiensis</i> at Liang Bua 61,000 years ago",
+    "link": "https://www.nature.com/articles/s43247-025-02961-3",
+    "authors": [
+      "Michael K. Gagan",
+      "Linda K. Ayliffe",
+      "Mika R. Puspaningrum",
+      "Gerrit D. van den Bergh",
+      "Nick Scroxton",
+      "Wahyoe S. Hantoro",
+      "Heather Scott-Gagan",
+      "Scott A. Condie",
+      "R. Lawrence Edwards",
+      "Hai Cheng",
+      "Jian-xin Zhao",
+      "John C. Hellstrom",
+      "Alena K. Kimbrough",
+      "Matthew J. Gagan",
+      "Bambang W. Suwargadi",
+      "Joan A. Cowley",
+      "Bronwyn C. Dixon",
+      "Garry K. Smith",
+      "Neil Anderson",
+      "Henri Wong",
+      "Hamdi Rifai"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 08 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-02961-3\">doi:10.1038/s43247-025-02961-3</a>Severe summer aridification caused freshwater scarcity and the decline of Homo floresiensis and its prey at Liang Bua 61,000 years ago, as revealed by a rainfall record based on speleothem geochemical data from the island of Flores, Indonesia.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X25005667",
+    "title": "A new subduction initiation mechanism induced by lateral subduction propagation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X25005667?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 February 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 675Author(s): Chunyang Wang, Weiwei Ding, Wouter P․ Schellart, Zhengyi Tong, Yinxia Fang, Jiabiao Li",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X25005734",
+    "title": "Editorial Board",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X25005734?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: January 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 674Author(s):",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118945",
+    "title": "Persistent Deep Long‐Period Seismicity Near the Lassen Volcanic Center",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118945?af=R",
+    "authors": [
+      "Eric Kiser, \nKevin Ward, \nClinton Koch, \nEmily Rodriguez, \nHaiyang Kehoe, \nAudrey Dunham, \nPeter Blake"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 23, 16 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118843",
+    "title": "Long‐Wavelength Ionospheric Compensation of InSAR Time‐Series Based on Global Ionosphere Maps",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118843?af=R",
+    "authors": [
+      "L. Marconato, \nM.‐P. Doin, \nB. Lovery, \nL. Rolland, \nP. Durand"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 23, 16 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119267",
+    "title": "Bridging the Gap Between the Earth's Ionosphere and Plasmasphere",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119267?af=R",
+    "authors": [
+      "Artem Smirnov, \nYuri Shprits, \nHermann Lühr, \nElena A. Kronberg, \nJerry Goldstein, \nYoshizumi Miyoshi, \nFabricio Prol, \nAlessio Pignalberi, \nNatalia Buzulukova, \nNicholas Pedatella, \nBernhard Haas, \nDedong Wang, \nYoshiya Kasahara, \nFuminori Tsuchiya, \nShoya Matsuda, \nAtsuki Shinbori, \nAyako Matsuoka"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 23, 16 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118030",
+    "title": "A >70‐Myr‐Long Geomagnetic Field Reversal Hyperactivity Across the Ediacaran‐Cambrian Transition",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118030?af=R",
+    "authors": [
+      "Fuyun Shen, \nBin Wen, \nPhil J. A. McCausland, \nZheng Gong, \nZongmin Zhu, \nFangzheng Liu, \nJingyi Wang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 23, 16 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118692",
+    "title": "Sensitivity of Water Clarity to Drawdown in Reservoirs Across the Climatic 100th Meridian",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118692?af=R",
+    "authors": [
+      "S. M. Powers, \nJ. T. Scott, \nJ. T. Jatko, \nM. S. Macleod, \nC. J. Robbins, \nM. P. Sako"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 23, 16 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117921",
+    "title": "Petrogenesis of Very‐Low‐Ti Basalts Returned by Chang'e‐6 From the Lunar Farside",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117921?af=R",
+    "authors": [
+      "Shitou Wu, \nDi Zhang, \nHeng‐Ci Tian, \nWei Yang, \nHao Wang, \nYueheng Yang, \nXu Tang, \nChao Huang, \nLihui Jia, \nQiuli Li, \nQin Zhou, \nYi Chen, \nSen Hu, \nXian‐Hua Li, \nFu‐Yuan Wu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 23, 16 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117069",
+    "title": "Adaptive Sampling of the Upper Ocean by Autonomous Floats During Atmospheric River Precipitation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117069?af=R",
+    "authors": [
+      "Donata Giglio, \nJacopo Sala, \nJohn Gilson, \nLauren Hoffman, \nBrian Kawzenuk, \nBill Katie‐Anne Mills, \nSarah G. Purkey, \nMegan Scanderbeg, \nAneesh C. Subramanian, \nAnna M. Wilson, \nF. Martin Ralph"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 23, 16 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117537",
+    "title": "First Observation of Localized F Region Bottom‐Type Scattering Layer by All‐Sky Radar at Low Latitude",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117537?af=R",
+    "authors": [
+      "Wenjie Sun, \nGuozhu Li, \nLianhuan Hu, \nBiqiang Zhao, \nJianfei Liu, \nHaiyong Xie, \nGuofeng Dai, \nXiukuan Zhao, \nYi Li, \nBaiqi Ning"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 23, 16 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725006763",
+    "title": "Isotopically heavy Ti in kimberlites explained by assimilation of metasomatised lithospheric mantle",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725006763?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 7 December 2025<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Merislava Anguelova, Andrea Giuliani, Manuela A. Fehr, Maria Schönbächler",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725006866",
+    "title": "The behaviour of Ni and its isotopes during early diagenesis of Mn oxide-rich abyssal sediments",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725006866?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 7 December 2025<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Sarah Fleischmann, Jianghui Du, Brian Haley, James McManus, Mingzhao Sun, Derek Vance",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwaf559",
+    "title": "LamNet: an alchemical-path-aware graph neural network to accelerate binding free energy calculations for drug discovery and beyond",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf559/8373816?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Accurate prediction of protein-ligand binding free energies is critical yet computationally demanding in drug discovery. Alchemical free energy methods (AFEMs) offer high accuracy but suffer from significant computational costs and complex modeling setup, such as tuning the λ-schedule of alchemical transformation. While conventional deep learning models may instantly predict binding affinity, they often require a large training set and exhibit limited generalizability across chemical space. To address these challenges, we introduce LamNet, an alchemical-path-aware graph neural network. LamNet integrates endpoint molecular states and the bridging alchemical path (parametrized by λ) into a physics-informed representation learning framework, explicitly modeling free energy changes along a chosen thermodynamic transformation pathway. Trained on molecular dynamics simulated data along alchemical pathways and incorporating data reliability metrics, LamNet accurately predicts relative binding free energies (RBFE) and absolute binding free energies (ABFE), and optimizes λ-schedules to improve traditional AFEM convergence. Evaluations on diverse datasets (463 ligands, 16 proteins) demonstrate that LamNet achieves superior or comparable performance to state-of-the-art methods, including traditional AFEM, but with up to 1000-fold acceleration. These findings establish LamNet as a generalizable, physics-grounded, and cost-effective tool that not only accelerates computations but also provides a novel framework for integrating rigorous computational physics into modern DL-driven drug discovery workflows.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwaf558",
+    "title": "Computational Ethology: a new path for studying canine behavior genomics and human mental disorder",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf558/8373813?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwaf546",
+    "title": "Local active memristive oscillator enables controllable complex behaviours and frequency domain extraction",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf546/8373810?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Physical nonlinearities near the Mott transition exhibit substantial potential for neuromorphic computing. The complex computational behaviour stems from their intrinsic local active characteristics. Most studies focus on decay dynamics or regular oscillations, treating Mott devices primarily as simple threshold elements. Challenges remain in connecting measurable material properties to more complex device dynamics and their control methods through a unified theoretical model. Here, we develop a thermodynamic compact model for VO<sub>2</sub> devices based on electrical measurements and the local active principle. Utilizing the nonlinearities near the Mott transition, we propose an injection-based control method to regulate behaviours of nonlinear oscillators, such as frequency division, stochastic oscillations, and frequency locking. Finally, a single device operating at the edge of chaos demonstrates exceptional capability of extracting information in frequency domain within a physical computing framework, achieving performance equivalent to a two-layers convolutional neural network on the same task. This work facilitates a paradigm shift from traditional local passive devices to local active devices, bridging the physical nonlinearities, circuit dynamics and computational theory to advance dynamic neuromorphic computing.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136825006146",
+    "title": "Fluid evolution and ore genesis of Xuefengling rare metal pegmatites: Evidence from fluid inclusions and H–O–Li isotopes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136825006146?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 8 December 2025<b>Source:</b> Ore Geology ReviewsAuthor(s): Hong-Yang Bai, He Wang, Song Zhang, Xiao-Yu Zhang, Bao-Zhang Zhu, Kun-Yu Wang, Liang Huang",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136825006122",
+    "title": "Spatial predictive mapping of lithium and rare earth element pegmatites using the non-structural fuzzy decision support system: Example from the Orange River Pegmatite Belt, South Africa",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136825006122?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 7 December 2025<b>Source:</b> Ore Geology ReviewsAuthor(s): Andongma Wanduku Tende, Martin D. Clark",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136825006134",
+    "title": "Petrography, geochemistry, and petrogenesis of Li-enriched and Li-poor aplite–pegmatites in the Preissac–Lacorne area, Abitibi subprovince, Canada",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136825006134?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 7 December 2025<b>Source:</b> Ore Geology ReviewsAuthor(s): H. Mvondo, M. Legault, S. Rajhi",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-025-67390-4",
     "title": "Concise synthesis of chiral tricyclic γ-lactams via synergistic isothiourea/Ir catalyzed asymmetric [3 + 2] annulation",
     "link": "https://www.nature.com/articles/s41467-025-67390-4",
