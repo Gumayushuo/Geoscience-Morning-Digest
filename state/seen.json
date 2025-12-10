@@ -1,5 +1,605 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-025-03998-2",
+    "title": "Don’t overlook the value of co-supervision in PhD training",
+    "link": "https://www.nature.com/articles/d41586-025-03998-2",
+    "authors": [
+      "Kok-Siong Poon",
+      "Evelyn Siew-Chuan Koay"
+    ],
+    "summary": "Nature, Published online: 09 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03998-2\">doi:10.1038/d41586-025-03998-2</a>Don’t overlook the value of co-supervision in PhD training",
+    "source": "Nature",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04000-9",
+    "title": "Better models are needed to gauge the ecological impacts of reservoirs",
+    "link": "https://www.nature.com/articles/d41586-025-04000-9",
+    "authors": [
+      "Xingcheng Yan",
+      "Sijiu Zhang",
+      "Qiuwen Chen",
+      "Jianyun Zhang"
+    ],
+    "summary": "Nature, Published online: 09 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-04000-9\">doi:10.1038/d41586-025-04000-9</a>Better models are needed to gauge the ecological impacts of reservoirs",
+    "source": "Nature",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03739-5",
+    "title": "A poetic ode to eddies and an earwig’s brush with death",
+    "link": "https://www.nature.com/articles/d41586-025-03739-5",
+    "authors": [],
+    "summary": "Nature, Published online: 09 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03739-5\">doi:10.1038/d41586-025-03739-5</a>The question of where eddies come from is immortalized in verse, and an earwig emerges remarkably unscathed from inside a vacuum tube, in this week’s peek at Nature’s archive.",
+    "source": "Nature",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03999-1",
+    "title": "Drug woes won’t be tamed by US price regulations",
+    "link": "https://www.nature.com/articles/d41586-025-03999-1",
+    "authors": [
+      "Richard Xie"
+    ],
+    "summary": "Nature, Published online: 09 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03999-1\">doi:10.1038/d41586-025-03999-1</a>Drug woes won’t be tamed by US price regulations",
+    "source": "Nature",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03997-3",
+    "title": "Argentina must finish building the CART radio telescope",
+    "link": "https://www.nature.com/articles/d41586-025-03997-3",
+    "authors": [
+      "Mariana Orellana"
+    ],
+    "summary": "Nature, Published online: 09 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03997-3\">doi:10.1038/d41586-025-03997-3</a>Argentina must finish building the CART radio telescope",
+    "source": "Nature",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03965-x",
+    "title": "What will be the first AI-designed drug? These disease-fighting antibodies are top contenders",
+    "link": "https://www.nature.com/articles/d41586-025-03965-x",
+    "authors": [
+      "Ewen Callaway"
+    ],
+    "summary": "Nature, Published online: 09 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03965-x\">doi:10.1038/d41586-025-03965-x</a>Just a year after the first AI-designed antibody was made, scientists say clinical trials are on the horizon.",
+    "source": "Nature",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03977-7",
+    "title": "What we eat is making us obese and sick — but science shows solutions are within reach",
+    "link": "https://www.nature.com/articles/d41586-025-03977-7",
+    "authors": [
+      "Tim Spector"
+    ],
+    "summary": "Nature, Published online: 09 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03977-7\">doi:10.1038/d41586-025-03977-7</a>An ambitious book challenges long-held assumptions on diet and nutrition and exposes gaps in public-health guidance.",
+    "source": "Nature",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03970-0",
+    "title": "Food will be more affordable — if we double funds for agriculture research now",
+    "link": "https://www.nature.com/articles/d41586-025-03970-0",
+    "authors": [
+      "Philip G. Pardey",
+      "Connie Chan-Kang",
+      "Gert-Jan Stads",
+      "Yuan Chai",
+      "Julian M. Alston",
+      "Jan Greyling",
+      "Hernán Muñoz"
+    ],
+    "summary": "Nature, Published online: 09 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03970-0\">doi:10.1038/d41586-025-03970-0</a>A global drop in public and private investment in agricultural science in the past four decades is partly to blame for high food prices, an analysis reveals.",
+    "source": "Nature",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01885-z",
+    "title": "Author Correction: Degree of simulated suppression of Atlantic tropical cyclones modulated by flavour of El Niño",
+    "link": "https://www.nature.com/articles/s41561-025-01885-z",
+    "authors": [
+      "Christina M. Patricola-DiRosario",
+      "Ping Chang",
+      "R. Saravanan"
+    ],
+    "summary": "Nature Geoscience, Published online: 09 December 2025; <a href=\"https://www.nature.com/articles/s41561-025-01885-z\">doi:10.1038/s41561-025-01885-z</a>Author Correction: Degree of simulated suppression of Atlantic tropical cyclones modulated by flavour of El Niño",
+    "source": "Nature Geoscience",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01862-6",
+    "title": "Southern Ocean net primary production influenced by seismically modulated hydrothermal iron",
+    "link": "https://www.nature.com/articles/s41561-025-01862-6",
+    "authors": [
+      "Casey M. S. Schine",
+      "Jens-Erik Lund Snee",
+      "Alex Lyford",
+      "Gert van Dijken",
+      "Kevin R. Arrigo"
+    ],
+    "summary": "Nature Geoscience, Published online: 09 December 2025; <a href=\"https://www.nature.com/articles/s41561-025-01862-6\">doi:10.1038/s41561-025-01862-6</a>Earthquakes influence the amount of hydrothermal iron entering the ocean over the Australian Antarctic Ridge, which can support phytoplankton blooms by relieving surface iron limitation, according to observations combined with surface particle tracking.",
+    "source": "Nature Geoscience",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67164-y",
+    "title": "Lessons from niche-specific fitness of <i>Staphylococcus aureus</i> at the wound edge",
+    "link": "https://www.nature.com/articles/s41467-025-67164-y",
+    "authors": [
+      "Subhadip Ghatak",
+      "Fabio Muniz De Oliveira"
+    ],
+    "summary": "Nature Communications, Published online: 09 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67164-y\">doi:10.1038/s41467-025-67164-y</a>Chronic diabetic wounds create unique microenvironments that Staphylococcus aureus’s survival and adaptability, underscoring the need to study bacterial fitness and develop wound-targeted therapies to disrupt its persistence.",
+    "source": "Nature Communications",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-66883-6",
+    "title": "Implementing N-terminomics and machine learning to probe Nt-arginylation",
+    "link": "https://www.nature.com/articles/s41467-025-66883-6",
+    "authors": [
+      "Shinyeong Ju",
+      "Laxman Nawale",
+      "Seonjeong Lee",
+      "Jung Gi Kim",
+      "Hankyul Lee",
+      "Narae Park",
+      "Dong Hyun Kim",
+      "Hyunjoo Cha-Molstad",
+      "Cheolju Lee"
+    ],
+    "summary": "Nature Communications, Published online: 09 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-66883-6\">doi:10.1038/s41467-025-66883-6</a>Cataloguing Nt-arginylated proteins is prone to false positives. Here, the authors use MS-based fine-tuned LLM models with molecular proxies-physically identical yet known false positives-to discriminate true sites. They further track the modifications over time using prediction-based targeted MS.",
+    "source": "Nature Communications",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67242-1",
+    "title": "Spectroscopic insights into the near-earth didymos-dimorphos binary system following the double asteroid redirection test (DART) mission impact",
+    "link": "https://www.nature.com/articles/s41467-025-67242-1",
+    "authors": [
+      "Monica Lazzarin",
+      "Fiorangela La Forgia",
+      "Andrea Farina",
+      "Alessandra Migliorini",
+      "Elisa Frattin",
+      "Paolo Ochner",
+      "Patrick Michel",
+      "Michael Kueppers",
+      "Julia de Leon",
+      "Ian Carnelli",
+      "Stephan Ulamec",
+      "Nancy Chabot",
+      "Eleonora Ammannito",
+      "Marilena Amoroso",
+      "Stefan Geier",
+      "Masatoshi Hirabayashi",
+      "Theodore Kareta",
+      "Jian-Yang Li",
+      "Alessandra Caterina Mura",
+      "Dagmara Oszkiewicz",
+      "Marcel Popescu",
+      "Andrew S. Rivkin"
+    ],
+    "summary": "Nature Communications, Published online: 09 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67242-1\">doi:10.1038/s41467-025-67242-1</a>Double Asteroid Redirection Test (DART) mission impacted Dimorphos to test asteroid deflection. Here, the authors show that post-impact spectra largely match pre-impact properties, with only subtle variations probably linked to mutual events and to the evolution of the ejecta dust.",
+    "source": "Nature Communications",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67044-5",
+    "title": "Biguanide-functionalized peptide mimics effectively combat drug-resistant ESKAPE pathogens and meningitis",
+    "link": "https://www.nature.com/articles/s41467-025-67044-5",
+    "authors": [
+      "Weinan Jiang",
+      "Min Zhou",
+      "Kang Chen",
+      "Ximian Xiao",
+      "Jia Shi",
+      "Haodong Zhang",
+      "Jiayang Xie",
+      "Sheng Chen",
+      "Minzhang Chen",
+      "Zihao Cong",
+      "Longqiang Liu",
+      "Yueming Wu",
+      "Runhui Liu"
+    ],
+    "summary": "Nature Communications, Published online: 09 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67044-5\">doi:10.1038/s41467-025-67044-5</a>ESKAPE pathogens-induced meningitis threatens human health due to antimicrobial resistance and low permeability of blood-brain barrier (BBB). Here, the authors report that biguanide-functionalized poly(2-oxazoline) exhibits potent activity against drug-resistant ESKAPE pathogens and effectively penetrates the BBB, providing a promising strategy for combating ESKAPE pathogens and meningitis.",
+    "source": "Nature Communications",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-66782-w",
+    "title": "Reactant-dependent volcano trends in Pt-catalyzed cycloalkane dehydrogenation: orbital hybridization-guided design of active sites",
+    "link": "https://www.nature.com/articles/s41467-025-66782-w",
+    "authors": [
+      "Yongxiao Tuo",
+      "Jingying Qu",
+      "Huailu Sun",
+      "Qing Lu",
+      "Bin Wang",
+      "Hongwei Gai",
+      "Defu Yin",
+      "Xiang Feng",
+      "De Chen"
+    ],
+    "summary": "Nature Communications, Published online: 09 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-66782-w\">doi:10.1038/s41467-025-66782-w</a>Catalyst design is typically tailored to individual reactions because universal descriptors connecting molecular structure to ideal active-site configurations are lacking. Here, the authors reveal a reactant-dependent volcano trend in Pt-catalyzed cycloalkane dehydrogenation, dictated by the Pt–Pt coordination number.",
+    "source": "Nature Communications",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67155-z",
+    "title": "Extremely cold ocean temperatures in iron formation brine pools of snowball Earth",
+    "link": "https://www.nature.com/articles/s41467-025-67155-z",
+    "authors": [
+      "Kai Lu",
+      "Lianjun Feng",
+      "Ross N. Mitchell",
+      "Maxwell A. Lechte",
+      "Paul F. Hoffman"
+    ],
+    "summary": "Nature Communications, Published online: 09 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67155-z\">doi:10.1038/s41467-025-67155-z</a>Anomalous iron isotopes of banded iron formation deposited during the severe global glaciation ~700 million years ago known as “Snowball Earth” represent a signature of the coldest ocean temperature ever measured on record.",
+    "source": "Nature Communications",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-66874-7",
+    "title": "The rise and global spread of IMP carbapenemases (1996-2023): a genomic epidemiology study",
+    "link": "https://www.nature.com/articles/s41467-025-66874-7",
+    "authors": [
+      "Ben Vezina",
+      "Bhargava Reddy Morampalli",
+      "Hoai-An Nguyen",
+      "Angela Gomez-Simmonds",
+      "Anton Y. Peleg",
+      "Nenad Macesic"
+    ],
+    "summary": "Nature Communications, Published online: 09 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-66874-7\">doi:10.1038/s41467-025-66874-7</a>Carbapenemase blaIMP genes between 1996-2023 were analysed across 4,556 genomes, revealing variant-specific epidemiologies and endemicities. Horizontal gene transfer enabled broad inter-species transmission, along with expansion of successful clones.",
+    "source": "Nature Communications",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-66794-6",
+    "title": "Mechanism of RPA phosphocode priming and tuning by CDK1/WEE1 signaling circuit",
+    "link": "https://www.nature.com/articles/s41467-025-66794-6",
+    "authors": [
+      "Poonam Roshan",
+      "Vikas Kaushik",
+      "Ayush Mistry",
+      "Abhinav Vayyeti",
+      "Aidan Antony",
+      "Riley Luebbers",
+      "Jaigeeth Deveryshetty",
+      "Edwin Antony",
+      "Sofia Origanti"
+    ],
+    "summary": "Nature Communications, Published online: 09 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-66794-6\">doi:10.1038/s41467-025-66794-6</a>RPA is an essential ssDNA binding protein. Here, authors uncover a phosphosite on RPA70 and show that the RPA70 and RPA32 subunits cooperate through a phosphocode to reconfigure RPA domains. This suggests a common mode of reciprocal regulation of RPA and kinases during G2/M phase of cell cycle.",
+    "source": "Nature Communications",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-025-00750-2",
+    "title": "Antarctic Bottom Water in a changing climate",
+    "link": "https://www.nature.com/articles/s43017-025-00750-2",
+    "authors": [
+      "Stephen R. Rintoul",
+      "Andrew L. Stewart",
+      "Gregory C. Johnson",
+      "Shenjie Zhou",
+      "Annie Foppert",
+      "Qian Li",
+      "Adele K. Morrison",
+      "Alessandro Silvano",
+      "Kathryn L. Gunn",
+      "Matthew H. England",
+      "Sohey Nihashi",
+      "Shigeru Aoki"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 09 December 2025; <a href=\"https://www.nature.com/articles/s43017-025-00750-2\">doi:10.1038/s43017-025-00750-2</a>Antarctic Bottom Water (AABW) sinks near Antarctica and fills the deep ocean. This Review discusses how AABW is formed, past changes to its properties and transport, and projects future changes in AABW and the deep overturning circulation.",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03036-z",
+    "title": "Ecosystem carbon and nitrogen recovery in restored coastal wetlands",
+    "link": "https://www.nature.com/articles/s43247-025-03036-z",
+    "authors": [
+      "Hua-Yu Chen",
+      "Zhen-Ming Ge",
+      "Ke-Hua Zhu",
+      "Wei Zhao",
+      "Xue-Chu Chen",
+      "Xiu-Zhen Li",
+      "Pei Xin",
+      "Zeng Zhou",
+      "Shang Chen",
+      "Richard Bellerby"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 09 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03036-z\">doi:10.1038/s43247-025-03036-z</a>Plant biomass carbon in restored wetlands requires about 20 years to reach natural levels while soil carbon and nitrogen stocks need 40 years to recover, suggests a meta-analysis of 110 salt marsh and 190 mangrove sites under various restoration types.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03065-8",
+    "title": "Trait-based predictions of ecosystem properties in coastal forests",
+    "link": "https://www.nature.com/articles/s43247-025-03065-8",
+    "authors": [
+      "Biying Liu",
+      "Man Seng Chio",
+      "Yi Wang",
+      "Shiqin Tan",
+      "Guanghong Zeng",
+      "Jianguo Wu",
+      "Shaolin Peng",
+      "Panpan Zhao",
+      "Shiliang Liu",
+      "Tianchai Zhou",
+      "Jian Sun",
+      "Han Wang",
+      "Ting Zhou"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 09 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03065-8\">doi:10.1038/s43247-025-03065-8</a>Plant traits, particularly height and basal diameter, are strong predictors of ecosystem property variations in coastal forests, based on a meta-analysis of global 396 data points and field data in eastern China",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03035-0",
+    "title": "Limited capability of current satellite solar-induced chlorophyll fluorescence reconstructions to capture stomatal responses to environmental stresses",
+    "link": "https://www.nature.com/articles/s43247-025-03035-0",
+    "authors": [
+      "Jiacheng Zhao",
+      "Athanasios Paschalis",
+      "Pierre Gentine",
+      "Zhaozhong Feng",
+      "Simone Fatichi"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 09 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03035-0\">doi:10.1038/s43247-025-03035-0</a>Remotely sensed solar-induced chlorophyll fluorescence overestimates gross primary productivity under dry conditions due to the decoupling between stomatal responses and the fluorescence emission yield, as revealed by data from 103 eddy covariance towers and satellite thermal images.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03073-8",
+    "title": "Projections of global road risk exposed to landslides under climate change",
+    "link": "https://www.nature.com/articles/s43247-025-03073-8",
+    "authors": [
+      "Yu Duan",
+      "Mingtao Ding",
+      "Yufeng He",
+      "Hongkai Chen",
+      "Hao Zheng",
+      "Sven Fuchs",
+      "Sergey Sokratov",
+      "Francisco Dourado"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 09 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03073-8\">doi:10.1038/s43247-025-03073-8</a>Under high-emission scenarios, a projection of ~30.6% greater global landslide risk to roads is likely by 2100, with wealthier countries facing disproportionately elevated risk, according to findings from coupled model intercomparison project phase 6 and machine learning models",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-02952-4",
+    "title": "Memory and jamming in fault zone sediments",
+    "link": "https://www.nature.com/articles/s43247-025-02952-4",
+    "authors": [
+      "Jhardel Dasent",
+      "Vashan Wright",
+      "Katherine Scharer",
+      "Michael Manga",
+      "Richard Kilburn"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 09 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-02952-4\">doi:10.1038/s43247-025-02952-4</a>Creep and earthquakes produce distinct microstructural fabrics, representing a form of material memory that can be created and erased through the seismic cycle, according to X-ray microtomography of sediments within the San Andreas fault zone.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03050-1",
+    "title": "Enhanced weather persistence due to amplified Arctic warming",
+    "link": "https://www.nature.com/articles/s43247-025-03050-1",
+    "authors": [
+      "Rune Grand Graversen",
+      "Rachel H. White",
+      "Timo Vihma"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 09 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03050-1\">doi:10.1038/s43247-025-03050-1</a>Weather persistence, in terms of duration of surface-air temperature anomalies across all weather types and seasons in Northern Hemisphere mid-latitudes, has increased in recent decades due to Arctic temperature amplification, according to a study analysing reanalysis data.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825225003150",
+    "title": "A dataset and review of empirical estimation relationships for landslide runout distances: Comment",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825225003150?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: January 2026<b>Source:</b> Earth-Science Reviews, Volume 272Author(s): Bo Zhao",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2025-12-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825225003228",
+    "title": "Editorial Board",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825225003228?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: January 2026<b>Source:</b> Earth-Science Reviews, Volume 272Author(s):",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2025-12-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X25005680",
+    "title": "Three-dimensional density structure underneath the Marius Hills volcanic complex on the Moon",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X25005680?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 February 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 675Author(s): Shiyu Zhang, Bo Chen, Qian Huang, Changyi Xu, Xiaolong Wei",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2025-12-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X25005692",
+    "title": "The role of crystal-bubble interactions, outgassing and magma composition in the ascent dynamics of alkaline magmas: Implications for eruptions at Vesuvius",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X25005692?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 February 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 675Author(s): Fabio Arzilli, Giuseppe La Spina, Emily C. Bamber, Daniele Morgavi, Lorenzo Fedele, Lucia Mancini, Marko Prašek, Ileana Santangelo, Giulia Chiominto, Annamaria Perrotta, Thomas Lemaire, Hélène Balcone-Boissard, Daniele Giordano, Claudio Scarpati",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2025-12-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S001670372500691X",
+    "title": "Formation of glauconite with co-occurring apatite traces marine rare earth element behavior: evidence from US atlantic continental margin Sediments",
+    "link": "https://www.sciencedirect.com/science/article/pii/S001670372500691X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 8 December 2025<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Caroline H. Koschik, Xiao-Ming Liu",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-10",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53911.1/722053/Investigating-the-response-of-Glycymeris",
+    "title": "Investigating the response of  Glycymeris septentrionalis  (Bivalvia) and  Terebratalia transversa  (Brachiopoda) to euxinia: Implications for mass extinctions",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53911.1/722053/Investigating-the-response-of-Glycymeris",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">In the wake of the end-Permian mass extinction, bivalves replaced articulate brachiopods as the dominant benthic marine filter-feeders, despite morphological and ecological similarities. Several factors have been suggested as drivers of the extinction’s selectivity, including competition, ocean acidity, CO<sub>2</sub> poisoning, and differing reproductive potential. The spread of sulfidic water (euxinia) has been proposed as a general kill mechanism, but its physiological selectivity has not been investigated. Survival studies of the co-occurring bivalve <span style=\"font-style: italic;\">Glycymeris septentrionalis</span> and articulate brachiopod <span style=\"font-style: italic;\">Terebratalia transversa</span> from San Juan Island, Washington, USA, were carried out in anoxic and euxinic environments at 13.7, 16, and 22 °C. In colder anoxic conditions without sulfide, the brachiopod exhibited greater survival than the bivalve, but at higher temperatures, the bivalve generally outlasted the brachiopod, and by a greater margin in euxinia. The alignment between physiological tolerance in experimental settings and survival patterns in the paleontological record indicates that euxinia may have played a role in end-Permian extinction severity and selectivity, serving as an additional stressor in already warm, oxygen-depleted oceans.</span>",
+    "source": "Geology Advance Access",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G52995.1/722052/3-D-electromagnetic-imaging-of-highly-deformed",
+    "title": "3-D electromagnetic imaging of highly deformed fluid-rich weak zones and locked section of the North Anatolian fault beneath the Marmara Sea",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G52995.1/722052/3-D-electromagnetic-imaging-of-highly-deformed",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Reliable knowledge of the crustal properties beneath the North Anatolian fault (NAF), seismically silent for more than 250 years beneath the Marmara Sea (MS), is crucial for understanding seismic hazard and mitigating the potential for disaster on an enormous scale. In the present work, the first three-dimensional inverse modeling performed on a magnetotelluric dataset of the MS has unveiled localized weak and locked fault segments along this shear deformation zone. Low-resistivity regions along the northern branch of the NAF beneath the Central and Çınarcık-Imralı basins are likely attributed to the presence of fluids, which may represent a fault zone conductor in a fractured zone and can explain the densely populated microseismicity. These low-resistivity anomalies surrounded by higher resistivity structures imply that the segmented, multi-branched NAF system extends beneath the MS, following the Intra-Pontide suture zone. The resistive anomalies, between the Central and Çınarcık basins, along with those at the western and eastern extremities of the MS, presumably signify regions of stress accumulation, shedding light on the ongoing processes of fault mechanics at play in this critical region.</span>",
+    "source": "Geology Advance Access",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53721.1/722051/Forest-floor-burial-in-1507-by-the-largest-Mount",
+    "title": "Forest-floor burial in 1507 by the largest Mount Rainier lahar of the past millennium",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53721.1/722051/Forest-floor-burial-in-1507-by-the-largest-Mount",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">New dating of lahar-killed trees underscores volcano hazards in the Puget Sound metropolitan area. Beginning as a landslide from the west flank of Mount Rainier, Washington, USA, the Electron Mudflow, which was the largest lahar of the last millennium, swept more than 60 km down the Puyallup River drainage into areas now densely populated. Wiggle matching of seven radiocarbon ages from buried, bark-bearing Douglas-fir (<span style=\"font-style: italic;\">Pseudotsuga menziesii</span>) trees brackets the mudflow’s age between 1477 and 1522 CE with 99.7% certainty. To narrow this date, we applied dendrochronology crossdating on samples collected from 21 trees killed by the lahar, measuring 86 time series for statistical verification. The four bark-bearing trees died the same year while the final rings in all other trees had decayed, exposing rings formed in earlier years. When averaged together, the crossdated measurements form a 475 yr master chronology that was correlated against absolutely dated tree-ring chronologies in the region. The Electron chronology best matched with chronologies from low-elevation sites, especially a Douglas-fir chronology from Vancouver Island, Canada, to show that the Electron trees died in 1507 CE. Latewood in the final ring was beginning to form, indicating the mudflow likely occurred in the late-summer months. What caused the Electron Mudflow is unknown, but this precise date will help to assess possible relationships with other events, assist in interpreting Indigenous narratives about the mudflow, and increase awareness of potential lahar hazards.</span>",
+    "source": "Geology Advance Access",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53945.1/722050/As-it-ever-was-Calcium-isotope-constraints-on",
+    "title": "As it ever was: Calcium isotope constraints on Mesoarchean seawater chemistry",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53945.1/722050/As-it-ever-was-Calcium-isotope-constraints-on",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Earth’s long-term climate is closely tied to the formation of carbonate sediments in the ocean, driving the ocean’s ability to moderate atmospheric CO<sub>2</sub> levels. It has been hypothesized that in the Precambrian, this process was controlled by a “hidden” deep-sea carbonate sink. However, our results indicate that shallow-marine platforms have been the dominant mode of carbonate formation since the Mesoarchean. This conclusion is based on Ca isotopes from 2.8 Ga carbonates, which constrain the Ca isotope value of Mesoarchean seawater to −0.5‰ relative to modern values, strikingly similar to pre-Mesozoic values and suggesting that carbonate deposition mainly was confined to shallow-water platforms until the evolution of pelagic calcifiers in the Mesozoic.</span>",
+    "source": "Geology Advance Access",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38408.1/722039/Magmatic-hydrothermal-constraints-on-the",
+    "title": "Magmatic-hydrothermal constraints on the decoupling of Cu-Au mineralization: Petrological and mineralogical insights from the Chang’an ore-concentration region, Southeast Tibet",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38408.1/722039/Magmatic-hydrothermal-constraints-on-the",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The properties of magma origin, evolution, and fluid exsolution collectively govern the ultimate formation of Cu-Au deposits. However, the differential control mechanisms of Cu and Au mineralization remain inadequately explained. The pronounced decoupling of Cu and Au mineralization within the Chang’an-Chang’anchong-Tongchang Cu-Au system of Southeast Tibetan Plateau provides a valuable example for addressing this issue. The Chang’an Au deposit, Tongchang Cu deposit, and Chang’anchong Cu deposit are predominantly developed within the Chang’an ore-concentration region, situated in the southern segment of the Ailaoshan orogenic belt. In this study, we conducted a comprehensive suite of whole-rock and mineral geochemical analyses on three groups of K-rich porphyries from this region. The K-rich porphyries have average ε<sub>Nd</sub>(t) values of −5.1, <sup>87</sup>Sr/<sup>86</sup>Sr(t) ratios of 0.70756, and ε<sub>Hf</sub>(t) values of −2.8. Collectively, these data indicate that the magma originates from the partial melting of the juvenile, thickened lower crust. With an increase in SiO<sub>2</sub> content and decreases in FeO, CaO, and Y, etc., the parental magma successively generated the barren Chang’an syenite porphyry, the Cu-fertile Chang’anchong-Tongchang quartz-syenite porphyry, and the Au-fertile Chang’an syenogranite porphyry. The volatile composition of apatite demonstrates that barren melt is primarily in a fluid-undersaturated stage (melt-X<sub>Cl</sub>/X<sub>OH</sub> = 0.012). In contrast, fertile melts become fluid-saturated at an X<sub>Cl</sub>/X<sub>OH</sub> ratio of 0.003, which leads to significant fluid exsolution. During the initial fluid-saturation phase, high oxygen fugacity (ΔFMQ = +1.53) fluids transported significant amounts of Cu, leading to the Cu mineralization at Chang’anchong-Tongchang. In a subsequent stage of magmatic evolution, the reduction in oxygen fugacity (ΔFMQ = +1.26) enhanced the fluid’s capacity to transport Au, which led to the Au mineralization at Chang’an. Therefore, we suggest that concomitant with magmatic evolution and declining oxygen fugacity, the metallogenic system transitioned from Cu to Au mineralization. This system is defined by early-stage Cu mineralization and late-stage Au mineralization.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38575.1/722038/New-insights-into-factors-controlling-the",
+    "title": "New insights into factors controlling the extraordinarily high organic matter accumulation across the Ordovician−Silurian transition, South China",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38575.1/722038/New-insights-into-factors-controlling-the",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The Ordovician−Silurian (O−S) transition was marked by widespread deposition of organic-rich shales worldwide. However, the mechanism of organic matter accumulation remains debated. Previous studies mainly focus on primary productivity versus preservation conditions. Here, we emphasize the mechanisms driving accumulation of the extraordinarily high organic matter (EHOM) with total organic carbon (TOC) content over 3.0 wt%. In this study, the Wufeng-Lungmachi shale formations of two sections across the O−S transition on the northern margin of the Yangtze Shelf, South China, were investigated for TOC, elemental geochemistry, petrology of barite and pyrite concretions, and pyrite sulfur isotopes. Our results reveal two step-wise increases of TOC content identified as two episodes of EHOM accumulation. The first episode of EHOM enrichment in the Upper Ordovician was likely triggered by increased nutrient input from hydrothermal activity related to volcanism and probably upwelling events. The second episode, marked by large-scale EHOM enrichment in the Lower Silurian, was driven by large nutrient supply from enhanced continental weathering following the Hirnantian deglaciation and from enhanced phosphorus recycling under widespread ocean euxinia. These findings suggest that geological events acted as the primary triggers for the EHOM enrichment, and could sustain EHOM accumulation over longer time scales by affecting environmental factors.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B37967.1/722037/Pre-existing-thrust-fault-system-influencing",
+    "title": "Pre-existing thrust fault system influencing overlying pull-apart basin: New insights from the offshore Bohai Bay Basin of eastern China",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B37967.1/722037/Pre-existing-thrust-fault-system-influencing",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Pre-existing faults play an important controlling role in the formation and later evolution of sedimentary basins. The oblique extension of strike-slip faults cause subsidence and lead to the formation of pull-apart basins, this foundational mechanism is verified by fault interpretations from seismic reflection data, laboratory experiments, and numerical models. While this mechanism is observed in contemporaneous faults, how pre-existing thrust faults affect the formation of an overlying rift basin is still being studied. Here we reveal a set of Indosinian thrust faults and their reactivation effects within the basement of the offshore Bohai Bay Basin (OBBB), eastern China. These faults provide insights into the influence of pre-existing faults on the overlying basin. Structural analysis of seismic profiles of the OBBB show that its basinal basement developed a series of NWW-trending pre-existing faults, most of which cease at the top of the basement, though some were profoundly reactivated, crossing the unconformity upward into Cenozoic strata, hence, influencing the morphology and structural evolution of the Cenozoic Bohai Bay Basin (BBB). The NWW-trending faults were in response to the collision between the South China and North China blocks. Zircon and apatite fission-tracks reveal the fault-controlled basement suffered three intervals of uplift-cooling processes during the Late Triassic−Early Jurassic, Late Cretaceous, and Oligocene, and three corresponding intervals of subsidence-heating stages during the Early Cretaceous, Paleogene, and Neogene. The reactivations during the Early Cretaceous and Paleogene induced NWW-trending half-grabens. The strike-slip activity of the NNE-trending Tanlu Fault zone formed a set of NNE-trending pull-apart sags in the eastern BBB and reactivated some NWW-trending pre-existing thrust faults reversely with slight rotation. The two orthogonal extensions on interconnected half-grabens and strike-slip faults drove the formation of the pull-apart BBB. Broadly, pre-existing faults could partially be reactivated by later orthogonal strike-slip faults and jointly form a pull-apart rhomboid basin characterized by multiple sags.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38324.1/722036/Geochronology-and-tectonic-evolution-of-the",
+    "title": "Geochronology and tectonic evolution of the Luobusa ophiolite in southern Tibet, China",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38324.1/722036/Geochronology-and-tectonic-evolution-of-the",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">This study presents detailed field observations, whole-rock geochemical analyses, high-precision zircon U-Pb dating, and Sr-Nd-Pb-O isotope data for the clinopyroxenite and gabbro dikes of the Luobusa ophiolite in the Tibetan Plateau. We further investigate granitoid breccias (Luobusa Group) and the granite of the Gangdese batholith, which are spatially and temporally associated. The clinopyroxenite studied yielded an age of 179.3 ± 2.7 Ma, indicating its formation in the late Early Jurassic. Geochemical analysis shows that the clinopyroxenite is notably depleted in light rare earth elements (LREEs) and displays negligible Eu anomalies, which is consistent with a cumulate origin. Moreover, zircon U-Pb dating identifies two periods of gabbro emplacement within the Luobusa ophiolitic massif: the late Middle Jurassic (ca. 165 Ma) and the Late Jurassic (ca. 152 Ma). The late Middle Jurassic gabbro dike, which intrudes into the Luobusa ophiolite, displays geochemical characteristics typical of normal mid-ocean-ridge basalt (N-MORB). In contrast, the Late Jurassic gabbro dike, which intrudes into Late Triassic flysch, exhibits arc-type geochemical features, enrichment in LREEs and large ion lithophile elements (LILEs), together with depletion in heavy rare earth elements (HREEs) and high field strength elements (HFSEs). Isotopically, the late Middle Jurassic gabbro dike exhibits a mean initial <sup>87</sup>Sr/<sup>86</sup>Sr ratio of 0.703408 and a mean ε<sub>Nd</sub>(t) value of +8.06, indicative of a depleted mantle source. In contrast, the Late Jurassic gabbro dike displays more radiogenic isotope compositions, with a mean initial <sup>87</sup>Sr/<sup>86</sup>Sr ratio of 0.707532 and a mean ε<sub>Nd</sub>(t) value of +1.29, suggesting an increasing contribution from subduction-related, enriched components. Based on the geochemical and isotope signatures, we infer that the late Middle Jurassic gabbro dike originated from the partial melting of spinel lherzolite, whereas the Late Jurassic gabbro dike was derived from the partial melting of spinel-garnet lherzolite. Furthermore, the late Middle Jurassic gabbro dike has higher zircon oxygen isotope values (mean δ<sup>18</sup>O = 7.56‰), suggesting low-temperature, water-rock interaction to some extent. Our systematic investigation revealed that the 183 Ma granite from the Gangdese batholith, which is spatiotemporally associated with the Luobusa ophiolitic massif, records evidence of the rollback of the Bangong-Nujiang oceanic lithosphere that promoted the opening of the Neo-Tethys Ocean. In contrast, the 134 Ma granitoid breccia of the Luobusa Group primarily reflects the northward subduction of the Neo-Tethyan oceanic lithosphere. Collectively, these results, combined with those of previous studies, indicate that the Luobusa ophiolite formed in the late Early Jurassic and underwent a two-stage evolutionary history. Initially, it formed in a typical N-MORB environment, but it subsequently evolved into a forearc suprasubduction zone setting during the late Middle−Late Jurassic.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38616.1/722035/Position-specific-carbon-isotope-compositions-of",
+    "title": "Position-specific carbon isotope compositions of propane as a novel proxy for tracing sealing integrity of shale systems",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38616.1/722035/Position-specific-carbon-isotope-compositions-of",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Shale sealing capacity critically governs hydrocarbon retention and subsurface storage security, yet robust geochemical proxies for its evaluation remain underdeveloped. Our study investigates the position-specific carbon isotope compositions (PSICs) of propane as a novel indicator of sealing efficacy through comparative hydrous pyrolysis experiments (closed versus semi-closed systems) on the Triassic Chang-7 shale of the Ordos Basin, China, and isotopic analysis of Silurian shale gases from the Weiyuan and Changning areas, south China. The experimental results demonstrate distinct PSIC evolution patterns under two contrasting sealing conditions: the closed systems exhibit a Δ<sub>C-T</sub> (central-to-terminal carbon isotope difference) peak of 19.3‰ at high maturities followed by a decline probably due to hydrogen abstraction, while the semi-closed system shows a monotonic Δ<sub>C-T</sub> increase to 12.1‰, reflecting suppressed secondary cracking from hydrocarbon expulsion. Linear regressions of PSIC versus bulk δ<sup>13</sup>C<sub>3</sub> reveal sealing-dependent isotopic fractionations with a steeper slope of the δ<sup>13</sup>C<sub>3</sub> versus δ<sup>13</sup>C of the central carbon (δ<sup>13</sup>C<sub>c</sub>) correlation in the semi-closed systems (1.69 ± 0.20) compared to 1.31 ± 0.11 in the closed system, indicating enhanced isotope heterogeneity. The natural shale gases corroborate these trends: Weiyuan samples (Δ<sub>C-T</sub> = −2.3‰ to +2.9‰, with a slope of δ<sup>13</sup>C<sub>3</sub> versus δ<sup>13</sup>C<sub>c</sub> correlation = 1.57) align with the semi-closed dynamics, whereas the Changning samples (Δ<sub>C-T</sub> = −3.2‰ to −2.4‰, slope = 1.34) mirror more confined signatures. These findings establish propane PSIC, particularly δ<sup>13</sup>C<sub>3</sub>-PSIC correlations, as a robust geochemical tool to discriminate shale sealing capacities, offering critical insights into hydrocarbon preservation in low-permeability systems.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2025-12-08",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwaf545",
+    "title": "Climate mitigation outcomes from China-led emission reductions toward global carbon neutrality",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf545/8374726?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>While many nations to the Paris Agreement have completed the second-round updates to their Nationally Determined Contributions (NDCs), especially China’s dual carbon commitment, the specific climate outcomes of these latest NDCs remain uncertain. Here, we quantify the potential climate mitigation outcomes from these latest NDCs through ensemble simulations of an Earth System Model under a newly-developed global emission scenario aligned with China’s carbon neutrality pathway. We project a global temperature rise of 2.05°C during 2081–2100 through the implementation of the latest NDCs, demonstrating a likely achievable 2.0°C target without early extensive carbon removal technologies. Moreover, our results demonstrate that the latest NDCs will yield significant long-term climate benefits while incurring adverse near-term impacts, revealing temporally asymmetric climate outcomes when compared to fixing anthropogenic emissions at 2023 levels. We believe this work is valuable for understanding more plausible future climate change, with particular relevance to the ongoing seventh assessment report of the IPCC.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwaf561",
+    "title": "Monocular complex amplitude imaging via a polarization-multiplexed liquid-crystal-lens-informed Fourier neural network",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf561/8374725?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The success of data-driven deep learning in computational imaging is often constrained by the need for extensive labeled datasets. Recent progress in physics-informed neural networks mitigates this issue by integrating analytical physical models, allowing for data-free training. However, for challenging imaging tasks, such as to simultaneously acquire the complex amplitude light field information, the weak physical constraints of conventional imaging hardware largely limit the spatiotemporal imaging resolution. Here, we propose an extremely simple yet powerful monocular camera for complex amplitude imaging based on a liquid-crystal-lens-informed Fourier neural network. Combining a polarization-multiplexed bifocal liquid crystal lens with a polarization image sensor, the camera acts as a polarization phase-shifting radial shearing interferometer. Without any labeled data, the liquid-crystal-lens-informed Fourier neural network can reconstruct the complex amplitude of a variety of scenes from captured polarization images in a single shot with high fidelity. We experimentally demonstrate the reconstruction of wavefront aberrations involving 136 Zernike modes with a phase accuracy of <span style=\"font-style: italic;\">λ</span>/35 as well as static hologram retrieval and dynamic monitoring of airflow and flame fields. This complementary hardware-algorithm framework offers a promising pathway for developing compact, versatile, and high-performance complex amplitude imaging systems towards adaptive optics, hologram reconstruction and material diagnosis applications.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136825006110",
+    "title": "The contribution of two-stage immiscibility for the formation of lithium-rich pegmatite: Insights from tourmaline in the Ke’eryin region",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136825006110?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 8 December 2025<b>Source:</b> Ore Geology ReviewsAuthor(s): Yuan Zhao, Fengqin Ran, Bo Peng, Dabo Feng, Yang Yang, Jingrui Han, Yongkun Dai",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2025-12-10",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-025-09995-9",
     "title": "Publisher Correction: CRISPR activation for <i>SCN2A</i>-related neurodevelopmental disorders",
     "link": "https://www.nature.com/articles/s41586-025-09995-9",
