@@ -21,6 +21,7 @@ RSS_URLS = [
     "https://www.nature.com/commsenv.rss",             #NC EE
     "https://www.pnas.org/action/showFeed?type=searchTopic&taxonomyCode=topic&tagCode=earth-sci", #PNAS
     "https://www.annualreviews.org/rss/content/journals/earth/latestarticles?fmt=rss", #Annual Review of Earth and Planetary Sciences
+    "https://agupubs.onlinelibrary.wiley.com/feed/19449208/most-recent" #Reviews of Geophysics
     "https://rss.sciencedirect.com/publication/science/00128252",   #ESR
     "https://rss.sciencedirect.com/publication/science/0012821X",   #EPSL
     "https://agupubs.onlinelibrary.wiley.com/feed/19448007/most-recent",  #GRL
