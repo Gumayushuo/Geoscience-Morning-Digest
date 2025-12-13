@@ -110,31 +110,25 @@ else:
     daily_content.append("（已排除医学、纯工程、计算机科学等明显不相关领域，但由于AI判定限制，可能仍有少量残留）\n")
 
     # 【关键修改 2】这里只遍历 papers_to_process，而不是 papers_unsent
-    for i, p in enumerate(papers_to_process, 1):
-        authors = p.get("authors", [])
-        # 处理作者列表可能为 None 的情况
-        if authors is None:
-            authors = []
-        
-        authors_str = ", ".join(authors[:3]) + (" 等" if len(authors) > 3 else "") if authors else "未知"
-        
-        # 修复了这里的 f-string 语法错误
-        daily_content.append(f"### {i}. {p.get('title','未知标题')}")
-        daily_content.append(f"- **期刊**：{p.get('source','未知')}")
-        daily_content.append(f"- **作者**：{authors_str}")
-        daily_content.append(f"- **链接**：{p.get('link','')}")
-        
-        summary = p.get('summary', '')
-        # 处理 summary 为 None 的情况
-        if summary is None:
-            summary = ""
-        summary = summary.strip()
-            
-        if len(summary) > 300:
-            summary = summary[:300] + "..."
-        if summary:
-            daily_content.append(f"- **摘要**：{summary}")
-        daily_content.append("") # 空行
+for i, p in enumerate(papers_to_process, 1):
+    authors = p.get("authors", []) or []
+    authors_clean = [str(a) for a in authors if a]  # 过滤掉 None
+    
+    authors_str = ", ".join(authors_clean[:3]) + (" 等" if len(authors_clean) > 3 else "") if authors_clean else "未知"
+    
+    daily_content.append(f"### {i}. {p.get('title','未知标题')}")
+    daily_content.append(f"- **期刊**：{p.get('source','未知')}")
+    daily_content.append(f"- **作者**：{authors_str}")
+    daily_content.append(f"- **链接**：{p.get('link','')}")
+    
+    summary = p.get('summary', '') or ""
+    summary = summary.strip()
+    if len(summary) > 300:
+        summary = summary[:300] + "..."
+    if summary:
+        daily_content.append(f"- **摘要**：{summary}")
+    daily_content.append("")  # 空行
+
 
     daily_text = "\n".join(daily_content)
 
