@@ -1,5 +1,343 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-025-67395-z",
+    "title": "Slower-growing species promote interspecific cooperation and coexistence under acid stress through cross-feeding",
+    "link": "https://www.nature.com/articles/s41467-025-67395-z",
+    "authors": [
+      "Hui Liao",
+      "Liming Wu",
+      "Yi Luo",
+      "Hussain Asif",
+      "Xinlei Huang",
+      "Xiaole Xia"
+    ],
+    "summary": "Nature Communications, Published online: 14 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67395-z\">doi:10.1038/s41467-025-67395-z</a>Acid stress is an environmental factor shaping the structure and function of microbial communities. Here, the authors show that microbial interspecific interactions are highly dynamic during acid stress changes. They find slow-growing species promote population cooperation and coexistence under elevated acid stress.",
+    "source": "Nature Communications",
+    "date": "2025-12-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67287-2",
+    "title": "Visualizing insecticide control of insect TRP channel function and assembly",
+    "link": "https://www.nature.com/articles/s41467-025-67287-2",
+    "authors": [
+      "Justin G. Fedor",
+      "Ramani Kandasamy",
+      "Cheon-Gyu Park",
+      "Yang Suo",
+      "Martin Weisel",
+      "Nancy B. Rankl",
+      "Alexandre Nesterov",
+      "Seok-Yong Lee"
+    ],
+    "summary": "Nature Communications, Published online: 14 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67287-2\">doi:10.1038/s41467-025-67287-2</a>The heteromeric insect TRPV channel, Nanchung-Inactive, is a previously structurally uncharacterized insecticide target. Here, Fedor et al. provide insights into how an insecticide and a natural agonist modulate channel behavior, paving the way for future insecticide development.",
+    "source": "Nature Communications",
+    "date": "2025-12-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-66167-z",
+    "title": "Glucagon-like peptide-1 receptor agonist in large vessel occlusion treated by reperfusion therapy—a phase 2 randomized trial",
+    "link": "https://www.nature.com/articles/s41467-025-66167-z",
+    "authors": [
+      "Hao Wang",
+      "Ho Ko",
+      "Thomas W. Leung",
+      "Junzhe Huang",
+      "Junjie Sai",
+      "Yu Liang",
+      "Haipeng Li",
+      "Jie Zhang",
+      "Qingyang Cao",
+      "Wentao Zang",
+      "Yinfei Li",
+      "Sze Ho Ma",
+      "Wai Ting Lui",
+      "Joseph Choi",
+      "Charlie Chan",
+      "Jason Wong",
+      "Andrew J. Kwok",
+      "Karen Ma",
+      "Florence Fan",
+      "Anne Chan",
+      "Vincent Ip",
+      "Howan Leung",
+      "Yannie Soo",
+      "Ka Tak Wong",
+      "Billy Lai",
+      "CM Chu",
+      "Ho Sang Leung",
+      "Anselm Hui",
+      "Tom Cheung",
+      "Jill Abrigo",
+      "Siu Hung Li",
+      "Larry Chan",
+      "Jonas Yeung",
+      "Sangqi Pan",
+      "Terry Yip",
+      "LT Lui",
+      "Trista Hung",
+      "Suk Fung Tsang",
+      "Xinyi Leng",
+      "Bonnie Lam",
+      "Vincent C. T. Mok",
+      "Rosa H. M. Chan",
+      "Thanh N. Nguyen",
+      "Wei Hu",
+      "Fengyuan Che",
+      "Bonaventure Y. Ip"
+    ],
+    "summary": "Nature Communications, Published online: 14 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-66167-z\">doi:10.1038/s41467-025-66167-z</a>Semaglutide, a GLP-1 receptor agonist, may offer neuroprotective benefits after stroke, but its effects in large vessel occlusion (LVO) are unknown. Here the authors show, in a phase 2 randomized trial, that semaglutide is safe after endovascular therapy and may improve recovery in patients not receiving intravenous thrombolysis.",
+    "source": "Nature Communications",
+    "date": "2025-12-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67148-y",
+    "title": "Flexible robotic hand harnesses large deformations for full-coverage human-like multimodal haptic perception",
+    "link": "https://www.nature.com/articles/s41467-025-67148-y",
+    "authors": [
+      "Yanzhe Wang",
+      "Haotian Guo",
+      "Hao Wu",
+      "Huixu Dong"
+    ],
+    "summary": "Nature Communications, Published online: 14 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67148-y\">doi:10.1038/s41467-025-67148-y</a>While visual-tactile sensors promise high perception resolution at low cost, they often sacrifice compliance to maintain optical stability, hindering non-planar contact perception. The authors present FlexiRay, a soft gripper merging visual-tactile sensing with a compliant Fin Ray structure.",
+    "source": "Nature Communications",
+    "date": "2025-12-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67605-8",
+    "title": "All-optical hybrid metasurfaces for ultrafast computational spectrometer and single-pixel imaging",
+    "link": "https://www.nature.com/articles/s41467-025-67605-8",
+    "authors": [
+      "Zijian Liao",
+      "Zhanqiang Xue",
+      "Junxing Fan",
+      "Guizhen Xu",
+      "Hongyang Xing",
+      "Longqing Cong"
+    ],
+    "summary": "Nature Communications, Published online: 14 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67605-8\">doi:10.1038/s41467-025-67605-8</a>A hybrid metasurface functioning as a low-correlation and ultrafast spectral/spatial light modulator is demonstrated for all-optical THz computational spectrometer and single pixel imaging replacing mechanical delay lines and coherent detection.",
+    "source": "Nature Communications",
+    "date": "2025-12-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67412-1",
+    "title": "Structural characterisation of the fungal Pmt4 homodimer",
+    "link": "https://www.nature.com/articles/s41467-025-67412-1",
+    "authors": [
+      "Melanie A. McDowell",
+      "Klemens Wild",
+      "Francesco Fiorentino",
+      "Daniela Bausewein",
+      "Anke Metschies",
+      "Antonella Chiapparino",
+      "Yvonne Hackmann",
+      "Florestan L. Bilsing",
+      "David Brenske",
+      "Sofia Mortensen",
+      "Di Wu",
+      "Carol V. Robinson",
+      "Sabine Strahl",
+      "Irmgard Sinning"
+    ],
+    "summary": "Nature Communications, Published online: 14 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67412-1\">doi:10.1038/s41467-025-67412-1</a>PMTs are fungal O-mannosyltransferases embedded in the ER membrane. Here, structures of the Pmt4 homodimer reveal distinct features of this PMT family and uncover an additional cytosolic binding site for the Dol-P-Man substrate lipid.",
+    "source": "Nature Communications",
+    "date": "2025-12-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67198-2",
+    "title": "The microRNA&#xa0;miR-71 suppresses maladaptive UPR<sup>mt</sup> signaling through both cell-autonomous and cell-non-autonomous mechanisms",
+    "link": "https://www.nature.com/articles/s41467-025-67198-2",
+    "authors": [
+      "Ina Kirmes",
+      "Grace Ching Ching Hung",
+      "Anne Hahn",
+      "Chuan-Yang Dai",
+      "Daniel Campbell",
+      "Arnaud Ahier",
+      "Rachel Shin Yie Lee",
+      "Alexander Palmer",
+      "Steven Zuryn"
+    ],
+    "summary": "Nature Communications, Published online: 14 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67198-2\">doi:10.1038/s41467-025-67198-2</a>Mitochondria play roles in sensing environmental and physiological stress, but their response can become maladaptive during chronic stress. Here they identify a protective miRNA response in C. elegans that maintains tissue health by attenuating mitochondrial stress signaling.",
+    "source": "Nature Communications",
+    "date": "2025-12-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67365-5",
+    "title": "Targeting LRBA triggers CTLA4 degradation and antitumor immunity for cancer immunotherapy",
+    "link": "https://www.nature.com/articles/s41467-025-67365-5",
+    "authors": [
+      "Xiaolu Ge",
+      "Liang Yu",
+      "Lei Zhang",
+      "Liqing Jia",
+      "Mingjing Meng",
+      "Jingquan He",
+      "Fan Bu",
+      "Yue Song",
+      "Gaorui Sun",
+      "Shiming Lv",
+      "Desheng Mei",
+      "Yutao Yang",
+      "Dakang Xu",
+      "Jingfa Zhang",
+      "Shengping Zhang",
+      "Chuangui Wang",
+      "Deshui Jia",
+      "Yongping Chen",
+      "Yue Gao",
+      "Baokun He"
+    ],
+    "summary": "Nature Communications, Published online: 14 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67365-5\">doi:10.1038/s41467-025-67365-5</a>LRBA deficiency is associated with autoimmune disease and CTLA4 loss; this study identifies LRBA as a negative regulator of antitumor immunity and introduces LC427 as a promising small-molecule inhibitor of the CTLA4-LRBA interaction for cancer immunotherapy.",
+    "source": "Nature Communications",
+    "date": "2025-12-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03082-7",
+    "title": "Global rural settlement expansion rivals its urban counterpart in biodiversity impact",
+    "link": "https://www.nature.com/articles/s43247-025-03082-7",
+    "authors": [
+      "Zhitao Liu",
+      "Chuanglin Fang",
+      "Sheng Huang",
+      "Guangdong Li",
+      "Chao Bao",
+      "Siao Sun",
+      "Luotong Guan",
+      "Menghang Liu"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 14 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03082-7\">doi:10.1038/s43247-025-03082-7</a>Globally, overlooked rural settlement expansion contributes more to biodiversity decline than urban sprawl, according to an analysis that combines data on urban and rural settlements, land use, and species distribution.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012541",
+    "title": "Abiotic Siliceous Botryoids on Iron Oxyhydroxide Filaments From Hydrothermal Vents in the Southwest Indian Ocean",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012541?af=R",
+    "authors": [
+      "Dominic Papineau, \nKaiwen Ta, \nYuzhou Ge, \nYuangao Qu, \nMengran Du, \nJiwei Li, \nShuang Liu, \nDongmei Wang, \nXiaotong Peng"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 26, Issue 12, December 2025.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2025-12-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012299",
+    "title": "Palagonitization of Volcanic Rocks in Polar Climates: The Case of Deception Island (Antarctica)",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012299?af=R",
+    "authors": [
+      "Oriol Vilanova‐Pagès, \nGuillem Gisbert, \nHelena Albert, \nAdelina Geyer, \nMeritxell Aulinas, \nRaquel Arasanz, \nJordi Ibañez‐Insa, \nAntonio Polo‐Sánchez, \nAntonio Álvarez‐Valero, \nOlga Prieto‐Ballesteros, \nSantiago Giralt"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 26, Issue 12, December 2025.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2025-12-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012256",
+    "title": "The Transition From Melt Accumulation to Eruption Initiation Recorded by Orthopyroxene Fe‐Mg Diffusion Timescales in Late Holocene Rhyolites, South Sister Volcano, Oregon Cascade Range",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012256?af=R",
+    "authors": [
+      "Nathan L. Andersen, \nAnnika E. Dechert, \nDawn C. S. Ruth, \nMay (Mai) Sas, \nJulie Chouinard, \nJosef Dufek"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 26, Issue 12, December 2025.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2025-12-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032208",
+    "title": "Range‐Parallel Extension of the Andes in the 2020 Mw 5.7 Humahuaca Earthquake",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032208?af=R",
+    "authors": [
+      "Simon Orrego, \nJuliet Biggs, \nSam Wimpenny, \nYasser Maghsoudi"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 130, Issue 12, December 2025.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2025-12-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB031905",
+    "title": "Imaging the Shallow Structure Beneath Askja Volcano, Iceland, With Ambient Noise Tomography",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB031905?af=R",
+    "authors": [
+      "Joseph Fone, \nTom Winder, \nNicholas Rawlinson, \nRobert White, \nBryndís Brandsdóttir, \nHeidi Soosalu"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 130, Issue 12, December 2025.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2025-12-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032891",
+    "title": "Fault‐Induced Hydration and Serpentinization of the Incoming Lithosphere Enhances Intra‐Slab Seismicity Offshore Taltal (∼25°S), Northern Chile",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032891?af=R",
+    "authors": [
+      "A. Warwel, \nD. Lange, \nA. Dannowski, \nI. Klaucke, \nE. Contreras‐Reyes, \nM. Moreno, \nJ. Diaz‐Naveas, \nH. Kopp"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 130, Issue 12, December 2025.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2025-12-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB031718",
+    "title": "Sound Velocity of Hematite up to 13 GPa",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB031718?af=R",
+    "authors": [
+      "Ran Wang, \nBaosheng Li"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 130, Issue 12, December 2025.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2025-12-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032238",
+    "title": "Magnetization Analysis of Mohn's Treasure Sediment‐Hosted Hydrothermal Field: A Step Toward Reducing the Space of Solutions in Magnetic Inversions",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032238?af=R",
+    "authors": [
+      "Florent Szitkar, \nAnna Lim"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 130, Issue 12, December 2025.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2025-12-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB031744",
+    "title": "B‐Value Evolution During the Strasbourg 2018–2022 Sequence of Induced Earthquakes",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB031744?af=R",
+    "authors": [
+      "R. Minetto, \nO. Lengliné, \nJ. Schmittbuhl"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 130, Issue 12, December 2025.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2025-12-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725007008",
+    "title": "Underplating of H<sub>2</sub>O-rich magmas in post-collisional tectonic settings",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725007008?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 13 December 2025<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Davide Mariani, Riccardo Tribuzio, Tong Liu, Fu-Yuan Wu, Alberto Zanetti",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-15",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-025-66402-7",
     "title": "SARS-CoV-2 within-host population expansion, diversification and adaptation in zoo tigers, lions and hyenas",
     "link": "https://www.nature.com/articles/s41467-025-66402-7",
