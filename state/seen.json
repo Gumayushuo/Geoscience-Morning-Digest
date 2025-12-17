@@ -1,5 +1,437 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-025-03489-4",
+    "title": "I’ve earned my PhD — what now?",
+    "link": "https://www.nature.com/articles/d41586-025-03489-4",
+    "authors": [
+      "Miles Lizak"
+    ],
+    "summary": "Nature, Published online: 17 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03489-4\">doi:10.1038/d41586-025-03489-4</a>A chemist faces a classic early-career dilemma: what should they do next, and how do they start?",
+    "source": "Nature",
+    "date": "2025-12-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03740-y",
+    "title": "Safety regulations for cloning and a compass that finds true north",
+    "link": "https://www.nature.com/articles/d41586-025-03740-y",
+    "authors": [],
+    "summary": "Nature, Published online: 16 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03740-y\">doi:10.1038/d41586-025-03740-y</a>Scientists discuss concerns that genetic manipulation could lead to disease outbreaks, and Nature is gifted an unusual scientific instrument, in our weekly dip into the archive.",
+    "source": "Nature",
+    "date": "2025-12-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03536-0",
+    "title": "Science’s role in my <i>Great British Sewing Bee</i> success",
+    "link": "https://www.nature.com/articles/d41586-025-03536-0",
+    "authors": [
+      "Yasmin Proctor-Kent"
+    ],
+    "summary": "Nature, Published online: 16 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03536-0\">doi:10.1038/d41586-025-03536-0</a>A research background and a passion for sewing inspired by her father helped Yasmin Proctor-Kent to reach the finals of the 2025 television competition.",
+    "source": "Nature",
+    "date": "2025-12-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04083-4",
+    "title": "Scientists skip key US meetings — and seize on smaller alternatives",
+    "link": "https://www.nature.com/articles/d41586-025-04083-4",
+    "authors": [
+      "Alexandra Witze"
+    ],
+    "summary": "Nature, Published online: 16 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-04083-4\">doi:10.1038/d41586-025-04083-4</a>Researchers are devising creative ways to get together as Trump’s policies curb travel to US gatherings.",
+    "source": "Nature",
+    "date": "2025-12-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04050-z",
+    "title": "How my institution strengthened research despite chronic underfunding",
+    "link": "https://www.nature.com/articles/d41586-025-04050-z",
+    "authors": [
+      "Anil Shanker"
+    ],
+    "summary": "Nature, Published online: 16 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-04050-z\">doi:10.1038/d41586-025-04050-z</a>Nurturing research talent at community-rooted universities and colleges is a necessity, not a luxury.",
+    "source": "Nature",
+    "date": "2025-12-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04053-w",
+    "title": "AI is transforming the economy — understanding its impact requires both data and imagination",
+    "link": "https://www.nature.com/articles/d41586-025-04053-w",
+    "authors": [
+      "Daniel Björkegren"
+    ],
+    "summary": "Nature, Published online: 16 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-04053-w\">doi:10.1038/d41586-025-04053-w</a>Controlled studies capture only a fraction of the effects of artificial intelligence. Economists should work with social scientists to find innovative ways to fully grasp this fast-moving field.",
+    "source": "Nature",
+    "date": "2025-12-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01882-2",
+    "title": "Autistic voices are an overlooked minority in geosciences",
+    "link": "https://www.nature.com/articles/s41561-025-01882-2",
+    "authors": [
+      "Adam John Jeffery",
+      "Steven Leslie Rogers",
+      "Kelly Louise Ann Jeffery",
+      "Mark Lucherini",
+      "Jamie Keith Pringle",
+      "Martin Griffin"
+    ],
+    "summary": "Nature Geoscience, Published online: 16 December 2025; <a href=\"https://www.nature.com/articles/s41561-025-01882-2\">doi:10.1038/s41561-025-01882-2</a>Autism remains an under-recognized and under-represented aspect of inclusivity conversations in geosciences. We highlight an urgent need for support and recognition of autistic learners, alongside a need to integrate autistic voices in learning and teaching practices.",
+    "source": "Nature Geoscience",
+    "date": "2025-12-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67606-7",
+    "title": "Retraction Note: Nanomedicines reveal how PBOV1 promotes hepatocellular carcinoma for effective gene therapy",
+    "link": "https://www.nature.com/articles/s41467-025-67606-7",
+    "authors": [
+      "Yu Guo",
+      "Zhiqiang Wu",
+      "Shunli Shen",
+      "Ruomi Guo",
+      "Jing Wang",
+      "Weiwei Wang",
+      "Kun Zhao",
+      "Ming Kuang",
+      "Xintao Shuai"
+    ],
+    "summary": "Nature Communications, Published online: 16 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67606-7\">doi:10.1038/s41467-025-67606-7</a>Retraction Note: Nanomedicines reveal how PBOV1 promotes hepatocellular carcinoma for effective gene therapy",
+    "source": "Nature Communications",
+    "date": "2025-12-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-66812-7",
+    "title": "The ribosome derives the energy to translocate and unwind mRNA from EF-G binding",
+    "link": "https://www.nature.com/articles/s41467-025-66812-7",
+    "authors": [
+      "Hossein Amiri",
+      "William J. Van Patten",
+      "Gillian Rexroad",
+      "Varsha P. Desai",
+      "Benjamen A. Sterwerf",
+      "Laura Lancaster",
+      "Harry F. Noller",
+      "Carlos Bustamante"
+    ],
+    "summary": "Nature Communications, Published online: 16 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-66812-7\">doi:10.1038/s41467-025-66812-7</a>Ribosomes convert chemical energy to mechanical work. Here, the authors monitor ribosome binding to the GTPase EF-G and the ensuing mechanical work on mRNA in real time, uncovering a major energetic contribution from EF-G binding, rather than GTP hydrolysis, to the mechanical work.",
+    "source": "Nature Communications",
+    "date": "2025-12-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67216-3",
+    "title": "Molecular basis of XPF-ERCC1 targeting to SLX4-dependent DNA repair pathways",
+    "link": "https://www.nature.com/articles/s41467-025-67216-3",
+    "authors": [
+      "Junjie Feng",
+      "Peter R. Martin",
+      "Szymon Kowalski",
+      "Maxime Lecot",
+      "Nora B. Cronin",
+      "Teige Matthews-Palmer",
+      "Wojciech Niedzwiedz",
+      "Basil J. Greber"
+    ],
+    "summary": "Nature Communications, Published online: 16 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67216-3\">doi:10.1038/s41467-025-67216-3</a>Structure-specific endonucleases play an important role in several DNA repair pathways. Here the authors present structures of the endonuclease XPF-ERCC1 in complex with SLX4, SLX4IP, and DNA. Combined with functional analysis, these results provide insight into the mechanisms of XPF-ERCC1 recruitment and activation during DNA repair.",
+    "source": "Nature Communications",
+    "date": "2025-12-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67659-8",
+    "title": "Mechanism of alternative splicing of yeast <i>HEH1</i> through competing 5’ splice sites",
+    "link": "https://www.nature.com/articles/s41467-025-67659-8",
+    "authors": [
+      "Ankita Katoch Banyal",
+      "Poulami Choudhuri",
+      "Balashankar R. Pillai",
+      "Amjadudheen Varikkapulakkal",
+      "Shravan Kumar Mishra"
+    ],
+    "summary": "Nature Communications, Published online: 16 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67659-8\">doi:10.1038/s41467-025-67659-8</a>Here the authors show that alternative splicing of yeast HEH1 precursor mRNA with competing 5’ splice sites requires optimum decoding of the two sites by U5 and U6 snRNAs, supported by specific proteins of B and Bact spliceosomes, implying that closely spaced sites are used for alternative splicing in the core spliceosome.",
+    "source": "Nature Communications",
+    "date": "2025-12-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67466-1",
+    "title": "Integration of affective cues in context-rich and dynamic scenes varies across individuals",
+    "link": "https://www.nature.com/articles/s41467-025-67466-1",
+    "authors": [
+      "Jefferson Ortega",
+      "Yuki Murai",
+      "David Whitney"
+    ],
+    "summary": "Nature Communications, Published online: 16 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67466-1\">doi:10.1038/s41467-025-67466-1</a>Here, the authors examine how people combine facial expressions and context to understand others’ emotions. They find that most people use a Bayesian integration strategy, where cues are weighted based on ambiguity, but others use more simplistic averaging strategies.",
+    "source": "Nature Communications",
+    "date": "2025-12-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67515-9",
+    "title": "Multi-layered transcriptional control of glycogen metabolism coordinates thermogenic remodeling of white adipocytes in male mice",
+    "link": "https://www.nature.com/articles/s41467-025-67515-9",
+    "authors": [
+      "Haipeng Fu",
+      "Seoyeon Lee",
+      "Nathan R. Zemke",
+      "Weiwei Fan",
+      "Yunqing Wang",
+      "James Garza",
+      "David Tin",
+      "Bryce Villao",
+      "Bichen Zhang",
+      "Xianda Ma",
+      "Jinyang Zhang",
+      "Tangran Dong",
+      "Yuyao Ren",
+      "Michael Downes",
+      "Ronald M. Evans",
+      "Bing Ren",
+      "Alan R. Saltiel"
+    ],
+    "summary": "Nature Communications, Published online: 16 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67515-9\">doi:10.1038/s41467-025-67515-9</a>Previous studies suggested that glycogen metabolism played a role in beiging of subcutaneous adipocytes. This work identifies a β-adrenergic–driven transcriptional program that promotes glycogen synthesis and turnover during thermogenic activation of adipocytes. PGC1α and estrogen-related receptors (ERRs) cooperatively sustain this program by regulating chromatin accessibility and gene expression.",
+    "source": "Nature Communications",
+    "date": "2025-12-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67421-0",
+    "title": "Accurate imputation of pathway-specific gene expression in spatial transcriptomics with PASTA",
+    "link": "https://www.nature.com/articles/s41467-025-67421-0",
+    "authors": [
+      "Ruoxing Li",
+      "Peng Yang",
+      "Mauro Di Pilato",
+      "Jianjun Zhang",
+      "Christopher R. Flowers",
+      "Lulu Shang",
+      "Ziyi Li"
+    ],
+    "summary": "Nature Communications, Published online: 16 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67421-0\">doi:10.1038/s41467-025-67421-0</a>Numerous methods predict unmeasured gene expression in spatial transcriptomics data, but most focus on individual genes and yield variable results. Here, the authors present an approach that leverages cell type and spatial context for robust pathway expression prediction.",
+    "source": "Nature Communications",
+    "date": "2025-12-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-025-00745-z",
+    "title": "Past and future change in global river flows",
+    "link": "https://www.nature.com/articles/s43017-025-00745-z",
+    "authors": [
+      "Lukas Gudmundsson",
+      "Manuela I. Brunner",
+      "Petra Döll",
+      "Etienne Fluet-Chouinard",
+      "Natalia Frolova",
+      "Simon N. Gosling",
+      "Yukiko Hirabayashi",
+      "Maria B. Kireeva",
+      "Xiaomang Liu",
+      "Hannes Müller Schmied",
+      "Dmitriy Magritskiy",
+      "Louise J. Slater",
+      "Lina Stein",
+      "Yves Tramblay",
+      "Kaiwen Wang",
+      "Conrad Wasko",
+      "Dai Yamazaki",
+      "Xudong Zhou"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 16 December 2025; <a href=\"https://www.nature.com/articles/s43017-025-00745-z\">doi:10.1038/s43017-025-00745-z</a>Human influence on the climate and terrestrial systems is increasingly altering global river flow. This Review discusses past and projected changes in global river flow, with an emphasis on annual volumes, seasonal dynamics and sudden changes in flow dynamics.",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2025-12-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03089-0",
+    "title": "Moisture from US Corn Belt fuels more intense convective storms",
+    "link": "https://www.nature.com/articles/s43247-025-03089-0",
+    "authors": [
+      "Zhe Zhang",
+      "Andreas F. Prein",
+      "Cenlin He",
+      "Changhai Liu",
+      "Gonzalo Miguez-Macho",
+      "Fei Chen",
+      "Ronnie Abolafia-Rosenzweig",
+      "Tzu-Shun Lin",
+      "Roy Rasmussen"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 16 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03089-0\">doi:10.1038/s43247-025-03089-0</a>The groundwater-crop-irrigation interactions across the US Corn Belt amplify convective storm frequency, extend storm lifetime, and accelerate storm movement, based on a high-resolution regional climate model coupled with an advanced water vapor tracer.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-02966-y",
+    "title": "Blue carbon sequestration and storage potential has increased in seagrass sediments from Northern Morocco",
+    "link": "https://www.nature.com/articles/s43247-025-02966-y",
+    "authors": [
+      "Nezha Mejjad",
+      "Abdelmourhit Laissaoui",
+      "Azzouz Benkdad",
+      "Fouad Taous",
+      "Mohammed El Bouch",
+      "Anas Otmani",
+      "Moncef Benmansour"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 16 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-02966-y\">doi:10.1038/s43247-025-02966-y</a>Carbon accumulation rates in seagrass sediments in Northern Morocco have increased in recent years, according to sediment core analysis from coastal vegetated ecosystems in Northern Morocco.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03057-8",
+    "title": "Phreatic eruptions at Whakaari Volcano driven by hydrothermal mineralisation and magmatic gas input",
+    "link": "https://www.nature.com/articles/s43247-025-03057-8",
+    "authors": [
+      "Sophie C. Pearson-Grant",
+      "Michael J. Heap",
+      "Adrian E. Croucher"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 16 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03057-8\">doi:10.1038/s43247-025-03057-8</a>Phreatic eruptions at Whakaari volcano are influenced by subsurface pressurisation magnitudes and timescales, which are significantly influenced by hydrothermal mineralisation and magmatic gas input rates, according to 3-dimensional numerical modelling of volcanic hydrothermal systems.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.annualreviews.org/content/journals/10.1146/annurev-ea-51-121225-200001?TRACK=RSS",
+    "title": "Erratum: Petrogenesis and Geodynamic Significance of Xenolithic Eclogites",
+    "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-ea-51-121225-200001?TRACK=RSS",
+    "authors": [
+      "Sonja Aulbach and Katie A. Smart"
+    ],
+    "summary": "<div></div>",
+    "source": "Annual Review of Earth and Planetary Sciences: Most Recent Articles",
+    "date": "2025-12-17",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB031819",
+    "title": "Melt Architecture Under East Asian Volcanoes Revealed by Anisotropic Tomography",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB031819?af=R",
+    "authors": [
+      "Xuran Liang, \nDapeng Zhao, \nManuele Faccenda, \nShengxiong Yang, \nYi‐Gang Xu"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 130, Issue 12, December 2025.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2025-12-15",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB031788",
+    "title": "Initial Water Content in Pyroxenes Constrained by Experimental and Numerical Simulations: Reassessment of Clinopyroxene as a Standard for Estimating Water Content in the Earth's Upper Mantle",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB031788?af=R",
+    "authors": [
+      "Dongyang Ju, \nWei Du, \nZhaodong Liu, \nLuyao Chen, \nWen Yu"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 130, Issue 12, December 2025.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2025-12-15",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032438",
+    "title": "Fluid Pressure Diffusion and Elastic Stress Transfer From Seismic Slip Control Slip Front Expansion in Fluid‐Driven Swarm Seismicity",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032438?af=R",
+    "authors": [
+      "Natalia Berrios‐Rivera, \nSo Ozawa, \nEric M. Dunham"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 130, Issue 12, December 2025.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2025-12-15",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB031559",
+    "title": "Analysis of Seismic Wave Amplification in Sedimentary Basins Using 3D Wavefield Simulations: Nenana Basin, Central Alaska",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB031559?af=R",
+    "authors": [
+      "Yuan Tian, \nCarl Tape"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 130, Issue 12, December 2025.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2025-12-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725007069",
+    "title": "A novel experimental V-Sc olivine-melt oxybarometer for arc magmas",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725007069?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 15 December 2025<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Enzo-Enrico Cacciatore, Ivano Gennaro, Kalin Kouzmanov, Alexandra Tsay, Zoltán Zajacz",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725007057",
+    "title": "Contrasting Cu isotope signatures in arc magmas and lower continental crust: insights into deep crust copper reservoir",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725007057?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 15 December 2025<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Xin Ding, Ying Yang, Zhaoqi Ren, Shubing Fang, Erik V. Sørensen, Paul M. Holm, Fang Huang",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-17",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53967.1/723271/Authigenic-clays-shaped-Ediacara-style-exceptional",
+    "title": "Authigenic clays shaped Ediacara-style exceptional fossilization",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53967.1/723271/Authigenic-clays-shaped-Ediacara-style-exceptional",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The Ediacara Biota—Earth’s earliest fossilized ecosystems of complex, macroscopic organisms—has played a key role in shaping understanding of the transition between the Precambrian and early Paleozoic radiations of animal diversity. The majority of Ediacara Biota Lagerstätten are exceptionally preserved in the distinctive Ediacara style as three-dimensional casts and molds in sandstones. However, the factors responsible for the fossilization of these soft-bodied organisms—in particular, for their preservation in compositionally immature sandstones and heterolithic strata—remain debated. In this study, we investigate the taphonomic importance of clay minerals in fostering Ediacara-style fossilization in classic Ediacara Biota fossil assemblages in Newfoundland and northwestern Canada. Using a combination of electron microscopy, X-ray diffraction, and major and trace element and lithium isotope analyses, we describe evidence for both detrital and early diagenetic clay minerals associated with these fossils. In particular, we document iron- and magnesium-rich clays, including chamosite and other chlorite-group minerals, which may reflect an authigenic precursor such as berthierine, a mineral that has also been implicated in other modes of exceptional preservation. Lithium isotope data corroborate the importance of detrital and marine authigenic clays in shaping the moldic preservation of these fossils. These results provide a broader view of potential drivers of the Ediacara-style fossil record and suggest that authigenic clay mineralization may have shaped multiple windows of exceptional fossilization across the Neoproterozoic−Paleozoic transition.</span>",
+    "source": "Geology Advance Access",
+    "date": "2025-12-15",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38466.1/723270/Mesozoic-Cenozoic-exhumation-and-tectonic",
+    "title": "Mesozoic−Cenozoic exhumation and tectonic evolution of central Tibet",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38466.1/723270/Mesozoic-Cenozoic-exhumation-and-tectonic",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Orogenic plateaus preserve a long-term record of lithospheric deformation. The evolution history of the Tibetan Plateau, the world’s largest orogenic plateau, is obscured by multiple tectonic overprints, especially in central Tibet (Qiangtang and Hoh Xil−Songpan-Ganzi terranes). Understanding the Mesozoic−Cenozoic tectonic history is critical because this interval covers the successive closures of the Paleo-, Meso-, and Neo-Tethys Oceans, and corresponding terrane collisions, all of which have shaped the plateau’s present topography to varying degrees. Here, we present new zircon U-Pb and apatite fission-track data from Late Jurassic−Paleogene sandstones and igneous clasts from central Tibet. Detrital zircon U-Pb dates constrain provenance, whereas apatite fission-track ages reflect exhumation, together providing a record of deformation and exhumation of the sedimentary sources. The data show that during the late Early Jurassic−earliest Cretaceous (180−140 Ma), the Hoh Xil−Songpan-Ganzi terrane was largely a peneplain that supplied detritus for the Qiangtang shallow- and marginal marine deposits. In the Early Cretaceous (130−100 Ma), the closure of the Meso-Tethys Ocean and subsequent Lhasa-Qiangtang collision drove widespread deformation across Qiangtang, except in northern North Qiangtang. By the Late Cretaceous (90−70 Ma), deformation had shifted northward into the central and northern North Qiangtang and Hoh Xil, likely associated with the flat-slab subduction of the Neo-Tethys oceanic lithosphere beneath southern Tibet. Resumption of normal-angle subduction of the Neo-Tethys Ocean (70−60 Ma) and the subsequent India-Asia collision (60−50 Ma) led to focused deformation in South Qiangtang and central North Qiangtang. Northward thrust loading from the Tanggula thrust belt in central North Qiangtang resulted in deposition in the Hoh Xil foreland basin. During the middle Eocene−early Oligocene (50−30 Ma), the plateau’s northern boundary and deformation front migrated northward, transforming the Hoh Xil foreland basin into hinterland basins. No evidence of horizontal shortening was found in central Tibet during the Neogene (after 23 Ma); however, the Hoh Xil Basin probably experienced additional surface uplift due to subsurface geodynamic processes. Together, these results highlight the following: (1) Central Tibet experienced two distinct phases of northward plateau growth during the Cretaceous and Cenozoic, and (2) early Mesozoic Paleo-Tethys tectonic events contributed negligibly to the present high elevation of the Tibetan Plateau.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2025-12-15",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwaf577",
+    "title": "Strain, stress, and rotation fields, and energetic features of twisted 2D materials",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf577/8381225?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Twisted two-dimensional (2D) materials exhibit remarkable quantum properties due to Moiré-pattern-induced electronic band structure change, highly sensitive to nanoscale deformation from atomic-scale reconstruction. The absence of an analytical model linking deformation to twist angle limits property tunability. We developed a theoretical model characterizing deformation and energetics of twisted 2D materials. As twist angle increases, Moiré patterns evolve from triangular partial-dislocation networks to hexagonal domains with domain walls. Using anisotropic dislocation theory, we derived analytical expressions for local rotation, strain, and stress fields at small twist angles, and a nonlinear formula relating energy density to twist angle, capturing the transition from rapid growth to near saturation (0–30°). Theoretical predictions agree well with previous experimental and computational studies and our atomistic simulations for twisted bilayer graphene, hexagonal boron nitride, and trilayer graphene. This work provides a theoretical foundation for twist-angle control of quantum properties, enabling design of 2D quantum devices.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2025-12-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136825006262",
+    "title": "3D mineral prospectivity modeling using a multi-scale CNN–transformer: A case study from the Siahcheshmeh gold deposit, NW Iran",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136825006262?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 15 December 2025<b>Source:</b> Ore Geology ReviewsAuthor(s): Salman Farahani, Abbas Bahroudi",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2025-12-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136825006298",
+    "title": "Ore-finding criteria of a hydrothermal-overprint sandstone-hosted uranium deposit: A case study from the southern Songliao Basin, China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136825006298?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 15 December 2025<b>Source:</b> Ore Geology ReviewsAuthor(s): Qingchun Li, Hui Rong, Minqiang Cao, Anjing Man, Jianxin Shao, Qiwei Wang, Junxing Ren",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2025-12-17",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-025-04054-9",
     "title": "Giving a voice to animals: Laos’s national herpetologist on her day-to-day",
     "link": "https://www.nature.com/articles/d41586-025-04054-9",
