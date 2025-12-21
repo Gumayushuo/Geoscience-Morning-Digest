@@ -1,5 +1,522 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-025-67753-x",
+    "title": "Emergence of mammalian-adaptive PB2 mutations enhances polymerase activity and pathogenicity of cattle-derived H5N1 influenza A virus",
+    "link": "https://www.nature.com/articles/s41467-025-67753-x",
+    "authors": [
+      "Lei Zhang",
+      "Yuerong Lai",
+      "Yingzi Cui",
+      "Qiuxian Yang",
+      "Yuekun Shao",
+      "Shenyang Ding",
+      "Haojie Wang",
+      "Liang Wang",
+      "George Fu Gao",
+      "Tao Deng"
+    ],
+    "summary": "Nature Communications, Published online: 20 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67753-x\">doi:10.1038/s41467-025-67753-x</a>Avian influenza A H5N1 has recently caused infections in humans following spillover events into cattle. Here, the authors investigate the genetic basis for the expanded host range of the virus.",
+    "source": "Nature Communications",
+    "date": "2025-12-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-64766-4",
+    "title": "Scoping review of artificial intelligence via mobile technology and social media for health in Africa",
+    "link": "https://www.nature.com/articles/s41467-025-64766-4",
+    "authors": [
+      "Shakuntala Baichoo",
+      "Olubusola Oladeji",
+      "Leanne Villareal",
+      "Huguette Diakabana",
+      "Akinkunmi Paul Okekunle",
+      "Vukosi Marivate",
+      "Fred Kaggwa",
+      "Elaine O. Nsoesie"
+    ],
+    "summary": "Nature Communications, Published online: 20 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-64766-4\">doi:10.1038/s41467-025-64766-4</a>There are many opportunities to combine mobile technologies and social media with Artificial Intelligence to improve health in Africa. Here, the authors conduct a scoping review on such tools and make recommendations to enhance their contribution in advancing health in Africa.",
+    "source": "Nature Communications",
+    "date": "2025-12-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67678-5",
+    "title": "Lithium-ion battery recycling through an integrated electro-membrane crystallization technology",
+    "link": "https://www.nature.com/articles/s41467-025-67678-5",
+    "authors": [
+      "Yan Zhao",
+      "Yangbo Qiu",
+      "Lei Xia",
+      "Xi Zhang",
+      "Shuang Zheng",
+      "Gang Lu",
+      "Jin Shang",
+      "Raf Dewil",
+      "Seth B. Darling",
+      "Bart Van der Bruggen",
+      "Chuyang Tang"
+    ],
+    "summary": "Nature Communications, Published online: 20 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67678-5\">doi:10.1038/s41467-025-67678-5</a>This study presents a scalable and sustainable electro-membrane crystallization-assisted general recycling technology that efficiently recovers high-purity lithium, manganese, nickel, and cobalt from spent lithium-ion batteries.",
+    "source": "Nature Communications",
+    "date": "2025-12-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67435-8",
+    "title": "Zinc-oligoether carboxylate salts as electrolyte additives for aqueous Zn metal batteries",
+    "link": "https://www.nature.com/articles/s41467-025-67435-8",
+    "authors": [
+      "John Brown",
+      "Ivette Aguilar",
+      "Juan Forero-Saboya",
+      "Chhail Bihari Soni",
+      "Hugo Chotard",
+      "Yuhuan Wang",
+      "Everett Zuras",
+      "Jean-Marc Noël",
+      "Jean-Marie Tarascon",
+      "Alexis Grimaud"
+    ],
+    "summary": "Nature Communications, Published online: 20 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67435-8\">doi:10.1038/s41467-025-67435-8</a>Aqueous zinc batteries suffer from hydrogen evolution and dendrite growth during zinc plating. Here, authors report zinc oligoether salts as electrolyte additives to promote the formation of passivation layer on Zn metallic electrode and extend the lifetime of aqueous Zn-based batteries.",
+    "source": "Nature Communications",
+    "date": "2025-12-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67247-w",
+    "title": "Mapping risks of health conditions in people with atopic eczema in English primary care and hospital data",
+    "link": "https://www.nature.com/articles/s41467-025-67247-w",
+    "authors": [
+      "Julian Matthewman",
+      "Anna Schultze",
+      "Krishnan Bhaskaran",
+      "Amanda Roberts",
+      "Spiros Denaxas",
+      "Kathryn E. Mansfield",
+      "Sinéad M. Langan"
+    ],
+    "summary": "Nature Communications, Published online: 20 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67247-w\">doi:10.1038/s41467-025-67247-w</a>A study using English electronic health records from millions of people with atopic eczema provides an evidence resource covering the full spectrum of associated comorbidity, providing a big picture overview as well as results for each individual outcome.",
+    "source": "Nature Communications",
+    "date": "2025-12-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67640-5",
+    "title": "Insights into the self-assembly and interaction of sars-cov-2 fusion peptides with biomimetic plasma membranes",
+    "link": "https://www.nature.com/articles/s41467-025-67640-5",
+    "authors": [
+      "Nisha Pawar",
+      "Andreas Santamaria",
+      "Brigida Romano",
+      "Krishna C. Batchu",
+      "Valerie Laux",
+      "Eduardo Guzman",
+      "Nathan. R. Zaccai",
+      "Alberto Alvarez-Fernandez",
+      "Armando Maestro"
+    ],
+    "summary": "Nature Communications, Published online: 20 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67640-5\">doi:10.1038/s41467-025-67640-5</a>This study shows how SARS-CoV-2 fusion peptides assemble and reshape membranes, revealing cooperative mechanisms that lower barriers to viral entry and offering principles for designing antiviral and membrane-responsive nanomaterials.",
+    "source": "Nature Communications",
+    "date": "2025-12-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67480-3",
+    "title": "Trait-like visual cortical hyperactivity in trait anxiety",
+    "link": "https://www.nature.com/articles/s41467-025-67480-3",
+    "authors": [
+      "Zhaohan Wu",
+      "Yuqi You",
+      "Joshua A. Brown",
+      "Raymond J. Dolan",
+      "Wen Li"
+    ],
+    "summary": "Nature Communications, Published online: 20 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67480-3\">doi:10.1038/s41467-025-67480-3</a>Here, the authors show people with high trait anxiety display stable, parvocellular-specific visual cortical hyperactivity linked to disrupted cortical excitation–inhibition modulation. Trait anxiety thus alters sensory encoding from the earliest stages of cortical processing.",
+    "source": "Nature Communications",
+    "date": "2025-12-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-66377-5",
+    "title": "Chromosome-level haplotype-resolved assembly of highly heterozygous grass genomes with PhaseGrass",
+    "link": "https://www.nature.com/articles/s41467-025-66377-5",
+    "authors": [
+      "Yutang Chen",
+      "Dario Copetti",
+      "Roland Kölliker",
+      "Martin Mascher",
+      "Axel Himmelbach",
+      "Nils Stein",
+      "Bruno Studer"
+    ],
+    "summary": "Nature Communications, Published online: 20 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-66377-5\">doi:10.1038/s41467-025-66377-5</a>Current methods to generate haplotype-resolved assemblies for highly heterozygous genomes suffer from reference bias or may generate imbalanced haplomes. Here, the authors present the PhaseGrass workflow and demonstrate its application in assembling highly heterozygous genomes of Lolium perenne and L. multiflorum.",
+    "source": "Nature Communications",
+    "date": "2025-12-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03106-2",
+    "title": "Riverine emission of small plastic particles from Yangtze River into the ocean",
+    "link": "https://www.nature.com/articles/s43247-025-03106-2",
+    "authors": [
+      "Yalan Chen",
+      "Yiting Wei",
+      "Dongyu Xu",
+      "Ke Sun",
+      "Bo Gao"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 20 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03106-2\">doi:10.1038/s43247-025-03106-2</a>In the Yangtze River, microplastic abundance decreased with increasing water depth, and the central channel exhibited lower microplastic abundance compared to the left and right channels, according to field monitoring of plastic particle fluxes.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03079-2",
+    "title": "Leveraging peri-urban forests to reduce temperature and air pollution-related urban mortality in European cities",
+    "link": "https://www.nature.com/articles/s43247-025-03079-2",
+    "authors": [
+      "Alessandro Anav",
+      "Maurizio Gualtieri",
+      "Beatrice Sorrentino",
+      "Ilaria D’Elia",
+      "Pierre Sicard",
+      "Elena Paoletti",
+      "Alessandra De Marco"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 19 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03079-2\">doi:10.1038/s43247-025-03079-2</a>Across European cities, peri-urban green areas can reduce mortality from non-optimal temperatures and, to a lesser extent, air pollution, with effectiveness depending on tree species and meteorological conditions, according to a coupled climate-chemistry model and tree planting scenarios.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03104-4",
+    "title": "Mediterranean precipitation variability is driven by complex atmospheric mechanisms beyond the North Atlantic Oscillation",
+    "link": "https://www.nature.com/articles/s43247-025-03104-4",
+    "authors": [
+      "Marco Luppichini",
+      "Stefano Natali",
+      "Andrea Columbu",
+      "Giovanni Zanchetta",
+      "Monica Bini"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 19 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03104-4\">doi:10.1038/s43247-025-03104-4</a>Precipitation variability over Italy is shaped mainly by Mediterranean climate patterns rather than Atlantic influences, which underscores the role of Mediterranean cyclogenesis in regional rainfall dynamics, according to deep learning, teleconnection, and back-trajectory analyses.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1093/pnasnexus/pgaf367?af=R",
+    "title": "Unsupervised detection of building destruction during war from publicly available radar satellite imagery",
+    "link": "https://www.pnas.org/doi/abs/10.1093/pnasnexus/pgaf367?af=R",
+    "authors": [
+      "Daniel RacekQi ZhangPaul Wilhelm ThurnerXiao Xiang ZhuGöran KauermannCharles Haas"
+    ],
+    "summary": "PNAS Nexus, Volume 4, Issue 12, December 2025. <br />Automated detection of building destruction in conflict zones is crucial for human rights monitoring, humanitarian response, and academic research. However, existing approaches (i) rely on proprietary satellite imagery, both expensive and of limited ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2025-12-09",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119364",
+    "title": "Carbonic Fluids Drive Continental Carbon Cycling as Revealed by the Geochemistry of the Eclogite‐Garnet Peridotite Interface",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119364?af=R",
+    "authors": [
+      "Dong‐Bo Tan, \nJing Lei, \nYilin Xiao, \nHai‐Ou Gu, \nHe Sun, \nXiangying Ye, \nZeng‐Li Guo"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-19",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119873",
+    "title": "The Global Propagation of Hiss Waves Originating From Dynamic Plasmaspheric Plume",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119873?af=R",
+    "authors": [
+      "Xiangling Ding, \nZhiyong Wu, \nZhaoguo He, \nQi Yan, \nXiangyu Chen, \nJiang Yu, \nYonghui Ma"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-19",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL116639",
+    "title": "Separating Multi‐Decadal and Interannual Dynamics in the North Pacific‐Stratospheric Polar Vortex Relationship and Their Teleconnection to the North Atlantic",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL116639?af=R",
+    "authors": [
+      "F. M. Palmeiro, \nP. Hitchcock, \nJ. García‐Serrano"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-19",
+    "sent": true
+  },
+  {
+    "id": "10.1029/grl.67663",
+    "title": "Issue Information",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/grl.67663?af=R",
+    "authors": [
+      null
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-19",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117700",
+    "title": "The Dominant Role of Crustal Fields in Structuring Electromagnetic Environment Within the Martian Dayside Magnetosphere",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117700?af=R",
+    "authors": [
+      "Shibang Li, \nHaoyu Lu, \nJinbin Cao, \nNihan Chen, \nYihui Song, \nJianxuan Wang, \nYuchen Cao, \nJianing Zhao, \nQimeng Wang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-19",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL116602",
+    "title": "Landscape Signature of Seismogenic Faults in the Off and Onshore Domains of the Noto Peninsula in Japan's Back‐Arc",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL116602?af=R",
+    "authors": [
+      "Luca C. Malatesta, \nShigeru Sueoka, \nNina‐Marie Weiß, \nBoris Gailleton, \nSumiko Tsukamoto, \nDaisuke Ishimura, \nNaoya Takahashi, \nTakuya Nishimura, \nKyoko Kataoka, \nTetsuya Komatsu, \nYoshiya Iwasa"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-19",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119362",
+    "title": "Uranus' Long‐Term Thermospheric Cooling Is Unlikely to Be Primarily Driven by the Solar Wind",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119362?af=R",
+    "authors": [
+      "Jamie M. Jasinski, \nHenrik Melin, \nJames A. Sinclair, \nSophia Zomerdijk‐Russell, \nNick Achilleos, \nCarol Paty"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-19",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117560",
+    "title": "Urban Basin Structure Imaging in Northern Los Angeles From Ambient Noise Differential Adjoint Tomography",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117560?af=R",
+    "authors": [
+      "Zhanwen Li, \nXin Liu, \nXi Wang, \nLina Gao"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-19",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL116414",
+    "title": "Quantification of Scales Not Constrained by Observation Using Ensembles",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL116414?af=R",
+    "authors": [
+      "K. Andrew Peterson, \nGregory C. Smith, \nKamel Chikhar, \nAndrea Storto"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-19",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119264",
+    "title": "MOS and RREA Processes in Thunderclouds: Intensities and Spectral Shapes",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119264?af=R",
+    "authors": [
+      "Ashot Chilingarian, \nMary Zazyan"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-19",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117992",
+    "title": "Quantifying the Relationships Between Dynamics and Rainfall Intensity Along the Mei‐Yu Front During PRECIP 2022",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117992?af=R",
+    "authors": [
+      "Jennifer C. DeHart, \nMichael M. Bell"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-19",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118281",
+    "title": "Induced Earthquakes Inhibited by Shear Thickening Fluid",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118281?af=R",
+    "authors": [
+      "Lu Wang, \nYusuke Mukuhira, \nYasuo Yabe, \nSando Sawa, \nJun Muto"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-19",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117642",
+    "title": "Beyond Oxygen Fugacity: A Compositional Metric to Probe Earth's Redox Structure",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117642?af=R",
+    "authors": [
+      "Matthieu Emmanuel Galvez, \nOthmar Müntener, \nSamuel Laurent Jaccard"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-19",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2024JB030439",
+    "title": "Tectonics and Surface Processes During Collisional Orogenesis—Exploring the Parameter Space of the Beaumont Number",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JB030439?af=R",
+    "authors": [
+      "S. G. Wolf, \nR. S. Huismans, \nJ. Braun"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 130, Issue 12, December 2025.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2025-12-19",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB031856",
+    "title": "Satellite Geodesy Reveals Shallow, Transient Magma Intrusions at Sotará Volcano, Colombia",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB031856?af=R",
+    "authors": [
+      "Rosa Alpala, \nJorge Alpala, \nPatricia A. Rosell, \nLeonardo D. Euillades, \nPablo A. Euillades, \nMaurizio Battaglia"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 130, Issue 12, December 2025.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2025-12-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725007239",
+    "title": "Impact of strong redox shifts and manganese cycling on sedimentary molybdenum isotopes in stratified hypoxic/euxinic basins",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725007239?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 20 December 2025<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Martin Wille, Olaf Dellwig, Florian Kurzweil, Helge W. Arz, Leo Armingeon, Qasid Ahmad",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725007021",
+    "title": "K isotope behavior in topsoil from the southeastern margin of the Tibetan Plateau",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725007021?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 19 December 2025<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Yanan Cheng, Jun Mu, Peizheng He, Cheng Cao, Shichao An, Can Zhang, Xiaoping Feng, Cheng Zhao, Xiao-Ming Liu",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725007203",
+    "title": "Modeling extreme nitrogen isotope variability in Neoarchean diamonds from Knee Lake, Superior Craton",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725007203?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 19 December 2025<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Andrea Pezzera, Long Li, Richard A. Stern, D.Graham Pearson",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725007197",
+    "title": "Significant nitrogen enrichment in altered upper oceanic crust in marginal seas: New insights into global subducting nitrogen budget and deep nitrogen recycling",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725007197?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 19 December 2025<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Liheng Sun, Yunying Zhang, Kan Li, Zhen Sun, Ruifang Huang, Long Li",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725007124",
+    "title": "Radiocarbon and bulk isotope composition of subglacial methane and carbon dioxide emitted at the western margin of the Greenland ice sheet",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725007124?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 19 December 2025<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Getachew Agmuas Adnew, Moritz Schroll, Thomas Röckmann, Frank Keppler, Sarah Elise Sapper, Christian Juncher Jørgensen, Thomas Blunier, Thomas Laemmel, Sönke Szidat, Carina van der Veen, Jesper Riis Christiansen",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725007136",
+    "title": "Mercury isotope perspectives on vegetation-enhanced nickel mobilization and migration during laterite formation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725007136?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 19 December 2025<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Ruo-Lin Liu, Martin Yan Hei Li, Run-Sheng Yin, Mei-Fu Zhou, Jun-Hong Zhao",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-21",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38762.1/723675/The-coupling-mechanism-of-climatic-oscillations",
+    "title": "The coupling mechanism of climatic oscillations, tectonic activities, episodic geological forcings, and lacustrine chemical-physical-biological conditions in modulating organic carbon burial processes",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38762.1/723675/The-coupling-mechanism-of-climatic-oscillations",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Deep-time lacustrine organic carbon burial (OCB) provides a critical window for understanding global carbon cycling and climate change. However, its detailed processes and driving mechanisms require further exploration. Here, we reconstruct the OCB processes (OCBP) in the Zhanhua Depression—a representative saline rift lake basin in East Asia formed under greenhouse climatic conditions. We find that climatic oscillations, tectonic activities, and episodic geological forcings (e.g., marine transgressions and turbidity currents) significantly influence the lacustrine chemical-physical-biological conditions, which themselves exhibit complex internal interactions. These four factors collectively govern each component (source, production, consumption, burial, and preservation) of OCBP. The impact of a single factor on organic carbon enrichment in each component of OCBP varies—and may even exhibit both beneficial and detrimental effects within a single component. The outcome of OCBP is determined by the coupled effects of the above four factors (including the combination style of the factors, their relative strengths and weaknesses, and their positive and negative effects on organic carbon enrichment). This study identifies four distinct OCB mechanisms: marine transgression driven (42.47−41.72 Ma), lacustrine chemical-physical-biological conditions driven (41.72−41.52 Ma), warm-humid climate and intense tectonism driven (41.52−40.68 Ma), and turbidity current driven (40.68−40.20 Ma). High-frequency coupling variations among influencing factors drove shifts in lacustrine OCB mechanisms of minimal 0.2 m.y. scale.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2025-12-19",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38296.1/723674/Variscan-granitoid-magmatism-in-Northwest-Iberia",
+    "title": "Variscan granitoid magmatism in Northwest Iberia (Europe): Age and nature of the melting events and implications for continental orogenic evolution",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38296.1/723674/Variscan-granitoid-magmatism-in-Northwest-Iberia",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The Iberian Variscan orogen is notorious for its important granitic magmatism. New field data, petrography, U-Pb zircon geochronology (sensitive high-resolution ion microprobe and chemical abrasion−isotope dilution−thermal ionization mass spectrometry), mineral and whole-rock geochemistry, and Sr-Nd isotope geochemistry were used to define two magmatic pulses in Northwest Iberia (Europe). The first magmatic event (324−315 Ma), caused by radiogenic heat production in a thickened crust, produced syntectonic G1 granitoids formed by I- ± S-type granites−granodiorites containing mafic enclaves. Lower crust metaigneous ± metasedimentary ± upper-mantle sources are inferred for these magmas. Simultaneously, important volumes of syntectonic S-type granites (G2) were produced. Neoproterozoic and early Paleozoic metasedimentary rocks and Cambrian−Ordovician orthogneisses were the likely protoliths. This initial melting event reduced the fertility of the middle−lower crust and conditioned the subsequent magmatic pulse (294−287 Ma) that produced post-tectonic G3 and G4 granitoids in a thinner crust. Lithospheric delamination and asthenospheric upwelling are the proposed heat sources in this case. G3 includes S-type granites derived from sources that preserved fertile components. Simultaneously, a significant volume of G4, including mainly I-type granitoids, was produced by the melting of residual and unmelted sources left behind after the first melting event. These sources comprised restitic metasedimentary rocks and juvenile mafic, intermediate metaigneous rocks. Small mafic enclaves attest to the minor involvement of mantle-derived melts. This model of Variscan magmatism shows that most S-type granites initially occurred due to the presence of fertile lithologies. The depletion of these fertile protoliths conditioned the subsequent melting event, resulting in the formation of a majority of I-type granites.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2025-12-19",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38390.1/723673/Control-mechanisms-on-deep-time-gravel",
+    "title": "Control mechanisms on deep-time gravel distribution: Insights from sediment generation and routing systems in the northwestern Kuqa Foreland Basin, Northwest China",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38390.1/723673/Control-mechanisms-on-deep-time-gravel",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The spatiotemporal distribution of gravel deposits in foreland basins integrates tectonic, climatic, and provenance controls, yet systematic cascade-control frameworks remain limited. Using an integrated approach that considers sediment generation and the sediment routing system, we established a three-tiered model to decipher the internal mechanisms controlling sediment production, transport, and pathway reorganization in the Neogene−Quaternary Kuqa Depression of Northwest China. This model links provenance attributes, tectonic-climate coupling, and basin response. Multidisciplinary, high-resolution datasets—including cores, thin sections, cuttings, well logs, and 3-D seismic volumes—were synthesized for analysis of provenance systems, sediment conduits, depositional architecture, and gravel compositional patterns. Development of a multifactor coupled depositional evolution model revealed that gravel distribution in early−late Miocene (Jidike to Kangcun formation) fan delta−lacustrine systems was controlled by catchment area and parent rock lithology, whereas Pliocene−Pleistocene (Kuche to Xiyu formations) alluvial fan−fluvial systems were dominated by drainage divide location, provenance distance, hydrodynamic regime, and source rock exposure area. The construction of a three-tiered model, which links provenance, tectonics, climate, and basin response, resulted in three main findings: (1) Provenance attributes govern gravel production via source rock lithology, spatial configuration, and sediment conduits, resulting in multisource gravel assemblages with variable productivity. Provenance evolution includes three phases: mixed northern-central-southern Tianshan, southern Tianshan dominance, and intrabasinal sourcing. (2) Tectonic-climatic interplay modulates sediment routing networks. Paleotopography and structural dynamics govern sediment dispersal pathways and spatial configurations through their controls on source terrain exhumation, subsidence history, and landscape reorganization. Climatic variability additionally influences sedimentary textural attributes and compositional zonation through its regulation of precipitation patterns, stream discharge regimes, and weathering processes. (3) Basin-level controls, including spatial differences among transport conduits and the dynamic evolution of accommodation space, govern gravel thickness and fan progradation direction, and ultimately dictate the resultant gravel distribution patterns. This study deepens understanding of provenance, tectonic, and climate interactions; clarifies sediment-generation routing linkages; and offers a predictive theoretical framework for sediment dispersal and depositional architecture evolution in orogenic belt−basin systems.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2025-12-19",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38345.1/723671/The-origin-of-A-type-granites-and-W-Sn-REE-Nb-Ta",
+    "title": "The origin of A-type granites and W-Sn-REE-Nb-Ta mineralization: Insights from geochronology, geochemistry, and Sr-Nd-Pb-Hf-O isotopes of Xiaonanshan granitoids in Guangdong Province, South China",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38345.1/723671/The-origin-of-A-type-granites-and-W-Sn-REE-Nb-Ta",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The Xiaonanshan W deposit, located in Guangdong Province, South China, is a quartz vein−type deposit that is linked to medium- to fine-grained granite. The ore bodies primarily occur as quartz veins, sulfide-quartz veins, and greisen veins. Zircon U-Pb dating of the fine-grained granite yields an age of 80.04 ± 0.37 Ma, and muscovite from the W-bearing greisen vein provides a <sup>40</sup>Ar-<sup>39</sup>Ar plateau age of 81.01 ± 0.41 Ma. Precise Re-Os dating of molybdenite coexisting with wolframite yields Re-Os model ages for four samples ranging from 81.17 ± 0.92 Ma to 79.27 ± 0.9 Ma, with a weighted mean age of 80.1 ± 1.3 Ma and an Re-Os isochron age of 78.3 ± 2.7 Ma. These geochronological results indicate that both the granite and the associated W mineralization formed simultaneously during the Late Cretaceous.The granite is characterized by high SiO<sub>2</sub> contents (72.18−73.45 wt%), elevated total alkalis (Na<sub>2</sub>O + K<sub>2</sub>O = 11.35−12.18 wt%), and enriched rare earth elements (REEs; ΣREE = 247.9−294.1 ppm), as well as high Ga/Al ratios (10,000 × Ga/Al = 3.39−3.63). These characteristics classify it as an A-type granite with an A<sub>2</sub>-subtype affinity. Sr-Nd isotope analyses yield initial <sup>87</sup>Sr/<sup>86</sup>Sr values ranging from 0.7065 to 0.7082, and ε<sub>Nd</sub>(t) values from −5.8 to −4.5. Pb isotope compositions show little variation, with <sup>206</sup>Pb/<sup>204</sup>Pb, <sup>207</sup>Pb/<sup>204</sup>Pb, and <sup>208</sup>Pb/<sup>204</sup>Pb values ranging from 18.524 to 18.821, 15.704−15.719, and 38.799−39.000, respectively. In situ Hf-O isotope analyses reveal ε<sub>Hf</sub>(t) values ranging from −7.16 to +0.88, and uniform δ<sup>18</sup>O values of 6.2‰ to 7.3‰, suggesting a mixed mantle-crust source. The calculated oxygen fugacity (<span style=\"font-style: italic;\">f</span>O<sub>2</sub>) values range from FMQ −0.41 to FMQ +1.21. Zircon grains exhibit relatively low Eu/Eu*(0.06−0.12) and Ce/Ce* ratios (2.33−22.87), indicative of low oxygen fugacity. The visible tetrad effect (0.78−0.80), coupled with the presence of abundant Nb-Ta minerals and enriched REEs, suggests strong fractionation and significant W-Sn-Nb-Ta-REE mineralization potential. Additionally, garnet U-Pb dating of the Cu-Pb-Zn−bearing skarn in the deposit’s periphery yields an age of 81.2 ± 2.7 Ma, consistent with the emplacement of the Xiaonanshan granite and associated W-Sn mineralization. This correlation underscores the potential for skarn Cu-Pb-Zn-Sn polymetallic deposits and peripheral vein Pb-Zn-Ag mineralization. The large-scale Cretaceous granitoid magmatism and W-Sn polymetallic mineralization in the region are attributed to lithospheric extension. Further evaluation of the W-Sn, Nb-Ta-REE, and Pb-Zn-Ag mineralization potential of Cretaceous A-type granites in eastern China remains crucial.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2025-12-19",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38419.1/723670/Space-weathering-effects-on-the-lunar-farside",
+    "title": "Space weathering effects on the lunar farside revealed by Chang’e-6 samples",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38419.1/723670/Space-weathering-effects-on-the-lunar-farside",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Space weathering extensively transforms the materials on the lunar surface due to solar wind irradiation and micrometeorite impact. However, the spatial variability of space weathering across the lunar surface is not yet well understood. The recently returned Chang’e-6 samples from the Apollo Basin provide a new perspective for exploring space weathering on the lunar farside. In this study, we report the space weathering characteristics of the Chang’e-6 samples from the farside of the Moon. All mineral phases exposed on the surface of a single basaltic clast exhibit a typical phase-dependent, solar wind irradiation−damaged zone, but lack a vapor-deposit layer. The nanophase iron (npFe<sup>0</sup>) particles produced by solar wind H<sup>+</sup> are observed as spheres in the pyroxene amorphous rim, elongated in ilmenite, and absent from Fe-poor plagioclase. Compared with samples from the nearside, the Chang’e-6 samples show deeper solar wind damage in a shorter exposure time, while the npFe<sup>0</sup> particles are concentrated in the shallow part. Stopping and Range of Ions in Matter (SRIM) ion implantation modeling results indicate that the solar wind on the farside may be dominated by high-energy ion (He<sup>+</sup>) effects, while the penetration depth of low-energy ions (H<sup>+</sup>) is limited due to the shielding of local magnetic anomalies. These observations suggest significant differences in space weathering effects between the lunar nearside and farside, which may be attributed to the presence of local magnetic anomalies on the lunar farside.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2025-12-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136825006419",
+    "title": "Physicochemical conditions in controlling Au and Ag precipitation of ore-forming processes from the Yindongpo and Poshan Au-Ag-Pb-Zn deposits, Tongbai region: Constraints from chlorite mineralogy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136825006419?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 20 December 2025<b>Source:</b> Ore Geology ReviewsAuthor(s): Zhen Zhao, Wei Li, Xiao-Xuan Liu, Gui-Qing Xie, De-Xian Zhang, Ke Huang, Xiang-Wei Tang, Yu-Cheng Gong, Shui-Shi Zeng",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2025-12-21",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-025-10022-0",
     "title": "Author Correction: Cryo-EM structure of a natural RNA nanocage",
     "link": "https://www.nature.com/articles/s41586-025-10022-0",
