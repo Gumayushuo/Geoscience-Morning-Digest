@@ -1,5 +1,489 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-025-10058-2",
+    "title": "NAC controls nascent chain fate through tunnel sensing and chaperone action",
+    "link": "https://www.nature.com/articles/s41586-025-10058-2",
+    "authors": [
+      "Jae Ho Lee",
+      "Laurenz Rabl",
+      "Martin Gamerdinger",
+      "Vaishali Goyal",
+      "Katrin Michaela Khakzar",
+      "Natalia Moreira Barbosa",
+      "Juliana Abramovich",
+      "Fabian Morales-Polanco",
+      "Ann-Kathrin Köhler",
+      "Ekaterina Samatova",
+      "Marina V. Rodnina",
+      "Elke Deuerling",
+      "Judith Frydman"
+    ],
+    "summary": "Nature, Published online: 22 December 2025; <a href=\"https://www.nature.com/articles/s41586-025-10058-2\">doi:10.1038/s41586-025-10058-2</a>NAC controls nascent chain fate through tunnel sensing and chaperone action",
+    "source": "Nature",
+    "date": "2025-12-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-025-10056-4",
+    "title": "Non-equilibrium snapshots of ligand efficacy at the μ-opioid receptor",
+    "link": "https://www.nature.com/articles/s41586-025-10056-4",
+    "authors": [
+      "Michael J. Robertson",
+      "Arnab Modak",
+      "Makaía M. Papasergi-Scott",
+      "Miaohui Hu",
+      "Maria Claudia Peroto",
+      "Balazs R. Varga",
+      "Susruta Majumdar",
+      "Ravi Kalathur",
+      "Scott C. Blanchard",
+      "Georgios Skiniotis"
+    ],
+    "summary": "Nature, Published online: 22 December 2025; <a href=\"https://www.nature.com/articles/s41586-025-10056-4\">doi:10.1038/s41586-025-10056-4</a>Non-equilibrium snapshots of ligand efficacy at the μ-opioid receptor",
+    "source": "Nature",
+    "date": "2025-12-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04120-2",
+    "title": "Daily briefing: Explore 2025 with Leif Penguinson",
+    "link": "https://www.nature.com/articles/d41586-025-04120-2",
+    "authors": [
+      "Flora Graham",
+      "Jacob Smith"
+    ],
+    "summary": "Nature, Published online: 22 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-04120-2\">doi:10.1038/d41586-025-04120-2</a>Can you spot the penguin in every game this year?",
+    "source": "Nature",
+    "date": "2025-12-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01870-6",
+    "title": "More intermittent mid-latitude precipitation accompanied extreme early Palaeogene warmth",
+    "link": "https://www.nature.com/articles/s41561-025-01870-6",
+    "authors": [
+      "Jacob S. Slawson",
+      "Piret Plink-Bjorklund",
+      "Thomas Reichler",
+      "Daniel Baldassare"
+    ],
+    "summary": "Nature Geoscience, Published online: 22 December 2025; <a href=\"https://www.nature.com/articles/s41561-025-01870-6\">doi:10.1038/s41561-025-01870-6</a>Mid-latitude precipitation became less frequent but more intense through the early Palaeogene, reflecting a global hydroclimate response to extreme warming, according to a global multi-proxy reconstruction of precipitation characteristics.",
+    "source": "Nature Geoscience",
+    "date": "2025-12-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-66419-y",
+    "title": "Flexible monolithic 3D complementary circuits based on 2D semiconductor inks",
+    "link": "https://www.nature.com/articles/s41467-025-66419-y",
+    "authors": [
+      "Taoyu Zou",
+      "Seongmin Heo",
+      "Youjin Reo",
+      "Gi-Seong Ryu",
+      "Jaeyun Lee",
+      "Mingyu Kim",
+      "Soonhyo Kim",
+      "Gwon Byeon",
+      "Ji-Sang Park",
+      "Wentao Xu",
+      "Yong-Young Noh"
+    ],
+    "summary": "Nature Communications, Published online: 22 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-66419-y\">doi:10.1038/s41467-025-66419-y</a>2D semiconductors hold promise for the fabrication of high-density flexible integrated circuits, but they often require high-temperature processing or transfer steps. Here, the authors report the low-temperature ( ≤ 150 °C) fabrication of wafer-scale 3Dintegrated flexible complementary circuits based on 2D semiconductor inks.",
+    "source": "Nature Communications",
+    "date": "2025-12-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67713-5",
+    "title": "Structural insights into toxicant export mediated by ABCC2 in <i>Arabidopsis thaliana</i>",
+    "link": "https://www.nature.com/articles/s41467-025-67713-5",
+    "authors": [
+      "Xuan Qiu",
+      "Zhisen Yang",
+      "Yongxiang Gao",
+      "Linfeng Sun",
+      "Xin Liu"
+    ],
+    "summary": "Nature Communications, Published online: 22 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67713-5\">doi:10.1038/s41467-025-67713-5</a>Here, the authors present the structures of Arabidopsis ABCC2, a detoxification transporter mediating the export of toxicants. A dimeric architecture is revealed and multiple transport states are captured, shedding lights on its working mechanism.",
+    "source": "Nature Communications",
+    "date": "2025-12-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67553-3",
+    "title": "Maintenance of cytoplasmic and membrane densities shapes cellular geometry in <i>Escherichia coli</i>",
+    "link": "https://www.nature.com/articles/s41467-025-67553-3",
+    "authors": [
+      "Griffin Chure",
+      "Roshali T. de Silva",
+      "Richa Sharma",
+      "Michael C. Lanz",
+      "Jonas Cremer"
+    ],
+    "summary": "Nature Communications, Published online: 22 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67553-3\">doi:10.1038/s41467-025-67553-3</a>Chure et al. analyse experimental data to show that E. coli bacteria maintain stable protein density ratios between cytoplasm and membranes. In addition, they develop a biophysical model that predicts surface-to-volume ratio from ribosomal content and protein partitioning across cell compartments.",
+    "source": "Nature Communications",
+    "date": "2025-12-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67541-7",
+    "title": "Trends in vertical wind velocity variability reveal cloud microphysical feedback",
+    "link": "https://www.nature.com/articles/s41467-025-67541-7",
+    "authors": [
+      "Donifan Barahona",
+      "Katherine H. Breen",
+      "Derek Ngo",
+      "Flor Vanessa Maciel",
+      "Ryan Patnaude",
+      "Minghui Diao"
+    ],
+    "summary": "Nature Communications, Published online: 22 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67541-7\">doi:10.1038/s41467-025-67541-7</a>This study shows that long-term climate change systematically alters small-scale wind variability and its vertical velocity, influencing cloud microphysics and the Earth’s radiative balance.",
+    "source": "Nature Communications",
+    "date": "2025-12-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67871-6",
+    "title": "Unconventional high-harmonic generation in resonant membrane metasurfaces",
+    "link": "https://www.nature.com/articles/s41467-025-67871-6",
+    "authors": [
+      "Pavel Tonkaev",
+      "Felix Richter",
+      "Ivan Toftul",
+      "Maria Antonietta Vincenti",
+      "Ivan Sinev",
+      "Michael Scalora",
+      "Hatice Altug",
+      "Yuri Kivshar"
+    ],
+    "summary": "Nature Communications, Published online: 22 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67871-6\">doi:10.1038/s41467-025-67871-6</a>High-harmonic generation from metasurfaces is believed to follow conventional power laws with integer exponents. In this work, authors discover that the strong local fields related to a metasurface high-Q resonances can modify the effective nonlinear response and enable the generation of high harmonics following non-integer-power laws.",
+    "source": "Nature Communications",
+    "date": "2025-12-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67669-6",
+    "title": "Computational design of allulose-responsive biosensor toolbox for auto-inducible protein expression and CRISPRi mediated dynamic metabolic regulation",
+    "link": "https://www.nature.com/articles/s41467-025-67669-6",
+    "authors": [
+      "Qianzhen Dong",
+      "Peng Chen",
+      "Zhiru Guo",
+      "Hongli Wei",
+      "Yan Zeng",
+      "Jingyu Zhang",
+      "Yan Men",
+      "Weidong Liu",
+      "Yuanxia Sun",
+      "Jiangang Yang"
+    ],
+    "summary": "Nature Communications, Published online: 22 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67669-6\">doi:10.1038/s41467-025-67669-6</a>Transcription-factor biosensors enable programmable metabolism. Here, the authors integrate structure and computation for mechanism-guided iterative redesign of the allulose biosensor PsiR, increasing sensitivity and dynamic range, enabling allulose-triggered expression system and CRISPRi circuit.",
+    "source": "Nature Communications",
+    "date": "2025-12-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-66252-3",
+    "title": "A binary self-amplifying expression platform enabling lipid nanoparticle-free vaccines and nanomedicines",
+    "link": "https://www.nature.com/articles/s41467-025-66252-3",
+    "authors": [
+      "Wilfred A. Jefferies",
+      "Kyung Bok Choi",
+      "Paolo Ribeca",
+      "Suresh Kari",
+      "Jay A. Young",
+      "Elizabeth Hui",
+      "Simon Yong Qi",
+      "Emmanuel Garrovillas",
+      "Joanne Fan",
+      "Becky M. Y. Cho",
+      "Pamela Housh",
+      "Tracy Welch",
+      "Iryna Saranchova",
+      "Cheryl G. Pfeifer"
+    ],
+    "summary": "Nature Communications, Published online: 22 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-66252-3\">doi:10.1038/s41467-025-66252-3</a>The authors present Gemini, their bifunctional replicon platform capable of functioning as either self-amplifying RNA (saRNA) or self-amplifying DNA (saDNA).",
+    "source": "Nature Communications",
+    "date": "2025-12-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67973-1",
+    "title": "Li-F polarity-driven stabilization of −VII oxidation state of gold at high pressure",
+    "link": "https://www.nature.com/articles/s41467-025-67973-1",
+    "authors": [
+      "Xiaohua Zhang",
+      "Sheng Wang",
+      "Aitor Bergara",
+      "Xin Du",
+      "Guochun Yang"
+    ],
+    "summary": "Nature Communications, Published online: 22 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67973-1\">doi:10.1038/s41467-025-67973-1</a>The stabilization of an unconventional −VII oxidation state of gold is demonstrated in Li10AuF under high pressure. This electride phase features paired interstitial anionic electrons, expanding our understanding of charge distribution.",
+    "source": "Nature Communications",
+    "date": "2025-12-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03107-1",
+    "title": "Author Correction: Hot springs reflect the flooding of slab-derived water as a trigger of earthquakes",
+    "link": "https://www.nature.com/articles/s43247-025-03107-1",
+    "authors": [
+      "Tsutomu Yamanaka",
+      "Ikuya Adachi"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 22 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03107-1\">doi:10.1038/s43247-025-03107-1</a>Author Correction: Hot springs reflect the flooding of slab-derived water as a trigger of earthquakes",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03090-7",
+    "title": "An improved model of particle attenuation reduces estimates of Southern Ocean carbon transfer efficiency",
+    "link": "https://www.nature.com/articles/s43247-025-03090-7",
+    "authors": [
+      "Annika Oetjens",
+      "Zanna Chase",
+      "Peter Strutton",
+      "Tyler Rohr"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 22 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03090-7\">doi:10.1038/s43247-025-03090-7</a>Modelling the water column as two distinct depth regimes captures particle attenuation in the Southern Ocean, reducing particulate organic carbon flux into the mesopelagic, according to particle attenuation modelling combined with Argo float data.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03119-x",
+    "title": "Evidence for landslides triggered by impact events on Ceres",
+    "link": "https://www.nature.com/articles/s43247-025-03119-x",
+    "authors": [
+      "Marco Emanuele Discenza",
+      "Maria Teresa Brunetti",
+      "Lisa Molaro",
+      "Mariacarmela Minnillo",
+      "Goro Komatsu",
+      "Enrico Miccadei"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 22 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03119-x\">doi:10.1038/s43247-025-03119-x</a>Evidence suggests that meteoroid impacts on Ceres can trigger landslides, according to morphometric and absolute dating analysis of landslides and impact craters.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03126-y",
+    "title": "Tropical Indian Ocean forcing on North American terrestrial and agricultural productivity decline under greenhouse warming",
+    "link": "https://www.nature.com/articles/s43247-025-03126-y",
+    "authors": [
+      "Young-Min Yang",
+      "Jae-Heung Park",
+      "Jinsoo Kim",
+      "Soon-Il An",
+      "Sang-Wook Yeh",
+      "Bin Wang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 22 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03126-y\">doi:10.1038/s43247-025-03126-y</a>Warming in the tropical Indian Ocean triggers stationary Rossby waves that create a high-pressure ridge over western North America, cutting off moisture transport and reducing precipitation, soil moisture, and crop yields, based on observational datasets, reanalysis products, and climate models.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03117-z",
+    "title": "Spatial heterogeneity of the Holocene winter temperature in mid-latitude Asia",
+    "link": "https://www.nature.com/articles/s43247-025-03117-z",
+    "authors": [
+      "Chong Huang",
+      "Xiaozhong Huang",
+      "Ruiqi Min",
+      "Muhammad Farqan",
+      "Chuangzi Yan",
+      "Wenjia Wang",
+      "Xiuxiu Ren",
+      "Xiaoyan Mu",
+      "Min Zheng",
+      "Shengrui Zhang",
+      "Ruilin Wen",
+      "Jule Xiao"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 22 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03117-z\">doi:10.1038/s43247-025-03117-z</a>A warm early Holocene in the east contrasts with a warmer middle-late Holocene in central mid-latitude Asia, linked to heat redistribution and the importance of ocean-atmosphere interactions in shaping temperature patterns during this period, according to analysis of four lakes records in mid-latitude Asia.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03129-9",
+    "title": "Enhanced tropical cyclone precipitation variability is linked to Pacific Decadal Oscillation since the 1940s",
+    "link": "https://www.nature.com/articles/s43247-025-03129-9",
+    "authors": [
+      "Chunsong Wang",
+      "Keyan Fang",
+      "Feifei Zhou",
+      "Jiani Gao",
+      "Sergio Rossi",
+      "Jane Liu",
+      "Zhipeng Dong",
+      "Cesar Azorin-Molina",
+      "Shuheng Lin",
+      "J. Julio Camarero",
+      "Pengcheng Wu",
+      "Hao Wu",
+      "Hans W. Linderholm",
+      "Zepeng Mei",
+      "Jan Altman"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 22 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03129-9\">doi:10.1038/s43247-025-03129-9</a>Latewood width records from southeast China show that increased tropical cyclone precipitation variability is linked to stronger Pacific Decadal Oscillation variability since the 1940s, indicating tree-ring dynamics as a new proxy for Pacific Rim climate risk.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X25005916",
+    "title": "Mantle flow and deformation of the eastern Adria subduction: New insights from AdriaArray seismic anisotropy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X25005916?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 February 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 676Author(s): Laura Petrescu, Felix Borleanu, Samuel Celis, Dániel Kalmár, the AdriaArray Seismology Group",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2025-12-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL116805",
+    "title": "Direct South Pacific Water Intrusion Into the Indonesian Seas",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL116805?af=R",
+    "authors": [
+      "Dongliang Yuan, \nTianxiang Chang, \nXueli Yin, \nMingting Li, \nShuaichen Xin, \nJane M. Mamuaja, \nFransisco Pangalila, \nPatrice Kalangi, \nGrevo Gerung, \n Dirhamsyah, \nPraditya Avianto, \nZainal Arifin, \nPriyadi Dwi Santoso, \nArnold L. Gordon"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-21",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117623",
+    "title": "Reversal Trends in Shallow‐Soil Temperature Over the Qinghai‐Tibet Plateau During 1950–2014",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117623?af=R",
+    "authors": [
+      "Yue Wang, \nGuohe Huang, \nYongping Li, \nZhenyao Shen, \nWenchang Tang, \nXiaohu Zhao, \nChuyin Tian, \nTangnyu Song"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-21",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120418",
+    "title": "Inhibition of Arctic Soil Dissolved Organic Carbon Export by the Retention Capacity of Thawing Permafrost",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120418?af=R",
+    "authors": [
+      "Yongni He, \nJack A. Hutchings, \nPrakhin Assavapanuvat, \nMikhail Kanevskiy, \nEmily G. Watts, \nBenjamin M. Jones, \nThomas S. Bianchi, \nXiaowen Zhang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-21",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118128",
+    "title": "La Niña Obscures the North Atlantic Response to Sudden Stratospheric Warmings in C3S Seasonal Forecasts",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118128?af=R",
+    "authors": [
+      "Verónica Martínez‐Andradas, \nAlvaro de la Cámara, \nPablo Zurita‐Gotor, \nAmy H. Butler"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-21",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117400",
+    "title": "Constraining African Fire CO2 Emissions During 2015–2016 Using Satellite XCO2 Retrievals",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117400?af=R",
+    "authors": [
+      "Guoyuan Lv, \nFei Jiang, \nShuzhuang Feng, \nYongguang Zhang, \nGuanyu Dong, \nJun Wang, \nMousong Wu, \nYusheng Shi, \nHengmao Wang, \nMengwei Jia, \nLingyu Zhang, \nYu Mao, \nWeimin Ju, \nJing M. Chen"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-21",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117213",
+    "title": "Rapid Reversal of Hemispheric Asymmetry in the Intensity of EIA Crests During the Geomagnetic Storm of 23 April 2023: A Unique Observation From GOLD",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117213?af=R",
+    "authors": [
+      "K. Shimna, \nR. K. Archana, \nC. Vineeth, \nGang Lu, \nT. K. Pant, \nM. S. M. Vijayan"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-21",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119544",
+    "title": "A Late Pleistocene‐Holocene Record of Tropical Monsoon Climate from Groundwater Noble Gases and Isotopes in the Leizhou Peninsula, Southern China",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119544?af=R",
+    "authors": [
+      "Shaoheng Li, \nJianyao Chen, \nWerner Aeschbach, \nDioni I. Cendón, \nFlorian Freundt, \nWen Wei, \nDi Tian, \nQirui Wu, \nRui Li, \nRouyan Gong, \nZhenglan Xie, \nGang Zeng, \nZaizhi Yang, \nZuobing Liang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-21",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032120",
+    "title": "Structure, Serpentinization and Seismic Reflectivity of the Crust‐Mantle Boundary at Fast‐ and Intermediate‐Spreading Ridges",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032120?af=R",
+    "authors": [
+      "Jiabin Zhao, \nQin Wang, \nYouyi Ruan, \nWenbin Jiang, \nA. Alexander G. Webb"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 130, Issue 12, December 2025.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2025-12-21",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032249",
+    "title": "Exploring Tidal Modulation of Seismicity in Southern California",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032249?af=R",
+    "authors": [
+      "Weifan Lu, \nLian Xue, \nHan Yue, \nJiancang Zhuang, \nLi Zhao"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 130, Issue 12, December 2025.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2025-12-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S001670372500729X",
+    "title": "Constraining conditions for the preservation of oxygen atoms from hydroxyl radicals in the oxidation products",
+    "link": "https://www.sciencedirect.com/science/article/pii/S001670372500729X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 21 December 2025<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Yunsong Zheng, Peng Zhang, Xiuli Li, Songhu Yuan",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725007276",
+    "title": "Aqueous alteration in the C2-ung Tarda meteorite: in situ isotopic evidence from dolomite and magnetite",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725007276?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 21 December 2025<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Bennett J.K. Wilson, Kazuhide Nagashima, Thomas J. Barrett, Veronica E. Di Cecco, Kimberly T. Tait, Michael G. Daly",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-23",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwaf583",
+    "title": "Human-Taught Sensory-Control Synergy for Universal Robotic Grasping",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf583/8400358?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Universal grasping is essential but challenging in robotic manipulations, particularly for humanoid robots with multi-fingered hands. To learn skills of dexterous manipulations from humans, we propose a sensory-control synergy (SCS) approach mimicking human grasping experience. We develop a tactile glove worn on a human hand to capture multimodal tactile data (contact, slip, and pressure) during human grasping demonstrations. Emulating human neurocognition, the multimodal tactile data are encoded into semantically explicit grasping states by neural-network computing. Drawing on human motor control strategies, an experience-based fuzzy controller is built to swiftly convert semantic grasping states into grasping actions. Benefiting from the semantization of grasping states, the sensory-control synergy model is highly logicalized and generalizable, can be data-efficiently built by non-experts and readily transferred to robots for accomplishing universal robotic manipulation. The robot with SCS achieves an average success rate of 95.2% in grasping diverse objects of daily life, including slippery, fragile, soft, and heavy objects. In dynamic disturbance and complex tasks, the robot autonomously manipulates by its adaptive sensory-control synergy, demonstrating human-like universal grasping capabilities.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2025-12-22",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-025-67645-0",
     "title": "Mechanosensitive dynamics of lysosomes along microtubules regulate leader cell emergence during collective cell migration",
     "link": "https://www.nature.com/articles/s41467-025-67645-0",
