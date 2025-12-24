@@ -1,5 +1,606 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-025-10044-8",
+    "title": "Author Correction: Rolling back human pluripotent stem cells to an eight-cell embryo-like stage",
+    "link": "https://www.nature.com/articles/s41586-025-10044-8",
+    "authors": [
+      "Md. Abdul Mazid",
+      "Carl Ward",
+      "Zhiwei Luo",
+      "Chuanyu Liu",
+      "Yunpan Li",
+      "Yiwei Lai",
+      "Liang Wu",
+      "Jinxiu Li",
+      "Wenqi Jia",
+      "Yu Jiang",
+      "Hao Liu",
+      "Lixin Fu",
+      "Yueli Yang",
+      "David P. Ibañez",
+      "Junjian Lai",
+      "Xiaoyu Wei",
+      "Juan An",
+      "Pengcheng Guo",
+      "Yue Yuan",
+      "Qiuting Deng",
+      "Yang Wang",
+      "Ying Liu",
+      "Fei Gao",
+      "Junwen Wang",
+      "Shahriar Zaman",
+      "Baoming Qin",
+      "Guangming Wu",
+      "Patrick H. Maxwell",
+      "Xun Xu",
+      "Longqi Liu",
+      "Wenjuan Li",
+      "Miguel A. Esteban"
+    ],
+    "summary": "Nature, Published online: 23 December 2025; <a href=\"https://www.nature.com/articles/s41586-025-10044-8\">doi:10.1038/s41586-025-10044-8</a>Author Correction: Rolling back human pluripotent stem cells to an eight-cell embryo-like stage",
+    "source": "Nature",
+    "date": "2025-12-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04068-3",
+    "title": "Seeding opportunities for Black atmospheric scientists",
+    "link": "https://www.nature.com/articles/d41586-025-04068-3",
+    "authors": [
+      "Rachel Crowell"
+    ],
+    "summary": "Nature, Published online: 23 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-04068-3\">doi:10.1038/d41586-025-04068-3</a>Vernon Morris inspires change in the geoscience community by calling on colleagues to commit to anti-racism in their scientific endeavours.",
+    "source": "Nature",
+    "date": "2025-12-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67967-z",
+    "title": "GPR4 promotes immune exclusion in colon cancer through LOXL2-mediated extracellular matrix remodeling",
+    "link": "https://www.nature.com/articles/s41467-025-67967-z",
+    "authors": [
+      "Shuheng Bai",
+      "Min Chen",
+      "Xuan Wang",
+      "Ning Lan",
+      "Ruijie Meng",
+      "Yanli Yan",
+      "Wanyi Liu",
+      "Wenyang Li",
+      "Fang Wu",
+      "Xiangxiang Zhang",
+      "Fengyuan Hu",
+      "Rong Li",
+      "Juan Ren"
+    ],
+    "summary": "Nature Communications, Published online: 24 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67967-z\">doi:10.1038/s41467-025-67967-z</a>The detailed mechanism of how hypoxia and acidity promote immune exclusion remains unclear. The authors here identify that GPR4, a proton sensor, induces immune exclusion by facilitating collagen alignment via upregulating LOXL2. Furthermore, inhibiting LOXL2 or GPR4 signal pathway alleviates immune exclusion.",
+    "source": "Nature Communications",
+    "date": "2025-12-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67037-4",
+    "title": "Pomeranchuk instability from electronic correlations in CsTi<sub>3</sub>Bi<sub>5</sub> kagome metal",
+    "link": "https://www.nature.com/articles/s41467-025-67037-4",
+    "authors": [
+      "Chiara Bigi",
+      "Matteo Dürrnagel",
+      "Lennart Klebl",
+      "Armando Consiglio",
+      "Ganesh Pokharel",
+      "Marta Zonno",
+      "François Bertran",
+      "Patrick Le Fèvre",
+      "Thomas Jaouen",
+      "Hulerich C. Tchouekem",
+      "Pascal Turban",
+      "Alessandro De Vita",
+      "Jill A. Miwa",
+      "Justin W. Wells",
+      "Dongjin Oh",
+      "Riccardo Comin",
+      "Ronny Thomale",
+      "Ilija Zeljkovic",
+      "Brenden R. Ortiz",
+      "Stephen D. Wilson",
+      "Giorgio Sangiovanni",
+      "Federico Mazzola",
+      "Domenico Di Sante"
+    ],
+    "summary": "Nature Communications, Published online: 23 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67037-4\">doi:10.1038/s41467-025-67037-4</a>The origin of the nematic state in the kagome metal CsTi3Bi5 remains unclear. Here, using polarization-dependent angle-resolved photoelectron spectroscopy and ab initio based field theoretical methods, the authors propose a d-wave nematic order driven by electronic correlations via an orbital-selective mechanism.",
+    "source": "Nature Communications",
+    "date": "2025-12-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-66836-z",
+    "title": "Single-cell RNA sequencing reveals a quiescence-senescence continuum and distinct senotypes following chemotherapy",
+    "link": "https://www.nature.com/articles/s41467-025-66836-z",
+    "authors": [
+      "Brianna Fernandez",
+      "Victor J. Passanisi",
+      "Humza M. Ashraf",
+      "Sabrina L. Spencer"
+    ],
+    "summary": "Nature Communications, Published online: 23 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-66836-z\">doi:10.1038/s41467-025-66836-z</a>Quiescent and senescent cells often arise side by side after stress, yet their molecular relationship remains unclear. Here, the authors combine live-cell imaging and single-cell RNA sequencing to reveal a continuum of cell-cycle withdrawal.",
+    "source": "Nature Communications",
+    "date": "2025-12-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67765-7",
+    "title": "A brain-to-small intestine circuit mediates morphine-induced constipation in male mice",
+    "link": "https://www.nature.com/articles/s41467-025-67765-7",
+    "authors": [
+      "Jun Ma",
+      "Xiaoqi Peng",
+      "Mingjun Zhang",
+      "Wei Gao",
+      "Xinlu Yang",
+      "Zerui Wang",
+      "Xiaoqing Chai",
+      "Zhi Zhang",
+      "Sheng Wang",
+      "Peng Cao"
+    ],
+    "summary": "Nature Communications, Published online: 23 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67765-7\">doi:10.1038/s41467-025-67765-7</a>Neural mechanisms mediating opioid-induced constipation are not fully understood. Here authors find that morphine-induced constipation is mediated by a neural circuit from the paraventricular nucleus of hypothalamus to the dorsal motor nucleus of the vagus, and subsequently to the small intestine in male mice.",
+    "source": "Nature Communications",
+    "date": "2025-12-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67638-z",
+    "title": "Magnetically controlled microrobotic system for programmable stiffness tuning and active steering of microcatheters",
+    "link": "https://www.nature.com/articles/s41467-025-67638-z",
+    "authors": [
+      "Yuan Liu",
+      "Jing Huang",
+      "Xuhui Zhao",
+      "Xi Chen",
+      "Lingling Bai",
+      "Ruirui Li",
+      "Mingming Xu",
+      "Haifeng Xu"
+    ],
+    "summary": "Nature Communications, Published online: 23 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67638-z\">doi:10.1038/s41467-025-67638-z</a>Surgical tasks within tortuous and narrow lumens require interventional instruments with controllable mechanical adaptability. Here, the authors present the Helixoft microrobotic system, which enables continuous stiffness tuning and active steering of microcatheters with diameters down to 300 μm controlled by weak magnetic fields.",
+    "source": "Nature Communications",
+    "date": "2025-12-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67558-y",
+    "title": "Mitigating urban‒rural disparities in humid-heat risks in China",
+    "link": "https://www.nature.com/articles/s41467-025-67558-y",
+    "authors": [
+      "Chuwei Liu",
+      "Siyu Chen",
+      "Jianping Huang",
+      "Xuhui Lee",
+      "Chao Zhang",
+      "Keer Zhang",
+      "Lulu Lian",
+      "Yunchao Jiang",
+      "Xingxing Tu",
+      "Nan Yin",
+      "Runbin Zhang",
+      "Danfeng Wang"
+    ],
+    "summary": "Nature Communications, Published online: 23 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67558-y\">doi:10.1038/s41467-025-67558-y</a>This study shows that the rapid advancement of China’s urban sustainable development process has significantly reduced urban vulnerability, narrowing the gap in comprehensive humid-heat risk between urban and rural areas.",
+    "source": "Nature Communications",
+    "date": "2025-12-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67379-z",
+    "title": "Intrinsic light reflection of conjugated films towards high-performance organic solar cells",
+    "link": "https://www.nature.com/articles/s41467-025-67379-z",
+    "authors": [
+      "Zichao Shen",
+      "Guanyu Lu",
+      "Xian Tang",
+      "Yuanyuan Zhang",
+      "Songqiao Li",
+      "Jin Wang",
+      "Jinde Yu",
+      "Fan Gao",
+      "Laju Bu",
+      "Xin Chen",
+      "Yuanwei Zhu",
+      "Hongge Pan",
+      "Lingxian Meng",
+      "Guanghao Lu"
+    ],
+    "summary": "Nature Communications, Published online: 23 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67379-z\">doi:10.1038/s41467-025-67379-z</a>The intrinsic light reflection of organic conjugated films significantly influences the optical performance of devices through Fabry–Pérot micro-cavity effect. Here, authors modulate cell micro cavity via tuning materials’ refractive index to improve photovoltaic performance of organic solar cells.",
+    "source": "Nature Communications",
+    "date": "2025-12-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67593-9",
+    "title": "The benefits of exploring a large scenario space for future energy systems",
+    "link": "https://www.nature.com/articles/s41467-025-67593-9",
+    "authors": [
+      "Ulrich Joachim Frey",
+      "Karl-Kiên Cao",
+      "Shima Sasanpour",
+      "Jan Buschmann",
+      "Thomas Breuer"
+    ],
+    "summary": "Nature Communications, Published online: 23 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67593-9\">doi:10.1038/s41467-025-67593-9</a>Seemingly unproblematic method choices can substantially affect the results of energy systems analyses. Frey et al. show robust results for affordability, supply security, and sustainability from 11,000 scenarios while varying these method choices.",
+    "source": "Nature Communications",
+    "date": "2025-12-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03115-1",
+    "title": "Nitrogen deposition alleviates phosphorus-induced imbalances in soil enzyme stoichiometry",
+    "link": "https://www.nature.com/articles/s43247-025-03115-1",
+    "authors": [
+      "Huihui Liu",
+      "Tingting Ren",
+      "Jiahui Liao",
+      "Han Y. H. Chen",
+      "Xiaoming Zou",
+      "Honghua Ruan"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 23 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03115-1\">doi:10.1038/s43247-025-03115-1</a>Phosphorus addition alone reduces phosphorus-acquiring enzyme activities by 14%, while phosphorus combined with nitrogen addition boosts nitrogen-acquiring enzyme activities by 21%, according to a meta-analysis based on 155 field studies across various ecosystems.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03085-4",
+    "title": "Ultimate soil nitrogen microbial function evolution pathway fixation–comammox–nitrate reduction in long–term arid",
+    "link": "https://www.nature.com/articles/s43247-025-03085-4",
+    "authors": [
+      "Xiuhua Liu",
+      "Yunfei Chen",
+      "Jie Lu",
+      "Yongming Han",
+      "Shuaishuai He",
+      "Yandong Ma",
+      "Yi He",
+      "Junqi He",
+      "Wande Gao",
+      "Ce Zheng",
+      "Anyan Hu",
+      "Yudong Lu",
+      "Zuyu Liu",
+      "Tianqi Wang",
+      "Yaowei Gao",
+      "Lianyi Hao",
+      "Xia Li",
+      "Liyaning Maggie Tang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 23 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03085-4\">doi:10.1038/s43247-025-03085-4</a>In the drier loess soil, Gammaproteobacteria possess symbiotic nitrogen-fixing genes that promote microbial structural and functional succession over the ten-thousand-year scale and support a nitrogen fixation-comammox-nitrate reduction cycle, according to analysis of samples in Luochuan, China.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03116-0",
+    "title": "Diverse crop rotations offset yield-scaled nitrogen losses via denitrification",
+    "link": "https://www.nature.com/articles/s43247-025-03116-0",
+    "authors": [
+      "Aurélien Saghaï",
+      "Monique E. Smith",
+      "Giulia Vico",
+      "Samiran Banerjee",
+      "Anna Edlinger",
+      "Pablo García-Palacios",
+      "Gina Garland",
+      "Marcel G. A. van der Heijden",
+      "Chantal Herzog",
+      "Fernando T. Maestre",
+      "David S. Pescador",
+      "Laurent Philippot",
+      "Matthias C. Rillig",
+      "Sana Romdhane",
+      "Riccardo Bommarco",
+      "Sara Hallin"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 23 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03116-0\">doi:10.1038/s43247-025-03116-0</a>Increased crop diversity in rotations reduces nitrogen losses relative to crop yield, making it an effective practice for sustainable farming, based on an analysis of 106 cereal fields across Europe and 56 climatic, soil, microbial, and management variables.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2508341122?af=R",
+    "title": "Repeated major inland retreat of Thwaites and Pine Island glaciers (West Antarctica) during the Pliocene",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2508341122?af=R",
+    "authors": [
+      "Keiji HorikawaMasao IwaiClaus-Dieter HillenbrandChristine S. SiddowayAnna Ruth HalberstadtEllen A. CowanMichelle L. PenkrotKarsten GohlJulia S. WellnerYoshihiro AsaharaKi-Cheol ShinMasahiro NodaMiyu FujimotoaFaculty of Science, Academic Assembly, University of Toyama, Toyama 930-8555, JapanbMarine Core Research Institute, Kochi University, Nangoku 783-8502, JapancBritish Antarctic Survey, Cambridge CB3 0ET, United KingdomdGeology Department, Colorado College, Colorado Springs, CO 80903eDepartment of Earth and Planetary Sciences, Jackson School of Geosciences, The University of Texas at Austin, Austin, TX 78712fDepartment of Geological and Environmental Sciences, Appalachian State University, Boone, NC 28608gGulf Coast Repository, Scientific Ocean Drilling, Texas A&M University, College Station, TX 77845hDepartment of Geosciences, Alfred Wegener Institute Helmholtz–Center for Polar and Marine Research, Bremerhaven 27568, GermanyiDepartment of Earth and Atmospheric Sciences, University of Houston, Houston, TX 77004jDepartment of Earth and Environmental Sciences, Graduate School of Environmental Studies, Nagoya University, Nagoya 464-8601, JapankResearch Institute for Humanity and Nature, Kyoto 603-8047, JapanlGraduate School of Science and Engineering for Education, University of Toyama, Toyama 930-8555, JapanKarsten GohlJulia S. WellnerAdam KlausDenise KulhanekThorsten BauersachsSteven M. BohatyMargot CourtillatEllen A. CowanMarcelo A. De Lira MotaMariana S.R. EstevesJohn M. FegyveresiThomas FrederichsLiang GaoAnna Ruth HalberstadtClaus-Dieter HillenbrandMasao IwaiJi-Hoon KimTheresa M. KingJohann P. KlagesSandra PasschierMichelle L. PenkrotJoseph G. PrebbleWaliur RahamanBenedict T.I. ReinardyJohan RenaudieDelaney E. RobinsonReed P. SchererChristine S. SiddowayLi WuMasako Yamane"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 1, January 2026. <br />SignificanceSignificant melting of the Thwaites and Pine Island glaciers in the Amundsen Sea sector of the West Antarctic Ice Sheet (WAIS) threatens its stability. The WAIS state during the Pliocene, a period mirroring potential future climate warming, ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2025-12-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2419759122?af=R",
+    "title": "Intensified tropical cyclone activity in East Asia during the Maunder (solar) Minimum",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2419759122?af=R",
+    "authors": [
+      "Kuan-Hui Elaine LinWan-Ling TsengYu-Shiuan LinChen-Ying LeeYu-Hsiang LinHuang-Hsiung HsuPao-Kuan WangaGraduate Institute of Sustainability Management and Environmental Education, National Taiwan Normal University, Taipei 116059, TaiwanbOcean Center, National Taiwan University, Taipei 106319, TaiwancAnthropogenic Climate Change Center, Research Center for Environmental Changes, Academia Sinica, Taipei 11529, TaiwandDepartment of Atmospheric Sciences, National Taiwan University, Taipei 106319, TaiwaneDepartment of Atmospheric and Oceanic Sciences, University of Wisconsin-Madison, Madison, WI 53706"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 122, Issue 52, December 2025. <br />SignificanceTropical cyclone (TC) imposes tremendous threats to the human society, but predicting TC behavior is still difficult. One important limitation is the lack of long-term observational data as instrumental observation started in the 19th century. ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2025-12-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2513030122?af=R",
+    "title": "Breathing life into the boring billion: Direct constraints from 1.4 Ga fluid inclusions reveal a fair climate and oxygenated atmosphere",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2513030122?af=R",
+    "authors": [
+      "Justin G. ParkMichael Naylor HudginsPhilip FralickJacob T. ShelleyMorgan F. SchalleraDepartment of Earth and Environmental Sciences, Rensselaer Polytechnic Institute, Troy, NY 12180bCenter for Environmental and Stable Isotope Analysis, Rensselaer Polytechnic Institute, Troy, NY 12180cDepartment of Geology, Lakehead University, Thunder Bay, ON P7B 5E1, CanadadDepartment of Chemistry and Chemical Biology, Rensselaer Polytechnic Institute, Troy, NY 12180"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 122, Issue 52, December 2025. <br />SignificanceThe Mesoproterozoic eon, often regarded as mundane and static, lays the foundation for dramatic transformations in Earth’s physical and biological evolution during the subsequent Neoproterozoic. A conspicuous absence of glaciation suggests a ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2025-12-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X25005941",
+    "title": "Axial-valley floor faults tell a different story than faults outside the axial valley: the role of dike-induced deformation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X25005941?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 February 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 676Author(s): Jie Chen, Masako Tominaga, Javier Escartín",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2025-12-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X25004996",
+    "title": "Eoarchean TTG formation via melt-solid interaction at the base of the Tanzania Craton inferred from multi-proxy detrital zircon data",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X25004996?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 February 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 676Author(s): Robert Bolhar, Axel Hofmann, Balz S. Kamber, Martin J. Whitehouse, Roland Maas, Jeffrey D. Vervoort, Heejin Jeon, Manuela Botero, Joas Kabete",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2025-12-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119556",
+    "title": "Mélange‐Driven Coupling Between the Central Pine Island Ice Shelf and the Piglet Glacier Reverses Recent Acceleration Trends",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119556?af=R",
+    "authors": [
+      "Yite Chien, \nChunxia Zhou, \nBryan Riel"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119356",
+    "title": "Increased Continental Exposure as a Driver of Carbon Drawdown and Initiation of the Late Paleozoic Ice Age",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119356?af=R",
+    "authors": [
+      "Yinggang Zhang, \nShuai Yuan, \nBenjamin J. W. Mills, \nAndrew S. Merdith, \nYongyun Hu, \nMaoyan Zhu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117665",
+    "title": "The Role of Tidal Mixing in Regulating the Poleward Meridional Heat Transport",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117665?af=R",
+    "authors": [
+      "Dongyu Liao, \nShiqiu Peng, \nYu‐Kun Qian"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119139",
+    "title": "Predictability of Compound Impacts From Hurricane Helene and Predecessor Rain Event in CFSv2 Operational Forecasts",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119139?af=R",
+    "authors": [
+      "Wei‐Ching Hsu, \nGabriel J. Kooperman, \nKevin A. Reed, \nJ. Marshall Shepherd"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118958",
+    "title": "Future Sea Surface Temperature as a Key Driver of Antarctic Warming",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118958?af=R",
+    "authors": [
+      "Zihuan Zhang, \nSai Wang, \nDeliang Chen, \nXichen Li, \nTingfeng Dou, \nCunde Xiao, \nWen Chen, \nDahe Qin, \nMinghu Ding"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-22",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118598",
+    "title": "Surface‐Active Organics Increase CCN Activation Especially for Small Particles and Weak Updrafts",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118598?af=R",
+    "authors": [
+      "Feiya Bi, \nGuangxing Lin, \nTianyi Fan, \nYing Li, \nXiaojie Guo, \nChenglai Wu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-22",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118386",
+    "title": "Contrail Observation Limitations Using Geostationary Satellites",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118386?af=R",
+    "authors": [
+      "Marlene V. Euchenhofer, \nPrakash Prashanth, \nSydney A. Parke, \nSebastian D. Eastham, \nIan A. Waitz"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-22",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012265",
+    "title": "Cyclic Pockmark Formation Linked to Plio‐Pleistocene Sea‐Level Rise on the Chatham Rise, New Zealand",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012265?af=R",
+    "authors": [
+      "Fynn Warnke, \nIngo A. Pecher, \nLorna J. Strachan, \nJess I. T. Hillman, \nBrandon Dugan"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 26, Issue 12, December 2025.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2025-12-22",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012355",
+    "title": "Crustal Heterogeneity Onshore Spitsbergen: Data Integration and Forward Modeling of Potential Field Data",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012355?af=R",
+    "authors": [
+      "Fenna Ammerlaan, \nMarie‐Andrée Dumais, \nAleksandra Smyrak‐Sikora, \nAntonia Ruppel, \nKim Senger"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 26, Issue 12, December 2025.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2025-12-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725007240",
+    "title": "Lithological influence on Li isotope fractionation during silicate weathering",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725007240?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 22 December 2025<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Chris T.L. Cheung, Brian Beaty, Kohen W. Bauer, Cody L. Colleps, Dan Asael, Sean A. Crowe, Noah J. Planavsky, Paul S. Savage, N.Ryan McKenzie",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725007306",
+    "title": "Sedimentary thallium isotopes as a proxy for reconstructing global oceanic oxygenation during millennial-scale events",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725007306?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 22 December 2025<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Fang Qian, Yi Wang, Kassandra M. Costa, Sune G. Nielsen",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-24",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53916.1/723700/Sodic-nature-of-carbonatite-melts-and-the-origin",
+    "title": "Sodic nature of carbonatite melts and the origin of calcite versus dolomite carbonatites",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53916.1/723700/Sodic-nature-of-carbonatite-melts-and-the-origin",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Carbonatites are magmatic rocks that host most economic rare earth element (REE) deposits and bear on the deep Earth volatile cycle. Yet, the cumulative character of plutonic carbonatites and the rapid posteruptive alteration of volcanic carbonatites impede a direct determination of the melt compositions crystallizing these rocks. This study focused on sodium in carbonatite melts, a critical component for their genesis, magmatic evolution, and also for REE mobility, given that most carbonatite-hosted REE mineralizations are formed by alkali-rich fluids. Through experiments at subvolcanic conditions (100−200 MPa, 800−1000 °C), we determined the partition coefficient of Na between apatite and carbonatite melt, D<sub>Na</sub><sup>apatite/carbonatite</sup>, which is rather uniformly 0.010 ± 0.003 at temperatures ≥800 °C. Applying our D<sub>Na</sub><sup>apatite/carbonatite</sup> value to natural samples yields 8−22 wt% Na<sub>2</sub>O for the melts forming calcic carbonatites and 26−32 wt% Na<sub>2</sub>O for melts forming dolomite carbonatites. The latter are hence more evolved than calcic carbonatite melts, increasing their potential to shed alkali-rich fluids. A model accounting for calcite fractionation from calcite carbonatite melts prior to apatite saturation indicates primary Na<sub>2</sub>O<sup>melt</sup> contents of 16−23 wt% at 900 °C and 9−11 wt% at 1100 °C, consistent with formation by liquid immiscibility from alkaline silicate magmas, but inconsistent with direct mantle derivation, in particular for dolomitic melts.</span>",
+    "source": "Geology Advance Access",
+    "date": "2025-12-22",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53947.1/723699/Geologically-constrained-data-driven-modeling-for",
+    "title": "Geologically constrained data-driven modeling for mineral prospectivity mapping",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53947.1/723699/Geologically-constrained-data-driven-modeling-for",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The discovery and development of mineral resources are critical for sustaining modern energy demands. However, the geological processes that control mineralization are inherently complex, introducing considerable spatial variability that presents significant challenges for predictive modeling. While machine learning approaches have been increasingly applied to mineral prospectivity, many fail to explicitly incorporate key geological constraints, limiting their capacity to resolve the nonlinear and directionally dependent nature of mineralizing systems. Here we present a geologically constrained data-driven method that explicitly accounts for the spatial non-stationarity and anisotropy in ore-forming processes. In the benchmark case study from Canada, our method demonstrates a 7.4% improvement in recall performance compared with existing models. This robust performance is also observed in applications to the southern Cordillera region. Furthermore, the method elucidates regional ore-forming controls and quantifies spatial anisotropy in porphyry copper systems. Our findings demonstrate that incorporating geological constraints into data-driven models enhances both the accuracy and interpretability of mineral prospectivity assessments, offering a robust path forward in resource exploration.</span>",
+    "source": "Geology Advance Access",
+    "date": "2025-12-22",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53960.1/723698/Large-domal-stromatolites-in-the-Paleoarchean",
+    "title": "Large domal stromatolites in the Paleoarchean ocean at 3.47 Ga",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53960.1/723698/Large-domal-stromatolites-in-the-Paleoarchean",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Stromatolites are indicators of life on Earth since at least 3.5 Ga and possibly 3.7 Ga. From the mid-Archean onward, records of stromatolites display a range of morphologies and sizes, indicating that microorganisms were present in a variety of habitats. By comparison, the existing Paleoarchean stromatolite record is limited to small decimeter-scale domes, cones, and tufts that occur in evaporitic environments. Here, we document large domal stromatolites with ∼1.5 m width and 0.8 m height from a chert-jasper-carbonate member in the Paleoarchean (ca. 3.47 Ga) Mount Ada Basalt, Pilbara craton, Western Australia. Sedimentological features and trace-element chemistry show that the stromatolites grew on seafloor pillow basalts in an anoxic environment with hydrothermal influence. Aqueous alteration of basaltic-komatiitic crust likely supplied key nutrients, extending benthic microbial habitats into the deeper Paleoarchean ocean and supporting a thriving biosphere independent of continental exposure.</span>",
+    "source": "Geology Advance Access",
+    "date": "2025-12-22",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwaf578",
+    "title": "Water-Induced Mantle Overturn Explains High Archean Paleointensities",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf578/8402922?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>As a consequence of the evolution of the water-bearing basal magma ocean, water-induced mantle overturn can suitably explain many puzzling observations in the Archean, including the formation of continents and the Archean–Proterozoic boundary. The upwelling of the hot basal magma ocean during mantle overturn drastically affects the thermal state of the core–mantle boundary and geomagnetic field. We model the thermal evolution of the core–mantle boundary to investigate the effects of mantle overturn on the geomagnetic field. Our results demonstrate that mantle overturn substantially accelerates core cooling and increases the heat flow across the core–mantle boundary. Such enhanced heat flow would have strengthened the geomagnetic field, which explains well the high paleointensity records from approximately 3.5 to 2.5 Ga. The strong geodynamo and formation of Archean continents generate a concordant picture on the evolution of water-induced mantle overturn.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2025-12-23",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwaf576",
+    "title": "Stretchable hermetic sealing for long-term soft-electronics protection",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf576/8402871?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2025-12-23",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwaf571",
+    "title": "Adhesion-guided CEI enables stable 4.6 V LiCoO2 at 45°C",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf571/8402818?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2025-12-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025TC009035",
+    "title": "A Dual‐Geochronologic and Thermochronologic Detrital Approach to Identify the Focus of Erosion in the Kosi Basin, Nepal",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC009035?af=R",
+    "authors": [
+      "J. N. Zehner, \nD. A. Orme, \nK. Sundell, \nY. Najman, \nM. Blum, \nJ. Gleason, \nA. K. Laskowski, \nS. Poudel"
+    ],
+    "summary": "Tectonics, Volume 44, Issue 12, December 2025.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2025-12-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136825006444",
+    "title": "Metallogenic electromagnetism study reveals the pegmatite rare metal mineral system in Koktokay, Altai, Western China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136825006444?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 22 December 2025<b>Source:</b> Ore Geology ReviewsAuthor(s): Lanfang He, Ping Shen, Liang Li, Sihao Wang, Xiaochi Liu, Rujun Chen, Kezhang Qin",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2025-12-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136825006213",
+    "title": "Unraveling the petrogenetic links: Late Jurassic Barren Granites, W-bearing granites, and Nb-Ta-Li- mineralized granites in Yichun Mining District, South China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136825006213?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 22 December 2025<b>Source:</b> Ore Geology ReviewsAuthor(s): Yu-Fang Zhong, Yuan-Yuan Liu, Chang-Qian Ma, Kai-Pei Lu, Lian-Xun Wang",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2025-12-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136825006420",
+    "title": "Magmatic and metallogenic processes of the Zegulangbei deposit in the Jiama ore district: Insights from zircon and apatite geochemistry",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136825006420?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 22 December 2025<b>Source:</b> Ore Geology ReviewsAuthor(s): Pan Tang, Juxing Tang, Aorigele Zhou, Bin Lin, Faqiao Li, Jing Qi, Mengdie Wang, Yan Xiong, Yuanhui Fu, Zhongkun Zhang, Zhengkun Yang, Yuke Xie",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2025-12-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136825006377",
+    "title": "Central Asian uranium mega province (Uzbekistan and Kazakhstan) and its evolution during the late Neogene-Quaternary",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136825006377?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 22 December 2025<b>Source:</b> Ore Geology ReviewsAuthor(s): Bekzodjon Abdilkhlikovich Elibaev, Gerard Fries, Bahtiyar Ismailovich Mirhodjaev, Xusniddin Xujaxmatovich Olovov, Sherali Izzatilloyevich Jurayev",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2025-12-24",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-025-10058-2",
     "title": "NAC controls nascent chain fate through tunnel sensing and chaperone action",
     "link": "https://www.nature.com/articles/s41586-025-10058-2",
