@@ -1,5 +1,433 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-025-67996-8",
+    "title": "Machine learning-assisted kinetic matching model for rational electrode design in aqueous zinc-ion batteries",
+    "link": "https://www.nature.com/articles/s41467-025-67996-8",
+    "authors": [
+      "Qian Xie",
+      "Yurong You",
+      "Dingshuo Qiao",
+      "Huan Xia",
+      "Hanning Zhang",
+      "Song-Zhu Kure-Chu",
+      "Tomasz Wejrzanowski",
+      "Tao Shui",
+      "Wei Zhang",
+      "ZhengMing Sun"
+    ],
+    "summary": "Nature Communications, Published online: 25 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67996-8\">doi:10.1038/s41467-025-67996-8</a>Aqueous zinc-ion batteries are safe and affordable but limited by incompatible electrode kinetics. Here, authors present a machine learning framework that resolves this mismatch, enabling the rational design of durable and stretchable zinc-ion batteries.",
+    "source": "Nature Communications",
+    "date": "2025-12-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68082-9",
+    "title": "Engineered vesicles enhance oral antibiotic absorption in proximal small intestine and mitigate gut dysbiosis",
+    "link": "https://www.nature.com/articles/s41467-025-68082-9",
+    "authors": [
+      "Yinglan Yu",
+      "Yongfeng Xu",
+      "Zehui Yu",
+      "Xinrui Liu",
+      "Jiayue Guo",
+      "Min Xiang",
+      "Junmeng Chen",
+      "Riyanto Teguh Widodo",
+      "Lei Luo"
+    ],
+    "summary": "Nature Communications, Published online: 25 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-68082-9\">doi:10.1038/s41467-025-68082-9</a>In this work, authors present a biohybrid delivery system aimed at overcoming low oral bioavailability and antibiotic-induced dysbiosis by enabling efficient antibiotic transport in the proximal small intestine.",
+    "source": "Nature Communications",
+    "date": "2025-12-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67613-8",
+    "title": "Ultrasensitive multi-degree-of-freedom piezoionic sensor via synergistic hydrogel-ion interactions",
+    "link": "https://www.nature.com/articles/s41467-025-67613-8",
+    "authors": [
+      "Yue Fang",
+      "Hao Ouyang",
+      "Yin Cheng",
+      "Yi Zhou",
+      "Liangjing Shi",
+      "Jing Sun",
+      "Ghim Wei Ho",
+      "Ranran Wang"
+    ],
+    "summary": "Nature Communications, Published online: 25 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67613-8\">doi:10.1038/s41467-025-67613-8</a>Piezoionic flex-sensors are limited by sensitivity and unidirectional bending response. Here, the authors achieve a high piezoionic flex-sensitivity by tuning hydrogel-ion interactions, and decoupling of multi-degree-of-freedom bending via a square prism-shaped fiber structure.",
+    "source": "Nature Communications",
+    "date": "2025-12-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67731-3",
+    "title": "mGluR4–NPDC1 complex mediates α-synuclein fibril-induced neurodegeneration",
+    "link": "https://www.nature.com/articles/s41467-025-67731-3",
+    "authors": [
+      "Azucena Perez-Canamas",
+      "Mingming Chen",
+      "Leire Almandoz-Gil",
+      "Nabab Khan",
+      "Si Jie Tang",
+      "Allyson Ho",
+      "Erik C. Gunther",
+      "Stephen M. Strittmatter"
+    ],
+    "summary": "Nature Communications, Published online: 25 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67731-3\">doi:10.1038/s41467-025-67731-3</a>How α-synuclein interacts with the neuronal cell surface to contribute to disease pathology is not fully understood. Here, the authors conducted a comprehensive search for neuronal membrane proteins mediating α-synuclein aggregate uptake, and identified mGluR4 and NPDC1 as essential for Parkinson’s disease related neurodegeneration triggered by extracellular α-synuclein fibrils.",
+    "source": "Nature Communications",
+    "date": "2025-12-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68086-5",
+    "title": "Calcium channel blockers increase the risk of aortic aneurysm and dissection",
+    "link": "https://www.nature.com/articles/s41467-025-68086-5",
+    "authors": [
+      "Tianfeng Ma",
+      "Zeyu Cai",
+      "Xinming Xu",
+      "Long Cao",
+      "Ao Wang",
+      "Zhongshuang Zhang",
+      "Siting Zhang",
+      "Zhenkun Huang",
+      "Jingjing Luo",
+      "Sen Lin",
+      "Jiashu Ge",
+      "Xinhao Wang",
+      "Yi Fu",
+      "Fang Yu",
+      "Jing Zhou",
+      "Lixin Wang",
+      "Hongpeng Zhang",
+      "Xiang Gao",
+      "Wei Guo",
+      "Wei Kong"
+    ],
+    "summary": "Nature Communications, Published online: 25 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-68086-5\">doi:10.1038/s41467-025-68086-5</a>Aortic aneurysm and dissection are lethal vascular diseases lacking effective medical therapy. Here the authors show that calcium channel blocker use increases AAD risk, worsens disease progression in models and patients, and may impair post-repair outcomes, warranting caution in at-risk hypertension.",
+    "source": "Nature Communications",
+    "date": "2025-12-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67488-9",
+    "title": "Germline epigenome editing identifies H3K9me3 as a mediator of intergenerational DNA methylation recovery in mice",
+    "link": "https://www.nature.com/articles/s41467-025-67488-9",
+    "authors": [
+      "Takuro Horii",
+      "Sumiyo Morita",
+      "Shinjiro Hino",
+      "Yuko Hino",
+      "Hiroto S. Fukushima",
+      "Ryosuke Kobayashi",
+      "Mika Kimura",
+      "Mitsuyoshi Nakao",
+      "Yoichi Mizukami",
+      "Azusa Inoue",
+      "Izuho Hatada"
+    ],
+    "summary": "Nature Communications, Published online: 25 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67488-9\">doi:10.1038/s41467-025-67488-9</a>The authors develop a system to erase DNA methylation at H19-DMR in mouse sperm. Despite loss, methylation partly recovers via H3K9me3 after fertilization, revealing partial intergenerational epigenetic inheritance.",
+    "source": "Nature Communications",
+    "date": "2025-12-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67450-9",
+    "title": "Multi-scale classification decodes the complexity of the human E3 ligome",
+    "link": "https://www.nature.com/articles/s41467-025-67450-9",
+    "authors": [
+      "Arghya Dutta",
+      "Alberto Cristiani",
+      "Siddhanta V. Nikte",
+      "Jonathan Eisert",
+      "Yves Matthess",
+      "Borna Markusic",
+      "Cosmin Tudose",
+      "Chiara Becht",
+      "Varun Jayeshkumar Shah",
+      "Thorsten Mosler",
+      "Koraljka Husnjak",
+      "Ivan Dikic",
+      "Manuel Kaulich",
+      "Ramachandra M. Bhaskara"
+    ],
+    "summary": "Nature Communications, Published online: 25 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67450-9\">doi:10.1038/s41467-025-67450-9</a>The authors of this study map the human E3 ubiquitin ligome using a metric learning approach, revealing a unified classification framework that explains preserved patterns and functional segregation of E3 families, linking enzymes to substrates and drug interactions, and guiding strategies for targeted therapies.",
+    "source": "Nature Communications",
+    "date": "2025-12-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03058-7",
+    "title": "Carbon dynamics control contemporary mercury burial in Arctic Ocean sediments",
+    "link": "https://www.nature.com/articles/s43247-025-03058-7",
+    "authors": [
+      "Charles Gobeil",
+      "Sophia C. Johannessen",
+      "Miguel A. Goñi",
+      "Zou Zou A. Kuzyk",
+      "Daniel Cossa"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 24 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03058-7\">doi:10.1038/s43247-025-03058-7</a>Mercury concentrations in sediments of the North American Arctic Margin and the Arctic Ocean basins can be entirely explained by carbon sources and cycling, according to analysis of sediment cores from the polar ocean.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03008-3",
+    "title": "A market-based insurance approach aligns environmental and economic outcomes in maize nitrogen management",
+    "link": "https://www.nature.com/articles/s43247-025-03008-3",
+    "authors": [
+      "German Mandrini",
+      "Eric A. Davidson",
+      "Emerson D. Nafziger",
+      "Alison J. Eagle",
+      "Cameron M. Pittelkow",
+      "Laura F. Gentry",
+      "Gary D. Schnitkey",
+      "Kaiyu Guan",
+      "Nicolas F. Martin",
+      "Zhangliang Chen",
+      "Kurt Alles",
+      "Ignacio A. Ciampitti"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 24 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03008-3\">doi:10.1038/s43247-025-03008-3</a>A market-based nitrogen insurance lets maize farmers cut excess fertilizer use without profit risk, as shown in simulations across 4,270 Illinois fields over 30 years and 33 nitrogen rates.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X25005928",
+    "title": "Organic carbon burial and ocean redox modulated biotic recovery after the latest Ordovician crisis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X25005928?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 February 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 676Author(s): Wei Tang, Mu Liu, Heng-Ye Wei, Li-Guang Wu, Kai Lu, Jian Wang, Xian-Hua Li",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2025-12-26",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119235",
+    "title": "Comparative Study of Upward Leader Inception During the Initial Stage of Negative and Positive Altitude‐Triggered Lightning",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119235?af=R",
+    "authors": [
+      "Ruiling Chen, \nRubin Jiang, \nZhuling Sun, \nHongbo Zhang, \nMingyuan Liu, \nZhaowu Liu, \nZhimin Xia, \nShanqing Gu, \nXiushu Qie"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117783",
+    "title": "The Impact of 3D Structure on Coseismic Coastal Land‐Level Change and Tsunami Generation in the Cascadia Subduction Zone",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117783?af=R",
+    "authors": [
+      "Audrey M. Dunham, \nJeonghyeop Kim, \nErin Wirth, \nDavid Schmidt, \nRandall J. LeVeque, \nYong Wei, \nLoyce M. Adams, \nFred Pollitz"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118108",
+    "title": "Why Horizontal Resolution and Bathymetry Matter in Modeling the Indonesian Seas",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118108?af=R",
+    "authors": [
+      "Océane Richet, \nBernadette Sloyan, \nMaxim Nikurashin, \nBeatriz Peña‐Molino"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117372",
+    "title": "Tropical Moist Heat Extremes on Small Scales Are Not Well Constrained by Reanalysis‐Derived Quasi‐Equilibrium Relationships",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117372?af=R",
+    "authors": [
+      "Quinn Bowman, \nLarissa Back"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL116358",
+    "title": "Weakened Circum‐Global Teleconnection Pattern Under Global Warming Can Modulate Heat Extremes Across Eurasia",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL116358?af=R",
+    "authors": [
+      "Hanzhao Yu, \nTianjun Zhou"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119493",
+    "title": "Observed and Modeled Trends in Downward Surface Shortwave Radiation Over Land: Drivers and Discrepancies",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119493?af=R",
+    "authors": [
+      "Karen A. McKinnon, \nIsla R. Simpson"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012711",
+    "title": "Nd Isotope Response to Precipitation Variability in the Western Tropical Pacific Over the Last 30 kyr",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012711?af=R",
+    "authors": [
+      "A. P. S. Cruz, \nC. Basak, \nA. K. I. U. Kapuge, \nL. Lo"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 1, January 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2025-12-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/ggge.70012",
+    "title": "Issue Information",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/ggge.70012?af=R",
+    "authors": [
+      null
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 1, January 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2025-12-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2024JB030779",
+    "title": "A Possible Tsunamigenic Near‐Trench Strike‐Slip Fault, Offshore North Ecuador–South Colombia",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JB030779?af=R",
+    "authors": [
+      "J.‐Y. Collot, \nG. Ratzov, \nF. Michaud, \nA. Galve, \nJ.‐N. Proust, \nM. Gonzalez, \nJ.‐F. Lebrun, \nM. Laigle, \nB. Marcaillou"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 130, Issue 12, December 2025.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2025-12-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032002",
+    "title": "Observations of Small‐Scale Heterogeneity in the Upper Mantle Beneath Old Oceanic Lithosphere",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032002?af=R",
+    "authors": [
+      "A. Hariharan, \nZ. Eilon, \nJ. Gaherty, \nJ. Russell, \nJ. Phillips, \nD. Forsyth"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 130, Issue 12, December 2025.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2025-12-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725007446",
+    "title": "Microbial and abiotic approaches to carbonating stevensite: what works and what doesn’t",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725007446?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 24 December 2025<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Maria L. Arizaleta, Maija J. Raudsepp, Nina Zeyen, Janice P.L. Kenney, Katherine N. Snihur, Daniel S. Alessi, Sasha Wilson",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-26",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54000.1/723759/Melting-the-myth-Prograde-garnet-dissolves-during",
+    "title": "Melting the myth: Prograde garnet dissolves during early crustal melting",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54000.1/723759/Melting-the-myth-Prograde-garnet-dissolves-during",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Garnet is widely thought to increase in stability and volume during prograde metamorphism and partial melting. Yet, whether early-formed subsolidus garnet persists or breaks down when melting begins remains an open question. Here, we integrate 3-D X-ray tomography with high-resolution major- and trace-element mapping of centrally sectioned garnets across a metapelitic metamorphic sequence to track their response from the subsolidus-suprasolidus transition to melting temperatures up to ∼770 °C. Contrary to experimental and phase equilibrium predictions, garnet undergoes extensive dissolution at the onset of partial melting, losing &gt;40% of its volume. Melt percolation creates internal cavity networks within garnet, connecting crystal interiors to the reactive matrix, markedly shortening intracrystalline diffusion pathways at the melt-crystal interface. This process leads to the consumption of garnet and results in major- and trace-element redistribution at temperatures too low for intracrystalline diffusion in larger grains. Our findings reconcile the long-standing discrepancy between predicted progressive garnet growth above the solidus and the scarcity of melt inclusions in garnet rims in migmatites and granulites. As partial melting begins, subsolidus garnet reacts and becomes a permeable heavy rare earth elements and yttrium (HREE-Y) reservoir in the residual crust.</span>",
+    "source": "Geology Advance Access",
+    "date": "2025-12-24",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53949.1/723758/Intermittent-behavior-of-bottom-currents-The",
+    "title": "Intermittent behavior of bottom currents: The complexity of channels and moats",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53949.1/723758/Intermittent-behavior-of-bottom-currents-The",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Contourite channels and moats are integral to contourite depositional systems in deepwater sedimentary environments. Many channels and moats worldwide share significant sedimentary and stratigraphic complexity along with time-scale variability. Prominent shifts in morphology translate to shifts in stacking pattern through both space and time. Contourite channels evolve from subtle depressions on a terrace, with a predominantly aggradational sedimentary stacking pattern, to narrow and deep moats in both aggradational and progradational configurations with incision and infill phases. Moreover, shifts in facies distribution reflects evolutionary changes within and along channels and moats. These variations depict a long-term transformation from weaker to stronger bottom currents, punctuated by millennial and sub-millennial periods of intermittent activity. These are driven by diverse oceanographic and tectonic processes that govern bottom current dynamics and sediment supply. We illustrate these concepts based on the Pliocene−Quaternary channels and moats along the northern middle slope of the Gulf of Cádiz (along the southwestern Iberian Peninsula). There, the margin paleo-morphology, in particular the presence of canyons, affects the evolution of channels and moats due to short-term intermittency and variations of the Mediterranean Outflow Water. Our study offers new perspectives on contourite depositional systems; in particular, our understanding of channels and moats and their potential role in CO<sub>2</sub> storage—impacting the twenty-first−century energy transition.</span>",
+    "source": "Geology Advance Access",
+    "date": "2025-12-24",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38570.1/723757/Evolution-of-the-Ballantrae-Complex-SW-Scotland",
+    "title": "Evolution of the Ballantrae Complex, SW Scotland: From the opening of the Iapetus to the Taconian-Grampian orogeny",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38570.1/723757/Evolution-of-the-Ballantrae-Complex-SW-Scotland",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The opening and closure of the Iapetus Ocean were key geodynamic events during the transition from Rodinia to Pangaea. Mantle-derived rocks formed during this period provide critical insights into the processes that shaped the mantle composition and structure during this tectonic transition. The Ballantrae Complex in Scotland is a well-preserved remnant of the Iapetus Ocean seafloor obducted during the Grampian Orogeny (ca. 475−465 Ma) and provides a window into the composition of the mantle at this period. The complex structure, and the overlying sedimentary rocks that cover the ophiolite, however, have made it difficult to parse the competing processes involved in the generation of the ophiolite. In this work we provide new whole-rock geochemical, Nd-Hf-Pb isotopic, and geochronological analyses on zircon, calcite, and titanite, guided by fieldwork observations, which help unravel the protracted evolution of the Ballantrae Complex. The oldest rock (571 ± 27 Ma) found in the region is a porphyritic dolerite at Bennane Head that contains zircon xenocrysts with a characteristic late Dalradian signature similar to that of the Southern Highlands Group. This dolerite is possibly an intrusion that occurred proximal to the Laurentian margin during the opening of the Iapetus Ocean. Our results reveal a two-stage evolution history for the development of the main body of the ophiolite. Rocks dated at ca. 500−480 Ma are light rare earth element (LREE)-depleted and have low Zr/Y ratios, reminiscent of depleted island-arc tholeiites and boninites, whereas rocks from ca. 475 Ma to 462 Ma are generally more LREE enriched and follow higher Zr/Y trends, akin to more evolved arc basalts and ocean-island basalt (OIB) compositions, including the Downan Point Lava Formation. We suggest that the late OIB-like basalts of the Ballantrae Complex are correlated with similar basalts in the Tyrone Volcanic Group of Northern Ireland and might be related to an intra-arc rifting event or the subduction of a slab window. The Ballantrae Complex, therefore, records a protracted history from the opening until the early-stage closure of the Iapetus Ocean.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2025-12-24",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38479.1/723756/Geochemistry-of-apatite-and-zircon-and-their",
+    "title": "Geochemistry of apatite and zircon and their constraints on the origin of Mesozoic intrusion-related Cu-Pb-Zn deposits in the Nanling region, South China",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38479.1/723756/Geochemistry-of-apatite-and-zircon-and-their",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">In addition to its world-renowned W-Sn deposits, the Nanling region of South China also hosts several Cu-Pb-Zn polymetallic deposits that are genetically linked to the Mesozoic granodioritic plutons. In this study, we conducted in situ trace elemental and isotopic analyses on zircon and apatite along with whole-rock geochemical analysis to constrain the Cu-Pb-Zn ore formation. The granodiorites from the Baoshan, Tongshanling, and Shuikoushan deposits yielded zircon U-Pb ages of ca. 160 Ma, broadly coeval to the Cu-Pb-Zn mineralization. The average oxygen fugacity (<span style=\"font-style: italic;\">f</span>O<sub>2</sub>) for the granodiorites is ΔFMQ (log<span style=\"font-style: italic;\">f</span>O<sub>2</sub> value relative to the fayalite-magnetite-quartz oxygen buffer) +0.74 (Baoshan), ΔFMQ +0.07 (Tongshanling), and ΔFMQ +1.67 (Shuikoushan), with the corresponding apatite Cl content of 0.36−0.46 wt%, 0.21−0.36 wt%, and 0.29−0.98 wt%, respectively. These <span style=\"font-style: italic;\">f</span>O<sub>2</sub> and Cl values are higher than typical granite-related W-Sn mineralization (ΔFMQ −1.17, Cl = 0.01−0.48 wt%), and may have facilitated the Cu-Pb-Zn mineralization. Zircon Ce/Sm and Eu/Eu* ratios for the granodiorites, respectively, are 2.16−9.30 and 0.36−0.60 (Baoshan), 2.6−7.96 and 0.16−0.57 (Tongshanling), and 5.92−12.13 and 0.44−0.69 (Shuikoushan). This suggests that the Baoshan and Shuikoushan granodiorites may have undergone stronger amphibole fractionation than the Tongshanling granodiorite. This, in turn, implies that the granodiorites from Baoshan and Shuikoushan had higher water content than those from Tongshanling. The inferred “wetter” granodioritic magma at Baoshan and Shuikoushan may account for their larger deposit size than that of Tongshanling. Zircon grains of the granodiorites from Baoshan, Tongshanling, and Shuikoushan have ε<sub>Hf</sub>(t) values of −15.5 to −8.2, −16.9 to −8.2, and −10.6 to −7.4, while the apatite grains have ε<sub>Nd</sub>(t) values of −9.2 to −6.7, −8.8 to −6.0, and −8.7 to −4.2, respectively. The Nd-Hf isotopes are decoupled in the Baoshan and Tongshanling granodiorites, deviating from the terrestrial array. Thus, the Baoshan, Tongshanling, and Shuikoushan granodiorites were primarily derived from partial melting of the lower continental crust, while some melts from the subduction-metasomatized mantle were likely involved in the Baoshan and Tongshanling granodiorite formation. This may have led to the higher Cu/(Pb + Zn) ratio in the Baoshan and Tongshanling deposits. The formation of granodiorite-related Cu-Pb-Zn deposits in the Nanling region was likely associated with the Paleo-Pacific plate subduction and slab rollback in an extensional setting.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2025-12-24",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38672.1/723672/Origin-of-the-Late-Permian-tuffs-in-South-China",
+    "title": "Origin of the Late Permian tuffs in South China and a Pompeii-style death assemblage",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38672.1/723672/Origin-of-the-Late-Permian-tuffs-in-South-China",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Volcanic ash or tuff layers are widely developed in the sedimentary sequences of the Middle Permian to the Middle Triassic within the Yangtze Block, South China. The tuff layers in the Longtan Formation (Late Permian) at the Baoding section in the eastern Sichuan Basin contain some remarkable fossils preserved in a Pompeii-style. The depositional processes, provenance, and tectonic setting of these tuffs are evaluated based on petrography, whole-rock geochemistry, zircon U-Pb geochronology, and zircon Hf-O isotopic analyses. The petrographic characteristics include angular quartz, with clean surfaces and melt embayed margins, along with a homogeneous grain size distribution, without sorting or sedimentary structures within the tuff layers, which indicate ash fallout deposition, a process that could smother seafloor benthos. Zircon U-Pb dating yields an age range of 255.2−254.1 Ma (late Wuchiapingian), which corresponds to the waning stage of the Emeishan large igneous province (Emeishan LIP). Geochemical characteristics of whole-rock samples, including SiO<sub>2</sub> (30.19−59.71 wt%, average 48.38 wt%), Al<sub>2</sub>O<sub>3</sub>/TiO<sub>2</sub> (mostly &lt;8), Th/Sc (mostly &lt;0.6), along with positive zircon ε<sub>Hf</sub>(<span style=\"font-style: italic;\">t</span>) values (1.3−6.0) and low zircon Th/Nb (mostly &lt;10), collectively point to a mantle source. Additionally, low δ<sup>18</sup>O zircon values (mean 4.04‰) suggest that the mafic magma, after separating from the mantle during its ascent, assimilated ancient crustal materials that had previously undergone hydrothermal alteration. Geochemical characteristics and tectonic setting discrimination diagrams further support an intraplate rift-related origin linked to the Emeishan LIP.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2025-12-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025TC008960",
+    "title": "Strong Earthquakes of the Strike‐Slip Nalati Fault Within the Tianshan Orogenic Belt",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC008960?af=R",
+    "authors": [
+      "Lei Wang, \nZhikun Ren, \nZhongtai He, \nHaomin Ji, \nJinrui Liu, \nLong Guo, \nXingao Li"
+    ],
+    "summary": "Tectonics, Volume 44, Issue 12, December 2025.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2025-12-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S016913682500647X",
+    "title": "Study of the fractal characteristics of sediment element geochemistry in the Qiongdongnan Basin and its implications for gas hydrates",
+    "link": "https://www.sciencedirect.com/science/article/pii/S016913682500647X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 24 December 2025<b>Source:</b> Ore Geology ReviewsAuthor(s): Yan Zhang, Junxi Feng, Qing Chen",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2025-12-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136825006468",
+    "title": "SWIR spectroscopy and mineral chemistry of Li-bearing micas in NW Jiangxi: Implications for the genesis and exploration of granite-related Li deposits",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136825006468?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 24 December 2025<b>Source:</b> Ore Geology ReviewsAuthor(s): Yan Zhou, Jiandong Sun, Longming Li, Feipeng Fan, Guangfu Xing, Liancun Xiu, Weimin Guo, Kai Yang, Haili Li, Xuehui Zhang",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2025-12-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136825006481",
+    "title": "Ore-forming process of the Zhengchong lithium deposit, Nanling Range: constraints from geochronology and mineral chemistry",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136825006481?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 24 December 2025<b>Source:</b> Ore Geology ReviewsAuthor(s): Jianfeng Li, Hongyan Quan, Youyue Lu, Jianming Fu, Zhengwei Qin, Zunzun Zhang, Yanfeng Su",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2025-12-26",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-025-03756-4",
     "title": "The Nature Podcast highlights of 2025",
     "link": "https://www.nature.com/articles/d41586-025-03756-4",
