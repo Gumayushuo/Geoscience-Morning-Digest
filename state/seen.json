@@ -1,5 +1,498 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-025-67527-5",
+    "title": "Photocontrolled trimethoprim PROTACs targeting the eDHFR protein tag",
+    "link": "https://www.nature.com/articles/s41467-025-67527-5",
+    "authors": [
+      "Nitika Sharma",
+      "Swarbhanu Sarkar",
+      "Tongil Ko",
+      "Kimberly J. Edwards",
+      "Jonathan M. Pham",
+      "Tommy Nguyen",
+      "Angela Z. Gong",
+      "Joseph Flores",
+      "Dirk Trauner",
+      "Mark A. Sellmyer"
+    ],
+    "summary": "Nature Communications, Published online: 27 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67527-5\">doi:10.1038/s41467-025-67527-5</a>In this work authors demonstrate how photocontrolled tag-targeted degradation enables precise, spatiotemporal control of protein expression in tumor cells and CAR T cells, offering an esapproach for regulating engineered proteins with light.",
+    "source": "Nature Communications",
+    "date": "2025-12-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67831-0",
+    "title": "Printable polymer nanocomposites for scalable and architected radiative cooling",
+    "link": "https://www.nature.com/articles/s41467-025-67831-0",
+    "authors": [
+      "Kai Zhou",
+      "Songtao Tang",
+      "Pranto Karua",
+      "Fukang Wu",
+      "Sungmin Hong",
+      "Diya Patel",
+      "Gwendolyn M. Reeser",
+      "Donald M. Cropek",
+      "Paul V. Braun",
+      "Lili Cai"
+    ],
+    "summary": "Nature Communications, Published online: 27 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67831-0\">doi:10.1038/s41467-025-67831-0</a>Daytime radiative cooling materials typically require high filler loading or porosity. Here, authors introduce rheology–optics coupling to control particle dispersion, enabling printable low-filler PDMS–ZrO₂ composites for scalable and durable radiative coolers with versatile architectures.",
+    "source": "Nature Communications",
+    "date": "2025-12-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67845-8",
+    "title": "Shock compression of FeOOH and implications for iron-water interactions in super-earth magma oceans",
+    "link": "https://www.nature.com/articles/s41467-025-67845-8",
+    "authors": [
+      "Yanyao Zhang",
+      "Komal Bali",
+      "Caroline Dorn",
+      "Alessandra Ravasio",
+      "Hong Yang",
+      "Silvia Pandolfi",
+      "Amanda J. Chen",
+      "Xuehui Wei",
+      "Lélia Libon",
+      "Qijun Che",
+      "Donghao Zheng",
+      "Eglantine Boulard",
+      "Alessandra Benuzzi-Mounaix",
+      "Hae Ja Lee",
+      "Eric Galtier",
+      "Nicholas A. Czapla",
+      "Dimosthenis Sokaras",
+      "Roberto Alonso-Mori",
+      "Arianna E. Gleason",
+      "Sang Heon Shim",
+      "Guillaume Morard",
+      "Wendy L. Mao"
+    ],
+    "summary": "Nature Communications, Published online: 27 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67845-8\">doi:10.1038/s41467-025-67845-8</a>Laser shock experiments on an iron-water phase reveal its density, melting, and electronic changes under extreme pressures. The results suggest dense deep magma oceans and show that iron-water reactions can greatly shrink and densify super-Earths.",
+    "source": "Nature Communications",
+    "date": "2025-12-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67760-y",
+    "title": "General variation in the <i>Fusarium</i> wilt rhizosphere microbiome",
+    "link": "https://www.nature.com/articles/s41467-025-67760-y",
+    "authors": [
+      "Lv Su",
+      "Haichao Feng",
+      "Huatai Li",
+      "Fu Yang",
+      "Xiaoqian Yan",
+      "Xudong Wang",
+      "Pengcheng Li",
+      "Kesu Wang",
+      "Xia Shu",
+      "Yunpeng Liu",
+      "Qirong Shen",
+      "Yongliang Yan",
+      "Ruifu Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 27 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67760-y\">doi:10.1038/s41467-025-67760-y</a>This study reveals how tomato plants recruit specific bacteria to combat Fusarium wilt. A key bacterium is identified to thrive on root-derived compounds and suppress the fungal pathogen, offering insights into plant-microbe defense alliances.",
+    "source": "Nature Communications",
+    "date": "2025-12-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67355-7",
+    "title": "FGF7 promotes load-bearing tendon regeneration and suppresses fibrosis",
+    "link": "https://www.nature.com/articles/s41467-025-67355-7",
+    "authors": [
+      "Ruifu Lin",
+      "Junchao Luo",
+      "Hong Zhang",
+      "Chunmei Fan",
+      "Yue Hu",
+      "Ruojin Yan",
+      "Zetao Wang",
+      "Yang Fei",
+      "Chenqi Tang",
+      "Tianxi Huang",
+      "Tianshun Fang",
+      "Weiliang Shen",
+      "Sunbin Ling",
+      "Hongwei Ouyang",
+      "Xiao Chen",
+      "Zi Yin"
+    ],
+    "summary": "Nature Communications, Published online: 27 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67355-7\">doi:10.1038/s41467-025-67355-7</a>Growth factor signalling has been shown to alleviate tissue fibrosis and promote repair. Here, the authors use fibroblast growth factor 7 (FGF7) knockout mice and an FGF7-loaded hydrogel to show that this factor can promote functional regeneration of tendon.",
+    "source": "Nature Communications",
+    "date": "2025-12-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68096-3",
+    "title": "Coupling nitrate electrochemical reduction and nitrite oxidation of ethanol for acetamide synthesis",
+    "link": "https://www.nature.com/articles/s41467-025-68096-3",
+    "authors": [
+      "Qikun Hu",
+      "Ouwen Peng",
+      "Jia Liu",
+      "Mengyao Su",
+      "Junyuan Feng",
+      "Kun Zhang",
+      "Derong Chen",
+      "Zong-Xiang Xu",
+      "Kian Ping Loh"
+    ],
+    "summary": "Nature Communications, Published online: 27 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-68096-3\">doi:10.1038/s41467-025-68096-3</a>Conventional amides electrosynthesis methods confine reactions to solely electrochemical reduction or oxidation processes, resulting in low amides yield rates. Here, the authors report a tandem electrolyzer that couples cathodic nitrate reduction with anodic ethanol oxidation to produce acetamide.",
+    "source": "Nature Communications",
+    "date": "2025-12-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67895-y",
+    "title": "Highly efficient heterogeneous thermal catalysis for noble-metal-free hydrogen production from formic acid",
+    "link": "https://www.nature.com/articles/s41467-025-67895-y",
+    "authors": [
+      "Liang Qiu",
+      "Lin Yao",
+      "Ping Wang",
+      "Zhiwei Jiang",
+      "Jinglin Li",
+      "Ying Li",
+      "Yixin Li",
+      "Zhaosong Wu",
+      "Muhammad Salman Nasir",
+      "Ding Wang",
+      "Xinqiang Wang",
+      "Zhen Huang",
+      "Baowen Zhou"
+    ],
+    "summary": "Nature Communications, Published online: 27 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67895-y\">doi:10.1038/s41467-025-67895-y</a>Finding efficient ways to release hydrogen from liquid carriers is key to advancing clean energy systems. This study introduces a resilient catalyst that drives highly selective hydrogen production from formic acid using low-grade heat.",
+    "source": "Nature Communications",
+    "date": "2025-12-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67985-x",
+    "title": "Surface halogenation engineering for reversible silicon-based solid-state batteries",
+    "link": "https://www.nature.com/articles/s41467-025-67985-x",
+    "authors": [
+      "Haosheng Li",
+      "Yaru Li",
+      "Guantai Hu",
+      "Ying Li",
+      "Caijin Xiao",
+      "Liang Zhao",
+      "Huiqin Huang",
+      "Haochang Zhang",
+      "Wei Xia",
+      "Ning Lin"
+    ],
+    "summary": "Nature Communications, Published online: 27 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67985-x\">doi:10.1038/s41467-025-67985-x</a>Silicon negative electrodes in solid-state batteries exhibit poor reversibility. Here, the authors demonstrate surface halogenation engineering that suppresses irreversible lithium loss, achieving 94.3% initial Coulombic efficiency and 72% capacity retention over 500 cycles at 25°C.",
+    "source": "Nature Communications",
+    "date": "2025-12-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03138-8",
+    "title": "Small vegetation biomass retention efficiency across global forests",
+    "link": "https://www.nature.com/articles/s43247-025-03138-8",
+    "authors": [
+      "Jiameng Chen",
+      "Fangli Wei",
+      "Hui Yang",
+      "Feng Tao",
+      "Junzhi Zhou",
+      "Xinyu Zou",
+      "Jiang Zhang",
+      "Liu Yang",
+      "Yuanyuan Huang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 27 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03138-8\">doi:10.1038/s43247-025-03138-8</a>Only 0.2–2.6% of synthesized biomass stays in live plants at the global scale, as revealed by biomass retention efficiency, a newly developed metric based on satellite data and ecosystem models.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03113-3",
+    "title": "The hurricane-induced decay of mesoscale eddies: an energy source for near-inertial waves",
+    "link": "https://www.nature.com/articles/s43247-025-03113-3",
+    "authors": [
+      "Qianqian Ren",
+      "Yu Zhang",
+      "Wei Wang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 27 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03113-3\">doi:10.1038/s43247-025-03113-3</a>Mesoscale eddies’ decay is accompanied by subsurface near-inertial wave generation, indicating direct energy transfer, according to remote sensing and in situ measurements.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X25006053",
+    "title": "From seal to pathway: carbonate veins reveal fluid flow in the clay-rich strike-slip Yangsan Fault, South Korea",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X25006053?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 February 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 676Author(s): Luca Smeraglia, Youngbeom Cheon, Chang-Min Kim, Andrea Billi, Chiara Boschi, Ilaria Baneschi, Stefano M. Bernasconi, Andrea Fiorini, Eugenio Carminati",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2025-12-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118350",
+    "title": "Permafrost Thaw Dynamics Drive the Regime Shifts of Iron‐Bound Organic Carbon Sequestration in the East Siberian Arctic Shelf",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118350?af=R",
+    "authors": [
+      "Jiazong Du, \nZhaoyong She, \nLimin Hu, \nFudong Lin, \nZenghui Yu, \nKirill Aksentov, \nYuriy Vasilenko, \nAlexander Bosin, \nAnatolii Astakhov, \nXuefa Shi"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-26",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119770",
+    "title": "Sand Transport Rate and Turbulent Fluctuation in Aeolian Transportation Over the Gobi Surface Under Extremely High Winds",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119770?af=R",
+    "authors": [
+      "Tao Wang, \nXiang Xiao, \nLihai Tan, \nBenli Liu, \nQinghe Niu, \nJianjun Qu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-26",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118532",
+    "title": "Efficiency of Electromagnetic Energy Transfer From Solar Wind to Ionosphere Through Magnetospheric Ultra‐Low Frequency Waves",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118532?af=R",
+    "authors": [
+      "Dong Lin, \nMichael Hartinger, \nWilliam Lotko, \nWenbin Wang, \nXueling Shi, \nKareem Sorathia, \nBharat Kunduri, \nViacheslav Merkin, \nKevin Pham, \nMichael Wiltberger"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-26",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118090",
+    "title": "In Situ Balloon‐Borne Observations of the Vertical Structure of Relative Humidity in Asian Summer Monsoon Cirrus Clouds",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118090?af=R",
+    "authors": [
+      "Danrui Peng, \nJianchun Bian, \nDan Li, \nZhixuan Bai, \nHolger Vömel, \nFrank G. Wienhold, \nSimone Brunamonti, \nBeiping Luo, \nJinqiang Zhang, \nQian Li, \nThomas Peter"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-26",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL115258",
+    "title": "Differences in Tropical Cyclone Tornado Activities and Key Tornadic Environments Between China and the United States",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL115258?af=R",
+    "authors": [
+      "Jingyi Wen, \nLanqiang Bai, \nZhiyong Meng, \nRuilin Zhou"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-26",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119155",
+    "title": "Variability of Particulate Organic Carbon Stock in the South China Sea With Reference to Profile Structures",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119155?af=R",
+    "authors": [
+      "Teng Li, \nYan Bai, \nXianqiang He, \nBangyi Tao, \nXuan Zhang, \nFang Gong, \nYifan Zhang, \nXuchen Jin, \nChunfang Zhang, \nZhihong Wang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-26",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119845",
+    "title": "Freeze‐Thaw Processes Induce Convective Fingering in Saline Soils",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119845?af=R",
+    "authors": [
+      "Yue Li, \nJunjie Wu, \nHuiwen Tian, \nXiayang Yu, \nPei Xin"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-26",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119637",
+    "title": "Southern Ocean Clear‐Sky Brightening From Sea Spray Aerosol Increase Drives Departure From Hemispheric Albedo Symmetry",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119637?af=R",
+    "authors": [
+      "Clare E. Singer, \nRobert Pincus"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-26",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119138",
+    "title": "Understanding the Climate Response to Different Vertical Patterns of Radiative Forcing",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119138?af=R",
+    "authors": [
+      "An‐Zhuo Dai, \nJonathan Gregory, \nPaulo Ceppi"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-26",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117259",
+    "title": "Oxygenated Organosulfates Are an Effective Nucleation Precursor in Mixed Biogenic and Anthropogenic Environments",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117259?af=R",
+    "authors": [
+      "Lee Tiszenkel, \nAstrid N. Pedersen, \nVignesh Vasudevan‐Geetha, \nMargarete C. Hopf, \nMarianne Glasius, \nJonas Elm, \nShan‐Hu Lee"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-26",
+    "sent": true
+  },
+  {
+    "id": "10.1029/grl.71723",
+    "title": "Issue Information",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/grl.71723?af=R",
+    "authors": [
+      null
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-26",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032448",
+    "title": "Water Incorporation Mechanisms and Effects in MgSiO3‐Majorite Under High Temperature and Pressure Conditions",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032448?af=R",
+    "authors": [
+      "Yancheng Lou, \nZhigang Zhang, \nAndrew M. Walker, \nStephen Stackhouse, \nMeng Chen, \nHongping He"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 1, January 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2025-12-26",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032846",
+    "title": "Brittle and Crystal‐Plastic Defect Dynamics of Calcite Single Crystals",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032846?af=R",
+    "authors": [
+      "H. O’ Ghaffari, \nM. Peč, \nA. J. Cross, \nT. Mittal, \nU. Mok"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 1, January 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2025-12-26",
+    "sent": true
+  },
+  {
+    "id": "10.1029/jgrb.70115",
+    "title": "Issue Information",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/jgrb.70115?af=R",
+    "authors": [
+      null
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 1, January 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2025-12-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725005496",
+    "title": "Volcanics-driven episodic events enhancing organic carbon accumulation in black shale during the Middle Eocene",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725005496?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 January 2026<b>Source:</b> Geochimica et Cosmochimica Acta, Volume 413Author(s): Quanyou Liu, Juye Shi, Yanan Shen, Xinping Liang, Zhijun Jin, Peng Li, Xiaolin Zhang, Dongya Zhu, Qingqiang Meng, Huiyuan Xu, Zhengkai Huang",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725005885",
+    "title": "Non-alkali metals titrate silica out of carbonatite melts into insoluble silicate minerals",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725005885?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 January 2026<b>Source:</b> Geochimica et Cosmochimica Acta, Volume 413Author(s): Xinxiang Zhu, Michael Anenburg, Yan Liu",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725005605",
+    "title": "A dramatic drop in Nb solubility during fractional crystallization of carbonatites triggers Nb ore formation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725005605?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 January 2026<b>Source:</b> Geochimica et Cosmochimica Acta, Volume 413Author(s): Ya-Ting Xu, Ru-Cheng Wang, Xu-Dong Che, Fabrice Gaillard, Marion Louvel, Giada Iacono-Marziano, Johann Tuduri",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725005228",
+    "title": "Fe-Mg in olivine: simultaneous experimental determination of the diffusion-driven isotope fractionation along with tracer- and inter-diffusion coefficients",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725005228?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 January 2026<b>Source:</b> Geochimica et Cosmochimica Acta, Volume 413Author(s): Martin Oeser, Ralf Dohmen, Stefan Weyer",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725004764",
+    "title": "Placing asteroid Bennu’s organic solids in molecular and elemental context with those in aqueously altered carbonaceous chondrites",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725004764?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 January 2026<b>Source:</b> Geochimica et Cosmochimica Acta, Volume 413Author(s): George D. Cody, Conel M. O’D. Alexander, Dionysis I. Foustoukos, Robert M. Hazen, Daniel P. Glavin, Jason P. Dworkin, Yoshihiro Furukawa, Toshiki Koga, Harold C. Connolly, Dante S. Lauretta",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725007033",
+    "title": "Late Cretaceous cerium anomalies and globally distinctive redox responses before, during and after Oceanic Anoxic Event 2",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725007033?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 26 December 2025<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Cheng Cao, Xiao-Ming Liu, Jeremy D. Owens, Hugh C. Jenkyns",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-28",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwaf586",
+    "title": "Intercoupled electrocatalytic ammonia synthesis via a looped Li-N2/H2 battery",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf586/8405691?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Electrochemical ammonia (NH<sub>3</sub>) synthesis offers a sustainable pathway for the chemical industry. However, the fundamental proton-coupled nitrogen (N<sub>2</sub>) reduction process has led to the competing H<sub>2</sub> evolution and low energy efficiency, particularly at high current densities. Herein, we present the design of a looped Li-N<sub>2</sub>/H<sub>2</sub> battery that decouples N<sub>2</sub> reduction from protonation by two separate sub-reactions of electrocatalytic N<sub>2</sub> reduction in discharging (6Li<sup>+</sup> + 6e<sup>−</sup> + N<sub>2</sub> → 2Li<sub>3</sub>N) and electrocatalytic H<sub>2</sub> oxidation in charging (H<sub>2</sub> → 2H<sup>+</sup> + 2e<sup>−</sup>), which are intercoupled into a synthetic loop to enable NH<sub>3</sub> synthesis (Li<sub>3</sub>N + 3H<sup>+</sup> → NH<sub>3</sub> + 3Li<sup>+</sup>) without H<sub>2</sub> evolution. This approach achieves record-high energy efficiency (26.0%±0.9%), Faradaic efficiency (63.7%±2.3%), and high NH<sub>3</sub> production rate (1 mA cm<sup>−2</sup>, 0.12 mol h<sup>−1</sup> m<sup>−2</sup>) under mild conditions. These results significantly lower the cost of ammonia production compared to conventional electrochemical methods, highlighting its promising potential for practical applications.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2025-12-27",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwaf588",
+    "title": "The subsurface Pt-promoted TiO2−x overlayer enhances succinonitrile production in the photocatalytic C–C coupling of acetonitrile",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf588/8405685?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Photocatalytic coupling of monofunctional molecules offers an atom-efficient route for the synthesis of value-added bifunctional organic compounds, yet its efficiency is significantly limited by the reverse reaction of radicals. Our density functional theory (DFT) calculations have indicated that a unique structure of partially exposed Pt encapsulated by a titanium oxide overlayer could intrinsically facilitate the desorption and suppress re-adsorption of reactive radicals, hence impeding the reverse reaction in the photocatalytic acetonitrile coupling reaction. A TiO<sub>2−x</sub>/Pt inverse heterostructure has then been developed via strong metal-support interaction (SMSI) with tunable TiO<sub>2−x</sub> coverage. Among the catalysts, an optimal partially encapsulated TiO<sub>2−x</sub>/Pt catalyst achieves a marked formation rate of succinonitrile of 8.41 mmol·g<sub>cat</sub><sup>−1</sup>·h<sup>−1</sup> from acetonitrile, reaching a 67.3% radical-to-product efficiency and a 5.6% apparent quantum yield, representing 3-fold enhancements over a conventional Pt-supported TiO<sub>2</sub> catalyst, over 1.9-fold higher than bare Pt/TiO<sub>2</sub> or fully encapsulated counterparts, respectively. Kinetic investigations demonstrate that the suppression of radical-proton recombination plays a more dominant role in the overall coupling performance compared to the radical initiation. This work underscores the critical role of tailored catalysts by coating with oxide domains to mitigate reverse reactions and establishes an effective strategy for advancing the efficiency in photocatalytic coupling.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2025-12-27",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwaf593",
+    "title": "Upper-layer ozone intrusion promotes wintertime secondary aerosol formation on the ground",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf593/8405682?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Upper-layer Ozone (O₃) intrusion (ULOI) is an important source of surface O₃, affecting gas pollutants and secondary aerosol formation. However, no robust method has been reported to identify ULOI events based on ground observations and assess their effects on surface atmospheric chemistry. We propose a novel method to identify ULOI events by ranking O₃ concentrations before dawn and evaluate their contributions to ground-level O₃ and aerosol formation across China. Our results show that ULOI events occur 22%-74% across China, with higher frequency in eastern and southern coastal regions. ULOI enhances ground-level O₃ by 13-43 ppbv at night and 3-14 ppbv during the day. This increases atmospheric oxidation capacity (AOC) and enhances the contribution of the O<sub>3</sub> oxidation path to sulfate and secondary organic aerosol (SOA) formation. This study emphasizes the importance of atmospheric layer interactions and the impact of ULOI events on surface atmospheric chemistry.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2025-12-27",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-025-67876-1",
     "title": "Size-dependent translocation of polystyrene nanoplastics across biological barriers in mammals",
     "link": "https://www.nature.com/articles/s41467-025-67876-1",
