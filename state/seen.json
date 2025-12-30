@@ -1,5 +1,454 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-025-04147-5",
+    "title": "Audio long read: Will blockbuster obesity drugs revolutionize addiction treatment?",
+    "link": "https://www.nature.com/articles/d41586-025-04147-5",
+    "authors": [
+      "Elie Dolgin",
+      "Benjamin Thompson"
+    ],
+    "summary": "Nature, Published online: 29 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-04147-5\">doi:10.1038/d41586-025-04147-5</a>Researchers are investigating whether GLP-1 drugs can help blunt cravings for nicotine, alcohol and opioids.",
+    "source": "Nature",
+    "date": "2025-12-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04105-1",
+    "title": "Probing pollutants: how I use penguin faeces to measure contaminants in Antarctica",
+    "link": "https://www.nature.com/articles/d41586-025-04105-1",
+    "authors": [
+      "Rachael Pells"
+    ],
+    "summary": "Nature, Published online: 29 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-04105-1\">doi:10.1038/d41586-025-04105-1</a>Buse Tuğba Zaman is developing a way to track tiny amounts of contaminants — and fulfilled a dream to visit Earth’s most remote continent.",
+    "source": "Nature",
+    "date": "2025-12-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04104-2",
+    "title": "Why academics should do more consulting — and how to make it work",
+    "link": "https://www.nature.com/articles/d41586-025-04104-2",
+    "authors": [
+      "Louise J. Slater",
+      "Weston B. Struwe",
+      "Christopher R. Vogel",
+      "Emma Walker",
+      "Regent Lee"
+    ],
+    "summary": "Nature, Published online: 29 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-04104-2\">doi:10.1038/d41586-025-04104-2</a>Encouraging academics to act as advisers to outside organizations is the most effective way to serve society’s needs.",
+    "source": "Nature",
+    "date": "2025-12-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04106-0",
+    "title": "Let 2026 be the year the world comes together for AI safety",
+    "link": "https://www.nature.com/articles/d41586-025-04106-0",
+    "authors": [],
+    "summary": "Nature, Published online: 29 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-04106-0\">doi:10.1038/d41586-025-04106-0</a>AI technologies need to be safe and transparent. There are few, if any, benefits from being outside efforts to achieve this.",
+    "source": "Nature",
+    "date": "2025-12-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04101-5",
+    "title": "Nine books to help shape your science career in 2026",
+    "link": "https://www.nature.com/articles/d41586-025-04101-5",
+    "authors": [
+      "Anne Gulland"
+    ],
+    "summary": "Nature, Published online: 29 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-04101-5\">doi:10.1038/d41586-025-04101-5</a>If you’ve hatched a New Year plan to move abroad, improve your presentations or chase happiness as a 20-something researcher, you’ll find advice aplenty in these books.",
+    "source": "Nature",
+    "date": "2025-12-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01868-0",
+    "title": "Contrasting trends in very large hail events and related economic losses across the globe",
+    "link": "https://www.nature.com/articles/s41561-025-01868-0",
+    "authors": [
+      "Francesco Battaglioli",
+      "Mateusz Taszarek",
+      "Pieter Groenemeijer",
+      "Tomáš Púčik",
+      "Anja Rädler"
+    ],
+    "summary": "Nature Geoscience, Published online: 29 December 2025; <a href=\"https://www.nature.com/articles/s41561-025-01868-0\">doi:10.1038/s41561-025-01868-0</a>The frequency of very large hail events between 1950 and 2023 increased most in Europe and decreased most in South America because of variations in atmospheric humidity and instability, according to a statistical model analysis.",
+    "source": "Nature Geoscience",
+    "date": "2025-12-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67937-5",
+    "title": "Optical heterostructure in a two-dimensional organic crystal",
+    "link": "https://www.nature.com/articles/s41467-025-67937-5",
+    "authors": [
+      "Kan Liao",
+      "Junran Zhang",
+      "Xiang-Long Yu",
+      "Wenheng Xu",
+      "Zhongjing Xia",
+      "Dawei Zhou",
+      "Zilong Mao",
+      "Yan Lv",
+      "Yijun Ming",
+      "Chao Liu",
+      "Ming Sheng",
+      "Kun Liu",
+      "Zhen Zhang",
+      "Chongqin Zhu",
+      "Xiaoyong Wang",
+      "Chao Zhu",
+      "Zhongfu An",
+      "Lin Wang"
+    ],
+    "summary": "Nature Communications, Published online: 29 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67937-5\">doi:10.1038/s41467-025-67937-5</a>Optical heterostructures have potential in integrated photonics and optoelectronics but are challenging to prepare in single-component systems. Here, the authors report an intrinsic optical heterostructure in an organic nanosheet, with enhanced fluorescence in an inner zone.",
+    "source": "Nature Communications",
+    "date": "2025-12-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68060-1",
+    "title": "Multi-omics analysis identifies a microbiota–bile acid–TLR signaling axis driving bladder injury in interstitial cystitis",
+    "link": "https://www.nature.com/articles/s41467-025-68060-1",
+    "authors": [
+      "Liao Peng",
+      "Jia-wei Chen",
+      "Yuan-zhuo Chen",
+      "Xing-peng Di",
+      "Le-de Lin",
+      "Bo-ya Li",
+      "Chi Zhang",
+      "Wei Wang",
+      "Xiao-shuai Gao",
+      "Yu-cheng Ma",
+      "Si-hong Shen",
+      "Hai-rui Li",
+      "Xiao-fang Xu",
+      "Xiao Zeng",
+      "Hong Shen",
+      "Qun Sun",
+      "Tao Jin",
+      "De-yi Luo"
+    ],
+    "summary": "Nature Communications, Published online: 29 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-68060-1\">doi:10.1038/s41467-025-68060-1</a>Through integrated multi-omics and experimental validation, this study reveals that altered gut microbiota and bile acid metabolism activate TLR3 to induce urothelial injury in interstitial cystitis, identifying a pathway with therapeutic potential.",
+    "source": "Nature Communications",
+    "date": "2025-12-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68049-w",
+    "title": "Polyamide nanofilms with Janus microporous framework for sustainable solvent filtration",
+    "link": "https://www.nature.com/articles/s41467-025-68049-w",
+    "authors": [
+      "Fuxin Zheng",
+      "Zhenxiang Pan",
+      "Yu Liao",
+      "Jiang Zhan",
+      "Songjun Fang",
+      "Jiandong Pang",
+      "Tong Zhang",
+      "Gang Han"
+    ],
+    "summary": "Nature Communications, Published online: 29 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-68049-w\">doi:10.1038/s41467-025-68049-w</a>Tuning permselectivity and chemical stability is desirable for polymer membranes, though it is challenging to balance these properties. Here the authors report a polyamide membrane using modified interfacial polymerization methods for stable and highly permeable organic solvent nanofiltration.",
+    "source": "Nature Communications",
+    "date": "2025-12-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67259-6",
+    "title": "Multi-omic relay velocity modeling uncovers dynamic chromatin-transcription regulation across cell states",
+    "link": "https://www.nature.com/articles/s41467-025-67259-6",
+    "authors": [
+      "Ari Hong",
+      "Sangseon Lee",
+      "Kwangsoo Kim"
+    ],
+    "summary": "Nature Communications, Published online: 29 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67259-6\">doi:10.1038/s41467-025-67259-6</a>Cell fate transitions rely on dynamic regulatory programs that RNA velocity often blurs. Here, the authors show that MoFlow integrates multi-omic data to infer locally adaptive, single-cell-resolved velocities that illuminate fine-scale regulatory dynamics.",
+    "source": "Nature Communications",
+    "date": "2025-12-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67688-3",
+    "title": "Plasma protein profiling predicts cancer in patients with non-specific symptoms",
+    "link": "https://www.nature.com/articles/s41467-025-67688-3",
+    "authors": [
+      "Fredrika Wannberg",
+      "María Bueno Álvez",
+      "Alvida Qvick",
+      "Tamas Pongracz",
+      "Katherina Aguilera",
+      "Emma Adolfsson",
+      "Louise Essehorn",
+      "Max Gordon",
+      "Mathias Uhlén",
+      "Gisela Helenius",
+      "Viktoria Hjalmar",
+      "Mikael Åberg",
+      "Axel Rosell",
+      "Charlotte Thålin"
+    ],
+    "summary": "Nature Communications, Published online: 29 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67688-3\">doi:10.1038/s41467-025-67688-3</a>Cancer detection is challenging, especially in patients with diffuse symptoms that overlap with non-malignant conditions. Here, the authors develop a proteomics- and minimally invasive blood sampling-based classification model as a triage tool to identify and prioritize individuals at high cancer risk that would benefit the most from rapid and highly sensitive diagnostic modalities.",
+    "source": "Nature Communications",
+    "date": "2025-12-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67987-9",
+    "title": "Fusion of multi-source precipitation records via coordinate-based generative models",
+    "link": "https://www.nature.com/articles/s41467-025-67987-9",
+    "authors": [
+      "Sencan Sun",
+      "Congyi Nai",
+      "Baoxiang Pan",
+      "Wentao Li",
+      "Lu Li",
+      "Xin Li",
+      "Efi Foufoula-Georgiou",
+      "Yanluan Lin"
+    ],
+    "summary": "Nature Communications, Published online: 29 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67987-9\">doi:10.1038/s41467-025-67987-9</a>This study presents PRIMER, a coordinate-based diffusion model, that fuses multiple imperfect precipitation records into a unified prior, enabling Bayesian inference like downscaling, bias correction, and data assimilation.",
+    "source": "Nature Communications",
+    "date": "2025-12-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67810-5",
+    "title": "Molecular characterisation of the <i>Bacillus subtilis</i> SpbK antiphage defence system",
+    "link": "https://www.nature.com/articles/s41467-025-67810-5",
+    "authors": [
+      "Biswa P. Mishra",
+      "Christian L. Loyo",
+      "Yanyao Cai",
+      "Thomas Litfin",
+      "Gause Miraj",
+      "Lou Brillault",
+      "Veronika Masic",
+      "Tamim Mosaiab",
+      "Premraj Rajaratnam",
+      "Santosh Rudrawar",
+      "Weixi Gu",
+      "Bostjan Kobe",
+      "Joseph P. Gerdt",
+      "Alan D. Grossman",
+      "Yun Shi",
+      "Thomas Ve"
+    ],
+    "summary": "Nature Communications, Published online: 29 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67810-5\">doi:10.1038/s41467-025-67810-5</a>SpbK protects Bacillus subtilis from phage infection by depleting NAD⁺. In this study, the authors uncover the molecular mechanisms underlying SpbK’s self association-dependent NADase activity and its activation by the SPβ phage portal protein YonE.",
+    "source": "Nature Communications",
+    "date": "2025-12-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68063-y",
+    "title": "Viral entry shapes HCMV latency establishment",
+    "link": "https://www.nature.com/articles/s41467-025-68063-y",
+    "authors": [
+      "Yaarit Kitsberg",
+      "Aharon Nachshon",
+      "Tamar Arazi",
+      "Karin Broennimann",
+      "Tal Fisher",
+      "Alexander Wainstein",
+      "Yaara Finkel",
+      "Noam Stern-Ginossar",
+      "Michal Schwartz"
+    ],
+    "summary": "Nature Communications, Published online: 29 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-68063-y\">doi:10.1038/s41467-025-68063-y</a>HCMV infection can become productive or latent. Here the authors show that variations in the number of incoming viral particles across cell types is a key factor of this decision, identifying entry efficiency as a key regulator of latency.",
+    "source": "Nature Communications",
+    "date": "2025-12-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03136-w",
+    "title": "Precipitation, moderated by spring temperature and vegetation, drives runoff efficiency in the Upper Colorado River Basin, USA",
+    "link": "https://www.nature.com/articles/s43247-025-03136-w",
+    "authors": [
+      "David Palumbo",
+      "Subhrendu Gangopadhyay",
+      "Upmanu Lall"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 29 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03136-w\">doi:10.1038/s43247-025-03136-w</a>Statistical causal inference shows that runoff efficiency in the Upper Colorado River Basin rises with higher precipitation and snow, accompanied by cooler springs and suppressed vegetation, and falls when precipitation and snow are lower and accompanied by warmer springs and enhanced vegetation.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-29",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118023",
+    "title": "Rupture Dynamics of the 2025 Mw 7.7 Myanmar Earthquake: A Bilateral Supershear Rupture on Unusually Long Fault Superhighway",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118023?af=R",
+    "authors": [
+      "Zhongqiu He, \nZhenguo Zhang, \nXin Wang, \nZijia Wang, \nT. C. Sunilkumar, \nXiaohua Xu, \nRui Wang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-29",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118530",
+    "title": "The Importance of an Ensemble Approach for Modeling Aerosol‐Convection Interactions",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118530?af=R",
+    "authors": [
+      "Milind Sharma, \nAnita D. Rapp, \nChristopher J. Nowotarski, \nBo Chen, \nSarah D. Brooks"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-29",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118782",
+    "title": "Strong Wind‐Driven Oceanic Forcing on Decadal SST Variability Over the Global Ocean",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118782?af=R",
+    "authors": [
+      "Tianying Liu, \nZhengyu Liu, \nPeng Gu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-29",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL116905",
+    "title": "The Impact of Large‐Scale Land Surface Conditions on the South American Low‐Level Jet",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL116905?af=R",
+    "authors": [
+      "Chu‐Chun Chen, \nFrancina Dominguez, \nSean A. Matus"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119300",
+    "title": "Contrasting the Roles of Deep and Shallow Convection in Tropical Gross Moist Stability",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119300?af=R",
+    "authors": [
+      "Jia‐Yuh Yu, \nDong‐Pha Dang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117981",
+    "title": "Multi‐Scale Decomposition for Skillful All‐Season MJO Prediction With Deep Learning",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117981?af=R",
+    "authors": [
+      "Miae Kim, \nDaehyun Kang, \nSoo‐Jin Sohn, \nGayoung Kim, \nJinyoung Rhee, \nSunyong Kim"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118862",
+    "title": "Stochastic Resonance Elucidates the Emergence and Periodicity Transition of Glacial Cycles",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118862?af=R",
+    "authors": [
+      "Tian Xu, \nGabriel Katul, \nShineng Hu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117925",
+    "title": "Mechanisms of Projected Changes in Thunderstorm Downburst Environments Across the United States",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117925?af=R",
+    "authors": [
+      "Ian N. Williams, \nGwendolyn N. Fieweger"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119765",
+    "title": "Stratiform and Anvil Cloud‐Radiative Forcing in Tropical Cyclogenesis",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119765?af=R",
+    "authors": [
+      "Emily Luschen, \nJames Ruppert, \nRosimar Rios‐Berrios, \nShun‐Nan Wu, \nYunji Zhang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012592",
+    "title": "Magmatic and Tectonic Structures in the Crust Beneath Armenia and Surrounding Regions of Lesser Caucasus Inferred From Body‐Wave Earthquake Tomography",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012592?af=R",
+    "authors": [
+      "Ivan Koulakov, \nLilit Sargsyan, \nAra Levonyan, \nElya Sahakyan, \nMikayel Gevorgyan, \nKhachatur Meliksetian"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 1, January 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2025-12-29",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032870",
+    "title": "Olivine‐Ahrensite Phase Relations in the Mg2SiO4‐Fe2SiO4 System as a Function of Temperature",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032870?af=R",
+    "authors": [
+      "Artem Chanyshev, \nDmitry Bondar, \nLin Wang, \nHongzhan Fei, \nNoriyoshi Tsujino, \nYunke Song, \nNaira Martirosyan, \nAmrita Chakraborti, \nEun Jeong Kim, \nHu Tang, \nShrikant Bhat, \nRobert Farla, \nTomoo Katsura"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 1, January 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2025-12-29",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032857",
+    "title": "Tectonic Segmentation of the Brazilian Equatorial Margin Rift",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032857?af=R",
+    "authors": [
+      "Julia C. Fonseca, \nCesar R. Ranero, \nPaola Vannucchi, \nDavid Iacopini, \nHelenice Vital"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 1, January 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2025-12-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725006994",
+    "title": "Role of sulfide saturation in the petrogenesis of nakhlites and chassignites",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725006994?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 28 December 2025<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Marine Paquet, James M.D. Day, Arya Udry",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725007495",
+    "title": "Chemical weathering releases substantial CO<sub>2</sub> in temperate glacial catchments of the southeastern Tibetan Plateau",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725007495?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 28 December 2025<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Zhengliang Yu, Guangjian Wu, Wei Yang, Lun Luo, Fei Li, Deji, Haiying Qiu, Yifan Pan, Xiong Xiao",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136825006456",
+    "title": "Indium distribution and substitution mechanisms in the skarn mineralization process of world-class Dulong Sn–Zn–In deposit, Yunnan Province (Southwest China)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136825006456?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 28 December 2025<b>Source:</b> Ore Geology ReviewsAuthor(s): Liang Li, Shucheng Tan, Zheng Liu, Jingxian Meng, Jianyu Yang, Yuguo Zhou, Xiaohu He, Jiang Zhu, Hailong He, Qinghe Yan, Hui Ye",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2025-12-30",
+    "sent": true
+  },
+  {
     "id": "https://www.sciencedirect.com/science/article/pii/S0012821X25005898",
     "title": "Insights into the 3D structure and behaviour of Icelandic crystal mushes from gabbroic nodules",
     "link": "https://www.sciencedirect.com/science/article/pii/S0012821X25005898?dgcid=rss_sd_all",
