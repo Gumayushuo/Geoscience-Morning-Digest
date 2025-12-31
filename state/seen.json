@@ -1,5 +1,483 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-025-03989-3",
+    "title": "Can boomerangs bounce?",
+    "link": "https://www.nature.com/articles/d41586-025-03989-3",
+    "authors": [],
+    "summary": "Nature, Published online: 30 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03989-3\">doi:10.1038/d41586-025-03989-3</a>Privacy in the age of computers and a Nature reader questions eyewitness accounts of boomerangs in our weekly dip into the archive.",
+    "source": "Nature",
+    "date": "2025-12-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04026-z",
+    "title": "Safe as houses",
+    "link": "https://www.nature.com/articles/d41586-025-04026-z",
+    "authors": [
+      "Dawn Vogel"
+    ],
+    "summary": "Nature, Published online: 30 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-04026-z\">doi:10.1038/d41586-025-04026-z</a>Constructive feedback.",
+    "source": "Nature",
+    "date": "2025-12-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04100-6",
+    "title": "Science in 2050: the future breakthroughs that will shape our world — and beyond",
+    "link": "https://www.nature.com/articles/d41586-025-04100-6",
+    "authors": [
+      "David Adam"
+    ],
+    "summary": "Nature, Published online: 30 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-04100-6\">doi:10.1038/d41586-025-04100-6</a>Nuclear fusion. People on Mars. Artificial general intelligence. These are just some of the advances that could come by the mid-century mark.",
+    "source": "Nature",
+    "date": "2025-12-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04103-3",
+    "title": "Mummies give up their secrets — but not their mystery",
+    "link": "https://www.nature.com/articles/d41586-025-04103-3",
+    "authors": [
+      "Laura Spinney"
+    ],
+    "summary": "Nature, Published online: 30 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-04103-3\">doi:10.1038/d41586-025-04103-3</a>A challenging exhibition asks why we are so fascinated with the preserved bodies of our ancestors, and how we should treat them.",
+    "source": "Nature",
+    "date": "2025-12-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04099-w",
+    "title": "Put pressure on publishers to follow best practice — external regulation is the answer",
+    "link": "https://www.nature.com/articles/d41586-025-04099-w",
+    "authors": [
+      "Jennifer A. Byrne"
+    ],
+    "summary": "Nature, Published online: 30 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-04099-w\">doi:10.1038/d41586-025-04099-w</a>Journals that work hard to meet the needs of both authors and readers should be acknowledged publicly — encouraging others to follow suit.",
+    "source": "Nature",
+    "date": "2025-12-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67857-4",
+    "title": "Flexible computation of object motion and depth based on viewing geometry inferred from optic flow",
+    "link": "https://www.nature.com/articles/s41467-025-67857-4",
+    "authors": [
+      "Zhe-Xin Xu",
+      "Jiayi Pang",
+      "Akiyuki Anzai",
+      "Gregory C. DeAngelis"
+    ],
+    "summary": "Nature Communications, Published online: 30 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67857-4\">doi:10.1038/s41467-025-67857-4</a>People typically perceive the motion and depth of objects correctly even during walking or running, when visual inputs change markedly. The authors show that this accurate perception is achieved by inferring the observer’s viewing geometry from optic flow.",
+    "source": "Nature Communications",
+    "date": "2025-12-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67697-2",
+    "title": "Rhomboid protease GlpG regulates type 1 pili quality control and virulence in pathogenic <i>E. coli</i>",
+    "link": "https://www.nature.com/articles/s41467-025-67697-2",
+    "authors": [
+      "Jimmy Lu",
+      "Elena Arutyunova",
+      "Bridgette Hartley",
+      "Jonas Wong",
+      "Hyunjae Chung",
+      "Lanny Buchan",
+      "Heather Armstrong",
+      "Sadhna Phanse",
+      "Howard S. Young",
+      "Eytan Wine",
+      "Mohan Babu",
+      "Justin Chun",
+      "Wael Elhenawy",
+      "Olivier Julien",
+      "M. Joanne Lemieux"
+    ],
+    "summary": "Nature Communications, Published online: 30 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67697-2\">doi:10.1038/s41467-025-67697-2</a>The disruption of the rhomboid protease gene glpG in E. coli leads to defects in bacterial colonization. Here, the authors show that GlpG is essential for the assembly of type 1 pili, a virulence factor required for colonization of bacteria in eukaryotic cells.",
+    "source": "Nature Communications",
+    "date": "2025-12-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68065-w",
+    "title": "Magnetic memory driven by spin splitting torque in nonrelativistic collinear antiferromagnet",
+    "link": "https://www.nature.com/articles/s41467-025-68065-w",
+    "authors": [
+      "Yaqin Guo",
+      "Aitian Chen",
+      "Zhaozhuo Zeng",
+      "Tai An",
+      "Qirui Cui",
+      "Yonglong Ga",
+      "Dongxing Zheng",
+      "Xiao Deng",
+      "Xu Zhang",
+      "Meng Tang",
+      "Zengtai Zhu",
+      "Chuangwen Wu",
+      "Jing Zhang",
+      "Yibo Fan",
+      "Zhe Wang",
+      "Wenjie Song",
+      "Peng Yan",
+      "Tao Zhu",
+      "Shouguo Wang",
+      "Xiufeng Han",
+      "Jinkui Zhao",
+      "Kang L. Wang",
+      "Guoqiang Yu",
+      "Xixiang Zhang",
+      "Hao Wu"
+    ],
+    "summary": "Nature Communications, Published online: 30 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-68065-w\">doi:10.1038/s41467-025-68065-w</a>Altermagnets combine spin-split electronic bands with zero net magnetization, making them ideal for integration into spin-based information processing devices. Here Guo, Chen, Zeng, and coauthors demonstrate a magnetic memory making use of the altermagnetic spin splitting torque in a three terminal MRAM device.",
+    "source": "Nature Communications",
+    "date": "2025-12-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67883-2",
+    "title": "Capsaicin diet drives gut inflammation and exosomal <i>miR-17-3p</i> elevation in idiopathic short stature",
+    "link": "https://www.nature.com/articles/s41467-025-67883-2",
+    "authors": [
+      "Yameng Wang",
+      "Zhiwen Wu",
+      "Jinghong Yuan",
+      "Junchao Zhu",
+      "Marco Ventin",
+      "Shahrzad Arya",
+      "Peng Yu",
+      "Giulia Cattaneo",
+      "Guowen Huang",
+      "Wenrui Zhao",
+      "Shengqin Li",
+      "Junqiu Zhang",
+      "Qi Chen",
+      "Xinhui Wang",
+      "Lianyong Li",
+      "Xijuan Liu",
+      "Xigao Cheng",
+      "Jingyu Jia"
+    ],
+    "summary": "Nature Communications, Published online: 30 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67883-2\">doi:10.1038/s41467-025-67883-2</a>The authors demonstrate that plasma exosomes from children with idiopathic short stature contain elevated hsa-miR-17-3p, that disrupts growth signaling and impairs cartilage cell proliferation. A capsaicin-rich diet in rats triggered gut inflammation, increased exosomal miR-17-3p and recapitulated features of idiopathic short stature.",
+    "source": "Nature Communications",
+    "date": "2025-12-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67629-0",
+    "title": "Structure of the G<sub>q</sub>-coupled adhesion receptor ADGRL4",
+    "link": "https://www.nature.com/articles/s41467-025-67629-0",
+    "authors": [
+      "Qingchao Chen",
+      "Anastasiia Gusach",
+      "Aurora Diamante",
+      "Jayesh C. Patel",
+      "Patricia C. Edwards",
+      "Christopher G. Tate",
+      "David M. Favara"
+    ],
+    "summary": "Nature Communications, Published online: 30 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67629-0\">doi:10.1038/s41467-025-67629-0</a>ADGRL4 is a cancer-implicated adhesion GPCR whose ability to couple to G proteins had been unclear. Here, authors show that ADGRL4 weakly engages Gq and determine its 3.1 Å active-state structure, revealing its mechanism of activation.",
+    "source": "Nature Communications",
+    "date": "2025-12-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68025-4",
+    "title": "Topological exciton-polaritons with negative coupling",
+    "link": "https://www.nature.com/articles/s41467-025-68025-4",
+    "authors": [
+      "Zixuan Yu",
+      "Feng Jin",
+      "Jiahao Ren",
+      "Subhaskar Mandal",
+      "Baile Zhang",
+      "Rui Su"
+    ],
+    "summary": "Nature Communications, Published online: 30 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-68025-4\">doi:10.1038/s41467-025-68025-4</a>Negative coupling is an intriguing mechanism for linking lattice sites, enabling phenomena unattainable with positive coupling alone. Here, the authors introduce this unique coupling into the polariton system and demonstrate topological polariton condensation in lattices with negative coupling.",
+    "source": "Nature Communications",
+    "date": "2025-12-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67772-8",
+    "title": "Autonomous biogenesis of all thirty proteins of the Escherichia coli translation machinery",
+    "link": "https://www.nature.com/articles/s41467-025-67772-8",
+    "authors": [
+      "Matthaeus Schwarz-Schilling",
+      "Ilan Cohen",
+      "Aurore Dupin",
+      "Noa Avidan",
+      "Yoav Barak",
+      "Yoshihiro Shimizu",
+      "Shirley S. Daube",
+      "Roy H. Bar-Ziv"
+    ],
+    "summary": "Nature Communications, Published online: 30 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67772-8\">doi:10.1038/s41467-025-67772-8</a>The cell-free biogenesis of the protein translation machinery is essential for the creation of a self-regenerating synthetic cell. Here the authors synthesise all 30 E. coli translation proteins in a cell-free system and demonstrate functionality.",
+    "source": "Nature Communications",
+    "date": "2025-12-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67909-9",
+    "title": "bZIP factors of the Unfolded Protein Response interact with PIF4 to promote thermomorphogenesis",
+    "link": "https://www.nature.com/articles/s41467-025-67909-9",
+    "authors": [
+      "Dan Zhang",
+      "Haiying Xu",
+      "Nam-Hai Chua"
+    ],
+    "summary": "Nature Communications, Published online: 30 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67909-9\">doi:10.1038/s41467-025-67909-9</a>UPR-derived bZIP factors interact with PIF4 to boost plant growth at moderately elevated temperatures, linking ER stress signaling with temperature-responsive pathways.",
+    "source": "Nature Communications",
+    "date": "2025-12-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03124-0",
+    "title": "Atmospheric rivers as mediators between climate teleconnections and burned area variability in North America",
+    "link": "https://www.nature.com/articles/s43247-025-03124-0",
+    "authors": [
+      "Flavio Justino",
+      "David H. Bromwich",
+      "Carlos Gurjão"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 30 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03124-0\">doi:10.1038/s43247-025-03124-0</a>The interactions between atmospheric rivers and large-scale climate teleconnections modulate the timing and magnitude of vegetation and fire responses across North America, according to remote sensing, teleconnection index, and reanalysis data analyses.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03096-1",
+    "title": "Minor effects of nutrient additions on soil microbial carbon use efficiency",
+    "link": "https://www.nature.com/articles/s43247-025-03096-1",
+    "authors": [
+      "Ying Chen",
+      "Yawen Lu",
+      "Siyuan Gao",
+      "Huiying Liu"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 30 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03096-1\">doi:10.1038/s43247-025-03096-1</a>Microbial carbon use efficiency remains largely unaffected by nutrient additions, regardless of the overall amount or the specific type of nutrient applied, according to a global meta-analysis of 427 observations.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03143-x",
+    "title": "Perennial redox potential dynamics in Alaskan degraded and non-degraded permafrost soils",
+    "link": "https://www.nature.com/articles/s43247-025-03143-x",
+    "authors": [
+      "Patrick Liebmann",
+      "Cordula Vogel",
+      "Alexander Kholodov",
+      "Jiří Bárta",
+      "Muhammad Waqas",
+      "Milan Varsadiya",
+      "Haitao Wang",
+      "Tim Urich",
+      "Tim Mansfeldt",
+      "Stefan Wessel-Bothe",
+      "Olga Shibistova",
+      "Georg Guggenberger"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 30 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03143-x\">doi:10.1038/s43247-025-03143-x</a>Redox potential pattern in the permafrost soil active layer showed large seasonal differences, with reducing conditions in the summer and autumn, and oxidizing conditions in winter and spring, according to three years of soil redox potential measurements, at three sites near Fairbanks, Alaska.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03137-9",
+    "title": "Precision irrigation framework could enhance water productivity and reduce carbon emissions in China",
+    "link": "https://www.nature.com/articles/s43247-025-03137-9",
+    "authors": [
+      "Haiyan Li",
+      "Mo Li",
+      "Yijia Wang",
+      "Qiang Fu",
+      "Vijay P. Singh",
+      "Yue Qin",
+      "Yuelei Li",
+      "Xianghui Xu",
+      "Zhonglili Zhang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 30 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03137-9\">doi:10.1038/s43247-025-03137-9</a>Increased irrigation water productivity, crop yields stabilization, mitigation of energy consumption and carbon emissions are possible using a high-resolution water-food energy-carbon optimization framework that integrates multi-source datasets and future crop distribution scenarios.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03109-z",
+    "title": "Species diversity advances autumn senescence via enhanced belowground carbon allocation in semi-arid grasslands",
+    "link": "https://www.nature.com/articles/s43247-025-03109-z",
+    "authors": [
+      "Huan Cheng",
+      "Qiao Yuxin",
+      "HuaZhong Zhu",
+      "YunQiang Zhu",
+      "Qianru Jia",
+      "Yuchuan Yang",
+      "Huaping Zhong",
+      "Constantin M. Zohner",
+      "Jianquan Liu"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 30 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03109-z\">doi:10.1038/s43247-025-03109-z</a>Enhanced species diversity promotes the allocation of resources to belowground biomass, accelerates seasonal carbon cycle, thereby reducing aboveground resource availability triggering earlier senescence, according to field observations from Northern China coupled with global remote sensing data.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2508896122?af=R",
+    "title": "Biomarker δ13C values record consistent savanna vegetation and variable alkalinity of Lake Olduvai during Pleistocene wet/dry cycles",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2508896122?af=R",
+    "authors": [
+      "Kelsey E. DoironDevon E. ColcordAndrea M. ShillingJackson K. NjauIan G. StanistreetHarald StollhofenKathy D. SchickNicholas P. TothSimon C. BrassellaDepartment of Earth & Atmospheric Sciences, Indiana University, Bloomington, IN 47401bDepartment of Earth, Ocean, and Ecological Sciences, University of Liverpool, Liverpool L69 3BX, United KingdomcThe Stone Age Institute, Gosport, IN 47433dGeoZentrum Nordbayern, Friedrich-Alexander-Universität, Erlangen 91054, Germany"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 1, January 2026. <br />SignificanceFossil and archaeological records confirm that the lacustrine setting of Olduvai Gorge was a sustained habitat for hominins in the early Pleistocene. Sediments deposited in Paleolake Olduvai spanning forty thousand years record evidence of ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2025-12-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X25006065",
+    "title": "Climatic controls on erosional efficiency vary with lithology across the Himalaya",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X25006065?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 February 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 676Author(s): Kevin Shao, Seulgi Moon, Gen K. Li, Peter J. Haproff, An Yin, Lee B. Corbett, Paul R. Bierman, Marina O. Argueta, Alan J. Hidy",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2025-12-31",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118457",
+    "title": "Temperature Is Surpassing Precipitation as the Dominant Driver of Flash Drought Acceleration Under Climate Warming",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118457?af=R",
+    "authors": [
+      "Feng Ma, \nHua Li"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-30",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118295",
+    "title": "Difference in Slip Patterns Between Two Prehistoric Giant Earthquakes Along the Southern Kuril Trench",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118295?af=R",
+    "authors": [
+      "Kei Ioki, \nYuki Sawai, \nYuichi Namegaya, \nDan Matsumoto, \nKoichiro Tanigawa, \nYumi Shimada, \nToru Tamura, \nRina Okada"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-30",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117680",
+    "title": "Independent Short‐ and Longwave Pathways for a Zonally Asymmetric Northern Hemisphere Temperature Response to Tropical Volcanic Eruptions",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117680?af=R",
+    "authors": [
+      "L. S. Andreasen, \nT. A. Shaw, \nM. Günther, \nC. Timmreck"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-29",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117927",
+    "title": "Implications for Oceanographic and Seafloor Geodetic Applications Due To Settling of Self‐Calibrating Bottom Pressure Recorders",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117927?af=R",
+    "authors": [
+      "Nicholas Harmon, \nCatherine A. Rychert, \nBen Moat, \nDavid Smeed, \nEleanor Frajka‐Williams, \nTillys Petit, \nMartin Walker, \nPaul Provost, \nTina Thomas"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-29",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119062",
+    "title": "Halogenated Organic Compounds: A Massive Halogen Reservoir and an Intriguing Component of the Marine Dissolved Organic Matter Pool",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119062?af=R",
+    "authors": [
+      "Leanne C. Powers, \nJohan Schijf, \nPhilippe Schmitt‐Kopplin, \nMichael Gonsior"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-29",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012630",
+    "title": "Brunhes Paleomagnetic Directions and Paleointensities From Northern Hainan Island",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012630?af=R",
+    "authors": [
+      "Mengqing Wang, \nHuapei Wang, \nHuafeng Qin, \nJian Luo, \nChen Wen, \nFei Han, \nYiming Ma, \nJiabo Liu"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 1, January 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2025-12-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725007513",
+    "title": "Large impact of light on alkenone-inferred temperatures from continuous cultures of the coccolithophore <em>Gephyrocapsa (Emiliania) huxleyi</em> under nutrient limitation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725007513?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 29 December 2025<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Julian P. Sachs, Matthew Wolhowe",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725007525",
+    "title": "Discovery of young submarine volcanism in the Cook Islands: New constraints on the location of the Rarotonga hotspot",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725007525?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 29 December 2025<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Yifan Du, Matthew Jackson, Brian Jicha, Andrew Kylander-Clark, Benjamin L. Byerly, Michael Bizimis, Sæmundur Ari Halldórsson, Gareth Seward, Olivia E. Anderson, Matthew Rioux, Kevin Konrad, Sunna Harðardóttir, Ruixia Bai, Andrea Giuliani, Douglas A. Wiens, S.Shawn Wei, Gerald McCormack, John Michael Parianos",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-31",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53951.1/723850/Greenalite-as-a-record-of-hydrothermal-input-and",
+    "title": "Greenalite as a record of hydrothermal input and ocean anoxia, Late Devonian Xialei Mn deposit, South China",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53951.1/723850/Greenalite-as-a-record-of-hydrothermal-input-and",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Greenalite in iron-rich Precambrian sedimentary rocks is widely regarded as a primary mineral that formed in ferrous iron-rich and anoxic conditions. However, primary greenalite has rarely been reported in Phanerozoic rocks, as Phanerozoic oceans are considered to have been more oxygenated and less favorable for greenalite precipitation. Here, we report the discovery of greenalite nanoparticles in the Late Devonian Xialei Mn deposit. Nanoscale (20−1000 nm) euhedral to anhedral greenalite particles occur as randomly oriented crystallites enclosed in microcrystalline quartz crystals within chert-rich Mn and Fe-Mn ores. Greenalite-bearing ores show negative δ<sup>30</sup>Si values (avg. −0.5‰) close to those of Precambrian iron formations and hydrothermal silica, suggesting a substantial hydrothermal contribution. These characteristics support the interpretation that the greenalite formed in a mixing zone near deep-water vents where Fe<sup>2+</sup>-rich and SiO<sub>2</sub>(aq)-rich hydrothermal fluids mixed with seawater to produce gradients in pH and temperature amenable to greenalite genesis. The greenalite nanoparticles then accumulated hundreds of kilometers from this formation zone, being found in continental shelf metalliferous ores formed beneath upwelling zones, as indicated by sedimentologic, stratigraphic, and paleogeographic constraints. The presence of these greenalite-bearing Mn and Fe-Mn deposits on distal shelves (below storm wave base) records a profound regional oxygen-stratified water column in South China, characterized by hydrothermal input and anoxic bottom waters. These conditions are reminiscent of Precambrian oceans. Thus, greenalite-bearing Mn deposits provide a new archive to track hydrothermal metal fluxes and anoxia in Phanerozoic basins, with potential implications for other Phanerozoic hydrothermal chert and metal deposits.</span>",
+    "source": "Geology Advance Access",
+    "date": "2025-12-29",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53740.1/723849/Zircon-diffusion-chronometry-reveals-brief",
+    "title": "Zircon diffusion chronometry reveals brief ultrahigh-temperature metamorphism in a prolonged Paleoproterozoic orogen",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53740.1/723849/Zircon-diffusion-chronometry-reveals-brief",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Ultrahigh-temperature (UHT) metamorphism (≥900 °C) represents the most extreme thermal regime in the continental crust. Whether such conditions occurred as brief pulses (&lt;1 m.y.) during the Precambrian, as observed in some Phanerozoic orogens, remains unresolved. Here we integrate phase equilibria modeling, thermobarometry, high-resolution nanoscale secondary ion mass spectrometry (NanoSIMS) trace-element mapping, and diffusion modeling in zircon from pelitic granulites in the Paleoproterozoic Jiao-Liao-Ji orogen, North China craton. The rocks record peak pressures of ∼1.30 GPa at ∼850 °C, followed by heating during decompression to ≥940 °C and ∼0.65 GPa, and subsequent cooling to ∼600 °C. Zircons preserve Archean detrital cores with oscillatory Dy, Yb, and Ti zoning, overgrown by ca. 1.85 Ga metamorphic rims. Diffusion modeling of these elemental profiles within the detrital cores reveals heating durations of 0.02−0.62 m.y. and UHT residence times within 0.05−1.3 m.y., providing the first robust evidence for ultrafast (∼0.1 m.y.) UHT pulses in the Paleoproterozoic. Ti zoning further yields the first empirical constraints on Ti diffusivity in natural zircon at crustal temperatures, showing rates three to five orders of magnitude faster than experimental extrapolations. The spatial and temporal links to ca. 1.85 Ga mafic intrusions suggest transient mantle upwelling as the heat source. These findings demonstrate that vigorous Paleoproterozoic crust-mantle interactions generated short-lived UHT events comparable to those in modern orogens, highlighting the power of NanoSIMS-guided zircon diffusion chronometry in resolving the tempo of Precambrian thermal and tectonic processes.</span>",
+    "source": "Geology Advance Access",
+    "date": "2025-12-29",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwaf589",
+    "title": "High performance in high-temperature superconducting MPD thrusters: Analytical MHD modeling and experimental demonstration",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf589/8407247?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The integration of high-temperature superconductors (HTS) into electric propulsion systems, particularly Magneto-Plasma-Dynamic Thrusters (MPDTs), has recently garnered significant attention. However, research on low-power HTS-based MPDTs, which are crucial for small satellites and CubeSats, remains limited. The increasing demand for compact, high-efficiency propulsion in Low Earth orbit underscores the need for scalable HTS-AF-MPDT systems operating below 15 kW. Despite this, challenges such as the lack of detailed theoretical models, limited plasma diagnostics, and excessive Joule heating in conventional copper magnets persist. In this work, using a downscaled version of a 25 kW high-temperature superconducting (HTS) based applied-field magneto-plasma-dynamic thruster, we address these limitations by developing and experimentally validating a theoretical MHD-based plasma acceleration model for an AF-MPDT equipped with a conduction-cooled HTS magnet.The system achieves a specific impulse of 3265s at an input power of 12 kW, more than eight times higher than traditional chemical propulsion, alongside a thrust of 320mN and an efficiency of 25% at sub 12kW. The HTS magnet reduces magnetic power consumption from 285 kW to under 1 kW and lowers magnet mass from 220 kg to 60 kg, enabling substantial improvements in system miniaturization and efficiency. These results represent the first reported demonstration of a 12kW high-temperature superconducting AF-MPDT, bridging theoretical predictions with experimental outcomes and laying the groundwork for in-orbit demonstration of high-performance propulsion for small satellites.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2025-12-30",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwaf592",
+    "title": "Pressing needs and challenges for managing dogs within Indigenous Peoples’ lands",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf592/8407240?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2025-12-30",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-025-04147-5",
     "title": "Audio long read: Will blockbuster obesity drugs revolutionize addiction treatment?",
     "link": "https://www.nature.com/articles/d41586-025-04147-5",
