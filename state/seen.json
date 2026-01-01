@@ -1,5 +1,464 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-025-09864-5",
+    "title": "A chiral fermionic valve driven by quantum geometry",
+    "link": "https://www.nature.com/articles/s41586-025-09864-5",
+    "authors": [
+      "Anvesh Dixit",
+      "Pranava K. Sivakumar",
+      "Kaustuv Manna",
+      "Claudia Felser",
+      "Stuart S. P. Parkin"
+    ],
+    "summary": "Nature, Published online: 31 December 2025; <a href=\"https://www.nature.com/articles/s41586-025-09864-5\">doi:10.1038/s41586-025-09864-5</a>Fermionic currents of opposing chirality can be spatially filtered without the need for a magnetic field using the quantum geometry of topological bands in single-crystal PdGa.",
+    "source": "Nature",
+    "date": "2025-12-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-025-09860-9",
+    "title": "Random heteropolymers as enzyme mimics",
+    "link": "https://www.nature.com/articles/s41586-025-09860-9",
+    "authors": [
+      "Hao Yu",
+      "Marco Eres",
+      "Shayna L. Hilburg",
+      "Philjun Kang",
+      "Tianyi Jin",
+      "Alexandra Grigoropoulos",
+      "Zhixia Li",
+      "Daniel M. Loh",
+      "Ivan Jayapurna",
+      "Zhiyuan Ruan",
+      "Wen Fu",
+      "Feipeng Yang",
+      "Priya Ganesh",
+      "Kali Toste",
+      "Shuni Li",
+      "Jinghua Guo",
+      "Haiyan Huang",
+      "F. Dean Toste",
+      "R. David Britt",
+      "Y Z",
+      "Alfredo Alexander-Katz",
+      "Ting Xu"
+    ],
+    "summary": "Nature, Published online: 31 December 2025; <a href=\"https://www.nature.com/articles/s41586-025-09860-9\">doi:10.1038/s41586-025-09860-9</a>Modulation of random heteropolymers results in globular polymer clusters with catalytic activity mimicking proteins.",
+    "source": "Nature",
+    "date": "2025-12-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-025-09819-w",
+    "title": "Quantifying the global eco-footprint of wearable healthcare electronics",
+    "link": "https://www.nature.com/articles/s41586-025-09819-w",
+    "authors": [
+      "Chuanwang Yang",
+      "Bingzheng Wang",
+      "Ji Wan",
+      "Ananth Kamath",
+      "Fengqi You",
+      "Bozhi Tian"
+    ],
+    "summary": "Nature, Published online: 31 December 2025; <a href=\"https://www.nature.com/articles/s41586-025-09819-w\">doi:10.1038/s41586-025-09819-w</a>An integrated systems engineering framework based on life-cycle inventories is used to quantify the global eco-footprint of wearable healthcare electronics and identify effective mitigation strategies.",
+    "source": "Nature",
+    "date": "2025-12-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04102-4",
+    "title": "Some of your cells are not genetically yours — what can they tell us about life and death?",
+    "link": "https://www.nature.com/articles/d41586-025-04102-4",
+    "authors": [
+      "Sing Sing Way"
+    ],
+    "summary": "Nature, Published online: 31 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-04102-4\">doi:10.1038/d41586-025-04102-4</a>A tiny population of cells that are passed across the placenta between mother and baby challenge basic tenets of human immunology.",
+    "source": "Nature",
+    "date": "2025-12-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03833-8",
+    "title": "Economic inequality does not equate to poor well-being or mental health",
+    "link": "https://www.nature.com/articles/d41586-025-03833-8",
+    "authors": [],
+    "summary": "Nature, Published online: 31 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03833-8\">doi:10.1038/d41586-025-03833-8</a>A meta-analysis of 168 studies covering more than 11 million people found no reliable link between economic inequality and well-being or mental health. In other words, living in a place that has large gaps between the rich and poor does not affect these outcomes, with implications for policy.",
+    "source": "Nature",
+    "date": "2025-12-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03982-w",
+    "title": "How to reduce the environmental impact of wearable health-care devices",
+    "link": "https://www.nature.com/articles/d41586-025-03982-w",
+    "authors": [
+      "Callie Babbitt"
+    ],
+    "summary": "Nature, Published online: 31 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03982-w\">doi:10.1038/d41586-025-03982-w</a>A model quantifies the environmental footprint of wearable health-care electronics and identifies strategies to reduce their environmental toll.",
+    "source": "Nature",
+    "date": "2025-12-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04007-2",
+    "title": "Sub-Saharan Africa has lost almost one-quarter of its pre-industrial biodiversity",
+    "link": "https://www.nature.com/articles/d41586-025-04007-2",
+    "authors": [],
+    "summary": "Nature, Published online: 31 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-04007-2\">doi:10.1038/d41586-025-04007-2</a>To map the biodiversity of sub-Saharan Africa, 200 specialists in African plants and animals were asked to estimate local species abundances. This approach integrates contextual, place-based knowledge into a multi-scale, comparative biodiversity assessment that can be used to support policy decisions at national, regional and global scales.",
+    "source": "Nature",
+    "date": "2025-12-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04021-4",
+    "title": "Highly efficient LED device built by stacking layers of light-emitting perovskite",
+    "link": "https://www.nature.com/articles/d41586-025-04021-4",
+    "authors": [],
+    "summary": "Nature, Published online: 31 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-04021-4\">doi:10.1038/d41586-025-04021-4</a>Stacking light-generating layers in ‘tandem’ light-emitting diodes (LEDs) can enhance performance, but achieving efficient and stable tandem LEDs made with perovskite materials has remained a challenge. A tandem perovskite-based device that seems to benefit from ‘recycling’ of photons between stacked layers demonstrates highly efficient performance, surpassing the combined emissions of two single-unit devices.",
+    "source": "Nature",
+    "date": "2025-12-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67732-2",
+    "title": "Sideways lipid presentation by the antigen-presenting molecule CD1c",
+    "link": "https://www.nature.com/articles/s41467-025-67732-2",
+    "authors": [
+      "Thinh-Phat Cao",
+      "Guan-Ru Liao",
+      "Tan-Yun Cheng",
+      "Yanqiong Chen",
+      "Laura Ciacchi",
+      "Thomas S. Fulford",
+      "Rachel Farquhar",
+      "Jade Kollmorgen",
+      "Jacob A. Mayfield",
+      "Adam P. Uldrich",
+      "Emily Zhi Qing Ng",
+      "Graham S. Ogg",
+      "Dale I. Godfrey",
+      "Nicholas A. Gherardin",
+      "Yi-Ling Chen",
+      "D. Branch Moody",
+      "Adam Shahine",
+      "Jamie Rossjohn"
+    ],
+    "summary": "Nature Communications, Published online: 31 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67732-2\">doi:10.1038/s41467-025-67732-2</a>Despite extensive structural studies elucidating how antigens are anchored to antigen-presenting molecules and presented to T cells, little is known about the display mechanism of the lipid-antigen-presenting molecule CD1c. Here, by combining structural immunology, lipidomics, and biophysical analysis, the authors reveal that the CD1c binding cleft accommodates two different lipids, one of them with a bulky headgroup positioned sideways for display to T cells, rather than upwards, different from the conventional upright antigen-presentation mode",
+    "source": "Nature Communications",
+    "date": "2025-12-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68037-0",
+    "title": "EatA mediated degradation of intestinal mucus is species-specific and driven by MUC2 structural features",
+    "link": "https://www.nature.com/articles/s41467-025-68037-0",
+    "authors": [
+      "Sergio Trillo-Muyo",
+      "Brendan Dolan",
+      "Frida Svensson",
+      "Tim J. Vickers",
+      "Liisa Arike",
+      "Maria-Jose García-Bonete",
+      "Jenny K. Gustafsson",
+      "Mathias I. Nielsen",
+      "Hans H. Wandall",
+      "James M. Fleckenstein",
+      "Gunnar C. Hansson",
+      "Sjoerd van der Post"
+    ],
+    "summary": "Nature Communications, Published online: 31 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-68037-0\">doi:10.1038/s41467-025-68037-0</a>In this work, authors show how the enterotoxigenic Escherichia coli (ETEC) protease EatA cleaves the human mucus protein MUC2 at a C-terminal site, allowing bacteria to cross the intestinal mucus, reach epithelial cells, and promote infection, as demonstrated using a human MUC2 transgenic mouse model.",
+    "source": "Nature Communications",
+    "date": "2025-12-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67963-3",
+    "title": "BARCODE: high throughput screening and analysis of soft active materials",
+    "link": "https://www.nature.com/articles/s41467-025-67963-3",
+    "authors": [
+      "Qiaopeng Chen",
+      "Aditya Sriram",
+      "Ayan Das",
+      "Katarina Matic",
+      "Maya Hendija",
+      "Keegan Tonry",
+      "Jennifer L. Ross",
+      "Moumita Das",
+      "Ryan J. McGorty",
+      "Rae M. Robertson-Anderson",
+      "Megan T. Valentine"
+    ],
+    "summary": "Nature Communications, Published online: 31 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67963-3\">doi:10.1038/s41467-025-67963-3</a>BARCODE is an open-access software that automates high throughput screening of microscopy video data to produce a unique fingerprint or ‘barcode’ of performance metrics that enables optimization and accelerates discovery of soft, active materials.",
+    "source": "Nature Communications",
+    "date": "2025-12-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67982-0",
+    "title": "Domain oriented universal machine learning potential enables fast exploration of chemical space of battery electrolytes",
+    "link": "https://www.nature.com/articles/s41467-025-67982-0",
+    "authors": [
+      "Feng Wang",
+      "Yu-Hang Tang",
+      "Ze-Bing Ma",
+      "Yu-Cheng Jin",
+      "Jun Cheng"
+    ],
+    "summary": "Nature Communications, Published online: 31 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67982-0\">doi:10.1038/s41467-025-67982-0</a>Efficient modeling of battery electrolytes is limited by the accuracy-cost trade-off. Here, authors develop a universal machine learning potential to accurately calculate transport and solvation properties across a broad chemical space.",
+    "source": "Nature Communications",
+    "date": "2025-12-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68157-7",
+    "title": "SigmaR1 is an auxiliary translocon factor with lipid-binding activity that regulates protein and lipid droplet homeostasis",
+    "link": "https://www.nature.com/articles/s41467-025-68157-7",
+    "authors": [
+      "Xuewen Hu",
+      "Tiantian Zhou",
+      "Tiansi Cui",
+      "Yuanjiao Du",
+      "Chunyu Song",
+      "Weiping Chang",
+      "Juan Xiong",
+      "Jichao Qin",
+      "Lin Deng",
+      "Wei-Ke Ji"
+    ],
+    "summary": "Nature Communications, Published online: 31 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-68157-7\">doi:10.1038/s41467-025-68157-7</a>This study identifies the ER sheet protein SigmaR1 as an auxiliary translocon factor. By directly binding phosphatidylcholine and specific translocon components, SigmaR1 maintains protein and lipid homeostasis; its loss triggers lipid droplet accumulation in hepatic cells.",
+    "source": "Nature Communications",
+    "date": "2025-12-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67954-4",
+    "title": "Structured liquid-based reconfigurable all-liquid optical fibers",
+    "link": "https://www.nature.com/articles/s41467-025-67954-4",
+    "authors": [
+      "Sai Zhao",
+      "Yufeng Wang",
+      "Xinke Tang",
+      "Jiangang Zhang",
+      "Weixi Wu",
+      "Yuchen Fu",
+      "Sai Tak Chu",
+      "Yang Ren",
+      "Xubo Liu",
+      "Xun Guan",
+      "Thomas P. Russell",
+      "Yu Chai"
+    ],
+    "summary": "Nature Communications, Published online: 31 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67954-4\">doi:10.1038/s41467-025-67954-4</a>Reconfigurable all-liquid optical fibers enable gigabit-speed communication while offering softness, rapid self-healing, and on-demand reconfiguration, providing a resilient alternative to brittle quartz fibers in dynamic application environments.",
+    "source": "Nature Communications",
+    "date": "2025-12-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-66961-9",
+    "title": "Generating crossmodal gene expression from cancer histopathology improves multimodal AI predictions",
+    "link": "https://www.nature.com/articles/s41467-025-66961-9",
+    "authors": [
+      "Samiran Dey",
+      "Christopher R. S. Banerji",
+      "Partha Basuchowdhuri",
+      "Sanjoy K. Saha",
+      "Deepak Parashar",
+      "Tapabrata Chakraborti"
+    ],
+    "summary": "Nature Communications, Published online: 31 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-66961-9\">doi:10.1038/s41467-025-66961-9</a>Multimodal fusion of digital pathology and transcriptomics can improve cancer diagnosis, but remains impractical in clinical settings. Here, the authors develop a crossmodal generative model, PathGen, to synthesise transcriptomic data from histopathology slides, and show how the combination of these multimodal data improves cancer diagnosis and prognosis prediction.",
+    "source": "Nature Communications",
+    "date": "2025-12-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67711-7",
+    "title": "Distinct diet-microbiome associations in autism spectrum disorder",
+    "link": "https://www.nature.com/articles/s41467-025-67711-7",
+    "authors": [
+      "Yuqi Wu",
+      "Oscar Wong",
+      "Sizhe Chen",
+      "Yun Wang",
+      "Wenqi Lu",
+      "Chun Pan Cheung",
+      "Jessica Y. L. Ching",
+      "Pui Kuan Cheong",
+      "Sandra Chan",
+      "Patrick Leung",
+      "Francis K. L. Chan",
+      "Qi Su",
+      "Siew C. Ng"
+    ],
+    "summary": "Nature Communications, Published online: 31 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67711-7\">doi:10.1038/s41467-025-67711-7</a>Here, the authors identify distinct, autism-specific diet microbiome interactions, showing how unhealthy diets and synthetic emulsifiers drive dysbiosis. The findings pave the way for microbiome-aware dietary strategies for autism.",
+    "source": "Nature Communications",
+    "date": "2025-12-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03147-7",
+    "title": "Warming and resource enhancement shape food webs in South China Sea coral reef system",
+    "link": "https://www.nature.com/articles/s43247-025-03147-7",
+    "authors": [
+      "Zheng Zhang",
+      "Min Hui",
+      "Jiao Cheng",
+      "Zhongli Sha"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 31 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03147-7\">doi:10.1038/s43247-025-03147-7</a>Environmental gradients in temperature and productivity jointly, yet asymmetrically, shape the structure and resilience of coral reef food webs, according to analysis of environmental DNA data from the South China Sea.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03131-1",
+    "title": "Development of thermal state and plate tectonics in the North China Craton during Neoarchean–Paleoproterozoic",
+    "link": "https://www.nature.com/articles/s43247-025-03131-1",
+    "authors": [
+      "Xiangqiao Han",
+      "Jiahui Qian",
+      "Changqing Yin",
+      "Jian Zhang",
+      "Peng Gao"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 31 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03131-1\">doi:10.1038/s43247-025-03131-1</a>Ancient-style plate tectonics with warm subduction may have already existed in the Neoarchean, whereas modern-style plate tectonics featuring cold subduction appeared in the late Paleoproterozoic, according to metamorphic thermobaric ratio analysis of the North China Craton.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03139-7",
+    "title": "China’s supply chain digitalization reduces urban pollutants and carbon dioxide emissions locally",
+    "link": "https://www.nature.com/articles/s43247-025-03139-7",
+    "authors": [
+      "Langang Feng",
+      "Jin Hu",
+      "Minmin Huang",
+      "Kaiya Wu",
+      "Xiaorui Wei"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 31 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03139-7\">doi:10.1038/s43247-025-03139-7</a>Supply chain digitalization reduces urban air pollutants and carbon dioxide emissions by up to 9 percent locally but increases them by 4 percent in nearby areas, according to an analysis that uses a quasi-natural experiment and a difference-in-differences method",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03144-w",
+    "title": "Identifying controlling factors of delta morphology using a convolutional autoencoder",
+    "link": "https://www.nature.com/articles/s43247-025-03144-w",
+    "authors": [
+      "Ryusei Sato",
+      "Hajime Naruse"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 31 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03144-w\">doi:10.1038/s43247-025-03144-w</a>Shoreline protuberance and well-developed distributary channels are enhanced by stronger fluvial influences and diminished by stronger wave influences, whereas tidal influences show a less clear relationship with these morphological features, according to machine learning analysis.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03128-w",
+    "title": "Signatures of widespread Surtseyan volcanism at the northern Reykjanes ridge",
+    "link": "https://www.nature.com/articles/s43247-025-03128-w",
+    "authors": [
+      "Jonas Preine",
+      "Christian Hübscher",
+      "Dominik Pałgan",
+      "Froukje M. van der Zwan",
+      "Carina Dittmers",
+      "Annalena Friedrich",
+      "Sarah Beethe",
+      "Vanessa Ehlies",
+      "Jonathan Ford",
+      "Benedikt Haimerl",
+      "Lisa Ischebeck",
+      "Max Lackner",
+      "Maryse Schmidt",
+      "Jan Oliver Eisermann",
+      "Linus Budke",
+      "David Þór Óðinsson",
+      "Kurt Panter",
+      "Morgane Le Saout",
+      "Nico Augustin"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 31 December 2025; <a href=\"https://www.nature.com/articles/s43247-025-03128-w\">doi:10.1038/s43247-025-03128-w</a>Effusive volcanism dominates at water depths of 300 m or greater while phreatomagmatic Surtseyan eruptions become prevalent at shallower depths, according to analyses of high-resolution seismic reflection profiles, multibeam bathymetry, and seafloor imagery.",
+    "source": "Communications Earth & Environment",
+    "date": "2025-12-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X25006107",
+    "title": "Ancient, buoyant mantle under the Sierra Leone Ridge in the equatorial Atlantic",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X25006107?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 March 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 677Author(s): Camilla Sani, Alessio Sanfilippo, Felix Genske, Carlotta Ferrando, Daniele Brunelli, Anna Cipriani, Alexander Peyve, Sergey Skolotnev, Marco Ligi, Andreas Stracke",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-01-01",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X2500603X",
+    "title": "Generation of large transient porosity at the brittle to semi-ductile transition",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X2500603X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 March 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 677Author(s): Erina Prastyani, Benoît Cordonnier, François Renard",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-01-01",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X25006132",
+    "title": "Cascade reservoirs seismicity: a unique dynamical system",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X25006132?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 March 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 677Author(s): Guangyao Yin, Huai Zhang, Lipeng He, Pei He, Yaolin Shi",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-01-01",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032034",
+    "title": "Peeling Off of Crustal Eclogite From the Downgoing Slab at the Top of the Lower Mantle",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032034?af=R",
+    "authors": [
+      "Xinnuo Li, \nZhensheng Wang, \nJunfeng Zhang, \nTianyu Hu, \nJikun Feng"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 1, January 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2025-12-30",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032118",
+    "title": "P‐Wave First‐Motion Polarity Determination Using Order Statistics and Entropy Theory (POSE) With Applications to Southeastern Tibetan Plateau",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032118?af=R",
+    "authors": [
+      "Longtan Wang, \nYijian Zhou, \nHaoran Meng, \nWeilai Pei, \nShiyong Zhou"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 1, January 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2025-12-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725007537",
+    "title": "Heterogeneous distribution of moderately volatile elements in the Moon determined from Apollo 15 and 17 pyroclastic glass beads",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725007537?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 30 December 2025<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Eleanor C. McIntosh, James M.D. Day",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-01-01",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136825006523",
+    "title": "Sm-Nd geochronology of the Hoxbulak Zn-Pb deposit in Xinjiang (NW China) and its link to Paleogene Mississippi Valley-type mineralization in the Tethyan domain",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136825006523?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 31 December 2025<b>Source:</b> Ore Geology ReviewsAuthor(s): Wang Ying, Zhang Zhaochong, Zhang Shu, Cheng Zhiguo, Huang He",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-01-01",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-025-03989-3",
     "title": "Can boomerangs bounce?",
     "link": "https://www.nature.com/articles/d41586-025-03989-3",
