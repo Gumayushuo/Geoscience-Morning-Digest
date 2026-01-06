@@ -1,5 +1,535 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-025-04153-7",
+    "title": "I see Mozambique’s baboons as windows into hominid evolution",
+    "link": "https://www.nature.com/articles/d41586-025-04153-7",
+    "authors": [
+      "Patricia Maia Noronha"
+    ],
+    "summary": "Nature, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04153-7\">doi:10.1038/d41586-025-04153-7</a>In Gorongosa National Park in Mozambique, Rassina Farassi studies how humans came to walk on two legs.",
+    "source": "Nature",
+    "date": "2026-01-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-025-09901-3",
+    "title": "Sunyaev–Zeldovich detection of hot intracluster gas at redshift 4.3",
+    "link": "https://www.nature.com/articles/s41586-025-09901-3",
+    "authors": [
+      "Dazhi Zhou",
+      "Scott C. Chapman",
+      "Manuel Aravena",
+      "Pablo Araya-Araya",
+      "Melanie Archipley",
+      "Jared Cathey",
+      "Roger P. Deane",
+      "Luca Di Mascolo",
+      "Raphael Gobat",
+      "Thomas R. Greve",
+      "Ryley Hill",
+      "Seonwoo Kim",
+      "Kedar A. Phadke",
+      "Vismaya R. Pillai",
+      "Ana C. Posses",
+      "Christian L. Reichardt",
+      "Manuel Solimano",
+      "Justin S. Spilker",
+      "Nikolaus Sulzenauer",
+      "Veronica J. Dike",
+      "Joaquin D. Vieira",
+      "David Vizgan",
+      "George C. P. Wang",
+      "Axel Weiß"
+    ],
+    "summary": "Nature, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09901-3\">doi:10.1038/s41586-025-09901-3</a>Detection of hot intracluster gas in SPT2349−56 with the Atacama Large Millimeter/submillimeter Array provides new insights into early cluster formation.",
+    "source": "Nature",
+    "date": "2026-01-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04151-9",
+    "title": "These women helped to shape quantum mechanics — it’s time to recognize them",
+    "link": "https://www.nature.com/articles/d41586-025-04151-9",
+    "authors": [
+      "Indianara Lima Silva"
+    ],
+    "summary": "Nature, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04151-9\">doi:10.1038/d41586-025-04151-9</a>An astute book redresses our collective perception of a field that became known as ‘boys’ physics’.",
+    "source": "Nature",
+    "date": "2026-01-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04152-8",
+    "title": "Pandemic PhDs: graduates anxious, but optimistic, about the future",
+    "link": "https://www.nature.com/articles/d41586-025-04152-8",
+    "authors": [
+      "Amanda Heidt"
+    ],
+    "summary": "Nature, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04152-8\">doi:10.1038/d41586-025-04152-8</a>Five early-career scientists from around the world share how lingering COVID-19 pandemic shadows and ripples from US academic disruptions have affected them.",
+    "source": "Nature",
+    "date": "2026-01-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01890-2",
+    "title": "The geomorphic scar of fire",
+    "link": "https://www.nature.com/articles/s41561-025-01890-2",
+    "authors": [
+      "Lea Wittenberg"
+    ],
+    "summary": "Nature Geoscience, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41561-025-01890-2\">doi:10.1038/s41561-025-01890-2</a>Post-fire soil erosion is a widespread global phenomenon with geomorphological consequences. Quantifying its impacts provides insights to inform and strengthen soil conservation efforts.",
+    "source": "Nature Geoscience",
+    "date": "2026-01-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01875-1",
+    "title": "Canadian net forest CO<sub>2</sub> uptake enhanced by heat drought via reduced respiration",
+    "link": "https://www.nature.com/articles/s41561-025-01875-1",
+    "authors": [
+      "Guanyu Dong",
+      "Fei Jiang",
+      "Yongguang Zhang",
+      "Weimin Ju",
+      "Shilong Piao",
+      "Philippe Ciais",
+      "Wouter Peters",
+      "Ingrid T. Luijkx",
+      "Junjie Liu",
+      "Frédéric Chevallier",
+      "Ning Zeng",
+      "Xiangjun Tian",
+      "Shamil Maksyutov",
+      "Oliver Sonnentag",
+      "M. Altaf Arain",
+      "Alan G. Barr",
+      "Yuanyuan Huang",
+      "Chao Yue",
+      "Wenping Yuan",
+      "Liangyun Liu",
+      "Lei Fan",
+      "Xu Yue",
+      "Jingfeng Xiao",
+      "Xing Li",
+      "Stephen Sitch",
+      "Pierre Friedlingstein",
+      "Michael O’Sullivan",
+      "Jürgen Knauer",
+      "Vivek Arora",
+      "Daniel Kennedy",
+      "Lei Ma",
+      "Peter E. Thornton",
+      "Roland Séférian",
+      "Tobias Nützel",
+      "Jens Heinke",
+      "Qing Sun",
+      "Sönke Zaehle",
+      "Philippe Peylin",
+      "Etsushi Kato",
+      "Haley Alcock",
+      "Bruno Lecavalier",
+      "Mousong Wu",
+      "Jun Wang",
+      "Lingyu Zhang",
+      "Guoyuan Lv",
+      "Yuanyuan Zhang",
+      "Dayang Zhao",
+      "Jing M. Chen"
+    ],
+    "summary": "Nature Geoscience, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41561-025-01875-1\">doi:10.1038/s41561-025-01875-1</a>The extreme hot and dry conditions of 2023 reduced soil respiration and enhanced net forest carbon sequestration in Canada, offsetting wildfire emissions, according to satellite-based and in situ observations of CO2 fluxes.",
+    "source": "Nature Geoscience",
+    "date": "2026-01-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01889-9",
+    "title": "Deglaciation of the Prudhoe Dome in northwestern Greenland in response to Holocene warming",
+    "link": "https://www.nature.com/articles/s41561-025-01889-9",
+    "authors": [
+      "Caleb K. Walcott-George",
+      "Nathan D. Brown",
+      "Jason P. Briner",
+      "Allie Balter-Kennedy",
+      "Nicolás E. Young",
+      "Tanner Kuhl",
+      "Elliot Moravec",
+      "Sridhar Anandakrishnan",
+      "Nathan T. Stevens",
+      "Benjamin Keisling",
+      "Robert M. DeConto",
+      "Vasileios Gkinis",
+      "Joseph A. MacGregor",
+      "Joerg M. Schaefer"
+    ],
+    "summary": "Nature Geoscience, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41561-025-01889-9\">doi:10.1038/s41561-025-01889-9</a>The ~500-metre-thick Prudhoe Dome in northwestern Greenland completely deglaciated 7,000 years ago, highlighting the sensitivity of the ice sheet to mid-Holocene warming, according to luminescence and geochemical data from sub-ice sediments and ice cores.",
+    "source": "Nature Geoscience",
+    "date": "2026-01-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01876-0",
+    "title": "Global estimation of post-fire soil erosion",
+    "link": "https://www.nature.com/articles/s41561-025-01876-0",
+    "authors": [
+      "D. C. S. Vieira",
+      "P. Borrelli",
+      "S. Scarpa",
+      "L. Liakos",
+      "C. Ballabio",
+      "P. Panagos"
+    ],
+    "summary": "Nature Geoscience, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41561-025-01876-0\">doi:10.1038/s41561-025-01876-0</a>Global post-fire soil erosion accounts for approximately 8.1 ± 0.72 Pg per year, or 19%, of total global soil erosion, and Africa is the most impacted continent given its larger burned area, according to a global assessment of soil erosion produced by wildfires over the last 18 years.",
+    "source": "Nature Geoscience",
+    "date": "2026-01-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68243-w",
+    "title": "Retrospective cohort study of hepatitis B immunization strategy effects in Beijing across 30 years",
+    "link": "https://www.nature.com/articles/s41467-025-68243-w",
+    "authors": [
+      "Huai Wang",
+      "Weixin Chen",
+      "Pei Gao",
+      "Qinyi Ma",
+      "Qianli Yuan",
+      "Zhiqiang Cao",
+      "Jiang Wu",
+      "Qing-Bin Lu",
+      "Luodan Suo"
+    ],
+    "summary": "Nature Communications, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68243-w\">doi:10.1038/s41467-025-68243-w</a>Authors explore the hepatitis B vaccine program in China and found Beijing’s 30-year universal infant immunizations reduced incidence. Adolescent boosters may also have elevated antibody titers, contributing to a further decline in incidence rates.",
+    "source": "Nature Communications",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67433-w",
+    "title": "Author Correction: <i>Leishmania</i> RNA virus exacerbates Leishmaniasis by subverting innate immunity via TLR3-mediated NLRP3 inflammasome inhibition",
+    "link": "https://www.nature.com/articles/s41467-025-67433-w",
+    "authors": [
+      "Renan V. H. de Carvalho",
+      "Djalma S. Lima-Junior",
+      "Marcus Vinícius G. da Silva",
+      "Marisa Dilucca",
+      "Tamara S. Rodrigues",
+      "Catarina V. Horta",
+      "Alexandre L. N. Silva",
+      "Patrick F. da Silva",
+      "Fabiani G. Frantz",
+      "Lucas B. Lorenzon",
+      "Marcos Michel Souza",
+      "Fausto Almeida",
+      "Lilian M. Cantanhêde",
+      "Ricardo de Godoi M. Ferreira",
+      "Angela K. Cruz",
+      "Dario S. Zamboni"
+    ],
+    "summary": "Nature Communications, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67433-w\">doi:10.1038/s41467-025-67433-w</a>Author Correction: <i>Leishmania</i> RNA virus exacerbates Leishmaniasis by subverting innate immunity via TLR3-mediated NLRP3 inflammasome inhibition",
+    "source": "Nature Communications",
+    "date": "2026-01-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67956-2",
+    "title": "Low-noise optomechanical single phonon-photon conversion for quantum networks",
+    "link": "https://www.nature.com/articles/s41467-025-67956-2",
+    "authors": [
+      "Liu Chen",
+      "Alexander Rolf Korsch",
+      "Cauê Moreno Kersul",
+      "Rodrigo Benevides",
+      "Yong Yu",
+      "Thiago P. Mayer Alegre",
+      "Simon Gröblacher"
+    ],
+    "summary": "Nature Communications, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67956-2\">doi:10.1038/s41467-025-67956-2</a>Optomechanical crystals are promising building blocks for quantum networks but suffer from thermal mechanical noise. Here the authors demonstrate on-demand conversion of single phonons into high-purity telecom photons with low thermal noise and MHz-scale narrow bandwidth using a quasi-2D optomechanical system.",
+    "source": "Nature Communications",
+    "date": "2026-01-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68006-7",
+    "title": "Palladium-catalyzed asymmetric migratory diarylation of unactivated directing-group-free internal alkenes",
+    "link": "https://www.nature.com/articles/s41467-025-68006-7",
+    "authors": [
+      "Linlin Fan",
+      "Yang Xi",
+      "Honglei Gu",
+      "Wenyi Huang",
+      "Wei-Hong Zhu",
+      "Jingping Qu",
+      "Yifeng Chen"
+    ],
+    "summary": "Nature Communications, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68006-7\">doi:10.1038/s41467-025-68006-7</a>Enantioselective dicarbofunctionalization of alkenes is a powerful strategy for constructing functionalized sp³-rich molecules. Here, the authors report a palladium-catalyzed asymmetric migratory process that enables highly selective 1,3- and 1,4- diarylation of unactivated trisubstituted alkenes.",
+    "source": "Nature Communications",
+    "date": "2026-01-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67942-8",
+    "title": "Deep learning and superoscillatory speckles empowered multimode fiber probe for in situ nano-displacement detection and micro-imaging",
+    "link": "https://www.nature.com/articles/s41467-025-67942-8",
+    "authors": [
+      "Lele Wang",
+      "Yiwei Zhang",
+      "Yibing Zhou",
+      "Yuan Meng",
+      "Zhengyang Lu",
+      "Pei Li",
+      "Hailong Zhang",
+      "Dan Li",
+      "Ping Yan",
+      "Qirong Xiao",
+      "Qiang Liu"
+    ],
+    "summary": "Nature Communications, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67942-8\">doi:10.1038/s41467-025-67942-8</a>This work introduces an in-situ nano-displacement measurement system via a multimode fiber probe with superoscillatory speckles and deep learning. It achieves 10 nm resolution and 99.95% accuracy for wafers, non-contact sensing in confined spaces.",
+    "source": "Nature Communications",
+    "date": "2026-01-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67683-8",
+    "title": "Harnessing strengthening-metastability synergy for extreme work hardening in additively manufactured titanium alloys",
+    "link": "https://www.nature.com/articles/s41467-025-67683-8",
+    "authors": [
+      "Xuliang Chen",
+      "Youneng Xie",
+      "Tianlong Zhang",
+      "Zhihao Jiang",
+      "Xiangren Bai",
+      "Shun Xu",
+      "Jian Lu"
+    ],
+    "summary": "Nature Communications, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67683-8\">doi:10.1038/s41467-025-67683-8</a>A new AM titanium alloy design tailors the metastability-strengthening synergy and achieves high yield strength with enhanced work hardening and ductility by leveraging a complete, sequential martensitic transformation pathway.",
+    "source": "Nature Communications",
+    "date": "2026-01-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68110-8",
+    "title": "Measuring and locating the changes in protein structure using MELO",
+    "link": "https://www.nature.com/articles/s41467-025-68110-8",
+    "authors": [
+      "Lingyan Zheng",
+      "Yang Liao",
+      "Yintao Zhang",
+      "Mingxuan Liu",
+      "Mingkun Lu",
+      "Tingting Fu",
+      "Shuiyang Shi",
+      "Xiuna Sun",
+      "Chengbin Gu",
+      "Huaicheng Sun",
+      "Minjie Mou",
+      "Haibin Dai",
+      "Feng Zhu"
+    ],
+    "summary": "Nature Communications, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68110-8\">doi:10.1038/s41467-025-68110-8</a>Subtle variation can reshape protein structure but are hard to identify. Here, authors present MELO, which measures and locates structural changes, outperforms existing tools, and uncovers over 10,000 previously missed protein structure change pairs.",
+    "source": "Nature Communications",
+    "date": "2026-01-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67646-z",
+    "title": "Neoadjuvant immune checkpoint blockade before chemoradiation for cervical squamous carcinoma (GINECO window-of-opportunity COLIBRI study): a phase II trial",
+    "link": "https://www.nature.com/articles/s41467-025-67646-z",
+    "authors": [
+      "Isabelle Ray-Coquard",
+      "Marie-Christine Kaminsky-Forrett",
+      "Ryotaro Ohkuma",
+      "Aymeric de Montfort",
+      "Florence Joly",
+      "Isabelle Treilleux",
+      "Sarah Ghamry-Barrin",
+      "Diana Bello-Roufai",
+      "Pierre Saintigny",
+      "Antoine Angelergues",
+      "Lucas Michon",
+      "Anne-Claire Hardy-Bessard",
+      "Valéry Attignon",
+      "Jessie Auclair",
+      "Gabriel Chemin",
+      "Alexandra Lainé",
+      "Hélène Péré",
+      "David Veyer",
+      "Aude-Marie Savoye",
+      "Justine Berthet",
+      "Christophe Caux",
+      "Fabrice Lecuru",
+      "Bertrand Dubois",
+      "Sarah Bétrian"
+    ],
+    "summary": "Nature Communications, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67646-z\">doi:10.1038/s41467-025-67646-z</a>Pre-treatment dual immune checkpoint blockade in cervical cancer remains understudied. In this trial, the authors show that neoadjuvant immune checkpoint blockade enhances immune activation and correlates with improved response to subsequent chemoradiation in patients with cervical carcinoma.",
+    "source": "Nature Communications",
+    "date": "2026-01-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03152-w",
+    "title": "Social-ecological-technological drivers of freshwater salinization in the Occoquan Reservoir, United States",
+    "link": "https://www.nature.com/articles/s43247-025-03152-w",
+    "authors": [
+      "Stanley B. Grant",
+      "Shantanu V. Bhide",
+      "Anne Spiesman",
+      "Shalini Misra",
+      "Megan A. Rippy",
+      "Christopher S. Galik",
+      "Thomas A. Birkland",
+      "Todd Schenk",
+      "Sujay S. Kaushal",
+      "Peter Vikesland",
+      "William Knocke",
+      "Admin Husic",
+      "Harold Post",
+      "Chad Coneway",
+      "Greg Prelewicz",
+      "Brian Steglitz",
+      "Bethany Laursen",
+      "Kristin Rowles",
+      "Shannon Curtis",
+      "Ashley Studholme"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s43247-025-03152-w\">doi:10.1038/s43247-025-03152-w</a>Long-term monitoring reveals that rising sodium concentrations in a large One Water drinking water supply arise from road salts, reclaimed water, and treatment chemicals, highlighting freshwater salinization as a socio-ecological-technological challenge.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03168-2",
+    "title": "Intensified annual cycle of tropical Atlantic sea surface temperature regulates Pacific cooling",
+    "link": "https://www.nature.com/articles/s43247-025-03168-2",
+    "authors": [
+      "Jianxiang Xu",
+      "Tomoki Tozuka",
+      "Jing-Jia Luo"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s43247-025-03168-2\">doi:10.1038/s43247-025-03168-2</a>Recent observed cooling in the Pacific Ocean is driven by an intensified annual cycle of sea surface temperature in the tropical Atlantic altering the distribution of seasonal precipitation, according to analyses of idealized experiments and climate model simulations.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-02977-9",
+    "title": "Variations in land-atmosphere coupling during drought-heatwave events",
+    "link": "https://www.nature.com/articles/s43247-025-02977-9",
+    "authors": [
+      "Donghyuck Yoon",
+      "Jan-Huey Chen",
+      "Hsin Hsu",
+      "Kirsten L. Findell"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s43247-025-02977-9\">doi:10.1038/s43247-025-02977-9</a>Compound drought-heatwave events exhibit two distinct regimes, with land-driven regimes being more predictable than atmosphere-driven ones, based on analyses of extreme events in the past decades.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118701",
+    "title": "ENSO‐CausalNet: Integrating Causal Inference Into Deep Learning for Robust ENSO Prediction",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118701?af=R",
+    "authors": [
+      "Yuehan Cui, \nBin Mu, \nShijin Yuan, \nBo Qin"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119295",
+    "title": "Pattern of Inner‐Core Differential Rotation From Long‐Term Earthquake Sequences and USArray Network",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119295?af=R",
+    "authors": [
+      "Kaixin Wu, \nXiaodong Song, \nYi Yang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119137",
+    "title": "Reservoir Regulation has Brought a Classic River‐Dominated Delta Under Human Control",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119137?af=R",
+    "authors": [
+      "Xiao Wu, \nHoujie Wang, \nJaia Syvitski, \nYoshiki Saito, \nNaishuang Bi, \nJeffrey Nittrouer"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118062",
+    "title": "Modal Interference Drives Madden‐Julian Oscillation Evolution and Predictability",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118062?af=R",
+    "authors": [
+      "David H. Marsico, \nJohn R. Albers, \nMatthew Newman, \nMaria Gehne, \nJuliana Dias, \nGeorge N. Kiladis, \nEmerson LaJoie, \nYan Wang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032558",
+    "title": "Modeling and Inversion for Wave Propagation in Tight Sandstone Reservoirs Using Machine Learning",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032558?af=R",
+    "authors": [
+      "Fansheng Xiong, \nJing Ba, \nJosé M. Carcione, \nZhijian Fang"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 1, January 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-01-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB031671",
+    "title": "Regional Three‐Dimensional Magnetotelluric Electrical Resistivity Model of the Manica Greenstone Belt, Western Mozambique",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB031671?af=R",
+    "authors": [
+      "Joao Jr. J. Castelo, \nThorkild M. Rasmussen, \nMaxim Smirnov, \nSalvador Mondlane Jr., \nDaud Liace Jamal"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 1, January 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-01-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032676",
+    "title": "Transition From Fracture Propagation to Coalescence in Westerly Granite During the Preparation Process of Macroscopic Failure",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032676?af=R",
+    "authors": [
+      "Jessica McBeck, \nBenoît Cordonnier, \nWenlu Zhu, \nFrançois Renard"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 1, January 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-01-04",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag003",
+    "title": "Revolutionizing solid state battery interfaces through halide segregation",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag003/8414055?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2026-01-05",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag002",
+    "title": "Exploring the Chaotic Future and the Deterministic Past of the Solar System: An Interview with Jacques Laskar",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag002/8414053?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">NSR spoke with Jacques Laskar, a preeminent French celestial mechanician whose work has fundamentally reshaped our understanding of the Solar System's long-term dynamics and Earth's climate history.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-01-05",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-025-10089-9",
     "title": "Author Correction: Repulsions instruct synaptic partner matching in an olfactory circuit",
     "link": "https://www.nature.com/articles/s41586-025-10089-9",
