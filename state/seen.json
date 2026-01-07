@@ -1,5 +1,631 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-025-03990-w",
+    "title": "The poetic life and death of a glow-worm",
+    "link": "https://www.nature.com/articles/d41586-025-03990-w",
+    "authors": [],
+    "summary": "Nature, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-03990-w\">doi:10.1038/d41586-025-03990-w</a>A peek behind the scenes at the zoo reveals animal escapades, and a glow-worm shines in a mild midwinter, in our weekly dip into Nature’s archive.",
+    "source": "Nature",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04123-z",
+    "title": "Rethink how we build AI to enable effective climate-change mitigation",
+    "link": "https://www.nature.com/articles/d41586-025-04123-z",
+    "authors": [
+      "Carlos Rodriguez-Pardo",
+      "Massimo Tavoni"
+    ],
+    "summary": "Nature, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04123-z\">doi:10.1038/d41586-025-04123-z</a>Rethink how we build AI to enable effective climate-change mitigation",
+    "source": "Nature",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04121-1",
+    "title": "Help small-scale gold miners to transition away from mercury use",
+    "link": "https://www.nature.com/articles/d41586-025-04121-1",
+    "authors": [
+      "Shabbir Ahmad",
+      "Saleem H. Ali"
+    ],
+    "summary": "Nature, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04121-1\">doi:10.1038/d41586-025-04121-1</a>Help small-scale gold miners to transition away from mercury use",
+    "source": "Nature",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04124-y",
+    "title": "Retire ‘seminal’ from the scientific vocabulary",
+    "link": "https://www.nature.com/articles/d41586-025-04124-y",
+    "authors": [
+      "Nicole D. Sintov",
+      "Christine Sprunger"
+    ],
+    "summary": "Nature, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04124-y\">doi:10.1038/d41586-025-04124-y</a>Retire ‘seminal’ from the scientific vocabulary",
+    "source": "Nature",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04122-0",
+    "title": "To improve resilience to climate change, track what endures",
+    "link": "https://www.nature.com/articles/d41586-025-04122-0",
+    "authors": [
+      "Stacy-ann Robinson"
+    ],
+    "summary": "Nature, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04122-0\">doi:10.1038/d41586-025-04122-0</a>To improve resilience to climate change, track what endures",
+    "source": "Nature",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04149-3",
+    "title": "Why cancer can come back years later — and how to stop it",
+    "link": "https://www.nature.com/articles/d41586-025-04149-3",
+    "authors": [
+      "Amanda Heidt"
+    ],
+    "summary": "Nature, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04149-3\">doi:10.1038/d41586-025-04149-3</a>Researchers are targeting dormant tumour cells that might explain why some cancers reappear long after successful treatment.",
+    "source": "Nature",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00005-0",
+    "title": "Defossilize our chemical world",
+    "link": "https://www.nature.com/articles/d41586-026-00005-0",
+    "authors": [],
+    "summary": "Nature, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00005-0\">doi:10.1038/d41586-026-00005-0</a>Achieving net zero means eliminating fossil fuels, not carbon — the chemical element has a crucial part to play in powering the modern world.",
+    "source": "Nature",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03984-8",
+    "title": "Artificial skin mimics the octopus’s art of disguise",
+    "link": "https://www.nature.com/articles/d41586-025-03984-8",
+    "authors": [
+      "Benjamin Renz",
+      "Na Liu"
+    ],
+    "summary": "Nature, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-03984-8\">doi:10.1038/d41586-025-03984-8</a>A ‘photonic skin’ with controllable colour and texture brings materials science a step closer to the adaptive camouflage found in nature.",
+    "source": "Nature",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00044-7",
+    "title": "Jellyfish sleep like humans — even though they don’t have brains",
+    "link": "https://www.nature.com/articles/d41586-026-00044-7",
+    "authors": [
+      "Lynne Peeples"
+    ],
+    "summary": "Nature, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00044-7\">doi:10.1038/d41586-026-00044-7</a>Studying ancient sea creatures’ snoozing habits could shed light on the origins of sleep.",
+    "source": "Nature",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00043-8",
+    "title": "Daily briefing: The human cells in our bodies that aren’t genetically ours",
+    "link": "https://www.nature.com/articles/d41586-026-00043-8",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00043-8\">doi:10.1038/d41586-026-00043-8</a>‘Microchimeric’ cells passed from your mother can challenge basic tenets of immunology. Plus, an experimental cancer vaccine that uses blood ‘cleaned’ with ultraviolet light and the evidence for trying ‘Dry January’.",
+    "source": "Nature",
+    "date": "2026-01-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01893-z",
+    "title": "High normal stress promoted supershear rupture during the 2023 <i>M</i><sub>w</sub> 7.8 Kahramanmaraş earthquake",
+    "link": "https://www.nature.com/articles/s41561-025-01893-z",
+    "authors": [
+      "Jing Chen",
+      "Mijian Xu",
+      "Yiming Bai",
+      "Shucheng Wu",
+      "Xiao Xiao",
+      "Shijie Hao",
+      "Masaru Nagaso",
+      "Hongfeng Yang",
+      "Ping Tong"
+    ],
+    "summary": "Nature Geoscience, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41561-025-01893-z\">doi:10.1038/s41561-025-01893-z</a>The difference in rupture speed between fault segments in the 2023 Mw 7.8 Kahramanmaraş earthquake may be explained by the contrasting structure of and stress on these segments, according to seismic tomographic imaging of beneath the fault zone.",
+    "source": "Nature Geoscience",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01887-x",
+    "title": "Synchronous bipolar retreat of mid-latitude ice masses during Heinrich Stadials",
+    "link": "https://www.nature.com/articles/s41561-025-01887-x",
+    "authors": [
+      "Samuel Toucanne",
+      "Natalia Vázquez Riveiros",
+      "Guillaume Soulet",
+      "Pierre-Henri Blard",
+      "Amandine Migeon",
+      "Vincent Rigalleau",
+      "Angelique Roubi",
+      "Sandrine Cheron",
+      "Audrey Boissier",
+      "Laurie Menviel",
+      "Helen Bostock"
+    ],
+    "summary": "Nature Geoscience, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41561-025-01887-x\">doi:10.1038/s41561-025-01887-x</a>Glaciers in New Zealand retreated at about the same time as mid-latitude glaciers in the Northern Hemisphere during Heinrich Stadials, indicating strong global teleconnections during the last glacial period, according to a marine sediment record.",
+    "source": "Nature Geoscience",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01883-1",
+    "title": "Periodic ocean oxygenation events during the mid-Ediacaran",
+    "link": "https://www.nature.com/articles/s41561-025-01883-1",
+    "authors": [
+      "Zi-Heng Li",
+      "Zhong-Qiang Chen",
+      "Stuart J. Daines",
+      "Feifei Zhang",
+      "Timothy M. Lenton"
+    ],
+    "summary": "Nature Geoscience, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41561-025-01883-1\">doi:10.1038/s41561-025-01883-1</a>Periodic marine oxygen oscillations occurred throughout the middle Ediacaran Gaskiers Glaciation, probably stemming from increased organic carbon burial destabilizing ocean redox systems, according to geochemical constraints and modelling.",
+    "source": "Nature Geoscience",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01874-2",
+    "title": "Costs and benefits of halving nitrogen waste for global sustainable development goals",
+    "link": "https://www.nature.com/articles/s41561-025-01874-2",
+    "authors": [
+      "Peiying He",
+      "Xiuming Zhang",
+      "Chuanzhen Zhang",
+      "Binhui Chen",
+      "Sitong Wang",
+      "Luxi Cheng",
+      "Jinglan Cui",
+      "Ouping Deng",
+      "Stefan Reis",
+      "Cargele Masso",
+      "Mahesh Pradhan",
+      "Jianming Xu",
+      "Baojing Gu"
+    ],
+    "summary": "Nature Geoscience, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41561-025-01874-2\">doi:10.1038/s41561-025-01874-2</a>Halving nitrogen waste could help meet a broad array of Sustainable Development Goals, with associated societal benefits topping US$1.3 trillion, according to an integrated assessment framework that evaluates cost-effectiveness and environmental impacts.",
+    "source": "Nature Geoscience",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68278-z",
+    "title": "Refrigeration down to 0.16 K using a frustrated magnet Gd<sub>2</sub>B<sub>2</sub>MoO<sub>9</sub>",
+    "link": "https://www.nature.com/articles/s41467-025-68278-z",
+    "authors": [
+      "Yikun Zhang",
+      "Yingzhe Na",
+      "Xinyang Liu",
+      "Junsen Xiang",
+      "Fengying Chen",
+      "Hai-Feng Li",
+      "Peijie Sun",
+      "Shengqiang Zhou",
+      "Xuefeng Zhang",
+      "Lingwei Li"
+    ],
+    "summary": "Nature Communications, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68278-z\">doi:10.1038/s41467-025-68278-z</a>Ultra-low-temperature magnetic refrigeration is strongly dependent on the performances of refrigerants. Here the authors provide a frustrated magnet Gd2B2MoO9 with excellent magnetocaloric performances and a minimum temperature of 0.16 K is achieved.",
+    "source": "Nature Communications",
+    "date": "2026-01-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68181-7",
+    "title": "Spontaneous chlorine production from chloride-containing brines",
+    "link": "https://www.nature.com/articles/s41467-025-68181-7",
+    "authors": [
+      "Chenguang Zhu",
+      "Qi Li",
+      "Mingchang Li",
+      "Shangfa Pan",
+      "Bo Zhou",
+      "Lei Jiang",
+      "Jun Gao"
+    ],
+    "summary": "Nature Communications, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68181-7\">doi:10.1038/s41467-025-68181-7</a>Researchers report a spontaneous method that produces chlorine directly from chloride-containing brines by harnessing their inherent osmotic energy and chloride ions, without any external energy input.",
+    "source": "Nature Communications",
+    "date": "2026-01-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67924-w",
+    "title": "A multidimensional workflow profiling of allogeneic virus-specific T cell therapies reveals potency-linked signatures",
+    "link": "https://www.nature.com/articles/s41467-025-67924-w",
+    "authors": [
+      "Corey Smith",
+      "Vijayendra Dasari",
+      "Sriganesh Srihari",
+      "Laetitia Le Texier",
+      "Matthew Solomon",
+      "Archana Panikkar",
+      "Thuy Le",
+      "George Ambalathingal",
+      "Jyothy Raju",
+      "Sweera Rehan",
+      "Leone Beagley",
+      "Pauline Crooks",
+      "Panteha Khaledi",
+      "Arushi Mahajan",
+      "Pamela Mukhopadhyay",
+      "Rajiv Khanna"
+    ],
+    "summary": "Nature Communications, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67924-w\">doi:10.1038/s41467-025-67924-w</a>Allogeneic T cell therapies could be used in therapeutic applications because of their potential for ‘off-the-shelf’ access and standardised production. Here the authors have developed a multidimensional workflow profiling platform for EBV-specific T cell therapy and show that correlative biomarkers of T cell potency and effector function are associated with therapeutic effectiveness in xenogeneic mouse EBV-LCL models.",
+    "source": "Nature Communications",
+    "date": "2026-01-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68203-4",
+    "title": "Long-distance spin transport in frustrated hyperkagome magnet Gd<sub>3</sub>Ga<sub>5</sub>O<sub>12</sub>",
+    "link": "https://www.nature.com/articles/s41467-025-68203-4",
+    "authors": [
+      "Di Chen",
+      "Bingcheng Luo",
+      "Lei Xu",
+      "Zian Xia",
+      "Linhao Jia",
+      "Shaomian Qi",
+      "Congkuan Tian",
+      "Kangyao Chen",
+      "Hang Cui",
+      "Guangyi Chen",
+      "Shili Yan",
+      "Miaoling Huang",
+      "Jian Cui",
+      "Ya Feng",
+      "Zhentao Wang",
+      "Jiang Xiao",
+      "Jianhua Zhang",
+      "Ryuichi Shindou",
+      "X. C. Xie",
+      "Jian-Hao Chen"
+    ],
+    "summary": "Nature Communications, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68203-4\">doi:10.1038/s41467-025-68203-4</a>Spin transport properties of magnetically ordered materials have been well studied. Here, the authors report an anomalous spin signal exhibiting spin transport over 480 microns in the frustrated hyperkagome magnetic insulator Gd3Ga5O12.",
+    "source": "Nature Communications",
+    "date": "2026-01-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68239-6",
+    "title": "DNA actively regulates the “safety-belt” dynamics of condensin during loop extrusion",
+    "link": "https://www.nature.com/articles/s41467-025-68239-6",
+    "authors": [
+      "Jinyu Chen",
+      "Cibo Feng",
+      "Yong Wang",
+      "Xiakun Chu"
+    ],
+    "summary": "Nature Communications, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68239-6\">doi:10.1038/s41467-025-68239-6</a>The molecular mechanism underlying DNA entrapment during loop extrusion by condensin remains poorly understood. Here, the authors use multiscale molecular simulations to show that DNA itself steers a flexible “safety belt” in condensin.",
+    "source": "Nature Communications",
+    "date": "2026-01-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68022-7",
+    "title": "Impact of GC content on de novo gene birth",
+    "link": "https://www.nature.com/articles/s41467-025-68022-7",
+    "authors": [
+      "Paul Roginski",
+      "Chris Papadopoulos",
+      "Simon Herman",
+      "Ambre Baumann",
+      "Antoine Grislain",
+      "Anne Lopes"
+    ],
+    "summary": "Nature Communications, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68022-7\">doi:10.1038/s41467-025-68022-7</a>Noncoding DNA can generate microproteins, some of which evolve into new genes. This study finds that de novo genes preferentially originate from GC-rich, foldable sequences, showing how base composition influences the birth of new proteins.",
+    "source": "Nature Communications",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68173-7",
+    "title": "Reconfigurable all-solid-state topological lasing at arbitrary sites",
+    "link": "https://www.nature.com/articles/s41467-025-68173-7",
+    "authors": [
+      "Bo Wu",
+      "Jinting Ding",
+      "Wenchao Yan",
+      "Yuechen Jia",
+      "Haohai Yu",
+      "Xiang Ni",
+      "Feng Chen"
+    ],
+    "summary": "Nature Communications, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68173-7\">doi:10.1038/s41467-025-68173-7</a>Topological lasers usually emit light from a fixed spot. Here, authors report on an all-solid-state platform where topological lasing is demonstrated at trivial lattice terminations as well as at reconfigurable arbitrary sites. The device consists of a Su-Schrieffer-Heeger waveguide array, printed in a disordered Nd:BaLaGa₃O₇ crystal.",
+    "source": "Nature Communications",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68044-1",
+    "title": "NTAC: Neuronal type assignment from connectivity",
+    "link": "https://www.nature.com/articles/s41467-025-68044-1",
+    "authors": [
+      "Gregory Schwartzman",
+      "Ben Jourdan",
+      "David García-Soriano",
+      "Arie Matsliah"
+    ],
+    "summary": "Nature Communications, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68044-1\">doi:10.1038/s41467-025-68044-1</a>In this study, the authors develop NTAC, Neuronal Type Assignment from Connectivity, using synaptic connectivity alone to identify cell types with high accuracy within minutes on a standard CPU.",
+    "source": "Nature Communications",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-025-00754-y",
+    "title": "Changing the heatwave visual discourse in the news media",
+    "link": "https://www.nature.com/articles/s43017-025-00754-y",
+    "authors": [
+      "Saffron O’Neill",
+      "Clare Davis"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s43017-025-00754-y\">doi:10.1038/s43017-025-00754-y</a>Nature Reviews Earth & Environment interviewed Professor Saffron O’Neill about their project investigating the visual communication of heatwaves in the news media.",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03145-9",
+    "title": "Improved European heat event simulation in eddy-resolving climate models",
+    "link": "https://www.nature.com/articles/s43247-025-03145-9",
+    "authors": [
+      "Julian Krüger",
+      "Joakim Kjellsson",
+      "Katja Lohmann",
+      "Daniela Matei",
+      "Robin Pilch Kedzierski"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s43247-025-03145-9\">doi:10.1038/s43247-025-03145-9</a>High-resolution climate models simulate a more realistic relationship between North Atlantic sea surface temperatures and European summer temperature extremes, because of the reduced surface temperature bias in the subpolar North Atlantic.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03134-y",
+    "title": "High-resolution planet Dove data identify local drivers of kelp canopy persistence",
+    "link": "https://www.nature.com/articles/s43247-025-03134-y",
+    "authors": [
+      "Katherine C. Cavanaugh",
+      "Kyle C. Cavanaugh",
+      "Lori A. Berberian",
+      "Emelly M. Ortiz-Villa",
+      "Maxmilian C. Callahan",
+      "Melanie Leung"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s43247-025-03134-y\">doi:10.1038/s43247-025-03134-y</a>High-resolution kelp canopy maps from a convolutional neural network showed that kelp persistence after a marine heatwave was linked to pre-heatwave persistence, cooler sea surface temperatures, shallow habitats that are often missed by coarser satellite sensors, and lower levels of fragmentation.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03120-4",
+    "title": "Patterns in solar activity over the first millennium CE",
+    "link": "https://www.nature.com/articles/s43247-025-03120-4",
+    "authors": [
+      "Jian Wang",
+      "Michael W. Dee",
+      "Benjamin J. S. Pope",
+      "Mathew J. Owens",
+      "David Brown",
+      "Susanne Lindauer",
+      "Kirsten Schwabe",
+      "Hannes Knapp",
+      "Thorsten Westphal",
+      "Ronny Friedrich"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s43247-025-03120-4\">doi:10.1038/s43247-025-03120-4</a>Findings on solar activity in the first millennium CE confirm four Grand Solar Minima and indicate two patterns of weakening-then-strengthening in the Schwabe cycle, providing insights into solar dynamo behavior, according to analysis of Δ14C data from tree rings.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03111-5",
+    "title": "Regional responses to oceanic variability constrain global drought synchrony",
+    "link": "https://www.nature.com/articles/s43247-025-03111-5",
+    "authors": [
+      "Udit Bhatia",
+      "Hemant Poonia",
+      "Danish Mansoor Tantary",
+      "Vimal Mishra",
+      "Rohini Kumar"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s43247-025-03111-5\">doi:10.1038/s43247-025-03111-5</a>Large-scale synchronized droughts affect 1.84–6.5% of global land mass, and although warming amplifies this synchrony, precipitation variability and oceanic forcing limit its global extent, according to a study that analyzed 120 years of global drought data.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-02942-6",
+    "title": "Strong mismatch in climate change adaptation between intentions of private forest owners in Canada and institutional support",
+    "link": "https://www.nature.com/articles/s43247-025-02942-6",
+    "authors": [
+      "Timothée Fouqueray",
+      "Daniel Schoenig",
+      "Rita Sousa-Silva",
+      "Jérôme Dupras",
+      "Christian Messier"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s43247-025-02942-6\">doi:10.1038/s43247-025-02942-6</a>Private forest owners in Canada can better adapt to climate change through locally relevant information and technical assistance, as shown by a comprehensive survey and Bayesian analysis.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-02962-2",
+    "title": "High H<sub>2</sub> production in sediment-hosted hydrothermal fluids at an ultraslow spreading mid-ocean ridge",
+    "link": "https://www.nature.com/articles/s43247-025-02962-2",
+    "authors": [
+      "Alexander Diehl",
+      "Eirini Anagnostou",
+      "Patrick Monien",
+      "Thomas Pape",
+      "Eva-Maria Meckel",
+      "Miriam Römer",
+      "Leila Mezri",
+      "Wolfgang Bach",
+      "Donata Monien",
+      "Christian Hansen",
+      "Aaron Röhler",
+      "Katharina Streuff",
+      "Sabina Strmic Palinkas",
+      "Yann Marcon",
+      "Ines Barrenechea Angeles",
+      "Charlotte Kleint",
+      "Stig‑Morten Knutsen",
+      "Gerhard Bohrmann"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s43247-025-02962-2\">doi:10.1038/s43247-025-02962-2</a>Hydrothermal systems at ultraslow-spreading mid-ocean ridges are still not well understood, especially where vent fluids interact with sediments and ultramafic rocks. In this study, we present geochemical data from vent fluids collected in 2024 at the Jøtul hydrothermal field on the northern Knipovich Ridge. We analyzed major elements, dissolved gases, and used thermodynamic modeling to study how the fluids react with surrounding rocks. The fluids contain extremely high levels of CH4, even higher than those in the Guaymas Basin, and show features typical of sediment-hosted hydrothermal systems, suggesting that organic matter in clastic sediments has been broken down by the hot fluids. In contrast, the fluids also have high H2 ( > 15 mM) and low H2S concentrations, which are common in vents hosted by ultramafic rocks and geological evidence suggests that the vent field sits on a detachment fault. Our thermodynamic modeling indicates that the high H2/H2S ratios could be explained by the breakdown of organic matter at around 400 °C, rather than by reactions with ultramafic rocks. These findings broaden our understanding of sediment-hosted vent systems and suggest that fluid-sediment interaction is a more important source of oceanic carbon and dissolved hydrogen than previously recognized.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2024RG000869",
+    "title": "Glacier‐Atmosphere Interactions and Feedbacks in High‐Mountain Regions ‐ A Review",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024RG000869?af=R",
+    "authors": [
+      "T. Sauter, \nB. W. Brock, \nE. Collier, \nB. Goger, \nA. R. Groos, \nK. F. Haualand, \nR. Mott, \nL. Nicholson, \nR. Prinz, \nT. E. Shaw, \nI. Stiperski, \nA. Georgi, \nM. Haugeneder, \nA. Mandal, \nD. Reynolds, \nM. Saigger, \nJ. E. Sicart, \nA. Voordendag"
+    ],
+    "summary": "Reviews of Geophysics, Volume 64, Issue 1, March 2026.",
+    "source": "Wiley: Reviews of Geophysics: Table of Contents",
+    "date": "2026-01-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X25006089",
+    "title": "Shifting carbonate burial between oceanic and continental crust across Earth history",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X25006089?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 March 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 677Author(s): Jon M. Husson, Shanan E. Peters",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-01-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL116073",
+    "title": "Characterization of Crustal Deformation During the May 2021 Nyiragongo Eruption Using InSAR and GNSS Data",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL116073?af=R",
+    "authors": [
+      "D. Murekezi, \nA. Newman, \nC. Wauthier, \nC. J. Ebinger, \nP. Lundgren, \nJ. Gonzalez Santana, \nT. Niyitegeka, \nG. Nyandwi, \nT. Habiyakare, \nJ. Uwiduhaye"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119118",
+    "title": "Statistical Estimate of the Magnetopause Reconnection Rate as a Function of the Interplanetary Magnetic Field Clock Angle",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119118?af=R",
+    "authors": [
+      "B. Michotte de Welle, \nN. Aunai, \nB. Lavraud, \nV. Génot, \nG. Nguyen, \nA. Ghisalberti, \nA. Jeandet, \nD. Sibeck, \nH. Connor"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118287",
+    "title": "Revealing Blind Faults Through High‐Resolution Imaging of Shallow Structures: A Case Study on Chenghai Fault, Yunnan, China",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118287?af=R",
+    "authors": [
+      "Lei Qin, \nHongrui Qiu, \nHongfeng Yang, \nFenglin Niu, \nNori Nakata, \nXiong Xiong"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117310",
+    "title": "Large Aerosol Particles Favor Haze Conditions Through Limitations on Water Budget and Activation Kinetics",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117310?af=R",
+    "authors": [
+      "Hamed Fahandezh Sadi, \nErnie R. Lewis, \nKadja Flore Gali, \nFan Yang, \nJesse Anderson, \nSuryadev Pratap Singh, \nJae Min Yeom, \nWill Cantrell, \nRaymond A. Shaw"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119392",
+    "title": "Spatial Distributions of Energetic Electrons and Energetic Ions in the Tail Reconnection Region: Cluster Observations and PIC Simulations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119392?af=R",
+    "authors": [
+      "S. Y. Huang, \nH. W. Zhan, \nQ. Y. Xiong, \nZ. G. Yuan, \nK. Jiang, \nY. T. Tang, \nH. Bai"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119131",
+    "title": "Water Storage Changes of Lakes and Reservoirs Across Asia (2018–2023) and Their Effects in Flood Control",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119131?af=R",
+    "authors": [
+      "Zhiyuan An, \nZhao Li, \nTaoyong Jin, \nWeiping Jiang, \nPeng Yuan, \nKai Liu, \nJian Wang, \nPeng Chen"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726000037",
+    "title": "Hydrogen in natural inclusions: geological legacy or laboratory artifact?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726000037?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 5 January 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Haokun Lian, Xiaolin Wang, Matthew Steele-MacInnis, Dongquan Sun, Wenxuan Hu, I-Ming Chou",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-01-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826000041",
+    "title": "The indicative significance of apatite in the Ganfang region for lithium mineralization",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826000041?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 6 January 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Ke Huang, Miao Yu, Chunli Guo, Xinghua Ma, JianZhong Niu, Junxing Zhao, Fangyang Hu, Xiaochi Liu",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-01-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826000065",
+    "title": "Genesis of the Paleoproterozoic Heiyuting Fe deposit in the Jiao-Liao-Ji Belt, North China Craton: Constraints form geochronology and geochemistry",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826000065?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 5 January 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Xiao-Hui Wang, Yu-Bo Ma, Xiu-Ling Zhao, Li-Xing Li, Hou-Min Li, Yi Wang, Yang Dai, Xuan Wu, Xiao-Yang Fan, Xi-Long Liu",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-01-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826000077",
+    "title": "Why Middle Jurassic coal seams generally lack volcanic-ash-altered kaolinitic layers and critical metals compared to the Carboniferous-Permian in the Ordos Basin, North China?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826000077?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 5 January 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Shuai Zhang, Xiaomeng Sun, Xi Xu, Qinfu Liu",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-01-07",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-025-04153-7",
     "title": "I see Mozambique’s baboons as windows into hominid evolution",
     "link": "https://www.nature.com/articles/d41586-025-04153-7",
