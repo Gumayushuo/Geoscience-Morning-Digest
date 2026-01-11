@@ -1,5 +1,343 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-025-68257-4",
+    "title": "The transcription factor HHEX maintains glucocorticoid levels and protects adrenals from androgen-induced lipid depletion",
+    "link": "https://www.nature.com/articles/s41467-025-68257-4",
+    "authors": [
+      "Typhanie Dumontet",
+      "Kaitlin J. Basham",
+      "Micah C. Foster",
+      "Emma Silverman",
+      "Kyle A. Heard",
+      "Dominque Johnson",
+      "Chaelin Lee",
+      "Samuel W. Plaska",
+      "David T. Breault",
+      "David Penton",
+      "Felix Beuschlein",
+      "Adina F. Turcu",
+      "Christopher R. LaPensee",
+      "Antonio Marcondes Lerario",
+      "Gary D. Hammer"
+    ],
+    "summary": "Nature Communications, Published online: 11 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68257-4\">doi:10.1038/s41467-025-68257-4</a>In the adrenal cortex, cholesterol used for steroid production is stored in lipid droplets. The authors demonstrate here the importance of the transcription factor HHEX in maintaining glucocorticoid levels and protecting lipid droplets from androgen-induced lipid depletion.",
+    "source": "Nature Communications",
+    "date": "2026-01-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67989-7",
+    "title": "Room-temperature high-efficiency spin injection via van der Waals tunnel contact",
+    "link": "https://www.nature.com/articles/s41467-025-67989-7",
+    "authors": [
+      "Shiming Huang",
+      "Fuchen Hou",
+      "Tingyu Qu",
+      "Lianying Zhu",
+      "Zhipeng Wang",
+      "Bo Zhang",
+      "Bosen Wang",
+      "Chao Wang",
+      "Guowen Yuan",
+      "Xiao Chang",
+      "Barbaros Özyilmaz",
+      "Huolin Huang",
+      "Feng Zhang",
+      "Libo Gao",
+      "Junhao Lin",
+      "Deyi Fu",
+      "Rong Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67989-7\">doi:10.1038/s41467-025-67989-7</a>Researchers developed a simple, industry-compatible method using an indium buffer layer between cobalt and 2D materials to form vdWs tunnel contacts. This achieved high spin injection efficiency in both graphene and MoS2, enabling future large-scale spintronic devices.",
+    "source": "Nature Communications",
+    "date": "2026-01-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68225-y",
+    "title": "Elasto-magnetic instabilities for amplified actuation and mechanical memory",
+    "link": "https://www.nature.com/articles/s41467-025-68225-y",
+    "authors": [
+      "Seong-Yu Choi",
+      "Ji-Sung Park",
+      "Won Jun Song",
+      "Maga Kim",
+      "Yun Hyeok Lee",
+      "Yong Eun Cho",
+      "Hakjun Lee",
+      "Ho-Young Kim",
+      "Jeong-Yun Sun"
+    ],
+    "summary": "Nature Communications, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68225-y\">doi:10.1038/s41467-025-68225-y</a>Here the authors utilize magnetic attraction and elastic tension to create instabilities that amplify vibrations and induce inertia-driven hysteresis. The design enables efficient mechanical memory with both volatile and non-volatile modes.",
+    "source": "Nature Communications",
+    "date": "2026-01-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67430-z",
+    "title": "The urgent need for African research collaboration on medicine quality",
+    "link": "https://www.nature.com/articles/s41467-025-67430-z",
+    "authors": [
+      "Fanqi Zeng",
+      "Simon Mariwah",
+      "Gerry Mshana",
+      "Daniel Amoako-Sakyi",
+      "Heather Hamill"
+    ],
+    "summary": "Nature Communications, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67430-z\">doi:10.1038/s41467-025-67430-z</a>Substandard and falsified medicines are a global health threat. The fight against them is a regulatory and research challenge; here, the authors argue the importance of global and regional oversight, monitoring of, and research into the extent of the issue.",
+    "source": "Nature Communications",
+    "date": "2026-01-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68131-3",
+    "title": "Universal modulus-free transfer of scalable laser-induced graphene for electronic skins",
+    "link": "https://www.nature.com/articles/s41467-025-68131-3",
+    "authors": [
+      "Yuyao Lu",
+      "Ziguan Jin",
+      "Qincheng Sheng",
+      "Depeng Kong",
+      "Chuyang Miao",
+      "Hui Wu",
+      "Gaoyang Pang",
+      "Haibo Xie",
+      "Linghai Xie",
+      "Geng Yang",
+      "Jun Zou",
+      "Huayong Yang",
+      "Wei Huang",
+      "Kaichen Xu"
+    ],
+    "summary": "Nature Communications, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68131-3\">doi:10.1038/s41467-025-68131-3</a>This study reports a universally cryogenic stripping strategy for transferring laser-induced graphene onto diverse surfaces without modulus limitations. The thickness of typical receiver elastomers can be reduced to 6.7 μm for large-scale electronic skins.",
+    "source": "Nature Communications",
+    "date": "2026-01-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67339-7",
+    "title": "JULGI coordinates vascular development and leaf patterning through non-cell-autonomous regulation of miR165/166",
+    "link": "https://www.nature.com/articles/s41467-025-67339-7",
+    "authors": [
+      "Soyoung Park",
+      "Hyun Seob Cho",
+      "Seungchul Lee",
+      "Hojun Lim",
+      "Chanyoung Park",
+      "Sangkyu Choi",
+      "Sang Eun Jun",
+      "Yoontae Lee",
+      "Gyung-Tae Kim",
+      "Ildoo Hwang"
+    ],
+    "summary": "Nature Communications, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67339-7\">doi:10.1038/s41467-025-67339-7</a>Leaf and vein development must be precisely coordinated, yet the molecular signals linking these processes have remained unclear. This study identifies JUL1 as a non–cell-autonomous regulator that connects vascular development with the refinement of leaf polarity.",
+    "source": "Nature Communications",
+    "date": "2026-01-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68216-z",
+    "title": "Integration of large vision language models for efficient post-disaster damage assessment and reporting",
+    "link": "https://www.nature.com/articles/s41467-025-68216-z",
+    "authors": [
+      "Zhaohui Chen",
+      "Elyas Asadi Shamsabadi",
+      "Sheng Jiang",
+      "Luming Shen",
+      "Daniel Dias-da-Costa"
+    ],
+    "summary": "Nature Communications, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68216-z\">doi:10.1038/s41467-025-68216-z</a>Disaster response often suffers from delays and inconsistent assessments. Here, the authors develop DisasTeller, a multi-agent LVLM system that interprets disaster images, generates alerts and plans, and provides rapid, standardised support for post-disaster decision-making.",
+    "source": "Nature Communications",
+    "date": "2026-01-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68297-4",
+    "title": "Ultrahigh energy storage density and efficiency in AgNbO<sub>3</sub>-based ceramics by percolating interaction between antipolar regions and defect pairs",
+    "link": "https://www.nature.com/articles/s41467-026-68297-4",
+    "authors": [
+      "Liqiang He",
+      "Le Zhang",
+      "Yating Ran",
+      "Cunle Bo",
+      "Kaiyun Chen",
+      "Yao Liu",
+      "Chen Zhang",
+      "Zihao Zheng",
+      "Jinming Guo",
+      "Danyang Wang",
+      "Shujun Zhang",
+      "Sen Yang",
+      "Xiaobing Ren",
+      "Zibin Chen",
+      "Dong Wang"
+    ],
+    "summary": "Nature Communications, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68297-4\">doi:10.1038/s41467-026-68297-4</a>A percolating interaction between antipolar regions and engineered defect pairs facilitates antipolar rotations, enabling superior energy storage performance in AgNbO3-based ceramics.",
+    "source": "Nature Communications",
+    "date": "2026-01-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2511781122?af=R",
+    "title": "The major ion chemistry of seawater was closely coupled to the long-term carbon cycle during the Cenozoic",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2511781122?af=R",
+    "authors": [
+      "David EvansYair RosenthalJonathan ErezHagar HauzerLaura J. CottonXiaoli ZhouRomi NambiarPeter StassenPaul N. PearsonWillem RenemaPratul Kumar SaraswatiJonathan A. ToddWolfgang MüllerHagit P. AffekaSchool of Ocean and Earth Science, University of Southampton, Southampton SO14 3ZH, United KingdombDepartment of Marine Sciences, Rutgers University, New Brunswick, NJ 08901cDepartment of Earth and Planetary Sciences, Rutgers University, Piscataway, NJ 08854dInstitute of Earth Sciences, The Hebrew University of Jerusalem, Jerusalem 91904, IsraeleIsrael Oceanographic and Limnological Research, National Institute of Oceanography, Haifa 3102201, IsraelfNatural History Museum Denmark, Sølvgade 83, København 1307, DenmarkgSchool of Ocean and Earth Science, Tongji University, Shanghai 200092, ChinahInstitute of Geosciences, Goethe University Frankfurt, Frankfurt am Main 60438, GermanyiDepartment of Earth and Environmental Sciences, Katholieke Universiteit Leuven, Leuven B-3000, BelgiumjOperational Directorate Earth and History of Life, Royal Belgian Institute of Natural Sciences, Brussels B-1000, BelgiumkDepartment of Earth Sciences, University College London, London WC1E 6BS, United KingdomlNaturalis Biodiversity Center, Leiden 2300 RA, The NetherlandsmInstitute for Biodiversity and Ecosystem Dynamics, University of Amsterdam, Amsterdam 1098 XH, The NetherlandsnDepartment of Earth Sciences, Indian Institute of Technology Bombay, Mumbai 400076, IndiaoNatural History Museum, London SW7 5BD, United Kingdom"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 2, January 2026. <br />SignificanceDetermining past changes in the composition of seawater is important as seawater chemistry can be thought of as an integrated record of geological processes that drive the carbon cycle. In addition, seawater major ion chemistry data are ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-01-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26000105",
+    "title": "Subduction-driven mantle flow beneath and around the Philippine Sea plate from seismic anisotropy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26000105?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 March 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 678Author(s): Jonathan Wolf, Frederik Link, Maureen D. Long, Edward Garnero, John D. West",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-01-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X25006077",
+    "title": "First-year sea ice history in the Arctic Ocean inferred from ancient DNA of <em>Polerella glacialis</em> over the past 50,000 years",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X25006077?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 March 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 678Author(s): Kyle Michael James Mayers, Nele Manon Vollmar, Tristan Cordier, Agnes Katharina Maria Weiner, Juliane Müller, Aud Larsen, Stijn De Schepper",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-01-11",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119671",
+    "title": "Effect of Submerged Vegetation on Water Surface Geometry and Air–Water Momentum Transfer",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119671?af=R",
+    "authors": [
+      "G. Foggi Rota, \nA. Chiarini, \nM. E. Rosti"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-10",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL116702",
+    "title": "Ambient‐Noise Multicomponent Multimodal Dispersion Characteristics in Thick Sedimentary Basins",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL116702?af=R",
+    "authors": [
+      "Gongheng Zhang, \nChunquan Yu, \nZhengbo Li, \nXiaofei Chen, \nCaiwang Shi, \nXuping Feng, \nFanchang Meng, \nBo Li"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-09",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119421",
+    "title": "Increasing Frequency and Persistence of the Summertime Greenland High Regime Not Captured by a Seasonal Prediction Model Very Large Ensemble",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119421?af=R",
+    "authors": [
+      "Simon H. Lee, \nLorenzo M. Polvani"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-09",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032139",
+    "title": "Molecular‐Dynamics Study of the Crystal Structure of Iron Under the Earth's Inner Core Conditions",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032139?af=R",
+    "authors": [
+      "Hua Yang, \nLei Wan, \nYunguo Li, \nLidunka Vočadlo, \nJohn Brodholt"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 1, January 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-01-09",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38439.1/724194/Late-Cretaceous-to-late-Eocene-ca-85-37-Ma-pre",
+    "title": "Late Cretaceous to late Eocene (ca. 85–37 Ma) pre-extensional cooling of the Nevadaplano (east-central Nevada and west-central Utah, USA): A case study for lithospheric refrigeration during Laramide flat-slab subduction",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38439.1/724194/Late-Cretaceous-to-late-Eocene-ca-85-37-Ma-pre",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Investigating the thermal history of orogenic plateaus provides insights into the geodynamic processes that drive lithospheric temperature changes. Here, we integrate time-temperature histories from new (<span style=\"font-style: italic;\">n</span> = 31) and published (<span style=\"font-style: italic;\">n</span> = 227) cooling ages from the Cordilleran Nevadaplano in east-central Nevada and west-central Utah, USA, with published peak metamorphic temperatures and depth histories. The upper 10−14 km of the crust cooled 120−365 °C (average 229 ± 85 °C) at average rates of 2.6−7.6 °C/m.y. between peak metamorphism at 85 ± 8 Ma and the initiation of extension at 37 Ma. This corresponded with a slow decrease in average geothermal gradient from 46 ± 10 °C/km at 85 Ma to 20 ± 11 °C/km at 37 Ma. Erosion levels beneath a subvolcanic unconformity constrain ≤1.7−4.0 km of erosion of this region prior to 37 Ma, which cannot account for such significant cooling. We interpret that pre-extensional cooling was dominantly driven by lithospheric refrigeration of the Nevadaplano during Laramide flat-slab subduction, with a minor contribution from erosion. The 20 ± 11 °C/km average geothermal gradient at 37 Ma demonstrates that the crust was cold and strong at the initiation of extension, which indicates that the decrease in interplate coupling that accompanied post-Laramide slab rollback was likely the dominant mechanism that drove extension, instead of thermal weakening during the Great Basin ignimbrite flareup. The footwalls of detachment fault systems in the Schell Creek and Northern Snake ranges cooled rapidly (typically 8−17 °C/m.y., but up to 46 °C/m.y.) between 37 Ma and 28 Ma and between 37 Ma and 17 Ma, respectively. Several ranges transitioned to slow cooling (1.3−3.5 °C/m.y.) at 13−10 Ma, which could represent the waning of displacement on range-bounding normal faults.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-01-09",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38393.1/724193/Geothermal-effect-on-riverine-molybdenum-isotopes",
+    "title": "Geothermal effect on riverine molybdenum isotopes: Implications for its riverine input into the ocean",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38393.1/724193/Geothermal-effect-on-riverine-molybdenum-isotopes",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Molybdenum (Mo) isotopes preserved in marine sediments serve as a premier proxy for reconstructing Earth’s oxygenation history. However, their reliability depends on accurately deciphering the mechanisms driving spatiotemporal variations in Mo isotopes in river water—the ocean’s dominant Mo source. Chemical weathering of continental rocks is widely recognized as the primary control on δ<sup>98</sup>Mo values in the dissolved riverine flux. Nevertheless, continental geothermal inputs, which discharge into major river networks along tectonically active zones worldwide, may exert an additional, yet underexplored control on riverine Mo isotope signatures. This study presents the first systematic time-series investigation of geothermal impacts on riverine δ<sup>98</sup>Mo, utilizing the tectonically active Liuxihe River Basin (South China) as a natural laboratory. Our findings reveal that geothermal inputs along fault zones dramatically alter riverine Mo isotopes, depressing δ<sup>98</sup>Mo values from a weathering baseline of 0.99‰ to as low as −0.99‰, a 2‰ shift exceeding all previously documented riverine variations. Mixing models indicate that geothermal sources can contribute up to 56% of dissolved Mo in affected river segments. Given the ubiquity of continental geothermal systems along major plate boundaries and intracontinental fault zones, this previously unrecognized control may fundamentally transform our understanding of the global riverine Mo flux. These results carry significant implications for refining global Mo budgets to incorporate isotopically light continental geothermal inputs and for reinterpreting paleo-redox records by considering variable riverine end members rather than fixed crustal values.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-01-09",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38190.1/724192/The-role-of-crustal-magmatism-in-the-formation-and",
+    "title": "The role of crustal magmatism in the formation and the evolution of orogenic plateaus",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38190.1/724192/The-role-of-crustal-magmatism-in-the-formation-and",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Here we review regional geological, petrological, geochemical, and geophysical data from the Central Andean plateau (comprising two distinct areas, the Altiplano and Puna) and its defunct North American sibling, the Nevadaplano, as well as to a lesser extent Tibet, to show that magmatism in the middle crust of orogenic plateaus plays an important role in the development of relief and high elevation and drives the mechanical behavior of these features. We show that in situ, mostly S-type melting is an intrinsic feature of plateaus and that these melts can reside in the crust for millions to tens of millions of years without freezing just below a critical melt fraction. Some of these in situ partial melt masses escape their source regions and erupt at the surface. The chemical evolution of volcanic masses produced by partial escape from these migmatites can be predicted by simple forward petrologic calculations. Extensive migmatite in sub-plateau middle crust also contributes to the mechanical weakness of plateaus and their buoyancy. In addition, magmatism from the underlying mantle wedge can further sustain the life of these extensive partial melting zones. Additional, much deeper melt accumulation zones exist close to the bottom of these thick-crusted domains, but we have much less information about their evolution and chemistry; they are probably similar to the deepest crustal root zones of the frontal arcs.We also suggest that there is a link between the ability of Li, B, Cs, and other elements to be concentrated in S-type leucogranites of the extensive migmatite blanket of the middle crust and the concentration of Li (and other metals) in brines and ultimately in the salars of the Central Andean plateau. Hydrothermal activity directly related to the present day Altiplano-Puna magma body or the recent equivalents on South America’s plateau may have leaked these incompatible elements into the former lakes that are now hosting the largest concentrations of Li on the planet.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-01-09",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38668.1/724191/Protracted-subduction-and-slab-rollback-of-the",
+    "title": "Protracted subduction and slab rollback of the Paleo-Asian Ocean during the late Paleozoic: Insight from polyphase metamorphism in the Baoyintu Group, central-western Inner Mongolia",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38668.1/724191/Protracted-subduction-and-slab-rollback-of-the",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Understanding the relationship between tectonic patterns and metamorphic processes generated by subduction is essential for reconstructing the evolutionary history of orogenic systems. However, these connections can be obscured by poly-metamorphism that overprints or erases evidence of earlier metamorphism. To evaluate the role of continuous subduction on overprinting previous metamorphic events, we examine the subduction dynamics of the Paleo-Asian Ocean during the late Paleozoic. This evaluation is based on evidence of multi-stage metamorphism, including high-, medium-, and low-pressure type metamorphism identified from the metasedimentary rocks in the Baoyintu Group terrane of central-western Inner Mongolia, China. We use petrographic observations, phase equilibrium modeling, and U-Pb and Rb-Sr geochronology. High-pressure metamorphic mineral assemblages from the Baoyintu Group include chlorite, garnet, phengite, rutile, and quartz. Medium-pressure metamorphism is characterized by chlorite, biotite, garnet, muscovite, staurolite, kyanite, plagioclase, rutile, ilmenite, and quartz. Low-pressure metamorphism is characterized by chlorite, garnet, biotite, muscovite, andalusite, sillimanite, rutile, ilmenite, and quartz. Phase equilibrium modeling suggests apparent pressure-temperature conditions of ∼14−19 kbar and 510−580 °C for the high-pressure metamorphism, ∼5−10 kbar and 575−770 °C for the medium-pressure metamorphism, and ∼3−7 kbar and 565−750 °C for the low-pressure metamorphism. In situ mica Rb-Sr geochronology yields a metamorphic age for the high-pressure phase of ca. 369 Ma; rutile U-Pb geochronology of medium-pressure metamorphism yields a metamorphic age of ca. 399 Ma. Monazite and rutile U-Pb geochronology of the low-pressure assemblage indicates a metamorphic age of ca. 267−252 Ma. Devonian high- and medium-pressure belts are distributed in a northeast-southwest direction, consistent with the timing of magmatic events in the Baoyintu Group during subduction. The Permian low-pressure belt is oriented east-west, partially overprinting the high- and medium-temperature belts, and is contemporaneous with magmatic events related to extension. These results suggest that the subduction boundary of the Paleo-Asian Ocean in this region was northeast-southwest during the Devonian and shifted to east-west during the late-stage subduction in the Permian. This study reveals that irregularities along subduction boundaries can lead to multiple orogenic events, prompting a re-evaluation of inferring complex tectonic processes from polymetamorphosed rocks.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-01-09",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag017",
+    "title": "Flexible direct regeneration of heterogeneous cathode materials of spent lithium-ion batteries at industrial scale",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag017/8419698?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Direct recycling has emerged as a promising alternative to existing recycling methods due to its simplicity and cost-effectiveness. However, its scalable application remains a subject of debate, primarily due to the complexity of mixed degraded cathode materials in practice. The reason is that degraded materials with different compositions are extremely difficult to be repaired to cathode materials with uniform composition and performance. Herein, we have successfully realized direct regeneration of mixed heterogeneous degraded LiNi<sub>0.5</sub>Co<sub>0.2</sub>Mn<sub>0.3</sub>O<sub>2</sub> from different sources at industrial scale. First, uniform contact lithiation is achieved through the van der Waals force between Li-1-methyl-2-pyrrolidinone and LiNi<sub>0.5</sub>Co<sub>0.2</sub>Mn<sub>0.3</sub>O<sub>2</sub> molecules, leaving it in a uniform lithium-rich state. A self-saturating synthetic lithiation process occurs during subsequent heating, ensuring that each particle from various sources is repaired as needed. This method has been demonstrated to treat 50 kg of cathode materials per batch, and the regenerated products show uniform and excellent performance, achieving a retention rate of 90.7% after 1500 cycles in Ah level pouch cells. This performance is the best result reported to date and sets a new benchmark for regenerated LiNi<sub>x</sub>Co<sub>y</sub>Mn<sub>1-x-y</sub>O<sub>2</sub> cathode materials, which have reached the standard for direct commercial use.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-01-10",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag015",
+    "title": "Space charge regulation for ultra-stable all-solid-state lithium batteries by engineering of argyrodite electrolyte",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag015/8419696?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Space charge layer (SCL) formation at cathode–electrolyte interfaces severely limits the performance of sulfide-based all-solid-state Li batteries (ASSLBs). While conventional strategies focus on cathode modifications, we propose a novel electrolyte-centric approach by incorporating WO<sub>3</sub> into argyrodite electrolyte (Li<sub>5.49</sub>P<sub>0.99</sub>W<sub>0.01</sub>S<sub>4.47</sub>O<sub>0.03</sub>Cl<sub>1.5</sub>). This design achieves a record-high ionic conductivity of 13.5 mS cm<sup>−1</sup> (at 25°C) among O-substituted argyrodites. When paired with a LiNi<sub>0.92</sub>Co<sub>0.05</sub>Mn<sub>0.03</sub>O<sub>2</sub> cathode, the full cell delivers 217 mAh g<sup>−1</sup> at 0.1C, and retains 92% capacity after 1000 cycles (1C) and 80% capacity after 5000 cycles (5C), far outperforming the cells with frequently-used Li<sub>5.5</sub>PS<sub>4.5</sub>Cl<sub>1.5</sub> argyrodite electrolytes (200 mAh g<sup>−1</sup> at 0.1C; failure at 408 cycles at 1C). Mechanistic studies reveal that WO<sub>3</sub> substitution modulates the electrolyte’s chemical potential to align with the cathode, reducing interfacial energy barriers and inhibiting Li<sup>+</sup> depletion, and then significantly suppresses SCL effects. This work pioneers an electrolyte engineering strategy to mitigate SCL issues, enabling high-energy-density, ultra-stable ASSLBs.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-01-10",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag001",
+    "title": "Molecular metal nanoparticles with pseudo-plasma absorption band",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag001/8419693?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Metal nanoparticles include molecular nanoclusters and metallic nanocrystals. Investigating the critical transition sizes from nanoclusters to nanocrystals is appealing. However, achieving precise size control near the critical size region remains challenging, especially for not so noble metal nanoparticles (Ag, Cu, etc.). Herein, we introduced an active metal anti-galvanic doping strategy to resolve both stability and multi-dispersity issues and demonstrated the gram-scale synthesis (2.40 g of crystals, more than 200 times the existing crystal output record for over 100-metal atom nanoparticles) of a 1796-atom Ag–Zn nanoparticle. Furthermore, we successfully de-alloyed the Ag–Zn nanoparticles with the remained structure essentially unchanged via a ligand-exchange method, obtaining 1.03 g of mono-silver nanoparticle crystals in a one-pot reaction. Such a surgery-like delloying was not previously reported. Both the as-obtained nanoparticles exhibit penta-twinned face-centered cubic (<span style=\"font-style: italic;\">fcc</span>) structures with well-defined shape-number arrangements and display plasmon-like absorptions yet exist in molecular states as evidenced by ultrafast dynamics measurements. Furthermore, crystallization-induced photothermal enhancement and size-dependent absorbance were observed.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-01-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136825006432",
+    "title": "Magmatic and hydrothermal superimposition in Nb-Ta-Li mineralization at the Hailuoling deposit, South China: Records from columbite-tantalite chronology and mica chemistry",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136825006432?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 9 January 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Yu Zhou, Yong Zhang, Zhe Xu, Fangrong Zhang, Jiayong Pan, Haotong Dai, Fushen Zhang, Wei Wan, Bin He, Cong Liu",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-01-11",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-00101-1",
     "title": "This shapeshifting polymer was inspired by octopus skin",
     "link": "https://www.nature.com/articles/d41586-026-00101-1",
