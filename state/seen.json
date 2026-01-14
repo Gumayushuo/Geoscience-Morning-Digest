@@ -1,5 +1,526 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-026-00122-w",
+    "title": "No world-changing discoveries without biodiversity",
+    "link": "https://www.nature.com/articles/d41586-026-00122-w",
+    "authors": [
+      "Kenneth D. Winkel",
+      "Brendan A. Wintle"
+    ],
+    "summary": "Nature, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00122-w\">doi:10.1038/d41586-026-00122-w</a>No world-changing discoveries without biodiversity",
+    "source": "Nature",
+    "date": "2026-01-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00120-y",
+    "title": "Don’t assume that women’s low retraction rates reflect male ‘boldness’",
+    "link": "https://www.nature.com/articles/d41586-026-00120-y",
+    "authors": [
+      "Carrie J. McAdams",
+      "Kristine M. Erlandson",
+      "Sarah N. Cross",
+      "Katharine J. Liang"
+    ],
+    "summary": "Nature, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00120-y\">doi:10.1038/d41586-026-00120-y</a>Don’t assume that women’s low retraction rates reflect male ‘boldness’",
+    "source": "Nature",
+    "date": "2026-01-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00071-4",
+    "title": "Do their ears hang low? The genetics of dogs’ adorable floppy ears",
+    "link": "https://www.nature.com/articles/d41586-026-00071-4",
+    "authors": [
+      "Heidi Ledford"
+    ],
+    "summary": "Nature, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00071-4\">doi:10.1038/d41586-026-00071-4</a>Scientists are just beginning to understand the signals that determine the length of dogs’ ears.",
+    "source": "Nature",
+    "date": "2026-01-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03991-9",
+    "title": "Should the Loch Ness Monster have a scientific name?",
+    "link": "https://www.nature.com/articles/d41586-025-03991-9",
+    "authors": [],
+    "summary": "Nature, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-03991-9\">doi:10.1038/d41586-025-03991-9</a>A debate over a potential newly discovered species, and a tip for buying good sherry in this week’s pick from the Nature archive.",
+    "source": "Nature",
+    "date": "2026-01-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00121-x",
+    "title": "AI writing tools could lead scholars from low-income countries to erase their own voices",
+    "link": "https://www.nature.com/articles/d41586-026-00121-x",
+    "authors": [
+      "Zhenning Li",
+      "Zhengbing He"
+    ],
+    "summary": "Nature, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00121-x\">doi:10.1038/d41586-026-00121-x</a>AI writing tools could lead scholars from low-income countries to erase their own voices",
+    "source": "Nature",
+    "date": "2026-01-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00072-3",
+    "title": "AlphaFold can help African researchers to do cutting-edge structural biology",
+    "link": "https://www.nature.com/articles/d41586-026-00072-3",
+    "authors": [
+      "Emmanuel Nji"
+    ],
+    "summary": "Nature, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00072-3\">doi:10.1038/d41586-026-00072-3</a>AlphaFold can help African researchers to do cutting-edge structural biology",
+    "source": "Nature",
+    "date": "2026-01-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00092-z",
+    "title": "How to improve vaccine uptake: a huge study offers clues",
+    "link": "https://www.nature.com/articles/d41586-026-00092-z",
+    "authors": [
+      "Brian Owens"
+    ],
+    "summary": "Nature, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00092-z\">doi:10.1038/d41586-026-00092-z</a>An analysis of more than one million people in the UK found that two-thirds of people who were vaccine-hesitant during the COVID-19 pandemic went on to get vaccinated.",
+    "source": "Nature",
+    "date": "2026-01-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00076-z",
+    "title": "How did birds evolve? The answer is wilder than anyone thought",
+    "link": "https://www.nature.com/articles/d41586-026-00076-z",
+    "authors": [
+      "Michael Marshall"
+    ],
+    "summary": "Nature, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00076-z\">doi:10.1038/d41586-026-00076-z</a>Discoveries in Jurassic rocks reveal that birds were adept fliers earlier than scientists realized.",
+    "source": "Nature",
+    "date": "2026-01-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00049-2",
+    "title": "AI can spark creativity — if we ask it how, not what, to think",
+    "link": "https://www.nature.com/articles/d41586-026-00049-2",
+    "authors": [
+      "Brian Uzzi"
+    ],
+    "summary": "Nature, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00049-2\">doi:10.1038/d41586-026-00049-2</a>Studies aiming to maximize human creativity demonstrate that people work best when buoyed up by others who show them new ways to innovate.",
+    "source": "Nature",
+    "date": "2026-01-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00075-0",
+    "title": "The academic community failed Wikipedia for 25 years — now it might fail us",
+    "link": "https://www.nature.com/articles/d41586-026-00075-0",
+    "authors": [
+      "Dariusz Jemielniak"
+    ],
+    "summary": "Nature, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00075-0\">doi:10.1038/d41586-026-00075-0</a>Artificial-intelligence systems are feeding on Wikipedia without giving back, and academic indifference is threatening the survival of what is arguably the most widely used reference work on the planet.",
+    "source": "Nature",
+    "date": "2026-01-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00142-6",
+    "title": "Daily briefing: The neural circuit that can make it hard to start a difficult task",
+    "link": "https://www.nature.com/articles/d41586-026-00142-6",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 12 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00142-6\">doi:10.1038/d41586-026-00142-6</a>A ‘motivation brake’ in our brains makes taking that first step towards a task less appealing. Plus, US scientists have signed an open letter in solidarity with Greenland and what Wikipedia can teach us about trust.",
+    "source": "Nature",
+    "date": "2026-01-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01896-w",
+    "title": "A reversed latitudinal ocean oxygen gradient in the Proterozoic Eon",
+    "link": "https://www.nature.com/articles/s41561-025-01896-w",
+    "authors": [
+      "Ruliang He",
+      "Alexandre Pohl",
+      "Xingliang Zhang",
+      "Chao Chang",
+      "Ashley Prow-Fleischer",
+      "Jonathan L. Payne",
+      "Shuhai Xiao",
+      "Andy Ridgwell",
+      "Zunli Lu"
+    ],
+    "summary": "Nature Geoscience, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/s41561-025-01896-w\">doi:10.1038/s41561-025-01896-w</a>Dissolved oxygen levels in the Proterozoic surface ocean decreased from the Equator towards the mid–high latitudes, the opposite of the modern latitudinal gradient, according to a compilation of I/Ca proxy records and Earth system modelling.",
+    "source": "Nature Geoscience",
+    "date": "2026-01-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01899-7",
+    "title": "Amazon forest nutrient limitation is mitigated by distant fire emissions",
+    "link": "https://www.nature.com/articles/s41561-025-01899-7",
+    "authors": [
+      "Adrià Descals",
+      "Ivan A. Janssens",
+      "Josep Peñuelas"
+    ],
+    "summary": "Nature Geoscience, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/s41561-025-01899-7\">doi:10.1038/s41561-025-01899-7</a>The transport of aerosols from distant fires in deforested and savannah regions supplies phosphorus to undisturbed Amazon rainforests and influences their productivity, according to modelled phosphorus deposition estimates and satellite data.",
+    "source": "Nature Geoscience",
+    "date": "2026-01-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68380-w",
+    "title": "Author Correction: Droplet surface spontaneous oxidation as a dominant formation pathway of organosulfates in the marine atmosphere",
+    "link": "https://www.nature.com/articles/s41467-026-68380-w",
+    "authors": [
+      "Lin Du",
+      "Yaru Song",
+      "Jianlong Li",
+      "Yibei Wan",
+      "Huan Yu",
+      "Xueqi Ma",
+      "Zhaomin Yang",
+      "Jie Hu",
+      "Kuanyun Hu",
+      "Xuxu Gao",
+      "Qinyi Li",
+      "Christian George",
+      "Maofa Ge",
+      "Kun Li"
+    ],
+    "summary": "Nature Communications, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68380-w\">doi:10.1038/s41467-026-68380-w</a>Author Correction: Droplet surface spontaneous oxidation as a dominant formation pathway of organosulfates in the marine atmosphere",
+    "source": "Nature Communications",
+    "date": "2026-01-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68334-2",
+    "title": "Intranasal unadjuvanted LcrV boosts parental <i>Yersinia</i> OMV primed lung immunity against pneumonic plague in mice",
+    "link": "https://www.nature.com/articles/s41467-026-68334-2",
+    "authors": [
+      "Saugata Majumder",
+      "Shreya Das",
+      "Mohd Saqib",
+      "McKenzie Van der Veer",
+      "Moe Acee",
+      "Wei Sun"
+    ],
+    "summary": "Nature Communications, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68334-2\">doi:10.1038/s41467-026-68334-2</a>Yersinia pestis is a bacterial pathogen that caused major historic pandemic outbreaks and currently associated with endemic infection. Here the authors use an intramuscular prime vaccination with OMV46-LcrV/Alum and a subsequent boost with intranasal adjuvant free LcrV antigen and test in a murine model of pneumonic plague.",
+    "source": "Nature Communications",
+    "date": "2026-01-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68367-7",
+    "title": "K48-ubiquitin-dependent proteases cut-up post-ER proteins",
+    "link": "https://www.nature.com/articles/s41467-026-68367-7",
+    "authors": [
+      "Annabel Y. Minard",
+      "Stanley Winistorfer",
+      "Liping Yu",
+      "Robert C. Piper"
+    ],
+    "summary": "Nature Communications, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68367-7\">doi:10.1038/s41467-026-68367-7</a>Ubiquitin chains direct post-ER membrane proteins toward different degradation routes. Here, the authors show that K63 chains promote lysosomal sorting, whereas K48 chains trigger “CUTUP”, a protein shearing pathway mediated by two ubiquitin-dependent proteases, Ddi1 and Rbd2, and the proteasome.",
+    "source": "Nature Communications",
+    "date": "2026-01-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68287-6",
+    "title": "Cross-species dissection of saline-related genes by genetically deciphering a euryhaline microalga <i>Chlorella</i> sp",
+    "link": "https://www.nature.com/articles/s41467-026-68287-6",
+    "authors": [
+      "Aoqi Wang",
+      "Qinhua Gan",
+      "Yi Xin",
+      "Ying Deng",
+      "Xiao Han",
+      "Yandu Lu"
+    ],
+    "summary": "Nature Communications, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68287-6\">doi:10.1038/s41467-026-68287-6</a>Life’s transition between saltwater and freshwater environments requires major genetic innovations. This study reveals the key genes for salinity adaptation in Chlorella sp. MEM25, an early saltwater alga.",
+    "source": "Nature Communications",
+    "date": "2026-01-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68322-6",
+    "title": "Evolutionary dynamics of sex determination in <i>Branchiostoma belcheri</i> driven by repeated transposition of a single novel gene",
+    "link": "https://www.nature.com/articles/s41467-026-68322-6",
+    "authors": [
+      "Huan Li",
+      "Fujiang Liu",
+      "Jingjing Li",
+      "Chenggang Shi",
+      "Zhenyi Lin",
+      "Yucheng Qin",
+      "Rongrong Pan",
+      "Xiaotong Wu",
+      "Yongying Peng",
+      "Chaofan Xing",
+      "Yiquan Wang",
+      "Qingming Qu",
+      "Guang Li"
+    ],
+    "summary": "Nature Communications, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68322-6\">doi:10.1038/s41467-026-68322-6</a>The mechanism of transitions in sex determination systems are often poorly understood. This study looks at the amphioxus Branchiostoma belcheri, and finds repeated transpositions of the gene tesD have created new sex-determining regions, driving turnover of the sex determination system.",
+    "source": "Nature Communications",
+    "date": "2026-01-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67709-1",
+    "title": "Glassy adhesion dynamics govern transitions between sub-diffusive and super-diffusive cancer cell migration on viscoelastic substrates",
+    "link": "https://www.nature.com/articles/s41467-025-67709-1",
+    "authors": [
+      "Vivek Sharma",
+      "Kolade Adebowale",
+      "Ze Gong",
+      "Ovijit Chaudhuri",
+      "Vivek B. Shenoy"
+    ],
+    "summary": "Nature Communications, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67709-1\">doi:10.1038/s41467-025-67709-1</a>This study introduces glassy adhesion dynamics within a motor–clutch framework, revealing the mechanism by which cellular and extracellular timescales interplay and govern anomalous cancer cell migration.",
+    "source": "Nature Communications",
+    "date": "2026-01-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68318-2",
+    "title": "Injectable hydrogels for osteomyelitis treatment induce metabolic reprogramming for protection against reinfection",
+    "link": "https://www.nature.com/articles/s41467-026-68318-2",
+    "authors": [
+      "Haoyi Chen",
+      "Li Wei",
+      "Qiang Yu",
+      "Chenxi Wang",
+      "Huizhen Fan",
+      "Ming Li",
+      "Ruonan Dong",
+      "Yingying Ma",
+      "Jiahao Jiang",
+      "Lianfu Deng",
+      "Mei X. Wu",
+      "Min Lu"
+    ],
+    "summary": "Nature Communications, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68318-2\">doi:10.1038/s41467-026-68318-2</a>Here, Chen et al. develop an injectable hydrogel that induces innate immune memory against reinfection and promotes bone repair in osteomyelitis, offering a biomaterial-based immunomodulatory strategy for refractory bone infections.",
+    "source": "Nature Communications",
+    "date": "2026-01-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67275-6",
+    "title": "A global assessment of coastal vulnerability and dominant contributors",
+    "link": "https://www.nature.com/articles/s41467-025-67275-6",
+    "authors": [
+      "Vindhya Basnayake",
+      "Trang Minh Duong",
+      "Roshanka Ranasinghe",
+      "Rafael Almar",
+      "Kathelijne M. Wijnberg"
+    ],
+    "summary": "Nature Communications, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67275-6\">doi:10.1038/s41467-025-67275-6</a>Global scale assessment of coastal vulnerability indicates that the most vulnerable coastal zones are located in tropical and subtropical regions of the world, where there is also a large concentration of countries with low adaptive capacity.Peer review information Nature Communications thanks Lars Rosendahl Appelquist and Daniela Pantusa for their contribution to the peer review of this work. A peer review file is available.",
+    "source": "Nature Communications",
+    "date": "2026-01-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00759-1",
+    "title": "Drone docks for automated forest phenology monitoring",
+    "link": "https://www.nature.com/articles/s43017-026-00759-1",
+    "authors": [
+      "Yanwei Cong"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/s43017-026-00759-1\">doi:10.1038/s43017-026-00759-1</a>Yangwei Cong describes how drone docking stations can improve the coverage and efficacy of phenological monitoring in forests.",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-01-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03185-9",
+    "title": "Historical diurnal temperature range trends constrain future climate projections",
+    "link": "https://www.nature.com/articles/s43247-026-03185-9",
+    "authors": [
+      "Anqi Liu",
+      "Daokai Xue",
+      "Ben Yang",
+      "Danqing Huang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/s43247-026-03185-9\">doi:10.1038/s43247-026-03185-9</a>The diurnal temperature range (DTR), which measures the difference between daily maximum and minimum temperatures, is a vital indicator of climate extremes. However, predicting future changes in DTR under global warming remains challenging due to significant uncertainties in model projections. This study uncovers a significant link between historical DTR trends and future projections on both global and regional scales. Leveraging this relationship, we introduce a constraining framework to enhance the accuracy of regional climate projections. The mechanism is that the changes in DTR are primarily driven by external forces such as greenhouse gas emissions, rather than internal climate variability. Increasing greenhouse gases reduces cloud cover, which migrates DTR decline by enhancing daytime shortwave radiation and reducing nighttime longwave radiation. While this relationship is generally robust across seasons, it weakens at high latitudes in winter due to minimal solar radiation. Our findings contribute to reducing uncertainties in model projections, offering valuable insights into future changes in DTR and their implications for regional climate responses.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03188-6",
+    "title": "Evidence for diverse anaerobic metabolisms in 3.7-billion-year-old marine detrital sediments",
+    "link": "https://www.nature.com/articles/s43247-026-03188-6",
+    "authors": [
+      "Austin Jarl Boyd",
+      "Magnus August Ravn Harding",
+      "Elizabeth Ann Bell",
+      "Minik Thorleif Rosing",
+      "Tue Hassenkam"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/s43247-026-03188-6\">doi:10.1038/s43247-026-03188-6</a>Organic debris from organisms living in the ocean water column was used as substrate for microbes carrying out anaerobic respiration within the oldest known detrital sediments on Earth, according to isotopic and petrological analysis.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03186-8",
+    "title": "Cumulative hydrodynamic impacts of offshore wind farms on North Sea currents and surface temperatures",
+    "link": "https://www.nature.com/articles/s43247-026-03186-8",
+    "authors": [
+      "Nils Christiansen",
+      "Ute Daewel",
+      "Corinna Schrum"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/s43247-026-03186-8\">doi:10.1038/s43247-026-03186-8</a>In the North Sea, large-scale offshore wind development could reduce current velocities by up to 20% and increase sea surface temperatures, according to ocean physics simulations of the North Sea.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03187-7",
+    "title": "New insights from the bias-corrected simulations of CMIP6 in Northern Hemisphere’s snow drought",
+    "link": "https://www.nature.com/articles/s43247-026-03187-7",
+    "authors": [
+      "Yong Hu",
+      "Xuhai Yang",
+      "Zican He",
+      "Fei Zhang",
+      "Boliang Dong",
+      "Yuanfang Chai"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/s43247-026-03187-7\">doi:10.1038/s43247-026-03187-7</a>Under high-emission scenarios by 2100, exceptional snow droughts will increase in frequency and duration, particularly affecting water-stressed areas such as Europe, western Asia, and central North America, according to a Cumulative Distribution Function-transform bias correction method.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03083-6",
+    "title": "Triassic–Jurassic environmental instability on the subtropical eastern Tethyan margin linked to low-latitude dinosaur dispersal",
+    "link": "https://www.nature.com/articles/s43247-025-03083-6",
+    "authors": [
+      "Jianbo Chen",
+      "Yi-Ning Niu",
+      "Rongyao Ma",
+      "Yan-Ling Zhou",
+      "Wen-Jie Liu",
+      "Ya-Ming Wang",
+      "Hai-Lu You",
+      "Xing Xu",
+      "Shu-Zhong Shen",
+      "Zhuo Feng"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 13 January 2026; <a href=\"https://www.nature.com/articles/s43247-025-03083-6\">doi:10.1038/s43247-025-03083-6</a>Early regional sauropodomorph fossils from 200.17 Ma suggest post-Triassic mass extinction dinosaur colonization in low paleolatitudes, likely due to Central Atlantic Magmatic Province stressors and increased climate seasonality, according to chemostratigraphic and astrochronological analysis of a core from the Kunming Basin in China.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26000178",
+    "title": "Fluvial responses to climate and tectonics throughout the Quaternary in the semi-arid Andes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26000178?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 March 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 678Author(s): A. Binnie, S.A. Binnie, P. Victor, J-L. García, S. Heinze, T.J. Dunai",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-01-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26000129",
+    "title": "Trace element and stable Sr isotope evidence for seamount-driven variations in subducted sediment and carbon recycling in Central America",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26000129?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 March 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 678Author(s): Alexander J. Hammerstrom, Rita Parai, Richard W. Carlson, Vlad C. Manea, Marina Manea, Stephen J. Turner",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-01-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26000166",
+    "title": "Frictional properties of Longmenshan sandstone under varying true triaxial stress and pore pressure conditions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26000166?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 March 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 678Author(s): Zhiming Liang, Zhenyu Zhang, Beata Orlecka-Sikora, Shengpeng Hao, Kun Long",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-01-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/grl.71847",
+    "title": "Issue Information",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/grl.71847?af=R",
+    "authors": [
+      null
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 2, 28 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S001670372600013X",
+    "title": "Coupling X-ray absorption spectroscopy and chemical extractions to investigate phosphorus phase partitioning in Ningxiang iron deposits",
+    "link": "https://www.sciencedirect.com/science/article/pii/S001670372600013X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 13 January 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Qiang Zhou, Yafang Song, Kai Gan, Yijun Xiong, Than Dam, Mengqiang Zhu, Changzhi Wu, Jihua Hao, Simon W. Poulton, Wei Li",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-01-14",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag021",
+    "title": "Catalyzing deep solid-state sulfur conversion",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag021/8424245?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2026-01-13",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag010",
+    "title": "Revitalizing nanoscale solid-solid conversion enables ultrastable aqueous batteries",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag010/8424244?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Aqueous zinc-manganese (Zn-Mn) batteries driven by deposition-dissolution reactions hold significant promise for large-scale grid energy storage. However, their lifetimes are limited by incomplete solid-solid conversion, driven by irreversible pathways forming large-sized solid products—a critical yet overlooked size-dependent challenge. Here, we construct a size revitalizing layer (SRL) on MnO<sub>2</sub> to regulate the interfacial microenvironment via sustained Mn release and strong interaction with solid products. The SRL governs growth kinetics, stabilizing nanoscale products formation. Such small solid products shorten ion diffusion paths and reduce concentration polarization, enabling a reversible Mn (Ⅱ, <span style=\"font-style: italic;\">l</span>)–Mn (Ⅳ, <span style=\"font-style: italic;\">s</span>) pathway instead of an irreversible Mn (II, <span style=\"font-style: italic;\">l</span>)–Mn (III, <span style=\"font-style: italic;\">s</span>) route. Systematic screening identifies Bi<sub>2</sub>O<sub>3</sub> as the optimal modifier based on its strong p-s (M-Zn) orbital interaction and lattice compatibility, which reduce solid product size from &gt;10 μm to the nanoscale, achieving unparalleled stability and resolving irreversible capacity degradation. With a high-mass-loading cathode (9 mg cm<sup>−2</sup>), coin cells achieve over 1000 cycles at 2 C, and scaled iron-plate cells (16 mg cm<sup>−2</sup>, 26.3 mAh) operate stably for 110 days. This size-controlled solid-solid conversion strategy exhibits broad applicability to diverse electrode materials, highlighting its potential for widespread adoption in advanced energy storage systems.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-01-13",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag007",
+    "title": "Quantized soliton pumping governed by high-dimensional Chern invariants",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag007/8424241?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Nonlinear topological pumping—a quantized transport phenomenon of solitary waves in parametrically-driven systems—represents a critical interface bridging topological physics and nonlinear dynamics. While the first Chern number-governed soliton transport has been extensively studied, the fundamental interplay between high-dimensional band topology and soliton pumping remains unexplored. Here, we establish a theoretical framework and experimental demonstration of soliton topological pumping simultaneously governed by first and second Chern numbers in orthogonal dimensions. Through the modulation of nonlinear strength, the system exhibits phase transitions spanning integer-quantized soliton pumping, fractional-quantized soliton pumping, and soliton trapping states. Furthermore, by engineering linear band structures, we demonstrate anisotropic soliton pumping where quantized transport manifests integer and fractional characteristics along orthogonal spatial axes. Experimentally, we implement nonlinear time-modulated topolectrical circuits whose dynamical equations maintain precise isomorphism with theoretical lattice models, enabling the direct observation of integer-, fractional- and integer-fractional soliton pumping. Our work establishes a scalable experimental platform for investigating advanced nonlinear topological phases, which may be broadly applied to systems at the interface between topological matter and nonlinear wave physics.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-01-13",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag016",
+    "title": "Periphyton closes the nitrogen budget gap in rice paddies",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag016/8424220?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Persistent 4–22% gaps in nitrogen (N) mass balances have hindered sustainable N management in paddy agriculture. Periphyton are known N sinks, yet their role in paddies remains unclear. We used <sup>15</sup>N tracing in 840 paddies across China to quantify periphyton-associated N pools and their fate. Periphyton captured 6–24% (mean:12%) of the applied N fertilizer (i.e. ∼0.8 Tg N yr<sup>−1</sup> nationwide), effectively accounting for the missing N in previous budgets. Most sequestered N was stored as bioavailable ammonium. Partitioning analysis revealed that periphyton-mediated N was subsequently released into residual soil N (512–640 kt), denitrification (56–128 kt), and ammonia volatilization (64–232 kt). Thus, periphyton act as transient N reservoirs, immobilizing N fertilizer early in the growing season and gradually releasing it through biomass decay. This overlooked pathway closes a critical gap in agroecosystem N cycling and supports more precise N management in rice systems.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-01-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025TC009230",
+    "title": "Rifting Evolution of the Central Campos Basin as a Hybrid Rifted Margin: Insights From Tectonic and Magmatic Structures",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC009230?af=R",
+    "authors": [
+      "P. Alvarez, \nN. Stanton, \nG. Peron‐Pinvidic, \nL. Magnavita"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 1, January 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-01-13",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-00087-w",
     "title": "Developing super-tortillas to address malnutrition in Latin America",
     "link": "https://www.nature.com/articles/d41586-026-00087-w",
