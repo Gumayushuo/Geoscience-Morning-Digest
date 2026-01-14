@@ -1,5 +1,303 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-025-68041-4",
+    "title": "Domain wall motion-driven magnetic convolutional accelerator",
+    "link": "https://www.nature.com/articles/s41467-025-68041-4",
+    "authors": [
+      "Bingqian Dai",
+      "Tianyi Wang",
+      "Albert Lee",
+      "Shijie Xu",
+      "Chin-Chung Chen",
+      "Kin Wong",
+      "Dingyi Li",
+      "Malcolm Jackson",
+      "Yang Cheng",
+      "Puyang Huang",
+      "Yaochen Li",
+      "Chao Yun",
+      "Qingyuan Shu",
+      "Haoran He",
+      "Lixuan Tai",
+      "Hanshen Huang",
+      "Tien-Kan Chung",
+      "Yanglong Hou",
+      "Kang L. Wang"
+    ],
+    "summary": "Nature Communications, Published online: 14 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68041-4\">doi:10.1038/s41467-025-68041-4</a>The authors demonstrate a magnetic compute-in-memory platform that performs convolution using domain wall motion, enabling highly energy- and area-efficient processing for future AI hardware.",
+    "source": "Nature Communications",
+    "date": "2026-01-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68337-z",
+    "title": "Towards high resolution, validated and open global wind power assessments",
+    "link": "https://www.nature.com/articles/s41467-026-68337-z",
+    "authors": [
+      "E. U. Peña-Sánchez",
+      "P. Dunkel",
+      "C. Winkler",
+      "H. Heinrichs",
+      "F. Prinz",
+      "J. M. Weinand",
+      "R. Maier",
+      "S. Dickler",
+      "S. Chen",
+      "K. Gruber",
+      "T. Klütz",
+      "J. Linßen",
+      "D. Stolten"
+    ],
+    "summary": "Nature Communications, Published online: 14 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68337-z\">doi:10.1038/s41467-026-68337-z</a>This work presents a global wind power simulation tool that uses high-resolution data and extensive validation to improve accuracy. It corrects wind speed biases and validates against real-world data, enhancing reliability for wind energy assessments across various scales and regions.",
+    "source": "Nature Communications",
+    "date": "2026-01-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68399-z",
+    "title": "Aged skin exacerbates experimental osteoarthritis via enhanced IL-36R signaling",
+    "link": "https://www.nature.com/articles/s41467-026-68399-z",
+    "authors": [
+      "Dalin Chen",
+      "Chong Wang",
+      "Changsheng Yang",
+      "Qinwei Cheng",
+      "Liangyu Chen",
+      "Panpan Yang",
+      "Zilin Zou",
+      "Zining Wang",
+      "Honghao Li",
+      "Yun Xiao",
+      "Junfeng Wu",
+      "Ee Ke",
+      "Xiaogang Wang",
+      "Bin Huang",
+      "Xiaochun Bai",
+      "Kai Li"
+    ],
+    "summary": "Nature Communications, Published online: 14 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68399-z\">doi:10.1038/s41467-026-68399-z</a>Age-related inflammation is a key mediator of the pathogenesis of osteoarthritis (OA), but the mechanism is not fully understood. Here, the authors show that IL-36 agonists are systemic inflammatory factors released from aged skin to promote senescence in joint cells and aggravate OA progression.",
+    "source": "Nature Communications",
+    "date": "2026-01-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67729-x",
+    "title": "Feedback-induced attitudinal changes in risk preferences",
+    "link": "https://www.nature.com/articles/s41467-025-67729-x",
+    "authors": [
+      "Antonios Nasioulas",
+      "Elise Potier",
+      "Fabien Cerrotti",
+      "Maël Lebreton",
+      "Stefano Palminteri"
+    ],
+    "summary": "Nature Communications, Published online: 14 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67729-x\">doi:10.1038/s41467-025-67729-x</a>Normative theory predicts that feedback should not affect decisions under risk, but past findings disagree. Here, the authors show that feedback shifts risk-taking by changing attitudes rather than through learning.",
+    "source": "Nature Communications",
+    "date": "2026-01-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68191-5",
+    "title": "Chronically implantable <i>μ</i>LED arrays for optogenetic cortical surface stimulation in mice",
+    "link": "https://www.nature.com/articles/s41467-025-68191-5",
+    "authors": [
+      "Ryan Greer",
+      "Antonin Verdier",
+      "Emma Butt",
+      "Yunzhou Cheng",
+      "Ella Callas",
+      "Niall McAlinden",
+      "Alicia Aniorte",
+      "Eya Mabrouk Kakaouia",
+      "Magdalena Pereyra",
+      "Martin D. Dawson",
+      "Brice Bathellier",
+      "Keith Mathieson"
+    ],
+    "summary": "Nature Communications, Published online: 14 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68191-5\">doi:10.1038/s41467-025-68191-5</a>Achieving high resolution with optical neural interfaces is challenging. Here, the authors developed and chronically implanted 100-pixel microLED arrays on the surface of the mouse auditory cortex for optogenetic behavioural experiements.",
+    "source": "Nature Communications",
+    "date": "2026-01-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68336-0",
+    "title": "Deterministic and highly indistinguishable single photons in the telecom C-band",
+    "link": "https://www.nature.com/articles/s41467-026-68336-0",
+    "authors": [
+      "Nico Hauser",
+      "Matthias Bayerbach",
+      "Jochen Kaupp",
+      "Yorick Reum",
+      "Giora Peniakov",
+      "Johannes Michl",
+      "Martin Kamp",
+      "Tobias Huber-Loyola",
+      "Andreas T. Pfenning",
+      "Sven Höfling",
+      "Stefanie Barz"
+    ],
+    "summary": "Nature Communications, Published online: 14 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68336-0\">doi:10.1038/s41467-026-68336-0</a>Solid-state quantum emitters in the telecom C-band hold promise for quantum communication applications, but achieving high photon indistinguishability remains challenging. Here, the authors deterministically generate highly indistinguishable single photons in the telecom C-band from InAs/InAlGaAs quantum dots.",
+    "source": "Nature Communications",
+    "date": "2026-01-14",
+    "sent": true
+  },
+  {
+    "id": "10.1111/jmg.70011",
+    "title": "Vanishing Evidence of Ultrahigh‐Pressure Metamorphism: A Case Study of the Rhodope Metamorphic Complex, Greece",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jmg.70011?af=R",
+    "authors": [
+      "Emily M. Peterman, \nMichael L. Williams, \nAndrew R. C. Kylander‐Clark"
+    ],
+    "summary": "Journal of Metamorphic Geology, Volume 44, Issue 1, Page 1-19, January 2026.",
+    "source": "Wiley: Journal of Metamorphic Geology: Table of Contents",
+    "date": "2026-01-12",
+    "sent": true
+  },
+  {
+    "id": "10.1111/jmg.70012",
+    "title": "Microscale Variations in Eclogite‐Facies Trace Element Redistribution Controlled by Mineral Banding",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jmg.70012?af=R",
+    "authors": [
+      "Andrea E. Goltz, \nWill F. Hoover, \nF. Zeb Page, \nAlicia Cruz‐Uribe, \nKouki Kitajima"
+    ],
+    "summary": "Journal of Metamorphic Geology, Volume 44, Issue 1, Page 47-69, January 2026.",
+    "source": "Wiley: Journal of Metamorphic Geology: Table of Contents",
+    "date": "2026-01-12",
+    "sent": true
+  },
+  {
+    "id": "10.1111/jmg.70014",
+    "title": "Ultrahigh‐Temperature Metamorphism and Near‐Isobaric Cooling of Garnet‐Orthopyroxene Granulite Xenoliths in the Sancheong Anorthosite, Yeongnam Massif, Korea",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jmg.70014?af=R",
+    "authors": [
+      "Yuyoung Lee, \nMoonsup Cho, \nJeongmin Kim, \nYoun‐Joong Jeong"
+    ],
+    "summary": "Journal of Metamorphic Geology, Volume 44, Issue 1, Page 20-46, January 2026.",
+    "source": "Wiley: Journal of Metamorphic Geology: Table of Contents",
+    "date": "2026-01-12",
+    "sent": true
+  },
+  {
+    "id": "10.1111/jmg.70016",
+    "title": "An Inverse Method for Quantifying Petrological Parameters and Uncertainty in Phase Equilibrium Modelling",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jmg.70016?af=R",
+    "authors": [
+      "T. Mackay‐Champion, \nI. P. Cawood"
+    ],
+    "summary": "Journal of Metamorphic Geology, Volume 44, Issue 1, Page 70-84, January 2026.",
+    "source": "Wiley: Journal of Metamorphic Geology: Table of Contents",
+    "date": "2026-01-12",
+    "sent": true
+  },
+  {
+    "id": "10.1111/jmg.70019",
+    "title": "Issue Information",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jmg.70019?af=R",
+    "authors": [
+      null
+    ],
+    "summary": "Journal of Metamorphic Geology, Volume 44, Issue 1, January 2026.",
+    "source": "Wiley: Journal of Metamorphic Geology: Table of Contents",
+    "date": "2026-01-12",
+    "sent": true
+  },
+  {
+    "id": "10.1111/jmg.70031",
+    "title": "Featured Cover",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jmg.70031?af=R",
+    "authors": [
+      "T. Mackay‐Champion, \nI. P. Cawood"
+    ],
+    "summary": "Journal of Metamorphic Geology, Volume 44, Issue 1, Page i-i, January 2026.",
+    "source": "Wiley: Journal of Metamorphic Geology: Table of Contents",
+    "date": "2026-01-12",
+    "sent": true
+  },
+  {
+    "id": "10.1111/jmg.70032",
+    "title": "Decoding Metamorphic Nanodiamonds Formation Through Their Internal Structures",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jmg.70032?af=R",
+    "authors": [
+      "Tim Sotelšek, \nMarian Janák, \nSašo Šturm, \nSorour Semsari Parapari, \nNik Gračanin, \nKristian Radan, \nMehmet Ali Gülgün, \nStanislava Milovská, \nMirijam Vrabec"
+    ],
+    "summary": "Journal of Metamorphic Geology, EarlyView.",
+    "source": "Wiley: Journal of Metamorphic Geology: Table of Contents",
+    "date": "2026-01-04",
+    "sent": true
+  },
+  {
+    "id": "10.1111/jmg.70029",
+    "title": "Coesite Discovery in Eclogites Confirms UHP Metamorphism in the Orlica‐Śnieżnik Dome (SW Poland)",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jmg.70029?af=R",
+    "authors": [
+      "Małgorzata Nowak, \nLucie Tajčmanová, \nMarcin Dąbrowski, \nIris Buisman, \nJacek Szczepański"
+    ],
+    "summary": "Journal of Metamorphic Geology, EarlyView.",
+    "source": "Wiley: Journal of Metamorphic Geology: Table of Contents",
+    "date": "2026-01-02",
+    "sent": true
+  },
+  {
+    "id": "10.1111/jmg.70028",
+    "title": "The Contribution of Volume Change in Preserving High‐P Metastable Assemblages",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jmg.70028?af=R",
+    "authors": [
+      "Timothy Chapman, \nGeoffrey L. Clarke, \nSandra Piazolo"
+    ],
+    "summary": "Journal of Metamorphic Geology, EarlyView.",
+    "source": "Wiley: Journal of Metamorphic Geology: Table of Contents",
+    "date": "2025-12-28",
+    "sent": true
+  },
+  {
+    "id": "10.1111/jmg.70030",
+    "title": "Location, Location, Location: Monazite Behaviour During UHT Metamorphism and Melt Crystallization",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jmg.70030?af=R",
+    "authors": [
+      "Chris Yakymchuk, \nJessica Gareau, \nMichael Williams"
+    ],
+    "summary": "Journal of Metamorphic Geology, EarlyView.",
+    "source": "Wiley: Journal of Metamorphic Geology: Table of Contents",
+    "date": "2025-12-19",
+    "sent": true
+  },
+  {
+    "id": "10.1111/jmg.70018",
+    "title": "Metamorphic Evolution of Neoarchean Amphibolites in the Hongshanzi Area, Yinshan Block, North China Craton: Insights Into a Drip/Sagduction Regime",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jmg.70018?af=R",
+    "authors": [
+      "Hexiang Chang, \nChunjing Wei, \nBin Wang"
+    ],
+    "summary": "Journal of Metamorphic Geology, EarlyView.",
+    "source": "Wiley: Journal of Metamorphic Geology: Table of Contents",
+    "date": "2025-12-07",
+    "sent": true
+  },
+  {
+    "id": "10.1111/jmg.70017",
+    "title": "Chemical Discrimination of Rutile From Different Metamorphic Source Rocks: Dealing With Hierarchical Data Structures in Random Forest Classification",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jmg.70017?af=R",
+    "authors": [
+      "Jan Schönig, \nThomas Zack, \nDelia Rösel, \nRaimon Tolosana‐Delgado, \nHorst Marschall, \nHilmar von Eynatten, \nNils Keno Lünsdorf, \nMona Lueder, \nMatthias Konrad‐Schmolke, \nJesse B. Walters"
+    ],
+    "summary": "Journal of Metamorphic Geology, EarlyView.",
+    "source": "Wiley: Journal of Metamorphic Geology: Table of Contents",
+    "date": "2025-11-26",
+    "sent": true
+  },
+  {
+    "id": "10.1111/jmg.70015",
+    "title": "Interplay Between Mechanical and Petrochemical Models on the Fluid Extraction From Subduction Zones",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jmg.70015?af=R",
+    "authors": [
+      "Thorsten Andreas Markmann, \nPierre Lanari"
+    ],
+    "summary": "Journal of Metamorphic Geology, EarlyView.",
+    "source": "Wiley: Journal of Metamorphic Geology: Table of Contents",
+    "date": "2025-11-21",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-00122-w",
     "title": "No world-changing discoveries without biodiversity",
     "link": "https://www.nature.com/articles/d41586-026-00122-w",
