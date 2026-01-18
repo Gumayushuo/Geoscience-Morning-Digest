@@ -1,5 +1,366 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-68521-1",
+    "title": "Publisher Correction: Terahertz field effect in a two-dimensional semiconductor",
+    "link": "https://www.nature.com/articles/s41467-026-68521-1",
+    "authors": [
+      "Tomoki Hiraoka",
+      "Sandra Nestler",
+      "Wentao Zhang",
+      "Simon Rossel",
+      "Hassan A. Hafez",
+      "Savio Fabretti",
+      "Heike Schlörb",
+      "Andy Thomas",
+      "Dmitry Turchinovich"
+    ],
+    "summary": "Nature Communications, Published online: 17 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68521-1\">doi:10.1038/s41467-026-68521-1</a>Publisher Correction: Terahertz field effect in a two-dimensional semiconductor",
+    "source": "Nature Communications",
+    "date": "2026-01-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68519-9",
+    "title": "Author Correction: A hollow-tube-like hydrospongel for multimodal therapy of advanced colorectal cancer",
+    "link": "https://www.nature.com/articles/s41467-026-68519-9",
+    "authors": [
+      "Tao Wu",
+      "Tenghui Li",
+      "Chengzhi Zhang",
+      "Yu Tian",
+      "Hao Li",
+      "Yuxin He",
+      "Xu Yan",
+      "Tianxing Gong",
+      "Junhua Zhao",
+      "Zhenning Wang"
+    ],
+    "summary": "Nature Communications, Published online: 17 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68519-9\">doi:10.1038/s41467-026-68519-9</a>Author Correction: A hollow-tube-like hydrospongel for multimodal therapy of advanced colorectal cancer",
+    "source": "Nature Communications",
+    "date": "2026-01-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68600-3",
+    "title": "Membrane-free CO<sub>2</sub> hydrogenation electrolyzer for salt precipitation management in acidic electrochemical CO<sub>2</sub> reduction",
+    "link": "https://www.nature.com/articles/s41467-026-68600-3",
+    "authors": [
+      "Yumin Da",
+      "Lei Fan",
+      "Wenlong Wang",
+      "Rui Jiang",
+      "Haotian Lu",
+      "Hongqiang Jin",
+      "Ganwen Chen",
+      "Chonglai Jiang",
+      "Chenrui Ji",
+      "Xiang Chen",
+      "Tong Zhu",
+      "Zhe Wu",
+      "Wei Chen"
+    ],
+    "summary": "Nature Communications, Published online: 17 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68600-3\">doi:10.1038/s41467-026-68600-3</a>Acidic electrochemical CO2 reduction promises efficient carbon use, but maintaining stable acidity at high current remains a major challenge. Here, the authors demonstrate a membrane-free CO2 hydrogenation electrolyzer that stabilizes pH and enables efficient and stable formic acid production.",
+    "source": "Nature Communications",
+    "date": "2026-01-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68454-9",
+    "title": "Af-CUT&amp;Tag: a sensitive and antibody-free chromatin profiling method using genetically encoded tags and high-affinity binders fused to Tn5",
+    "link": "https://www.nature.com/articles/s41467-026-68454-9",
+    "authors": [
+      "Xindong Wang",
+      "Xusheng Deng",
+      "Lu Qiu",
+      "Junjia Liu",
+      "Hengxiang Shen",
+      "Haoran Du",
+      "Weijie Li",
+      "Linxuan Song",
+      "Wenhui Deng",
+      "Xiaoning Dong",
+      "Yi Han",
+      "Benchao Liu",
+      "Jialiang Huang",
+      "Zengpeng Li",
+      "Yongyou Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 17 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68454-9\">doi:10.1038/s41467-026-68454-9</a>Chromatin profiling methods are often limited by a lack of suitable antibodies. Here, authors present Af-CUT&amp;Tag, a chromatin profiling strategy based on CRISPR-integrated peptide tags which enables sensitive bulk and single-cell mapping of transcriptional regulators.",
+    "source": "Nature Communications",
+    "date": "2026-01-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68469-2",
+    "title": "Coiled-coil heterodimer-mediated split base editing systems enable flexible and robust nucleotide substitutions",
+    "link": "https://www.nature.com/articles/s41467-026-68469-2",
+    "authors": [
+      "Shuangshuang Mu",
+      "Qianru Li",
+      "Menglong Chen",
+      "Ziqi Li",
+      "Yuke Ma",
+      "Yuqi Li",
+      "Yiran Song",
+      "Shuangying Hou",
+      "Yuting Ding",
+      "Jialu Ju",
+      "Yue Lin",
+      "Jian Zhang",
+      "Yuanxi Yang",
+      "Xue Ren",
+      "Nan Li",
+      "Qin Jin",
+      "Liangxue Lai",
+      "Kepin Wang",
+      "Hui Shi"
+    ],
+    "summary": "Nature Communications, Published online: 17 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68469-2\">doi:10.1038/s41467-026-68469-2</a>Base editors (BEs) enable precise base substitutions but are limited by their large size. Here, the authors engineer a split BE system utilizing coiled-coil heterodimers (CC-BE) and demonstrate that CC-BEs maintain or even enhance efficiency, enabling gene therapy applications via dual AAV.",
+    "source": "Nature Communications",
+    "date": "2026-01-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68480-7",
+    "title": "Exposure of western United States bird communities to predicted high severity fire",
+    "link": "https://www.nature.com/articles/s41467-026-68480-7",
+    "authors": [
+      "Kari E. Norman",
+      "Andrew N. Stillman",
+      "Sean A. Parks",
+      "Courtney L. Davis",
+      "Gavin M. Jones"
+    ],
+    "summary": "Nature Communications, Published online: 17 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68480-7\">doi:10.1038/s41467-026-68480-7</a>Changing fire regimes, leading to higher likelihood of high severity fire, are having unknown impacts on biodiversity. This study identifies regions of high avian biodiversity and individual bird species predicted to be highly exposed to future high severity.",
+    "source": "Nature Communications",
+    "date": "2026-01-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68353-z",
+    "title": "Weight-independent effects of dietary carbohydrate-to-fat ratio on metabolomic profiles: secondary outcomes of a 5-month randomized controlled feeding trial",
+    "link": "https://www.nature.com/articles/s41467-026-68353-z",
+    "authors": [
+      "Angeliki M. Angelidi",
+      "Eric Bartell",
+      "Yisong Huang",
+      "Oana A. Zeleznik",
+      "Núria Estanyol-Torres",
+      "Michael Y. Mi",
+      "Shilpa N. Bhupathiraju",
+      "Rachel S. Kelly",
+      "Clemens Wittenbecher",
+      "Jessica Lasky-Su",
+      "Clary B. Clish",
+      "David S. Ludwig",
+      "Cara B. Ebbeling",
+      "Joel N. Hirschhorn"
+    ],
+    "summary": "Nature Communications, Published online: 17 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68353-z\">doi:10.1038/s41467-026-68353-z</a>Increasing dietary carbohydrate-to-fat ratio in a randomized controlled feeding study altered circulating small molecules (metabolites), including ones associated with diabetes risk, underscoring important metabolic effects of dietary composition.",
+    "source": "Nature Communications",
+    "date": "2026-01-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67999-5",
+    "title": "Molecular determinants of Smc5/6 association with DNA junctions",
+    "link": "https://www.nature.com/articles/s41467-025-67999-5",
+    "authors": [
+      "Jeremy T-H. Chang",
+      "Victoria Miller-Browne",
+      "Gabriella N. L. Chua",
+      "Jian Zheng",
+      "Emily C. Beckwitt",
+      "Shibai Li",
+      "Bryce J. Katch",
+      "Michael E. O’Donnell",
+      "Shixin Liu",
+      "Xiaolan Zhao"
+    ],
+    "summary": "Nature Communications, Published online: 17 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67999-5\">doi:10.1038/s41467-025-67999-5</a>Smc5/6 association with DNA junctions can support genomic functions. Here, the authors show that Smc5/6 junction polarity preferences, targeting, and dwell times are determined by its structural modules as well as the RPA and PCNA genomic factors.",
+    "source": "Nature Communications",
+    "date": "2026-01-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03199-3",
+    "title": "Field in the frame: measuring agricultural ponds",
+    "link": "https://www.nature.com/articles/s43247-026-03199-3",
+    "authors": [
+      "Alice Drinkwater"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 17 January 2026; <a href=\"https://www.nature.com/articles/s43247-026-03199-3\">doi:10.1038/s43247-026-03199-3</a>Freshwater ecosystems produce methane, a potent greenhouse gas, and ponds on agricultural land are particularly strong emitters. Dr Malerba and colleagues used maps of agricultural ponds and compiled data on their emissions to produce assessments of methane emissions from agricultural ponds for both the USA and Australia. They found emissions twice as high as were initially being accounted for under national inventories, highlighting the need to account for this source in national inventories.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03103-5",
+    "title": "Occurrence of Heinrich stadials in the West Mediterranean and West African regions and their connections to atmospheric circulation changes",
+    "link": "https://www.nature.com/articles/s43247-025-03103-5",
+    "authors": [
+      "Jon Camuera",
+      "Edward Armstrong",
+      "Paul Valdes",
+      "Francisco Jiménez-Espejo",
+      "Gonzalo Jiménez-Moreno",
+      "Antonio García-Alix",
+      "Leena Ruha",
+      "Miikka Tallavaara",
+      "Heikki Seppä"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 17 January 2026; <a href=\"https://www.nature.com/articles/s43247-025-03103-5\">doi:10.1038/s43247-025-03103-5</a>Regional climate signals of the Heinrich Stadials during the last glacial period differed between the West Mediterranean, West Africa and West-Central Africa, primarily driven by the distribution of hydroclimate changes and wind activities, based on proxy data and climate model simulations.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X25006144",
+    "title": "Discriminating dynamic rupture arrest in fluid-induced microearthquakes using spectral inversion",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X25006144?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 March 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 678Author(s): Francesco Mosconi, Elisa Tinti, Mariano Supino, Alice-Agnes Gabriel, Emanuele Casarotti, Men-Andrin Meier, Antonio Pio Rinaldi, Domenico Giardini, Massimo Cocco",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-01-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26000348",
+    "title": "Immiscibility between hydrogen and molten iron in planetary cores",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26000348?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 March 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 678Author(s): Emma R. Stoutenburg, Razvan Caracas, Andrew J. Campbell",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-01-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X2600018X",
+    "title": "Seasonal diversity & behaviour of internal tidal bores revealed by year-long direct monitoring within a submarine canyon: Implications for particulate transport",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X2600018X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 March 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 678Author(s): Morgan T. Wolfe, Michael A. Clare, Esther J. Sumner, Veerle A.I. Huvenne, Rob A. Hall, Ian A. Kane",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-01-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26000130",
+    "title": "Removal notice to “Geodynamics of kimberlites on a cooling Earth: Clues to plate tectonic evolution and deep volatile cycles” [Earth and Planetary Science Letters 484 (2018) 1–14]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26000130?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 16 January 2026<b>Source:</b> Earth and Planetary Science LettersAuthor(s): Sebastian Tappe, Katie Smart, Trond Torsvik, Malcolm Massuyeau, Mike de Wit",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-01-18",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120165",
+    "title": "Improving Sandstorm Simulations by Parameterizing Form Drag From Subgrid Sand Dunes Using 30‐m‐Resolution Terrain Data",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120165?af=R",
+    "authors": [
+      "Huoqing Li, \nHaile Xue, \nMinzhong Wang, \nChenghai Wang, \nYisilamu Wulayin, \nZonghui Liu, \nWen Huo"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 2, 28 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117016",
+    "title": "Seismological Evidence of Multiple Crustal Magma Reservoirs Beneath Mt. Wrangell in Southcentral Alaska",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117016?af=R",
+    "authors": [
+      "Qili Andy Dai, \nHaiying Gao, \nSahria Nayon, \nZane Michael Cleghorn, \nCong Li"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 2, 28 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118219",
+    "title": "Complex Networks Reveal Climate Models' Capability in Simulating Global Synchronized Extreme Precipitation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118219?af=R",
+    "authors": [
+      "Qin Jiang, \nHui‐Min Wang, \nBiao Long, \nYaomin Wang, \nShengxuan Li, \nJiangchao Qiu, \nShuo Zhang, \nChao Li, \nXiaogang He"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 2, 28 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726000165",
+    "title": "Cerium speciation and anomaly formation in mature regolith: implications for ion-adsorption type REE deposit prospecting",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726000165?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 16 January 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Mei Lu, Wei Tan, Jing Liu, Xiaoliang Liang, Stefanie M. Brueckner, Shoushu Wei, Yiping Yang, Hanliang Liu, Hongping He",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-01-18",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53927.1/724557/Paleohydraulics-of-cyclonic-storm-deposits-suggest",
+    "title": "Paleohydraulics of cyclonic storm deposits suggest that the equatorial climate of Earth in the Pennsylvanian was not cold",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53927.1/724557/Paleohydraulics-of-cyclonic-storm-deposits-suggest",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Earth has experienced extreme past climates, and recent studies posit a controversial hypothesis that a cold global climate, including tropical low-altitude glaciation, existed in the Pennsylvanian Period. Paleohydraulic analysis of storm-generated, hummocky bedforms in shallow marine Pennsylvanian deposits of the Ancestral Rocky Mountains of Pangea allows for reconstruction of wave parameters, which reflect paleoclimate because physical marine conditions and ocean−atmospheric linkages are highly latitude- and temperature-dependent. The results indicate large waves and gale to hurricane strength winds of cyclonic storms, driven by high Coriolis vorticity and high sea-surface temperatures. These refute both published extremely low paleolatitude (&lt;5°) estimates for the Colorado (USA) region, and the idea of a cold equatorial Pennsylvanian climate, the latter of which has profound implications for biological, geochemical, and oceanographic reconstructions.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-01-16",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-10013/724517/Geochemistry-and-structures-of-the-exomorphic-halo",
+    "title": "Geochemistry and structures of the exomorphic halo of the Volta Grande pegmatite, Brazil: implications for net mass change and pegmatite emplacement",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-10013/724517/Geochemistry-and-structures-of-the-exomorphic-halo",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Traditional views regarding the essential role of water in forming pegmatite have been debated in favor of less water-intensive models, although the total volume of water present in pegmatite-forming liquids after emplacement is poorly constrained by field evidence. Non-isochemical interactions between country rocks and metasomatizing pegmatite-related fluids may offer crucial insights into their origin and properties. In our study of the Li-rich Volta Grande pegmatite, we draw on comprehensive geochemical exploration databases and structural volumetric strain constraints to compute representative mass balance estimates. In the exomorphic halo of the main pegmatite, an initial stage of holmquistite-dominated metasomatism can be recognized, followed by biotitization which produces a metasomatic rock with c. 80% Li-Rb-Cs-biotite. Major and trace elements in biotitite indicate alteration characterized by a volume loss factor of c. 0.94. Volume loss is compatible with structural profiles of a contact parallel reverse shear zone that overprinted metasomatism, characterized by upper greenschist to lower amphibolite facies mylonitization microstructures. At these doubly constrained volume loss factors, estimates suggest that adding K and Li to the exomorphic halo accounts for approximately 3–5% and 2% by weight, respectively, of the original mass within the pegmatite. Conversely, about 10% of Ca in the pegmatite may have been drawn in from the country rocks during late-stage metasomatism. This finding is backed by textural evidence of Ca-rich phases in the pegmatite and supports growing consensus regarding open-system interactions between pegmatite-forming liquids and surrounding country rocks, which are particularly effective in causing calcium incursions into pegmatite.</span>",
+    "source": "American Mineralogist Advance Access",
+    "date": "2026-01-16",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-9983/724516/Revealing-the-True-Nature-of-Chrysocolla-From",
+    "title": "Revealing the True Nature of Chrysocolla: From Macro- to Nano-Characterization and First Thermodynamic Constraints",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-9983/724516/Revealing-the-True-Nature-of-Chrysocolla-From",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Chrysocolla, historically appreciated as a vibrant blue-green pigment and gemstone, remains an unresolved issue due to its variable composition, ambiguous structural nature and inconsistent classification across literature. This study presents a comprehensive, multi-scale investigation aimed at unraveling the true nature of chrysocolla by integrating analyses, complemented by the first thermodynamic constraints for its formation. Samples from two mining localities — Capo Calamita Mine (Elba Island, Italy) and Cornwall Mine (Pennsylvania, USA) — were analyzed using a stepwise methodological approach, combining optical microscopy, micro-Raman spectroscopy, electron microprobe analysis (EMPA-WDS), Pair Distribution Function analysis (PDF) in high resolution, and transmission electron microscopy (TEM). Microstructural observations revealed various textural patterns: chrysocolla from the Elba Island exhibits complex arborescent and banded morphologies, often associated with malachite, while the samples from Pennsylvania display predominantly massive and banded textures intergrown with microcrystalline silica phases. Micro-Raman analyses confirmed consistent vibrational signatures of chrysocolla between the two sites but highlighted distinct mineral associations: malachite in samples from Elba Island and chalcedony (quartz and moganite) in Pennsylvania ones. EMPA results determined a basic composition with a certain constancy in the sample set, but also some significant differences: samples from Elba Island showed a higher CuO content (∼45.85 wt%), whereas chrysocolla from Pennsylvania slightly lower CuO (∼41.50 wt%) and elevated Al<sub>2</sub>O<sub>3</sub> (∼1.31 wt%), reflecting local geological influences. PCA analysis effectively distinguished the geochemical signatures of chrysocolla from the two localities, suggesting compositional “fingerprints” linked to the specific mineralizing environments of the site. The total scattering data provided key insights into short-range structural coherence, distinguishing Si–O and Cu–O bond distances and confirming a low crystalline order, extending up to ∼10 Å. Furthermore, at the nanoscale, TEM investigations revealed that chrysocolla from both localities predominantly consists of an intricate network of randomly oriented nanotubes, diverging from prior models proposing an amorphous silica matrix embedding copper nanoparticles. Thermodynamic modelling of the system Cu–SiO<sub>2</sub>–SCOH revealed that chrysocolla stability is influenced by three main factors: (1) oxidizing conditions stabilizing Cu<sup>2+</sup>, (2) high silica chemical potential at, or above, quartz saturation, and (3) low temperatures near ambient conditions. The coexistence of malachite and chrysocolla in samples from Elba Island reflects fluid chemistry oscillations at the stability boundary between these two phases, whereas the assemblage from Pennsylvania implies silica supersaturation conditions, favoring simultaneous chrysocolla and chalcedony formation. Collectively, these findings refine our understanding of chrysocolla’s mineralogical identity, nanostructure, and formation conditions, offering valuable implications for mineral exploration and resource evaluation in copper deposits.</span>",
+    "source": "American Mineralogist Advance Access",
+    "date": "2026-01-16",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-10014/724515/Quantitative-analyses-by-combined-energy-and",
+    "title": "Quantitative analyses by combined energy and wavelength dispersive spectrometry: The best of both worlds",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-10014/724515/Quantitative-analyses-by-combined-energy-and",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>This paper focuses on the ability of an electron probe microanalyzer (EPMA) or a scanning electron microscope (SEM) equipped with wavelength and energy dispersive spectrometers (WDS and EDS) to use both these detectors for their standard-based quantitative X-ray analysis to yield precise and accurate compositions. This approach can be extremely useful to improve the analytical capabilities at the micron-scale, notably to: <ul><li class=\"alpha-lower\">reduce the total analysis time,</li><li class=\"alpha-lower\">improve the precision and accuracy on minor and trace elements in beam sensitive materials,</li><li class=\"alpha-lower\">improve the accuracy by choosing WDS analysis for elements suffering from a poor peak-to-background ratio and low count rate on EDS (e.g., trace elements, light elements) or of a strong interference by EDS,</li><li class=\"alpha-lower\">permit the post-analysis quantification of an unsuspected element,</li><li class=\"alpha-lower\">enable a lifeline to salvage quantitative data after a WDS hardware failure or a change in the environment affecting one or more WDS (i.e., room temperature),</li><li class=\"alpha-lower\">or a combination of the above, and possibly more.</li></ul>First, we evaluate the reliability of EDS versus WDS data in geological samples on our EPMA and SEM instruments. A general silicate analysis setup is designed to prove that identical results can be obtained for major and minor elements down to ∼0.5 wt% in a variety of common rock-forming minerals. In the second step, the analysis of natural and synthetic glass by classical WDS-only EPMA analysis versus EDS on an SEM, the latter being appreciated for both its standard-based and standardless options. Finally, two real-case applications of combined EDS-WDS analysis are presented: (1) halogens and few minor to trace elements analysis in apatite, such as S, Ce, Si, Na, Fe, Mg, and Mn at low current and high resolution (≤ 10 nA, 2 to 10 μm beam size) and Ca and P analyzed by EDS, and (2) trace analysis of P-in-olivine (and other elements such as Cr and Al) at high current (≥ 200 nA) and focused beam with Si, Fe, Mg, and Mn by EDS.</span>",
+    "source": "American Mineralogist Advance Access",
+    "date": "2026-01-16",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-10029/724514/A-single-crystal-neutron-diffraction-study-of",
+    "title": "A single-crystal neutron diffraction study of berborite 2 T , Be 2 (BO 3 )(OH)·H 2 O",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-10029/724514/A-single-crystal-neutron-diffraction-study-of",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The chemical composition (by EPMA-WDS and SIMS) and the crystal structure (by single-crystal X-ray diffraction at 293 K and neutron diffraction at 20 K) of berborite-2<span style=\"font-style: italic;\">T</span> from the Saga II quarry at Auenlandet, Larvik plutonic complex in southern Norway, were investigated. Chemical and crystallographic data confirm the general mineral formula of berborite: Be<sub>2</sub>(BO<sub>3</sub>)(OH)·H<sub>2</sub>O. F and Cl content (as potential substituents of the OH-group) was found to be below the detection limit of EPMA-WDS, and the average content of the other measured elements (<span style=\"font-style: italic;\">i.e., </span> Na, K, Ca, Mg, Fe, and S) is lower than 600 wt. ppm per equivalent oxide, and probably ascribable to micro-inclusions of other mineral species, rather than to elements replacing B or Be in berborite structure. Excluding B and Be, both considered as “critical elements” for the modern technology, berborite does not contain other industrially-relevant elements. The measured <sup>11</sup>B/<sup>9</sup>Be ratio of berborite by SIMS was consistent with the expected value of the ideal formula (<span style=\"font-style: italic;\">i.e., </span> 1B : 2Be a.p.f.u).X-ray and neutron refinements confirm the previously reported general structural model of berborite-2<span style=\"font-style: italic;\">T</span>, built up by two layers made by regular (as governed by the 3-fold axes) corner-sharing triangular BO<sub>3</sub>-units and tetrahedral BeO<sub>3</sub>Φ (Φ = OH, H<sub>2</sub>O) units, mutually connected to give electron-neutral [(BO<sub>3</sub>)Be<sub>2</sub>Φ<sub>2</sub>]-layers. The Φ-groups (<span style=\"font-style: italic;\">i.e., </span> hydroxyls or H<sub>2</sub>O molecules) represent the out-of-plane apices of the tetrahedra, and the special position of the O sites on the triad implies a statistical occupancy of the Φ-groups (<span style=\"font-style: italic;\">i.e. </span>, 1/3 OH and 2/3 H<sub>2</sub>O). Subsequent electron-neutral [(BO<sub>3</sub>)Be<sub>2</sub>Φ<sub>2</sub>]-layers are mutually connected only by H-bonds. The statistical occupancy of the H sites leads to a complex configuration of the H-bonding network, here described on the basis of the neutron diffraction data. The calculation of the difference-Fourier maps of the nuclear density function and the application of the Maximum Entropy Method to the experimental data consistently rule out dynamic disorder of the H sites, confirming the occurrence of a static disorder of the protons in the structure of berborite-2<span style=\"font-style: italic;\">T</span>, at least at 20 K.</span>",
+    "source": "American Mineralogist Advance Access",
+    "date": "2026-01-16",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-9905/724513/Deep-carbon-cycling-in-subduction-zones",
+    "title": "Deep carbon cycling in subduction zones constrained by partial melting of phengite-bearing carbonated eclogite",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-9905/724513/Deep-carbon-cycling-in-subduction-zones",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Partial melting of carbonated rocks in subduction zones is generally controlled by the availability of fluid or the stability of hydrous minerals. Few experiments have addressed the conditions of dehydration melting of carbonated rocks, despite their potential importance for carbon cycling in subduction zones and arc magmatism. Here, we present high-pressure experiments on a carbonated eclogite with H<sub>2</sub>O stored in phengite to illustrate the decarbonation behavior of subducted crust. The experimental results show that phengite-bearing carbonated eclogite undergoes silicate melting at 3–4 GPa and temperatures ∼850 °C, leaving carbonate as a refractory phase in equilibrium with eclogitic residues. At high pressures (5–8 GPa), the near-solidus liquid is replaced by carbonatitic liquid at temperatures of ∼900–950 °C. Dehydration of phengite is responsible for the formation of both silicate and carbonatitic liquids in subducted eclogite. The intersection of the carbonate melting curve with slab geotherms at depths greater than ∼150 km can produce 5–7 wt% potassium-rich carbonatitic liquids for mantle metamorphism at temperatures achievable in warm/hot subduction zones. We suggest that phengite dehydration induced carbonate melting could be an important carbon cycling mechanism in subduction zones, which could effectively remove most of the carbon in subducted eclogites.</span>",
+    "source": "American Mineralogist Advance Access",
+    "date": "2026-01-16",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-00128-4",
     "title": "HPV vaccine could help to protect the unvaccinated against cervical cancer",
     "link": "https://www.nature.com/articles/d41586-026-00128-4",
