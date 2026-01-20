@@ -1,5 +1,621 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-026-10131-4",
+    "title": "Collective intelligence for AI-assisted chemical synthesis",
+    "link": "https://www.nature.com/articles/s41586-026-10131-4",
+    "authors": [
+      "Haote Li",
+      "Sumon Sarkar",
+      "Wenxin Lu",
+      "Patrick O. Loftus",
+      "Tianyin Qiu",
+      "Yu Shee",
+      "Abbigayle E. Cuomo",
+      "John-Paul Webster",
+      "H. Ray Kelly",
+      "Vidhyadhar Manee",
+      "Sanil Sreekumar",
+      "Frederic G. Buono",
+      "Robert H. Crabtree",
+      "Timothy R. Newhouse",
+      "Victor S. Batista"
+    ],
+    "summary": "Nature, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s41586-026-10131-4\">doi:10.1038/s41586-026-10131-4</a>Collective intelligence for AI-assisted chemical synthesis",
+    "source": "Nature",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10108-3",
+    "title": "Publisher Correction: A fault-tolerant neutral-atom architecture for universal quantum computation",
+    "link": "https://www.nature.com/articles/s41586-026-10108-3",
+    "authors": [
+      "Dolev Bluvstein",
+      "Alexandra A. Geim",
+      "Sophie H. Li",
+      "Simon J. Evered",
+      "J. Pablo Bonilla Ataides",
+      "Gefen Baranes",
+      "Andi Gu",
+      "Tom Manovitz",
+      "Muqing Xu",
+      "Marcin Kalinowski",
+      "Shayan Majidy",
+      "Christian Kokail",
+      "Nishad Maskara",
+      "Elias C. Trapp",
+      "Luke M. Stewart",
+      "Simon Hollerith",
+      "Hengyun Zhou",
+      "Michael J. Gullans",
+      "Susanne F. Yelin",
+      "Markus Greiner",
+      "Vladan Vuletić",
+      "Madelyn Cain",
+      "Mikhail D. Lukin"
+    ],
+    "summary": "Nature, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s41586-026-10108-3\">doi:10.1038/s41586-026-10108-3</a>Publisher Correction: A fault-tolerant neutral-atom architecture for universal quantum computation",
+    "source": "Nature",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-025-10080-4",
+    "title": "Editorial Expression of Concern: <i>En passant</i> neurotrophic action of an intermediate axonal target in the developing mammalian CNS",
+    "link": "https://www.nature.com/articles/s41586-025-10080-4",
+    "authors": [
+      "Hao Wang",
+      "Marc Tessier-Lavigne"
+    ],
+    "summary": "Nature, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-10080-4\">doi:10.1038/s41586-025-10080-4</a>Editorial Expression of Concern: <i>En passant</i> neurotrophic action of an intermediate axonal target in the developing mammalian CNS",
+    "source": "Nature",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-025-09992-y",
+    "title": "Author Correction: An autonomous laboratory for the accelerated synthesis of inorganic materials",
+    "link": "https://www.nature.com/articles/s41586-025-09992-y",
+    "authors": [
+      "Nathan J. Szymanski",
+      "Bernardus Rendy",
+      "Yuxing Fei",
+      "Rishi E. Kumar",
+      "Tanjin He",
+      "David Milsted",
+      "Matthew J. McDermott",
+      "Max Gallant",
+      "Ekin Dogus Cubuk",
+      "Amil Merchant",
+      "Haegyeom Kim",
+      "Anubhav Jain",
+      "Christopher J. Bartel",
+      "Kristin Persson",
+      "Yan Zeng",
+      "Gerbrand Ceder"
+    ],
+    "summary": "Nature, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09992-y\">doi:10.1038/s41586-025-09992-y</a>Author Correction: An autonomous laboratory for the accelerated synthesis of inorganic materials",
+    "source": "Nature",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00189-5",
+    "title": "Floating science stations: my month on a research vessel looking after buoys",
+    "link": "https://www.nature.com/articles/d41586-026-00189-5",
+    "authors": [
+      "Christine Ro"
+    ],
+    "summary": "Nature, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00189-5\">doi:10.1038/d41586-026-00189-5</a>Physical oceanographer Melina M. Martinez finds ways to gather ocean data off the coast of Argentina.",
+    "source": "Nature",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00186-8",
+    "title": "‘Greed is the iron cage of our times’ — why nationalism is here to stay",
+    "link": "https://www.nature.com/articles/d41586-026-00186-8",
+    "authors": [
+      "Roberto Patricio Korzeniewicz"
+    ],
+    "summary": "Nature, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00186-8\">doi:10.1038/d41586-026-00186-8</a>A generation that missed out on economic growth is driving the trends overtaking politics today.",
+    "source": "Nature",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00144-4",
+    "title": "Can ‘toxic masculinity’ be measured? Scientists try to quantify controversial term",
+    "link": "https://www.nature.com/articles/d41586-026-00144-4",
+    "authors": [
+      "Nicola Jones"
+    ],
+    "summary": "Nature, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00144-4\">doi:10.1038/d41586-026-00144-4</a>A study has outlined eight indicators of toxic masculinity in heterosexual men — and finds that ‘manliness’ is not necessarily a problematic aspect of masculinity.",
+    "source": "Nature",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00187-7",
+    "title": "Forget formalism: mathematics was built on infighting and emotional turmoil",
+    "link": "https://www.nature.com/articles/d41586-026-00187-7",
+    "authors": [
+      "Ananyo Bhattacharya"
+    ],
+    "summary": "Nature, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00187-7\">doi:10.1038/d41586-026-00187-7</a>A fast-paced book captures how theory and formal proof intertwined with the personal lives of prominent mathematicians.",
+    "source": "Nature",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04061-w",
+    "title": "I’m going to halve my publication output. You should consider slow science, too",
+    "link": "https://www.nature.com/articles/d41586-025-04061-w",
+    "authors": [
+      "Adrian Barnett"
+    ],
+    "summary": "Nature, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04061-w\">doi:10.1038/d41586-025-04061-w</a>If we don’t slow down, the research enterprise is going to crash, argues Adrian Barnett.",
+    "source": "Nature",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00201-y",
+    "title": "Daily briefing: Symbols on ancient pottery could be earliest evidence of mathematics",
+    "link": "https://www.nature.com/articles/d41586-026-00201-y",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 16 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00201-y\">doi:10.1038/d41586-026-00201-y</a>Painted flowers reveal an understanding of symmetry and spatial division long before written numbers came into use. Plus, travel the vast ocean with sea turtles and what to watch from the Trump administration in 2026.",
+    "source": "Nature",
+    "date": "2026-01-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68722-8",
+    "title": "Publisher Correction: Echo-Vision-FM: a pre-training and fine-tuning framework for echocardiogram video vision foundation model",
+    "link": "https://www.nature.com/articles/s41467-026-68722-8",
+    "authors": [
+      "Ziyang Zhang",
+      "Qinxin Wu",
+      "Sirui Ding",
+      "Xiaolong Wang",
+      "Jiancheng Ye"
+    ],
+    "summary": "Nature Communications, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68722-8\">doi:10.1038/s41467-026-68722-8</a>Publisher Correction: Echo-Vision-FM: a pre-training and fine-tuning framework for echocardiogram video vision foundation model",
+    "source": "Nature Communications",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68641-8",
+    "title": "C1q-dependent clearance of alpha-synuclein allows macrophages to transiently limit enteric synucleinopathy in male mice",
+    "link": "https://www.nature.com/articles/s41467-026-68641-8",
+    "authors": [
+      "Phillip M. Mackie",
+      "Joanne M. Koshy",
+      "Mauli H. Bhogade",
+      "Tristan Hammoor",
+      "William Hachmeister",
+      "Grace M. Lloyd",
+      "Giavanna Paterno",
+      "Mackenzie L. Bolen",
+      "Andrea Merchak",
+      "Malu Gamez-Tansey",
+      "Benoit I. Giasson",
+      "Habibeh Khoshbouei"
+    ],
+    "summary": "Nature Communications, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68641-8\">doi:10.1038/s41467-026-68641-8</a>Misfolded α-synuclein in the gut contributes to Parkinsons’s disease pathogenesis and gut symptoms. Gut macrophages clear α-synuclein via C1q–complement pathways; loss of this response worsens neuropathology and improves gut function, implicating neuroimmune crosstalk.",
+    "source": "Nature Communications",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68421-4",
+    "title": "Author Correction: Autophagy-deficient macrophages exacerbate cisplatin-induced mitochondrial dysfunction and kidney injury via miR-195a-5p-SIRT3 axis",
+    "link": "https://www.nature.com/articles/s41467-026-68421-4",
+    "authors": [
+      "Yujia Yuan",
+      "Longhui Yuan",
+      "Jingchao Yang",
+      "Fei Liu",
+      "Shuyun Liu",
+      "Lan Li",
+      "Guangneng Liao",
+      "Xi Tang",
+      "Jingqiu Cheng",
+      "Jingping Liu",
+      "Younan Chen",
+      "Yanrong Lu"
+    ],
+    "summary": "Nature Communications, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68421-4\">doi:10.1038/s41467-026-68421-4</a>Author Correction: Autophagy-deficient macrophages exacerbate cisplatin-induced mitochondrial dysfunction and kidney injury via miR-195a-5p-SIRT3 axis",
+    "source": "Nature Communications",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68624-9",
+    "title": "On the use and misuse of pangenome and related terms",
+    "link": "https://www.nature.com/articles/s41467-026-68624-9",
+    "authors": [
+      "David Edwards"
+    ],
+    "summary": "Nature Communications, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68624-9\">doi:10.1038/s41467-026-68624-9</a>The growth of pangenomics has been rapid, as data and tools improve over time. However, care should be taken to avoid the misuse of pangenome and related terms, with clarity and precision taking precedent over fashion and trends.",
+    "source": "Nature Communications",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68615-w",
+    "title": "Author Correction: Marine phosphorus and atmospheric oxygen were coupled during the Great Oxidation Event",
+    "link": "https://www.nature.com/articles/s41467-026-68615-w",
+    "authors": [
+      "Matthew S. Dodd",
+      "Chao Li",
+      "Haodong Gu",
+      "Zihu Zhang",
+      "Mingcai Hou",
+      "Aleksey Sadekov",
+      "Carlos Alberto Rosière",
+      "Franco Pirajno",
+      "Lewis Alcott",
+      "Frantz Ossa Ossa",
+      "Benjamin J. W. Mills",
+      "Andrey Bekker"
+    ],
+    "summary": "Nature Communications, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68615-w\">doi:10.1038/s41467-026-68615-w</a>Author Correction: Marine phosphorus and atmospheric oxygen were coupled during the Great Oxidation Event",
+    "source": "Nature Communications",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68518-w",
+    "title": "Author Correction: Mutual inhibition between EPFL2 and auxin extends the intervals of periodic leaf morphogenesis",
+    "link": "https://www.nature.com/articles/s41467-026-68518-w",
+    "authors": [
+      "Toshiaki Tameshige",
+      "Takeshi Tsuchida",
+      "Yuuki Matsushita",
+      "Yuki Doll",
+      "Kaisei Maruyama",
+      "Takemoto Agui",
+      "Mitsuhiro Aida",
+      "Hiroyuki Kasahara",
+      "Keiko U. Torii",
+      "Naoyuki Uchida",
+      "Koichi Fujimoto",
+      "Momoko Ikeuchi"
+    ],
+    "summary": "Nature Communications, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68518-w\">doi:10.1038/s41467-026-68518-w</a>Author Correction: Mutual inhibition between EPFL2 and auxin extends the intervals of periodic leaf morphogenesis",
+    "source": "Nature Communications",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68473-6",
+    "title": "Episodic events are flexibly encoded in both integrated and separated neural representations",
+    "link": "https://www.nature.com/articles/s41467-026-68473-6",
+    "authors": [
+      "Zhenghao Liu",
+      "Mikael Johansson",
+      "Inês Bramão"
+    ],
+    "summary": "Nature Communications, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68473-6\">doi:10.1038/s41467-026-68473-6</a>People often need to remember unique details while also finding connections across experiences. Here, the authors show that the brain flexibly links related events while preserving their distinct features to support different memory goals.",
+    "source": "Nature Communications",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68525-x",
+    "title": "Palmitic acid-triggered B7H3 palmitoylation promotes immune escape",
+    "link": "https://www.nature.com/articles/s41467-026-68525-x",
+    "authors": [
+      "Zejun Rao",
+      "Changsheng Huang",
+      "Qi Wu",
+      "Mao Li",
+      "Anyi Liu",
+      "Tong Zhu",
+      "Wangshuo Yang",
+      "Lanlan Yin",
+      "Shengyu Zhu",
+      "Xiaowei She",
+      "Chengxin Yu",
+      "Lang Liu",
+      "Pengcheng Li",
+      "Yucong Bai",
+      "Dongjing Zhang",
+      "Tianci Xie",
+      "Xiang Liu",
+      "Lu Liu",
+      "Feng Xu",
+      "Guihua Wang",
+      "Junbo Hu",
+      "Xuelai Luo"
+    ],
+    "summary": "Nature Communications, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68525-x\">doi:10.1038/s41467-026-68525-x</a>B7H3 is an immune checkpoint overexpressed in many cancers and associated with tumor immune evasion. Here, the authors discover that in colorectal cancer, particularly microsatellite-stable tumors, palmitic acid promotes ZDHHC24- mediated B7H3 palmitoylation, regulating CD8⁺ T cell antitumor activity.",
+    "source": "Nature Communications",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03170-8",
+    "title": "Second-hand smartphones reduce carbon emissions, yet shorter use times limit actual gains",
+    "link": "https://www.nature.com/articles/s43247-025-03170-8",
+    "authors": [
+      "Levon Amatuni",
+      "Christian Clemm",
+      "Benjamin Sprecher",
+      "Arnold Tukker",
+      "José M. Mogollón"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s43247-025-03170-8\">doi:10.1038/s43247-025-03170-8</a>Circular devices extend use by 40% and cut individual carbon footprint by 34%. A stock-and-flow model using survey data and lifetime estimates shows that at 25% adoption, manufacturing demand and emissions dropped 15% and 14%, and by one-third if reuse becomes the norm.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03114-2",
+    "title": "Coral tissue depth reconstructed using skeletal microstructural offsets is driven by environmental stress",
+    "link": "https://www.nature.com/articles/s43247-025-03114-2",
+    "authors": [
+      "James Vincent",
+      "Tom Sheldrake"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s43247-025-03114-2\">doi:10.1038/s43247-025-03114-2</a>Coral tissue depth is influenced by environmental stressors, directly impacting skeletal extension and calcification; it may therefore be used as a proxy for past coral health, according to analysis of a coral core from Barbados.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03204-9",
+    "title": "2023-2024 El Niño amplifies record sea level surges in African marine domains",
+    "link": "https://www.nature.com/articles/s43247-026-03204-9",
+    "authors": [
+      "Franck Eitel Kemgang Ghomsi",
+      "Julienne Stroeve",
+      "Alex Crawford",
+      "Alain T. Tamoffo",
+      "Fernand L. Mouassom",
+      "Moagabo Raogosha"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s43247-026-03204-9\">doi:10.1038/s43247-026-03204-9</a>Despite the 2023–2024 El Niño being weaker than 1997–1998, it resulted in the highest detrended sea level anomaly recorded across African coasts, indicating nonlinear ocean response to warming, based on satellite data from 1993 to 2024.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03097-0",
+    "title": "Carbon emissions along divergent plate boundaries modulate icehouse-greenhouse climates",
+    "link": "https://www.nature.com/articles/s43247-025-03097-0",
+    "authors": [
+      "Ben R. Mather",
+      "R. Dietmar Müller",
+      "Adriana Dutkiewicz",
+      "Sabin Zahirovic"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s43247-025-03097-0\">doi:10.1038/s43247-025-03097-0</a>Combined degassing from mid-ocean ridges and continental rifts outweigh volcanic arc emissions before 50 Ma, according to thermodynamic modelling coupled to tectonic reconstructions of carbon reservoir fluxes analysis.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032783",
+    "title": "Increasing the Accuracy and Efficiency of Micromagnetic Tomography by Double Sided Scanning",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032783?af=R",
+    "authors": [
+      "Frenk Out, \nRosa A. de Boer, \nMartha E. Kosters, \nBertwin M. de Groot, \nLennart V. de Groot"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 1, January 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-01-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726000190",
+    "title": "Sediment resuspension and reductive dissolution of terrigenous Fe-Mn oxides control dissolved neodymium and hafnium inputs from the Amazon shelf",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726000190?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 18 January 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Antao Xu, Ed Hathorne, Florian Scholz, Chen Ling, Andrea Koschinsky, Martin Frank",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726000207",
+    "title": "Iron and calcium isotopic fractionation during calcic carbonatite–silicate liquid immiscibility",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726000207?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 18 January 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Yan Liu, Haoyu Luo, Hongjie Wu, Zengqian Hou",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726000189",
+    "title": "Unlocking sub-annual hydroclimate and temperature variability through land snail shell records",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726000189?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 18 January 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Xiulan Zong, Jingjing Guo, Wenru Yang, Jibao Dong, Niels J. de Winter, Hong Yan, Yougui Song, Youbin Sun, Francien Peterse, Martin Ziegler",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag039",
+    "title": "Magnetic field-guided catalytic effect mitigates Li2S passivation of lithium-sulfur batteries",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag039/8429815?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Polysulfides shuttle and Li<sub>2</sub>S passivation are considered key problems of lithium–sulfur (Li–S) batteries, seriously hindering sulfur recycle for practical applications. However, the prevailing strategies introducing electrocatalysts focus mainly on polysulfides shuttle effect, whereas Li<sub>2</sub>S passivation involving solid conversions with high energy barriers has been seldomly studied and remains challenging. Herein, we propose that applying magnetic field (MF) to weak ferromagnetism <span style=\"font-style: italic;\">α</span>-Fe<sub>2</sub>O<sub>3</sub> shows enhanced effect not only suppressing polysulfides shuttle but also alleviating Li<sub>2</sub>S passivation by synchronously catalyzing polysulfides conversion and Li<sub>2</sub>S deposition/dissociation. Experimental and theoretical studies reveal that MF can promote the consistent alignment of magnetic domain orientations in <span style=\"font-style: italic;\">α</span>-Fe<sub>2</sub>O<sub>3</sub> and enhance the electron spin polarization of the Fe 3d, which shifts the center of the Fe d-band towards the Fermi level and increases the hybridization degree between Fe 3d and S 3p in <span style=\"font-style: italic;\">α</span>-Fe<sub>2</sub>O<sub>3</sub>-Li<sub>2</sub>S<sub>6</sub> or <span style=\"font-style: italic;\">α</span>-Fe<sub>2</sub>O<sub>3</sub>-Li<sub>2</sub>S, thus enhancing the adsorption and catalysis of polysulfides and solid products. As a result, after using a 400 mT MF, the <span style=\"font-style: italic;\">α</span>-Fe<sub>2</sub>O<sub>3</sub>/S cathode shows outstanding cycling stability and excellent rate capability. The research demonstrates that MF-guided electrocatalysis represents an effective solution to the challenging problems of Li–S batteries.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag035",
+    "title": "Sclerotomal hematopoiesis in vertebrate embryos contributes to robustness of the blood system",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag035/8429811?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>During vertebrate embryogenesis, hematopoietic stem cells (HSCs) are believed to almost exclusively arise from hemogenic endothelial cells (ECs) of the dorsal aorta through endothelial-to-hematopoietic transition (EHT). It remains elusive whether HSCs can be generated by other tissues. Sclerotomal cells (SCs) in embryonic somites majorly form vertebrae and ribs, and some SCs may also insert into aortic endothelia. Here we show that a subset of SCs directly enter the vascular lumen to become hematopoietic stem and progenitor cells (HSPCs) in an EHT-independent way in both zebrafish and mouse embryos. The sclerotome-derived HSPCs (scHSPCs) contribute to various blood cells throughout lifetime. The proportion of scHSPCs increased dramatically when endothelium hematopoiesis is defective. Thus, the sclerotomal hematopoiesis is evolutionarily conserved and would ensure the robustness of hematopoiesis.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag020",
+    "title": "Heterogeneous photocatalytic aldehyde alkylative amination for multicomponent synthesis of α-branched amines",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag020/8429807?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div><span style=\"font-style: italic;\">α</span>-Branched amines and aza-heterocycles are crucial motifs commonly found in natural products and pharmaceutical compounds, and development of mild and sustainable methods to synthesize them from abundant feedstocks is urgently needed. Herein, a powerful and straightforward TiO<sub>2</sub>(P25) photoredox catalytic decarboxylative alkylation strategy is designed for universal aldehyde alkylative amination (AAA) using readily available aldehydes, amines, and carboxylic acids. This AAA approach facilitates rapid access to a wide range of complex <span style=\"font-style: italic;\">α</span>-branched amines, amino acids and aza-heterocycles (&gt;80 examples). Notably, this strategy can also be extended to the reductive alkylation of inert amides, which is of significant practical utility. To showcase its effectiveness, this AAA protocol was employed to streamline the synthetic routes of numerous pharmaceutical-related molecules, which can be easily scaled up using a recirculating-flow system. Mechanistic studies suggest that the photogenerated holes on TiO<sub>2</sub> oxidized the chemisorbed carboxylic acid to release CO<sub>2</sub> and R• radicals. Simultaneously, the photogenerated electrons reduced Ti(IV) to Ti(III), enabling the retrieval of an electron from reactive intermediates to complete the catalytic cycle. Additionally, transient absorption decay and theoretical calculations revealed that mixed phase TiO<sub>2</sub> (P25) exhibited enhanced charge transfer dynamics and thermodynamics, resulting in superior photocatalytic activity. This study provides guidance for the future materials design in oxidative decarboxylation.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag036",
+    "title": "Ionic species programmable synaptic plasticity in multimodal nanofluidic devices",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag036/8429804?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Nanofluidic devices have been widely utilized to simulate the electronic functionalities recently, since their unique ion transport behaviors, such as nonlinear ion transport, selectivity and so on. However, the correlation of the ion transport behavior and the transition among various nanofluidic capacitive and inductive hysteresis still remains unclear, which impedes the development of nanofluidic systems. Here, we report a concentration-dependent transition between capacitive and inductive hysteresis in gold-nanoparticle-stacked nanochannels. Quantitative analysis reveals this transition is governed by the interionic distance relative to the Bjerrum length, establishing a universal mechanism for ion transport modulation. Notably, our system enables unidirectional plasticity (both facilitation and depression) by simply altering the ionic species, demonstrating programmable plasticity without structural reconfiguration. Additionally, a high-pass filter (HPF) circuit with tunable cut-off frequency is implemented through two identical nanofluidic devices. These findings establish a new paradigm for multifunctional nanofluidic devices and provide a rational foundation for the design of aqueous-phase neuromorphic computing circuits.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag028",
+    "title": "On-chip microwave oscillator in deep-subwavelength scale based on spoof plasmonic skyrmions",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag028/8429801?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Exploring wave-matter interactions at extreme electromagnetic (EM) scales has long been a focal topic in multidisciplinary research, but deep-subwavelength field localization remains a persistent challenge. Here, we demonstrate an on-chip microwave oscillator with an electrical size of <span style=\"font-style: italic;\">λ</span><sub>0</sub>/865 (<span style=\"font-style: italic;\">λ</span><sub>0</sub> is the operating wavelength) and a mode volume of 2.97 × 10<sup>−11</sup>  <span style=\"font-style: italic;\">λ</span><sub>0</sub><sup>3</sup> using the 0.18 μm complementary metal-oxide-semiconductor (CMOS) process. The physical insight is based on a spoof plasmonic skyrmion resonator realized by square spiral metal lines, which functions as a frequency selector and an energy storage element simultaneously for EM signal generation. A strongly-coupled excitation structure is proposed to efficiently concentrate EM energy into the deep-subwavelength resonance structure, and a complementary cross-coupled pair is employed to compensate for the high material loss resulting from the extreme energy concentration. This work paves the way for integrating the skyrmion resonances into the CMOS chips in extremely deep-subwavelength scale, and holds great promise for the miniaturized integrated circuits and systems.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag025",
+    "title": "Polymer-induced solid electrolyte interphase on hard carbon enabling 5C fast-charging practical sodium-ion pouch cell",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag025/8429798?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Achieving &lt;15 min fast-charging technology for long-life sodium-ion batteries (SIBs) remains a formidable challenge, primarily due to parasitic reactions and unstable solid electrolyte interphase (SEI) at the hard carbon (HC) interface. Here we develop a universal polymer-induced SEI strategy that enables an Ah-level SIB pouch cell to achieve &lt;10 min fast-charging capability. We design a &lt; 4.0 nm functionalized polymer molecular layer, polyethylenesulphonyl fluoride (PESF), coated on the HC surface (PolyHC) to minimize electrolyte decomposition. The PESF with the –SO<sub>2</sub>F group attached has a powerful polar feature, which simultaneously induces anion enriched at the PolyHC interface and tailors extra F atoms, contributing to the architecture of a ∼5.0 nm stable SEI that hybridizes polymer and NaF. This SEI with a resilient polymer skeleton permanently holds the generated inorganic component, enabling long-term structural stability during fast-charging. The assembled 1.2 Ah pouch cell, paired with NaNi<sub>1/3</sub>Fe<sub>1/3</sub>Mn<sub>1/3</sub>O<sub>2</sub> cathode and PolyHC anode, displays exceptional fast-charging capability and durability. This method is compatible with various HC, offering a novel perspective for modulating the HC interface chemistry.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag038",
+    "title": "Quantum phase transitions: from ordered magnets to spin glasses",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag038/8429790?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag034",
+    "title": "In situ microseismicity reveals lithospheric accretion at the ultraslow-spreading Gakkel Ridge, Arctic Ocean",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag034/8429788?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">New on-site microseismic data reveal a deep-seated fault at the Gakkel Ridge in the Arctic Ocean, which is likely linked to an incipient detachment fault that controls the ridge’s segmentation.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag029",
+    "title": "Pavlov’s experiment-inspired optical neural networks based on dual-color fluorescence switching effect",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag029/8429779?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Cutting-edge optical neural networks are often still trained by backpropagation, which is computationally intensive and originally for conventional artificial neural networks. Inspired by Pavlov’s experiment, we drew upon the principles of biological memory to establish an associative learning framework for training optical neural networks that mimics the mechanisms of associative learning and synaptic plasticity using dual-wavelength stimuli (i.e. ultraviolet and visible light) on a dual-color photoinitiator resin. Sequential light irradiation was shown to induce fluorescence switching and encode associative memory in the resin, which can serve as a physical substrate for an optical neural network. In optical experiments, the established framework was applied to pattern recognition of the letters ‘N,’ ‘V,’ and ‘Z.’ Simulations were conducted that extended its application to the recognition of handwritten digits. Compared to the current mainstream ‘bottom-up’ optical neural network fabrication approach that requires ‘weight calculation followed by hardware implementation’, this work presents a novel ‘top-down’ in-situ training methodology that eliminates the need for weight computation. The proposed method holds significant implications for large-scale, low-cost, and rapid fabrication of optical neural networks intended for edge computing applications. This study bridges biological learning principles with optical neural networks to provide a foundation for next-generation adaptive and scalable artificial intelligence systems.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2024TC008699",
+    "title": "The Transition From North‐South to East‐West Extensional Structures in the Himalayan‐Tibetan Orogenic System",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024TC008699?af=R",
+    "authors": [
+      "Zhiquan Yu, \nJunfeng Gong, \nShuang Bian, \nYantao Hao, \nQingzhou Lai, \nHanlin Chen, \nShufeng Yang"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 1, January 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025TC009154",
+    "title": "Triassic Sinistral Transpression of the Overriding Plate in NE Tibet Driven by Oblique Subduction of the Paleo‐Tethys",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC009154?af=R",
+    "authors": [
+      "Yawei Wu, \nJianxin Zhang, \nSamuel Angiboust, \nBo Zhang, \nXiaohong Mao, \nXia Teng"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 1, January 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826000211",
+    "title": "Geology, fluid inclusion and fluorite geochemistry constraints on the genesis of the large-scale Guancun fluorite deposit, Zhejiang Province, Southeast China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826000211?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 19 January 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Wen-Gang Zhao, Zhao-Hui Li, Ming-Sen Fan, Jun-Yi Pan",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826000247",
+    "title": "Magmatic evolution and chromite mineralization in the Gayahe ultramafic Complex, East Kunlun orogenic Belt, western China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826000247?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 19 January 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Wen-Qi Ren, Shao-Yong Jiang, Hailin Xie, Bin Wang, Wei Wang, Hui-Min Su",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S016913682600017X",
+    "title": "High-temperature uranium mineralization in the Jiling Na-metasomatism uranium deposit, northwest China: Evidence from the isotope and element of rutile and apatite",
+    "link": "https://www.sciencedirect.com/science/article/pii/S016913682600017X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 19 January 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Xin-Yi Zhou, Kai-Xing Wang, Chi-Da Yu, Gui Wang, Xiao-Dong Liu, Wei Wang, Li-Qiang Sun, Wen-Heng Liu",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826000272",
+    "title": "In-situ geochronology and geochemistry of allanite, monazite and calcite in the Yushishan metasedimentary rock-hosted Nb-Ta-REE deposit (NW China)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826000272?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 18 January 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Cheng-Lai Deng, Shao-Yong Jiang, Hui-Min Su, Wei Chen, Tao Liu",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S016913682600020X",
+    "title": "Genesis of the Linghou Cu–Zn polymetallic deposit, South China: Constraints from geological, mineralogical, geochronological and sulfur isotope data",
+    "link": "https://www.sciencedirect.com/science/article/pii/S016913682600020X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 18 January 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Wei Zheng, Kelei Chu, Bo Xing",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826000235",
+    "title": "Complex magmatic processes recorded by zoned clinopyroxene in the Wajilitag mafic–ultramafic intrusion of the Permian Tarim large igneous Province, northwest China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826000235?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 18 January 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Yan Luan, Zhen-Ye Zhang, Yi-Jun Wang, Xiao-Hui Sun, Matthew J. Brzozowski, Chang-Zhi Wu",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
     "id": "10.1029/2025GL118190",
     "title": "Hidden Bioavailable Dissolved Organic Matter in the Deep Northwestern Pacific Ocean",
     "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118190?af=R",
