@@ -1,5 +1,580 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-026-10109-2",
+    "title": "Author Correction: Anthropogenic influences on major tropical cyclone events",
+    "link": "https://www.nature.com/articles/s41586-026-10109-2",
+    "authors": [
+      "Christina M. Patricola-DiRosario",
+      "Michael F. Wehner"
+    ],
+    "summary": "Nature, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/s41586-026-10109-2\">doi:10.1038/s41586-026-10109-2</a>Author Correction: Anthropogenic influences on major tropical cyclone events",
+    "source": "Nature",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00151-5",
+    "title": "How much protein do you actually need?",
+    "link": "https://www.nature.com/articles/d41586-026-00151-5",
+    "authors": [
+      "Nick Petrić Howe",
+      "Elizabeth Gibney"
+    ],
+    "summary": "Nature, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00151-5\">doi:10.1038/d41586-026-00151-5</a>Super-high protein diets are promoted by influencers, but the science shows that there are limits to how much your body can use.",
+    "source": "Nature",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00210-x",
+    "title": "To gain public trust, make art central to science communication",
+    "link": "https://www.nature.com/articles/d41586-026-00210-x",
+    "authors": [
+      "Palina Kot"
+    ],
+    "summary": "Nature, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00210-x\">doi:10.1038/d41586-026-00210-x</a>To gain public trust, make art central to science communication",
+    "source": "Nature",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00182-y",
+    "title": "US funding cuts harm aspiring young scientists, too",
+    "link": "https://www.nature.com/articles/d41586-026-00182-y",
+    "authors": [
+      "William Y. Xuan"
+    ],
+    "summary": "Nature, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00182-y\">doi:10.1038/d41586-026-00182-y</a>US funding cuts harm aspiring young scientists, too",
+    "source": "Nature",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00209-4",
+    "title": "Study decision-making to understand how technology will affect behaviour",
+    "link": "https://www.nature.com/articles/d41586-026-00209-4",
+    "authors": [
+      "Shahar Hechtlinger",
+      "L. A. Paul",
+      "M. J. Crockett"
+    ],
+    "summary": "Nature, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00209-4\">doi:10.1038/d41586-026-00209-4</a>Study decision-making to understand how technology will affect behaviour",
+    "source": "Nature",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00211-w",
+    "title": "Fossil-fuel phase out is not enough: countries must remove atmospheric carbon",
+    "link": "https://www.nature.com/articles/d41586-026-00211-w",
+    "authors": [
+      "Richard H. Clarke",
+      "Mark Maslin"
+    ],
+    "summary": "Nature, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00211-w\">doi:10.1038/d41586-026-00211-w</a>Fossil-fuel phase out is not enough: countries must remove atmospheric carbon",
+    "source": "Nature",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00190-y",
+    "title": "Mistaken identity and the psychology of human recognition",
+    "link": "https://www.nature.com/articles/d41586-026-00190-y",
+    "authors": [],
+    "summary": "Nature, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00190-y\">doi:10.1038/d41586-026-00190-y</a>The accuracy of eyewitness evidence is questioned, and a fossil collection examined when a geological society moves its London home in this week’s pick from the Nature archive.",
+    "source": "Nature",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00163-1",
+    "title": "US Congress set to reject Trump’s sweeping science budget cuts",
+    "link": "https://www.nature.com/articles/d41586-026-00163-1",
+    "authors": [
+      "Jeff Tollefson",
+      "Max Kozlov"
+    ],
+    "summary": "Nature, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00163-1\">doi:10.1038/d41586-026-00163-1</a>Lawmakers announce legislation that would actually increase funding for basic research by more than 2%.",
+    "source": "Nature",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00090-1",
+    "title": "Trump one year on: How six US researchers plan to protect science amid chaos and cuts",
+    "link": "https://www.nature.com/articles/d41586-026-00090-1",
+    "authors": [
+      "Amander Clark",
+      "Hank Greely",
+      "Eric Topol",
+      "Salim S. Abdool Karim",
+      "Quarraisha Abdool Karim",
+      "Ramanan Laxminarayan"
+    ],
+    "summary": "Nature, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00090-1\">doi:10.1038/d41586-026-00090-1</a>From education to pandemic preparedness and public health, the past year has seen huge stress put on US science.",
+    "source": "Nature",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00102-0",
+    "title": "The US is quitting 66 global agencies: what does it mean for science?",
+    "link": "https://www.nature.com/articles/d41586-026-00102-0",
+    "authors": [
+      "Davide Castelvecchi",
+      "Ehsan Masood"
+    ],
+    "summary": "Nature, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00102-0\">doi:10.1038/d41586-026-00102-0</a>The United States is leaving some of the world’s oldest and most influential scientific networks involved in biodiversity research, climate science and conservation. Affected organizations tell Nature that their work continues.",
+    "source": "Nature",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00088-9",
+    "title": "US science after a year of Trump: what has been lost and what remains",
+    "link": "https://www.nature.com/articles/d41586-026-00088-9",
+    "authors": [
+      "Max Kozlov",
+      "Jeff Tollefson",
+      "Dan Garisto"
+    ],
+    "summary": "Nature, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00088-9\">doi:10.1038/d41586-026-00088-9</a>A series of graphics reveals how the Trump administration has sought historic cuts to science and the research workforce.",
+    "source": "Nature",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00091-0",
+    "title": "‘Shattered’: US scientists speak out about how Trump policies disrupted their careers",
+    "link": "https://www.nature.com/articles/d41586-026-00091-0",
+    "authors": [
+      "Virginia Gewin"
+    ],
+    "summary": "Nature, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00091-0\">doi:10.1038/d41586-026-00091-0</a>Researchers lay bare the human toll of lay-offs, funding cuts and attacks on science one year after the president’s return to the White House.",
+    "source": "Nature",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00213-8",
+    "title": "Daily briefing: Gifted dogs have word-learning skills on a par with human toddlers",
+    "link": "https://www.nature.com/articles/d41586-026-00213-8",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00213-8\">doi:10.1038/d41586-026-00213-8</a>Some dogs can learn words for hundreds of objects just by listening in to human conversations. Plus, the High Seas Treaty has officially entered into force and PhD students inherit their appetite for risk from their supervisors.",
+    "source": "Nature",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68121-5",
+    "title": "Endothelin-3 and T-type Ca<sup>2+</sup> channels drive enteric neural crest cell calcium activity, contractility and migration",
+    "link": "https://www.nature.com/articles/s41467-025-68121-5",
+    "authors": [
+      "Nicolas R. Chevalier",
+      "Fanny Gayda",
+      "Nadège Bondurand",
+      "Ze Chi Chan",
+      "Thierry Savy",
+      "Monique Frain",
+      "Amira El Merhie",
+      "Lenuta Canta",
+      "Monica Dicu",
+      "Isabelle Le Parco",
+      "Léna Zig"
+    ],
+    "summary": "Nature Communications, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68121-5\">doi:10.1038/s41467-025-68121-5</a>Neural crest cells migrate in the embryo to form the gut’s nervous system. Researchers found that endothelin-3 triggers electrical oscillations via T-type calcium channels, enabling these cells to contract like ‘mini muscles’ and colonize organs.",
+    "source": "Nature Communications",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68664-1",
+    "title": "Low temperature and rapid photothermal oxidation of liquid gallium for circular hydrogen production",
+    "link": "https://www.nature.com/articles/s41467-026-68664-1",
+    "authors": [
+      "Luis G. B. Campos",
+      "Francois-Marie Allioux",
+      "Gustavo Fimbres Weihs",
+      "Sarina Sarina",
+      "Anthony P. O’Mullane",
+      "Torben Daeneke",
+      "Richard B. Kaner",
+      "Kourosh Kalantar-Zadeh"
+    ],
+    "summary": "Nature Communications, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68664-1\">doi:10.1038/s41467-026-68664-1</a>Photothermal reactions between liquid gallium and water or seawater enable hydrogen production under light exposure. The authors show that the metal can be regenerated electrochemically, supporting a reusable and sustainable cycle for hydrogen.",
+    "source": "Nature Communications",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68584-0",
+    "title": "Wafer-scale high-κ HfO<sub>2</sub> dielectric films with sub-5-Å equivalent oxide thickness for 2D MoS<sub>2</sub> transistors",
+    "link": "https://www.nature.com/articles/s41467-026-68584-0",
+    "authors": [
+      "Songge Zhang",
+      "Tao Zhang",
+      "Hua Yu",
+      "Tong Li",
+      "Xiuzhen Li",
+      "Chenyang Cui",
+      "Yuchao Zhou",
+      "Hailing Guo",
+      "Shuopei Wang",
+      "Dongfeng Zheng",
+      "Liangfeng Huang",
+      "Liqi Bai",
+      "Su Liu",
+      "Cheng Shen",
+      "Wei Yang",
+      "Luojun Du",
+      "Dongxia Shi",
+      "Lede Xian",
+      "Xiaoming Tao",
+      "Yang Chai",
+      "Na Li",
+      "Guangyu Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68584-0\">doi:10.1038/s41467-026-68584-0</a>The integration of high-κ dielectrics with low equivalent oxide thickness (EOT) is crucial for the development of 2D transistors. Here, the authors report the low-temperature fabrication of wafer-scale HfO2 dielectric films with sub-5-Å EOT and their application for the realization of high-performance 2D MoS2 transistors and circuits.",
+    "source": "Nature Communications",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68598-8",
+    "title": "Ligand-controlled regiodivergent and enantioselective C–H cyanation of secondary amines",
+    "link": "https://www.nature.com/articles/s41467-026-68598-8",
+    "authors": [
+      "Yang-Jie Mao",
+      "Xiahe Chen",
+      "Huan-Le Li",
+      "Qi Pan",
+      "Kun Zhou",
+      "Zhen-Yuan Xu",
+      "Yun-Fang Yang",
+      "Shao-Jie Lou",
+      "Dan-Qian Xu"
+    ],
+    "summary": "Nature Communications, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68598-8\">doi:10.1038/s41467-026-68598-8</a>The controllable regio-divergent and enantioselective C–H bond transformation of secondary amines at different N-alkyl groups has remained underdeveloped. Herein, the authors report a Cu-catalyzed α’/β-regiodivergent and β-enantioselective cyanation of secondary amine-derived ureas through ligand-controlled adjustable 1,4’/1,5-hydrogen atom transfer.",
+    "source": "Nature Communications",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68360-0",
+    "title": "Biochemical principles of miRNA targeting in flies",
+    "link": "https://www.nature.com/articles/s41467-026-68360-0",
+    "authors": [
+      "Joel Vega-Badillo",
+      "Phillip D. Zamore",
+      "Karina Jouravleva"
+    ],
+    "summary": "Nature Communications, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68360-0\">doi:10.1038/s41467-026-68360-0</a>MicroRNAs guide Argonaute proteins to repress gene expression. Here, the authors define the binding rules for five Drosophila miRNAs, showing a narrow preference for canonical seed sites and identifying non-canonical sites with comparable affinities.",
+    "source": "Nature Communications",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68572-4",
+    "title": "Presence of primordial Mg can explain the seismic low-velocity layer in the Earth’s outermost outer core",
+    "link": "https://www.nature.com/articles/s41467-026-68572-4",
+    "authors": [
+      "Tao Liu",
+      "Zhicheng Jing"
+    ],
+    "summary": "Nature Communications, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68572-4\">doi:10.1038/s41467-026-68572-4</a>Simulations show that primordial Mg deposited to the core through the Moon-forming giant impact can decrease the sound velocity of Fe-rich liquids, providing a viable explanation for the low seismic velocity in the Earth’s outermost outer core.",
+    "source": "Nature Communications",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68504-2",
+    "title": "Intrinsically stretchable 2D MoS<sub>2</sub> transistors",
+    "link": "https://www.nature.com/articles/s41467-026-68504-2",
+    "authors": [
+      "Kyunghun Kim",
+      "Yasutaka Kuzumoto",
+      "Changhoon Jung",
+      "Seongmin Heo",
+      "Taoyu Zou",
+      "Gwon Byeon",
+      "Hyunbum Kang",
+      "Hyungjun Kim",
+      "Younhee Lim",
+      "Jisoo Shin",
+      "Seon-Jeong Lim",
+      "Joo-Young Kim",
+      "Ji Young Jung",
+      "Sung-Gyu Kang",
+      "Bang-Lin Lee",
+      "Yong-Young Noh",
+      "Gae Hwang Lee",
+      "Tae-Gon Kim"
+    ],
+    "summary": "Nature Communications, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68504-2\">doi:10.1038/s41467-026-68504-2</a>Intrinsically stretchable electronic devices are interesting for wearable electronics, soft robotics, and stretchable display applications. Here, the authors report the fabrication of intrinsically stretchable solution-processed thin-film transistors based on 2D MoS2 flakes, showing high performance and stability under strain up to 20%.",
+    "source": "Nature Communications",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03205-8",
+    "title": "Extraordinarily long duration of Eocene geomagnetic polarity reversals",
+    "link": "https://www.nature.com/articles/s43247-026-03205-8",
+    "authors": [
+      "Yuhji Yamamoto",
+      "Slah Boulila",
+      "Futoshi Takahashi",
+      "Peter C. Lippert"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/s43247-026-03205-8\">doi:10.1038/s43247-026-03205-8</a>Geomagnetic reversals can be longer than previously thought, according to a high-resolution sedimentary record from the Eocene collected in the Atlantic reveals.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03180-0",
+    "title": "Anthropogenic climate change leads to a pronounced reorganisation of wintertime North Atlantic atmospheric circulation regimes",
+    "link": "https://www.nature.com/articles/s43247-026-03180-0",
+    "authors": [
+      "Susmit Subhransu Satpathy",
+      "Christian L. E. Franzke",
+      "Vincent Verjans",
+      "Terence O’Kane"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/s43247-026-03180-0\">doi:10.1038/s43247-026-03180-0</a>Anthropogenic warming reorganises North Atlantic atmospheric circulation patterns, producing a shift towards more positive North Atlantic Oscillation phases, according to analysis of climate model simulations.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03196-6",
+    "title": "Oxidative uptake of Ce by oceanic ferromanganese crusts and implications for paleoredox estimates using Ce isotopes",
+    "link": "https://www.nature.com/articles/s43247-026-03196-6",
+    "authors": [
+      "Alain Manceau",
+      "Jianlin Liao",
+      "Yan Li",
+      "Andrea Giacomelli",
+      "Marius Retegan",
+      "Andrea Koschinsky",
+      "Stephan N. Steinmann",
+      "Olivier Mathon"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/s43247-026-03196-6\">doi:10.1038/s43247-026-03196-6</a>Seawater cerium (III) forms mononuclear complexes in vernadite from global ferromanganese crusts and is oxidized to cerium (IV) during hydrolysis, as shown by atomic-scale analysis and quantum calculations. This leads to strong Ce isotope fractionation.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2500791123?af=R",
+    "title": "Polar vortex dynamics on gas giants: Insights from 2D energy cascades",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2500791123?af=R",
+    "authors": [
+      "Jiaru ShiWanying KangaDepartment of Earth, Atmospheric, and Planetary Sciences, Massachusetts Institute of Technology, Cambridge, MA 02139"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 4, January 2026. <br />SignificanceOne intriguing difference between the two largest planets in the solar system is their polar vortex structures: Jupiter hosts multiple vortices at its poles, while Saturn exhibits a single polar vortex. By systematically surveying the ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2509231122?af=R",
+    "title": "Widespread terrestrial ecosystem disruption at the onset of the Paleocene–Eocene Thermal Maximum",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2509231122?af=R",
+    "authors": [
+      "Mei NelissenDebra A. WillardHan van Konijnenburg-van CittertGabriel J. BowenTeuntje HollaarAppy SluijsJoost FrielingHenk BrinkhuisaDepartment of Ocean Systems, Royal Netherlands Institute for Sea Research, Den Burg 1790 AB, the NetherlandsbDepartment of Earth Sciences, Laboratory of Palaeobotany and Palynology, Faculty of Geosciences, Utrecht University, Utrecht 3584 CB, the NetherlandscFlorence Bascom Geoscience Center, United States Geological Survey, Reston, VA 20192dDepartment of Geology and Geophysics, University of Utah, Salt Lake City, UT 84112eDepartment of Earth Sciences, University of Oxford, Oxford 3584 CB, United KingdomfDepartment of Geology, Ghent University, Ghent 9000, Belgium"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 4, January 2026. <br />SignificanceThe Paleocene–Eocene Thermal Maximum (PETM; ~56 Ma) was marked by rapid global warming, making it a valuable test bed for the effects of extreme climate change on the environment. Using pollen and spores preserved in a laminated sedimentary ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2523388123?af=R",
+    "title": "Human-induced biospheric carbon sink: Impact from the Taklamakan Afforestation Project",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2523388123?af=R",
+    "authors": [
+      "Salma NoorXun JiangXinyue WangJiani YangSally NewmanKing-Fai LiLiming LiLe YuXiyu LiYuk L. YungaDepartment of Earth and Atmospheric Sciences, University of Houston, Houston, TX 77004bDivision of Geological and Planetary Sciences, Caltech, Pasadena, CA 91125cBay Area Air Quality Management District, San Francisco, CA 94105dDepartment of Environmental Sciences, University of California, Riverside, CA 92521eDepartment of Physics, University of Houston, Houston, TX 77004fDepartment of Earth System Science, Tsinghua University, Beijing 100084, ChinagDepartment of Earth System Science, Ministry of Education Ecological Field Station for East Asian Migratory Birds, Tsinghua University, Beijing 100084, ChinahXi’an Institute of Surveying and Mapping Joint Research Center for Next-Generation Smart Mapping, Tsinghua University, Beijing 100084, China"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 4, January 2026. <br />SignificanceThis study highlights the Taklamakan Desert’s emerging and previously underappreciated role in the global carbon cycle. By revealing how human-led afforestation can transform hyperarid landscapes into functioning carbon sinks, it demonstrates ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2531796123?af=R",
+    "title": "Constraints on the impactor flux to the Earth–Moon system from oxygen isotopes of the lunar regolith",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2531796123?af=R",
+    "authors": [
+      "Anthony M. GarganoJustin I. SimonErick CanoKaren ZieglerCharles K. ShearerJames M. D. DayZachary SharpaLunar and Planetary Institute, Houston, TX 77058bAstromaterials Research and Exploration Science Division, NASA Johnson Space Center, Houston, TX 77058cScripps Institution of Oceanography, Geosciences Research Division, University of California San Diego, La Jolla, CA 92093dCenter for Stable Isotopes, University of New Mexico, Albuquerque, NM 87131-0001eInstitute of Meteoritics, University of New Mexico, Albuquerque, NM 87131"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 4, January 2026. <br />SignificanceLunar regolith is the longest continuously accessible record of impact debris, integrating bombardment products for nearly 4 billion years. Conventional reconstructions of impactor flux based on siderophile and highly siderophile elements are ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26000282",
+    "title": "Comment on “The influence of cementation on fault stability”",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26000282?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 March 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 678Author(s): Sylvain Barbot",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-01-21",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118238",
+    "title": "Subseasonal Forecasts of TC Activity in the Western North Pacific in Navy's Earth System Prediction Capability",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118238?af=R",
+    "authors": [
+      "Kurt A. Hansen, \nMatthew A. Janiga"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 2, 28 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120098",
+    "title": "Event‐Level Linkages Between Atmospheric Circulation and Anomalous Precipitation Types in a Typical East Asian Monsoon Basin",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120098?af=R",
+    "authors": [
+      "Wenpeng Zhao, \nJian Zhang, \n Abhishek, \nShuping Ma, \nXiao Liu, \nYing Xu, \nLingjie Li, \nHongyuan Fang, \nKexin Liu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 2, 28 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118616",
+    "title": "Plasma Conditions Govern the Reversible Transition Between STEVE and Picket Fence Emissions",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118616?af=R",
+    "authors": [
+      "Jinghan Wang, \nJing Liu, \nJun Liang, \nShuhan Li"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 2, 28 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012446",
+    "title": "Fluid‐Induced Fault Reactivations in Strike‐Slip Regimes: Temporal Constraints From GNSS and Seismological Analysis in the Peloritani Mts and Aeolian Archipelago (Central Mediterranean)",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012446?af=R",
+    "authors": [
+      "Danilo Messina, \nMarta Corradino, \nGraziella Barberi, \nValentina Bruno, \nMario Mattia, \nDomenico Patanè, \nMassimo Rossi, \nLuciano Scarfì, \nFabrizio Pepe"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 1, January 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033390",
+    "title": "Electrical Conductivity of Carbonatite Melts to 20 GPa: Constraints on Partial Melting Atop the 410‐km Discontinuity and in the Lower Mantle Transition Zone",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033390?af=R",
+    "authors": [
+      "Bin Zhao, \nJintao Zhu, \nQi Chen, \nTakashi Yoshino"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 1, January 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-01-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726000220",
+    "title": "New empirical kinetics of iron oxidation by CO<sub>2</sub> applied to micrometeorites imply a CO<sub>2</sub>-rich Archean atmosphere",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726000220?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 19 January 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Danqiu Chen, David C. Catling",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-01-21",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag026",
+    "title": "Ion-selective graphene nanomesh membrane for sustainable osmotic power generation",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag026/8431501?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The atomically thin two-dimensional (2D) membranes with minimum ion transport pathways and low ion transport resistance are ideally suited for constructing ion-selective membranes for electric power generation, and have attracted considerable recent interest. However, the practical applications of such 2D membranes for electric power generation have been severely limited due to the lack of nanoporous 2D membranes with narrow distributed nanopore arrays and sufficient charge density. Here, we report a centimeter-scale ultrathin graphene nanomesh membrane with narrow pore size distribution (∼1.5 nm), rich carboxylic groups (GNM-COO<sup>‒</sup>) for efficient osmotic power generation. The high-density nanometer pores anchored by negatively charged carboxylic groups allow efficient transport of K<sup>+</sup> while selectively blocking Cl<sup>–</sup>. We show that the GNM-COO<sup>‒</sup> membrane with asymmetric charge structure exhibits a diode-like ionic rectification property and facilitates the directional ion transport. When employed as an ion-selective membrane for osmotic power generation, the designed GNM-COO<sup>‒</sup> membrane delivers an exceptionally large output power density (175.1 W m<sup>–2</sup>) at a 50-fold salinity gradient, and retains a stable power generation performance for 2 months. This work provides a strategy to develop high performance ion-selective membranes for the sustainable harnessing of blue clean energy.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag037",
+    "title": "In Situ generation of dendritic cell vaccines in 3D printing scaffolds for cancer post-surgical therapy",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag037/8431493?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Dendritic cell (DC) vaccines have shown great promise in cancer management, while complex <span style=\"font-style: italic;\">ex vivo</span> cell culture limits their clinical applications. Here, we report an <span style=\"font-style: italic;\">in situ</span> generated scaffold DC vaccine, comprising a simple 3D printing of gelatin methacryloyl, bone marrow mononuclear cells (BM-MNCs), tumor lysates, and stimulating factors. Stimulating factors in this vaccine effectively initiated <span style=\"font-style: italic;\">in situ</span> differentiation of BM-MNCs into DCs, while personalized tumor lysates stimulated the maturation of differentiated DCs and enhanced their lymph nodes migration efficiency, thereby synergistically strengthening their antitumor effects. Moreover, 3D hydrogel scaffold serves as an <span style=\"font-style: italic;\">in situ</span> cell culture matrix, promoting the long-term viability of encapsulated cells and providing a conducive environment for BM-MNCs differentiation and DC maturation within the surgical bed. In prostate cancer post-surgical mouse models, the vaccine significantly inhibited tumor growth, suppressed tumor metastasis, and extended median survival of animals to 55 days. This <span style=\"font-style: italic;\">in situ</span> generated DC vaccine bypasses <span style=\"font-style: italic;\">ex vivo</span> cell culture, offering a simple, safe and robust strategy to elicit antitumor immunity for cancer treatment.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag014",
+    "title": "Imaging moiré flat bands and wigner molecular crystals in twisted bilayer MoTe2",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag014/8431414?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Twisted bilayer MoTe<sub>2</sub> (tMoTe<sub>2</sub>) has recently emerged as an exceptional platform for realizing strongly correlated and topological quantum phases. Yet, its microscopic electronic structure remains largely unexplored. Here, we use scanning tunneling microscopy/spectroscopy (STM/STS) to directly image the moiré flat bands in dual-gated tMoTe<sub>2</sub> devices with twist angles of 2.3°–3.8°. A dual-gate design allows independent tuning of band filling and displacement field, enabling detailed spectroscopic mapping. We find that the low-energy flat bands are localized at MX and XM sites and form a topological honeycomb lattice at zero electric field. An applied electric field lifts the layer degeneracy, driving a transition to two decoupled triangular lattices with trivial topology. Our results match first-principles calculations, revealing K-valley hybridization as the microscopic origin. At large moiré potential, we observe Wigner molecular crystals forming a Kagome lattice at filling <span style=\"font-style: italic;\">ν</span><sub>MX</sub> = 3, demonstrating electric-field control of topology and correlation in tMoTe<sub>2</sub>.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag012",
+    "title": "Digital twin of the ocean as a catalyst for blue economy innovation",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag012/8431396?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2026-01-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826000193",
+    "title": "Iron Oxide Copper–Gold (IOCG) deposits – A review (part 2): fluid, metal and sulfur sources and ore genesis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826000193?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 19 January 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Roger G. Skirrow",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-01-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826000259",
+    "title": "Formation of the Zarshuran gold deposit in northwest Iran resulted from the mixing of fertile magmatic fluids with basinal brines: Evidence from sulfide trace elements and sulfur isotopes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826000259?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 19 January 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Shu Yang, Hongrui Zhang, Zhiming Yang, Pinghua Liu, Mehraj Aghazadeh, Zengqian Hou, Tiannan Yang, Zahra Badrzadeh",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-01-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826000016",
+    "title": "Petrogenesis of the Ke’eryin Li-rich granitic rocks and its implications for Li-mineralization in the eastern Songpan-Garzê Orogenic Belt, China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826000016?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 19 January 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Lingfang Wu, Qingguo Zhai, Yue Tang, Peiyuan Hu, Yiming Liu, Jinyong Li, Ning Yang, Sheng Chang",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-01-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826000181",
+    "title": "Petrophysical signature of the Salobo IOCG deposit: Insights into lithology, hydrothermal alteration, and mineralization",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826000181?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 19 January 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Moriá Caroline de Araújo, Adalene Moreira Silva, Catarina Labouré Bemfica Toledo, Daniel Shkromada de Oliveira, Victor Nogueira, Juliana Araújo, Edvaldo Gomes Farias, Lucas Nunes Morais",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-01-21",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-026-10131-4",
     "title": "Collective intelligence for AI-assisted chemical synthesis",
     "link": "https://www.nature.com/articles/s41586-026-10131-4",
