@@ -1,5 +1,495 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-68599-7",
+    "title": "Comprehensive benchmarking single and multi ancestry polygenic score methods with the PGS-hub platform",
+    "link": "https://www.nature.com/articles/s41467-026-68599-7",
+    "authors": [
+      "Xingyu Chen",
+      "Fei Wang",
+      "Hongqiang Zhao",
+      "Jing Hao",
+      "Yunga A",
+      "Xiong Yang",
+      "Tingfeng Xu",
+      "Yubo Zhou",
+      "Qiuli Chen",
+      "Rufan Zhang",
+      "Kang Yu",
+      "Komal Zaib",
+      "Akl C. Fahed",
+      "Guangyao Zhai",
+      "Minxian Wang"
+    ],
+    "summary": "Nature Communications, Published online: 25 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68599-7\">doi:10.1038/s41467-026-68599-7</a>Here the authors systematically benchmark 13 polygenic score (PGS) methods in UK Biobank European and African populations, revealing factors that affect prediction accuracy. They also introduce an automated platform for standardized and reproducible PGS computation.",
+    "source": "Nature Communications",
+    "date": "2026-01-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-65766-0",
+    "title": "Interaction and functional specialization across a distributed neural circuit for flexible task control in macaques",
+    "link": "https://www.nature.com/articles/s41467-025-65766-0",
+    "authors": [
+      "K. Marche",
+      "N. Trudel",
+      "U. Schüffelgen",
+      "S. Smart",
+      "C. M. Harbison",
+      "J. Scholl",
+      "J. Sallet",
+      "F-X Neubert",
+      "J. Algermissen",
+      "N. Khalighinejad",
+      "JX O’Reilly",
+      "MC Klein-Flügge",
+      "MFS Rushworth"
+    ],
+    "summary": "Nature Communications, Published online: 24 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-65766-0\">doi:10.1038/s41467-025-65766-0</a>Neural mechanism underlying behavioural flexibility is not fully understood. Here authors study decision-making of macaques in a reversal task. They identify two complementary cognitive processes. Distinct neural patterns link these processes to the dorsomedial prefrontal cortex, thalamus, and hippocampus.",
+    "source": "Nature Communications",
+    "date": "2026-01-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-66643-6",
+    "title": "Bernoulli’s principle-mediated Cl<sub>2</sub> electrosynthesis",
+    "link": "https://www.nature.com/articles/s41467-025-66643-6",
+    "authors": [
+      "Zhihao Nie",
+      "Guoliang Xu",
+      "Jingjing Duan",
+      "Markus Antonietti",
+      "Sheng Chen"
+    ],
+    "summary": "Nature Communications, Published online: 24 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-66643-6\">doi:10.1038/s41467-025-66643-6</a>The method for separating Cl2 based on the Bernoulli principle enables efficient electrochemical chlorine evolution under universal pH conditions in a three-phase system. This enables assembly of a membrane-free system that can resist the influence of pH changes in the electrolyte.",
+    "source": "Nature Communications",
+    "date": "2026-01-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68589-9",
+    "title": "Entanglement-inspired frequency-agile rangefinding",
+    "link": "https://www.nature.com/articles/s41467-026-68589-9",
+    "authors": [
+      "Weijie Nie",
+      "Peide Zhang",
+      "Alex McMillan",
+      "Alex S. Clark",
+      "John G. Rarity"
+    ],
+    "summary": "Nature Communications, Published online: 24 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68589-9\">doi:10.1038/s41467-026-68589-9</a>Quantum range finding struggles in bright background and at long distance. Here, the authors demonstrate a quantum-inspired, energy-time correlated classical rangefinder. It preserves quantum noise suppression, works at low power, and enables robust daylight remote ranging in real-world environments",
+    "source": "Nature Communications",
+    "date": "2026-01-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68627-6",
+    "title": "Recreating viable YY<sup>h</sup> genotype uncovers the role of <i>CpYYL</i> underlying YY lethality in papaya",
+    "link": "https://www.nature.com/articles/s41467-026-68627-6",
+    "authors": [
+      "Jingjing Yue",
+      "Juan Liu",
+      "Qiuxia Zeng",
+      "Ching Man Wai",
+      "Ban Deng",
+      "Yihan Tong",
+      "Liping Zuo",
+      "Tao Xiang",
+      "Wangyang Xie",
+      "Xiaobing Zhao",
+      "Juan Lai",
+      "Jingjin Liao",
+      "Qingqing Lai",
+      "Liangwei Xu",
+      "Yating Zhu",
+      "Juan He",
+      "Mingjing Zhang",
+      "Suyue Nie",
+      "Zeng Lin",
+      "Yanqing Liang",
+      "Shaolian Jiang",
+      "Xi Chen",
+      "Bowei Wang",
+      "Yongji Huang",
+      "Yi Xu",
+      "Julie Nguyen-Edquilang",
+      "Yaying Ma",
+      "Nathan Fumia",
+      "Tyler Jones",
+      "Patricia Quesada-Rojas",
+      "Eric Mora-Newcomer",
+      "Jisen Zhang",
+      "Qingyi Yu",
+      "Ming-Li Wang",
+      "Ray Ming"
+    ],
+    "summary": "Nature Communications, Published online: 24 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68627-6\">doi:10.1038/s41467-026-68627-6</a>Papaya is a trioecious species with XX females, XY males, and XYh hermaphrodites, and the combination of Y and Yh chromosomes is lethal. Here, the authors identify the degeneration of the YY lethality gene on the Y chromosome as the causal balancing lethal factor that reenforces dioecy and stabilizes balanced sex ratios.",
+    "source": "Nature Communications",
+    "date": "2026-01-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68733-5",
+    "title": "BiG-SCAPE 2.0 and BiG-SLiCE 2.0: scalable, accurate and interactive sequence clustering of metabolic gene clusters",
+    "link": "https://www.nature.com/articles/s41467-026-68733-5",
+    "authors": [
+      "Arjan Draisma",
+      "Catarina Loureiro",
+      "Nico L. L. Louwen",
+      "Satria A. Kautsar",
+      "Jorge C. Navarro-Muñoz",
+      "Drew T. Doering",
+      "Nigel J. Mouncey",
+      "Marnix H. Medema"
+    ],
+    "summary": "Nature Communications, Published online: 24 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68733-5\">doi:10.1038/s41467-026-68733-5</a>BiG-SCAPE and BiG-SLiCE are computational tools that enable exploring the diversity of metabolic gene clusters across microbial genomes. Here, the authors present major updates to these tools, providing essential infrastructure for studying the diversity of microbial metabolism.",
+    "source": "Nature Communications",
+    "date": "2026-01-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68672-1",
+    "title": "iDesignGPT enhances conceptual design via large language model agentic workflows",
+    "link": "https://www.nature.com/articles/s41467-026-68672-1",
+    "authors": [
+      "Songkai Liu",
+      "Yanqing Shen",
+      "Yilun Zhang",
+      "Zhangli Hou",
+      "Xin Wang",
+      "Jianxi Luo",
+      "Zhinan Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 24 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68672-1\">doi:10.1038/s41467-026-68672-1</a>Conceptual engineering design is challenged by its inherent complexity, dynamics, and creativity demands. Here, the authors integrate large language models with established design methodologies in a multiagent framework for early-stage conceptual design.",
+    "source": "Nature Communications",
+    "date": "2026-01-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68658-z",
+    "title": "Molecular recognition of thyroglobulin by sortilin",
+    "link": "https://www.nature.com/articles/s41467-026-68658-z",
+    "authors": [
+      "Irene Boniardi",
+      "Giorgia Tanzi",
+      "Alessio Di Ianni",
+      "Andrea Graziadei",
+      "Marko Nedeljković",
+      "Camilla Stejskalova",
+      "Francesca Coscia"
+    ],
+    "summary": "Nature Communications, Published online: 24 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68658-z\">doi:10.1038/s41467-026-68658-z</a>Sortilin mediates thyroglobulin endocytosis within the thyroid. Using structural biology, the authors reveal that sortilin acts as structural sensor of monomeric thyroglobulin, independently of its iodination and hormone content, via binding of a flexible C-terminal peptide.",
+    "source": "Nature Communications",
+    "date": "2026-01-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03133-z",
+    "title": "Publisher Correction: Tsunamigenic earthquake at the Sunda trench promoted by aseismic slip after a previous megathrust event",
+    "link": "https://www.nature.com/articles/s43247-025-03133-z",
+    "authors": [
+      "Qiang Qiu",
+      "Eric Lindsey",
+      "Lujia Feng",
+      "Linlin Li",
+      "Peizhen Zhang",
+      "Jian Lin"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 24 January 2026; <a href=\"https://www.nature.com/articles/s43247-025-03133-z\">doi:10.1038/s43247-025-03133-z</a>Publisher Correction: Tsunamigenic earthquake at the Sunda trench promoted by aseismic slip after a previous megathrust event",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03216-5",
+    "title": "Residence time of Hunga stratospheric water vapour perturbation quantified at 9 years",
+    "link": "https://www.nature.com/articles/s43247-026-03216-5",
+    "authors": [
+      "Xin Zhou",
+      "Quanliang Chen",
+      "Wuhu Feng",
+      "Saffron Heddell",
+      "Sandip S. Dhomse",
+      "Graham Mann",
+      "Hugh C. Pumphrey",
+      "Luis Millán",
+      "Michelle L. Santee",
+      "Martyn P. Chipperfield"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 24 January 2026; <a href=\"https://www.nature.com/articles/s43247-026-03216-5\">doi:10.1038/s43247-026-03216-5</a>Stratospheric water vapour injected by the 2022 Hunga eruption has now entered a steady decay phase and is expected to return to its pre-eruption range around 2030. This estimate combines satellite observations with a global transport model.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03198-4",
+    "title": "Toward a sustainable megalopolis by reconciling power system decarbonization and urban health resilience",
+    "link": "https://www.nature.com/articles/s43247-026-03198-4",
+    "authors": [
+      "Zhixue Yang",
+      "Hongcai Zhang",
+      "Hui Li",
+      "Scott Moura",
+      "Yonghua Song"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 24 January 2026; <a href=\"https://www.nature.com/articles/s43247-026-03198-4\">doi:10.1038/s43247-026-03198-4</a>Decarbonization of the power system is crucial for meeting climate goals, but it may unintentionally increase heat-related mortality in large urban areas such as Guangdong-Hong Kong-Macao, according to an analysis that uses climate, weather, and health data and a statistical approach",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03240-5",
+    "title": "High-resolution geomechanical modeling reveals accelerating infrastructure risks from permafrost degradation in Northern Alaska",
+    "link": "https://www.nature.com/articles/s43247-026-03240-5",
+    "authors": [
+      "Ziyi Wang",
+      "Ming Xiao",
+      "Dmitry Nicolsky"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 24 January 2026; <a href=\"https://www.nature.com/articles/s43247-026-03240-5\">doi:10.1038/s43247-026-03240-5</a>Accelerating ground settlement and reduced bearing capacity poses a critical threat to essential infrastructure due to permafrost degradation in Northern Alaska, according to integrated physics-constrained geotechnical model and process-based ground thermal modeling system.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03189-5",
+    "title": "Permafrost and wildfire carbon emissions indicate need for additional action to keep Paris Agreement temperature goals within reach",
+    "link": "https://www.nature.com/articles/s43247-026-03189-5",
+    "authors": [
+      "Christina Schädel",
+      "Thomas Gasser",
+      "Brendan M. Rogers",
+      "Rachael Treharne",
+      "Merritt R. Turetsky",
+      "Trevor Smith",
+      "Erin MacDonald",
+      "Susan M. Natali"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 24 January 2026; <a href=\"https://www.nature.com/articles/s43247-026-03189-5\">doi:10.1038/s43247-026-03189-5</a>Including permafrost and wildfire carbon emissions reduces the remaining allowable carbon budget for keeping the global average temperature increase below 1.5 degrees by 25%, according to Earth system model simulations.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03239-y",
+    "title": "Earlier spring onset and autumn warming increase the discrepancy between leaf coloration and photosynthetic cessation",
+    "link": "https://www.nature.com/articles/s43247-026-03239-y",
+    "authors": [
+      "Haiying Yu",
+      "Zhongmei Mo",
+      "Tinghong Tan",
+      "Lan Qiu",
+      "Liang Guo"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 24 January 2026; <a href=\"https://www.nature.com/articles/s43247-026-03239-y\">doi:10.1038/s43247-026-03239-y</a>Leaf coloration is found later than photosynthetic cessation in autumn across northern ecosystems, and the discrepancy grows from 2001 to 2021, which is primarily due to earlier starts of growing seasons and autumn warming, as revealed by remote sensing and climate data",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025RG000890",
+    "title": "Impact of ENSO on Meiyu‐Baiu‐Changma Rains: Processes, Mechanisms, Modeling, and Future Challenges",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025RG000890?af=R",
+    "authors": [
+      "Bo Sun, \nHua Li, \nHuijun Wang, \nYihui Ding, \nMasahiro Watanabe, \nJoong‐Bae Ahn, \nYuhei Takaya, \nYanju Liu, \nShaobo Qiao, \nYanyan Huang"
+    ],
+    "summary": "Reviews of Geophysics, Volume 64, Issue 1, March 2026.",
+    "source": "Wiley: Reviews of Geophysics: Table of Contents",
+    "date": "2026-01-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26000439",
+    "title": "Induced seismicity in the southern Sichuan basin regulated by heterogeneous folding",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26000439?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 April 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 679Author(s): Bingfeng Zhang, Xuewei Bao, Mengfan Jiang, Kecheng Zhou",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-01-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26000579",
+    "title": "Editorial Board",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26000579?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 March 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 678Author(s):",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-01-25",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117121",
+    "title": "Dynamic Boundaries of Antarctic Active Subglacial Lakes Reveal Underestimated Water Volume Change and Overestimated Lakebed Active Area",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117121?af=R",
+    "authors": [
+      "W. Sauthoff, \nM. R. Siegfried, \nR. A. Venturelli, \nB. E. Smith"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 2, 28 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118329",
+    "title": "Extreme Potomac Floods at Washington D.C. During the Past 500 Years",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118329?af=R",
+    "authors": [
+      "Michael Toomey, \nThomas Cronin, \nJessica Rodysill, \nJulia Seidenstein, \nDebra Willard"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 2, 28 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120156",
+    "title": "Precipitation Response to Mesoscale SST Variability: Insights From Observations and Multi‐Resolution Models",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120156?af=R",
+    "authors": [
+      "Xiaoqi Wang, \nR. Justin Small, \nPing Chang, \nMeng Lyu, \nDan Fu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 2, 28 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012419",
+    "title": "Soil Gas Investigations in Hatay‐Reyhanlı (Türkiye): Implications for Buried Fault Detection and Seismic Hazard Assessment",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012419?af=R",
+    "authors": [
+      "G. Yüce, \nC. C. Fu, \nW. D’Alessandro, \nB. Kahraman, \nB. Kürkcüoglu, \nF. Italiano, \nA. H. Gülbay, \nH. Elmacı, \nM. İçhedef, \nA. Özdemir, \nH. Akıllı, \nD. Yasin, \nŞ. D. Gürboğa, \nA. Demirtaş, \nL. H. Lin, \nP. L. Wang, \nS. Över"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 1, January 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-01-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012675",
+    "title": "Voluminous Inflated Lobate Flows on the Distal Rift Zones of Axial Seamount, Juan de Fuca Spreading Ridge",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012675?af=R",
+    "authors": [
+      "Jennifer B. Paduan, \nDavid A. Clague, \nDavid W. Caress, \nRyan Portner, \nMorgane Le Saout, \nBrian Dreyer"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 1, January 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-01-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032147",
+    "title": "Seismic Attenuation Tomography in Central Myanmar and Its Implications on Continental Subduction and Arc Magmatism",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032147?af=R",
+    "authors": [
+      "Yilin Feng, \nYinshuang Ai, \nLuca De Siena, \nYumei He, \nMingming Jiang, \nChit Thet Mon, \nLian‐Feng Zhao, \nYiming Bai, \nGuangbing Hou, \nYuan Ling, \nSimona Gabrielli, \nFerdinando Napolitano, \nMyo Thant, \nKyaing Sein"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 1, January 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-01-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726000384",
+    "title": "Titanium isotope fractionation during continental batholith construction and its implications for interpreting crustal Ti isotope signatures",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726000384?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 23 January 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Shane H. Scoggin, Aleisha C. Johnson, Mauricio Ibañez-Mejia, François L.H. Tissot, Valbone Memeti, James B. Chapman, Johannes Hammerli",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-01-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726000372",
+    "title": "Combined Ba-Cd isotope tracer in microbialites records biogeochemical metal cycling changes as a response to the Middle Miocene Badenian Salinity Crisis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726000372?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 23 January 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Simon V. Hohl, Yi-Bo Lin, Philipp Gleissner, Eva E. Stüeken, Yuxiang Jiang, Sebastian Viehmann",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-01-25",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-9944/724703/Juxingite-Bi6Cu140Fe30S125-a-new-copper-sulfide",
+    "title": "Juxingite, Bi 6 Cu 140 Fe 30 S 125 , a new copper sulfide mineral from the Jiama porphyry-skarn Cu-polymetallic deposit, Tibet, China",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-9944/724703/Juxingite-Bi6Cu140Fe30S125-a-new-copper-sulfide",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Juxingite (IMA2024-011), with an ideal chemical formula of Bi<sub>6</sub>Cu<sub>140</sub>Fe<sub>30</sub>S<sub>125</sub> (<span style=\"font-style: italic;\">Z</span>=125), is a new mineral discovered in the skarn-type ore of the Jiama deposit (91°43′06″E, 29°43′53″N) in Tibet, China, located in the contact zone between the Lower Cretaceous Linbuzong Formation and Miocene porphyry. Juxingite occurs as anhedral droplets and veinlets, pale yellow in color with black streak and metallic luster and a few microns to several tens of microns in size, in the matrix of Bi-bearing bornite. It is brittle with uneven fractures with a Vickers microhardness (VHN<sub>10</sub>) of 122 kg/mm<sup>2</sup> (equivalent to Mohs’ hardness of 3) and has a calculated density of 5.048 g/cm<sup>3</sup>. Electron microprobe analyses give the empirical formula Bi<sub>5.52</sub>Cu<sub>134.10</sub>Fe<sub>32.02</sub>(S<sub>124.77</sub>Se<sub>0.23</sub>)<sub>Σ125</sub> on the basis of total anions = 125. Juxingite is cubic, space group F4¯3m, with the unit-cell parameters <span style=\"font-style: italic;\">a</span> = 27.3529 (5) Å, <span style=\"font-style: italic;\">V</span>=20464.9 (6) Å<sup>3</sup> and <span style=\"font-style: italic;\">Z</span>=4, corresponding to the 5<span style=\"font-style: italic;\">a</span>-5<span style=\"font-style: italic;\">a</span>-5<span style=\"font-style: italic;\">a</span> unit-cell in relation to the cubic 1<span style=\"font-style: italic;\">a</span>-type bornite Cu<sub>5</sub>FeS<sub>4</sub>. The structure is composed of alternate S layers and Cu-Fe cation layers in three dimensions. The S layers, with the average interlayer distance of 2.735 Å, can be divided into three types: the pure S layer without Bi atoms; the layer with the addition of a cation site (Bi1) dominated by Bi (occupancy 0.74), and the layer with two cation sites, Bi1 and additional Bi2 (Bi occupancy 0.036). Three types of cation layers are distinguished according to the number of Cu, Fe and vacancies (Cu or Fe occupancy &lt;0.5) in the area <span style=\"font-style: italic;\">a</span>*<span style=\"font-style: italic;\">b</span>: 54Cu+10Fe+36□; 56Cu+16Fe+28□ and 60Cu+8Fe+32□. The Bi atoms are in octahedral coordination with Bi-S distances from 2.786 Å to 2.797 Å (average 2.794 Å) for Bi1 and from 2.54 Å to 3.09 Å (average 2.81 Å) for Bi2, while the Cu and Fe atoms are in tetrahedral coordination with Cu-S distances from 2.261 Å to 2.663 Å (average 2.379 Å) and Fe-S distances from 2.17 Å to 2.44 Å (average 2.305 Å). Juxingite was formed under medium-high temperature conditions and intermediate-sulfidation state, and it is associated with the enrichment of gold.</span>",
+    "source": "American Mineralogist Advance Access",
+    "date": "2026-01-21",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-9935/724702/Chemistry-of-Bridgmanite-in-the-MgO-SiO2-Al2O3",
+    "title": "Chemistry of Bridgmanite in the MgO–SiO 2 –Al 2 O 3 –Fe 2 O 3 –FeO system at 27 GPa and 1700–2300 K",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-9935/724702/Chemistry-of-Bridgmanite-in-the-MgO-SiO2-Al2O3",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Bridgmanite, with (Mg,Fe)SiO<sub>3</sub> as the major component, is the most abundant mineral on Earth and is stable under lower mantle conditions. When incorporating trivalent cations (Al<sup>3+</sup> and Fe<sup>3+</sup>), bridgmanite can form various components such as the oxygen vacancy ((Mg,Fe<sup>2+</sup>)(Al,Fe<sup>3+</sup>)O<sub>2.5</sub>) and <span style=\"font-style: italic;\">A</span>-site vacancy ((Al,Fe<sup>3+</sup>)<sub>2/3</sub>□<sub>1/3</sub>)SiO<sub>3</sub>, □ = vacancy) components in addition to the charge-coupled (Fe<sub>2</sub>O<sub>3</sub>, Al<sub>2</sub>O<sub>3</sub>, FeAlO<sub>3</sub>) components. These vacancy-bearing components potentially allow the storage of volatiles in the lower mantle and the modification of the viscosity and compressibility of the lower mantle. However, our understanding of these defect components has been limited due to the previous focus on relatively simple systems. This study determined the compositions of bridgmanite and its associated phases in the MgO–SiO<sub>2</sub>–Al<sub>2</sub>O<sub>3</sub>–Fe<sub>2</sub>O<sub>3</sub>–FeO system as a function of temperature (1700–2300 K) at a fixed pressure of 27 GPa, relevant for uppermost lower mantle conditions. Our results suggest the presence of oxygen vacancies in bridgmanite, implying that the Earth’s lower mantle may store water and noble gases. Furthermore, our results agree with geophysical observations indicating slab stagnation in the deep mantle.</span>",
+    "source": "American Mineralogist Advance Access",
+    "date": "2026-01-21",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-10010/724701/Single-crystal-elasticity-of-celestine-at-ambient",
+    "title": "Single-crystal elasticity of celestine at ambient conditions",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-10010/724701/Single-crystal-elasticity-of-celestine-at-ambient",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Natural sulfates, particularly the barite-celestine (Ba, Sr)SO<sub>4</sub> solid solution, are important mineral repositories for radionuclides such as <sup>226</sup>Ra derived from nuclear waste, making their thermodynamic and mechanical properties a subject of recent research interest. Despite this importance, the elastic properties of celestine (SrSO<sub>4</sub>) remain poorly constrained with previously reported bulk and shear moduli differing by as much as 47% and 38%, respectively, and individual single-crystal elastic moduli showing even greater discrepancies. To address these uncertainties, we determined the single-crystal elasticity of natural near-endmember celestine using Brillouin spectroscopy. The best-fit single-crystal elastic moduli are: <span style=\"font-style: italic;\">C</span><sub><span style=\"font-style: italic;\">11</span></sub> = 105.1(3) GPa, <span style=\"font-style: italic;\">C</span><sub><span style=\"font-style: italic;\">22</span></sub> = 96.8(3) GPa, <span style=\"font-style: italic;\">C</span><sub><span style=\"font-style: italic;\">33</span></sub> = 124.1(3) GPa, <span style=\"font-style: italic;\">C</span><sub><span style=\"font-style: italic;\">44</span></sub> = 15.0(1) GPa, <span style=\"font-style: italic;\">C</span><sub><span style=\"font-style: italic;\">55</span></sub> = 40.4(2) GPa, <span style=\"font-style: italic;\">C</span><sub><span style=\"font-style: italic;\">66</span></sub> = 29.0(1) GPa, <span style=\"font-style: italic;\">C</span><sub><span style=\"font-style: italic;\">12</span></sub> = 51.1(2) GPa, <span style=\"font-style: italic;\">C</span><sub><span style=\"font-style: italic;\">13</span></sub> = 47.4(3) GPa, and <span style=\"font-style: italic;\">C</span><sub><span style=\"font-style: italic;\">23</span></sub> = 37.8(5) GPa. Voigt-Reuss-Hill averaging of the single-crystal elastic moduli yields an adiabatic bulk modulus (<span style=\"font-style: italic;\">K</span><sub><span style=\"font-style: italic;\">s</span></sub>) of 66.2(4) GPa, and a shear modulus (<span style=\"font-style: italic;\">G</span>) of 28(2) GPa. This study reports the most accurate single-crystal elastic properties of celestine under ambient conditions to date, proving new reference values for this technologically and geologically important mineral.</span>",
+    "source": "American Mineralogist Advance Access",
+    "date": "2026-01-21",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38643.1/724770/Coupled-lithospheric-topographic-and-environmental",
+    "title": "Coupled lithospheric, topographic, and environmental changes driven by variations in subduction angles of the Paleo-Pacific plate",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38643.1/724770/Coupled-lithospheric-topographic-and-environmental",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Continental lithospheric evolution controls the surface topography, environment, and biosphere. The eastern South China Block (ESCB), affected by the flat subduction of the Paleo-Pacific plate (PPP) during the Late Permian to Triassic, offers insights into the interplay between deep-Earth processes and the surface environment. However, how the flat subduction of PPP formed and regulated the lithosphere and topography remain unclear. To address these issues, ca. 243 Ma gabbroic-dioritic samples from Well NK-1, southern South China Sea, were analyzed for element, Sr-Nd isotopic, and zircon U-Pb-Hf isotopic compositions. The data are integrated with ∼3461 geochemical datasets for ca. 265−200 Ma counterpart rocks from the ESCB. The studied rocks originated from a metasomatized lithospheric mantle. All data reveal that the flat subduction of the PPP transitioned from a high-angle subduction. During this transition, the ESCB lithosphere underwent sequential thinning (ca. 265−254 Ma), thickening (ca. 253−241 Ma), and thinning (ca. 240−200 Ma), driven by lithospheric extension, compression, and mechanical erosion, respectively. The high magma migration rates (&gt;42 km/m.y.) during ca. 253−235 Ma indicate a rapid trench-ward movement of the ESCB, which, together with lithospheric thickening, probably facilitated the formation of flat-slab subduction. In addition, the reconstructed paleo-elevation patterns correlate well with the variations in lithospheric thickness of the ESCB. Correspondingly, the reduced and enhanced continental weathering was controlled by elevation lowering and rising during the Late Permian and Early Triassic, respectively, and our study shows that the elevation-controlled variable weathering rates may cause decreases and increases in atmospheric CO<sub>2</sub> concentrations. These findings elucidate the feedback mechanisms linking tectonism, lithosphere, topography, and environment.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-01-23",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38747.1/724769/Carbon-cycling-during-crustal-magmatism",
+    "title": "Carbon cycling during crustal magmatism: Constraints from Fe-Mg isotopes of Early Cretaceous adakitic rocks in Liaodong Peninsula, NE China",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38747.1/724769/Carbon-cycling-during-crustal-magmatism",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Carbon cycling mediated by magmatism is fundamental to planetary habitability, yet the role of crustal magmatism, particularly adakitic rocks, in tracing deep carbon transfer remains poorly constrained. Here, we employ coupled Fe-Mg isotopes in Early Cretaceous low-Mg (LMA) and high-Mg adakitic rocks (HMA) from northeastern China to identify the geochemical fingerprint of carbon cycling within crustal magmatism. The LMA exhibit high δ<sup>56</sup>Fe (0.14‰ to 0.23‰) and low δ<sup>26</sup>Mg (−0.40‰ to −0.28‰), whereas HMA display low δ<sup>56</sup>Fe (0.05‰ to 0.15‰) and high δ<sup>26</sup>Mg (−0.31‰ to −0.21‰). Partial melting modeling and major-element variations indicate that they originated from a carbonated eclogite source. The widespread distribution of Mesozoic adakitic rocks across northeastern China demonstrates that carbonated eclogite is a critical carbon reservoir. Temporal correlations between regional Mg isotope compilations and subducted carbon fluxes reveal that slab subduction (Paleo-Pacific plate in Mesozoic; Pacific plate in Cenozoic) facilitated carbon recycling. Our results establish adakitic rocks as robust tracers of deep carbon cycling and demonstrate that plate-tectonic processes have governed this transfer over millions of years, advancing understanding of Earth’s deep carbon cycle and its planetary habitability implications.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-01-23",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag047",
+    "title": "Electrochemical hydroxylation of alkenes with H2O",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag047/8440146?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Alcohol is one of the most prevalent functional groups found in biologically active molecules with unparalleled abundance and structural diversity. The hydroxylation reaction of alkenes represents a convenient approach for synthesizing such molecules. However, a general and direct method featuring a broad substrate scope and good functional group tolerance remains elusive. Herein, we report our efforts in applying electrochemistry to accomplish the hydroxylation of alkenes utilizing H<sub>2</sub>O as the sole source of hydroxyl without the need for stoichiometric oxidants and strong acidic reagents. This process operates via the formation of a high-valence cobalt (IV) intermediate, which could readily be entrapped by water to deliver the desired alcohols product. Mechanistic studies, cyclic voltammetry analysis and density functional theory calculations have been conducted to verify the feasibility of cobalt valence changes, including the generation of cobalt hydride species, the formation of intermediates after hydrogen atom transfer, the reasonable oxidation potential from Co (III) to Co (IV), which substantiate the proposed reaction pathways. Furthermore, the late-stage modification of biorelevant molecules has demonstrated the promising potential applications of this approach in synthetic chemistry.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-01-24",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag050",
+    "title": "Stacked-overlapped graphdiyne nano-iontronics enabling enhanced monovalent/divalent cation selectivity for single-cell pH detection",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag050/8440139?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Developing nano-iontronic devices that minimize ionic interference is essential for precise measurements in complex physiological systems. Graphdiyne (GDY), a novel carbon allotrope featuring sub-nanometer pores, enables effective regulation of ionic transport and is therefore a promising material for high-performance iontronic applications. Here, we report a pH-responsive nano-iontronic device fabricated by stacking and overlapping graphdiyne (so-GDY) layers onto the tip of the nanopipette. This so-GDY-based pH nano-iontronic sensor exhibits a linear decrease in ionic current under negative potential as the pH decreases from 8.00 to 5.50. This response is attributed to protonation of the oxygen-containing functional groups on the so-GDY surface and edges, which diminishes the negative surface charge and thereby reduces ionic conductivity. A key advantage of this nano-iontronic device is its excellent selectivity, demonstrating robust resistance to interference from divalent cations (Mg²⁺, Ca²⁺) and small molecules within the pH range 8.00-5.50, while maintaining stable detection currents. The so-GDY-based pH nano-iontronic device achieves typical monovalent-to-divalent cation selectivity ratio (&lt;0.4), alongside excellent repeatability, reversibility, and stability. This combination of features yields a biocompatible, high-resolution tool for minimally invasive, real-time pH measurements at the single-cell and even at a single-organelle level, opening new avenues for investigating cellular dynamics and disease pathogenesis with enhanced clarity.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-01-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826000351",
+    "title": "Zircon geochronology, geochemistry, and Hf isotopes of granites in the Yazigou skarn Cu–Pb–Zn deposit: Insights into Triassic skarn mineralization potential in the Qimantagh area, Qinghai Province, NW China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826000351?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 23 January 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Jiale Wang, Xiang Sun, Changhai Luo, Yong Fu, Weiming Ma, Tong Pei, Ke Xiao",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-01-25",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-00235-2",
     "title": "Briefing Chat: The canny cow that can use tools, and how babies share their microbiomes",
     "link": "https://www.nature.com/articles/d41586-026-00235-2",
