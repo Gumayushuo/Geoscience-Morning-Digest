@@ -1,5 +1,406 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-026-10156-9",
+    "title": "Scalable and multiplexed recorders of gene regulation dynamics across weeks",
+    "link": "https://www.nature.com/articles/s41586-026-10156-9",
+    "authors": [
+      "Lirong Zheng",
+      "Dongqing Shi",
+      "Yixiao Yan",
+      "Bingxin Zhou",
+      "Jormay Lim",
+      "Yongjie Hou",
+      "Bobae An",
+      "Jason K. Adhinarta",
+      "Michael Lin",
+      "BumJin Ko",
+      "William C. Joesten",
+      "Mehul Gautam",
+      "Elie D. M. Huez",
+      "Eung Chang Kim",
+      "Emily G. Klyder",
+      "Boxuan Chang",
+      "Sethuramasundaram Pitchiaya",
+      "Michael T. Roberts",
+      "Denise J. Cai",
+      "Edward S. Boyden",
+      "Donglai Wei",
+      "Pietro Liò",
+      "Changyang Linghu"
+    ],
+    "summary": "Nature, Published online: 26 January 2026; <a href=\"https://www.nature.com/articles/s41586-026-10156-9\">doi:10.1038/s41586-026-10156-9</a>Scalable and multiplexed recorders of gene regulation dynamics across weeks",
+    "source": "Nature",
+    "date": "2026-01-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00248-x",
+    "title": "Defending endangered trees against climate change and hungry goats",
+    "link": "https://www.nature.com/articles/d41586-026-00248-x",
+    "authors": [
+      "Rachel Nuwer"
+    ],
+    "summary": "Nature, Published online: 26 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00248-x\">doi:10.1038/d41586-026-00248-x</a>Mohammed Amar manages conservation of imperilled flora in Socotra, a Yemeni island known as the Galápagos of the Indian Ocean.",
+    "source": "Nature",
+    "date": "2026-01-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00208-5",
+    "title": "Quantum spinning effect observed in a levitating magnet",
+    "link": "https://www.nature.com/articles/d41586-026-00208-5",
+    "authors": [],
+    "summary": "Nature, Published online: 26 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00208-5\">doi:10.1038/d41586-026-00208-5</a>A supercooled microscopic ferromagnet proves the existence of gyroscopic magnetic behaviour that has been long sought by physicists.",
+    "source": "Nature",
+    "date": "2026-01-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00255-y",
+    "title": "Audio long read: ‘I rarely get outside’ — scientists ditch fieldwork in the age of AI",
+    "link": "https://www.nature.com/articles/d41586-026-00255-y",
+    "authors": [
+      "Aisling Irwin",
+      "Benjamin Thompson"
+    ],
+    "summary": "Nature, Published online: 26 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00255-y\">doi:10.1038/d41586-026-00255-y</a>In the wake of new computer-based methods, some ecologists fear their field is losing touch with nature.",
+    "source": "Nature",
+    "date": "2026-01-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00260-1",
+    "title": "Why do women like me get diagnosed with ADHD late?",
+    "link": "https://www.nature.com/articles/d41586-026-00260-1",
+    "authors": [],
+    "summary": "Nature, Published online: 26 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00260-1\">doi:10.1038/d41586-026-00260-1</a>Emily Bates was diagnosed with ADHD at the age of 34. She explores how the condition presents in women and why so many are diagnosed later in life.",
+    "source": "Nature",
+    "date": "2026-01-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00245-0",
+    "title": "Technology is changing how we write — and how we think about writing",
+    "link": "https://www.nature.com/articles/d41586-026-00245-0",
+    "authors": [
+      "Andrew Robinson"
+    ],
+    "summary": "Nature, Published online: 26 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00245-0\">doi:10.1038/d41586-026-00245-0</a>An exploration of how writing systems, from ancient Chinese characters to modern alphabets, shape language, and whether users of ChatGPT can be said to be authors at all.",
+    "source": "Nature",
+    "date": "2026-01-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00246-z",
+    "title": "As we breach 1.5 °C, we must replace temperature limits with clean-energy targets",
+    "link": "https://www.nature.com/articles/d41586-026-00246-z",
+    "authors": [
+      "Kwesi A. Quagraine",
+      "Mark Lynas",
+      "Erle C. Ellis"
+    ],
+    "summary": "Nature, Published online: 26 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00246-z\">doi:10.1038/d41586-026-00246-z</a>Actionable goals are needed to guide the world towards what needs to happen most quickly: shifting economies to clean energy sources.",
+    "source": "Nature",
+    "date": "2026-01-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00247-y",
+    "title": "Exceeding 1.5 °C requires rethinking accountability in climate policy",
+    "link": "https://www.nature.com/articles/d41586-026-00247-y",
+    "authors": [
+      "Gaurav Ganti",
+      "Sabine Fuss",
+      "Joeri Rogelj",
+      "Setu Pelz",
+      "Keywan Riahi",
+      "Carl-Friedrich Schleussner"
+    ],
+    "summary": "Nature, Published online: 26 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00247-y\">doi:10.1038/d41586-026-00247-y</a>A scientific foundation is required to establish nations’ responsibilities in a hotter ‘overshoot’ world.",
+    "source": "Nature",
+    "date": "2026-01-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00257-w",
+    "title": "Daily briefing: Why cancer might protect against Alzheimer’s disease",
+    "link": "https://www.nature.com/articles/d41586-026-00257-w",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 23 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00257-w\">doi:10.1038/d41586-026-00257-w</a>A protein made by cancer cells seems to break down the hallmark plaques of Alzheimer’s disease. Plus, our breath might reveal what’s going on in our gut and the controversy surrounding a US-funded hepatitis B vaccine trial in Guinea-Bissau.",
+    "source": "Nature",
+    "date": "2026-01-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00242-3",
+    "title": "Daily briefing: Largest ever ‘superposition’ pushes quantum boundary",
+    "link": "https://www.nature.com/articles/d41586-026-00242-3",
+    "authors": [
+      "Jacob Smith"
+    ],
+    "summary": "Nature, Published online: 22 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00242-3\">doi:10.1038/d41586-026-00242-3</a>Physicists have shown that a quantum object can be at least as big as a cluster of 7,000 sodium atoms. Plus, the oldest-known cave art in the world and why girls are starting puberty earlier than ever.",
+    "source": "Nature",
+    "date": "2026-01-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68645-4",
+    "title": "Long-period microseismicity reveals cryptic earthquake-triggered fluid activity can facilitate caldera eruptions",
+    "link": "https://www.nature.com/articles/s41467-026-68645-4",
+    "authors": [
+      "Zilin Song",
+      "Andrew F. Bell",
+      "Peter C. LaFemina",
+      "Sophie Butcher",
+      "Mario Ruiz",
+      "Stephen Hernández",
+      "Patricia M. Gregg",
+      "Yen Joe Tan"
+    ],
+    "summary": "Nature Communications, Published online: 26 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68645-4\">doi:10.1038/s41467-026-68645-4</a>A M5 earthquake triggered the 2018 Sierra Negra eruption after 10 hours. Subsequent microseismicity revealed a cryptic fluid phase facilitated magma intrusion, highlighting that cascading processes are potentially essential for eruption initiations.",
+    "source": "Nature Communications",
+    "date": "2026-01-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68829-y",
+    "title": "Carbon sequestration for geological negative emissions of the shale gas value chain in China",
+    "link": "https://www.nature.com/articles/s41467-026-68829-y",
+    "authors": [
+      "Pu Hong",
+      "Meiyu Guo",
+      "Sai Liang",
+      "Wenrui Shi",
+      "Yumeng Li",
+      "Xi Lu"
+    ],
+    "summary": "Nature Communications, Published online: 26 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68829-y\">doi:10.1038/s41467-026-68829-y</a>China’s shale gas value chain can achieve net-negative carbon emissions through geological sequestration, offering a viable pathway for large-scale decarbonization in the energy sector.",
+    "source": "Nature Communications",
+    "date": "2026-01-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68197-z",
+    "title": "Quality of life and multiple long-term conditions in Southeast Asia: a systematic review and meta-analysis",
+    "link": "https://www.nature.com/articles/s41467-025-68197-z",
+    "authors": [
+      "Deborah Ikhile",
+      "Patrick Highton",
+      "Clare Gillies",
+      "Ruksar Abdala",
+      "Ashkon Ardavani",
+      "Monika Arora",
+      "Amrit Banstola",
+      "Aakrushi Brahmbhatt",
+      "Shabana Cassambai",
+      "Mark P. Funnell",
+      "Shifalika Goenka",
+      "Shavez Jeffers",
+      "Dimple Kondal",
+      "Sailesh Mohan",
+      "Prakash Mulakalapalli",
+      "Natalia Oli",
+      "Arron Peace",
+      "Kuldeep Singh",
+      "Abhinav Vaidya",
+      "Nikhil Srinivasapura Venkateshmurthy",
+      "Dorairaj Prabhakaran",
+      "Kamlesh Khunti"
+    ],
+    "summary": "Nature Communications, Published online: 26 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68197-z\">doi:10.1038/s41467-025-68197-z</a>People living with multiple long-term conditions often experience reduced quality of life, but evidence from Southeast Asia is fragmented. Here the authors show that commonly used tools indicate moderately reduced yet generally good quality of life, highlighting the need for context-sensitive measurement approaches.",
+    "source": "Nature Communications",
+    "date": "2026-01-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68827-0",
+    "title": "National climate action can ameliorate, perpetuate, or exacerbate international air pollution inequalities",
+    "link": "https://www.nature.com/articles/s41467-026-68827-0",
+    "authors": [
+      "M. Omar Nawaz",
+      "Daven K. Henze"
+    ],
+    "summary": "Nature Communications, Published online: 26 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68827-0\">doi:10.1038/s41467-026-68827-0</a>Climate action could avoid over 1 million deaths globally from air pollution in 2040. However, it is suggested that cooperation is needed between developed and developing nations to ensure that disparities in air pollution are not perpetuated in the future.",
+    "source": "Nature Communications",
+    "date": "2026-01-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68879-2",
+    "title": "A DNA-based nanodevice senses purinergic signaling and drives an immune switch for resolving inflammation",
+    "link": "https://www.nature.com/articles/s41467-026-68879-2",
+    "authors": [
+      "Wei Li",
+      "Shuyun Liu",
+      "Xiyue Zhou",
+      "Ke Lv",
+      "Fei Liu",
+      "Hong Chen",
+      "Ruoqing Li",
+      "Jun Xiao",
+      "Yu Ma",
+      "Hao Yang",
+      "Chao Zhang",
+      "Jingping Liu"
+    ],
+    "summary": "Nature Communications, Published online: 26 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68879-2\">doi:10.1038/s41467-026-68879-2</a>Purinergic signalling dysregulation can drive inflammatory disorders, but effective targeted therapy is still lacking. Here, authors develop a smart DNA origami nanodevice that can precisely sense and metabolize high levels of extracellular ATP, thereby fine-tuning purinergic signalling and immune homeostasis.",
+    "source": "Nature Communications",
+    "date": "2026-01-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68848-9",
+    "title": "Single-crystalline Ba<sub>x</sub>Sr<sub>1-x</sub>TaO<sub>2</sub>N solid-solution photocatalyst with low defect concentrations for solar-driven water splitting",
+    "link": "https://www.nature.com/articles/s41467-026-68848-9",
+    "authors": [
+      "Wang Faze",
+      "Mamiko Nakabayashi",
+      "Vikas Nandal",
+      "Gabriel Grötzner",
+      "Ryota Shoji",
+      "Hiroki Iwaizumi",
+      "Junie Jhon M. Vequizo",
+      "Naoya Shibata",
+      "Naoko Kanome",
+      "Verena Streibel",
+      "Wenpeng Li",
+      "Hiroyuki Matsuzaki",
+      "Kazuhiko Seki",
+      "Ian D. Sharp",
+      "Tsuyoshi Takata",
+      "Takashi Hisatomi",
+      "Kazunari Domen"
+    ],
+    "summary": "Nature Communications, Published online: 26 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68848-9\">doi:10.1038/s41467-026-68848-9</a>Photocatalytic water splitting using a single particulate photocatalyst is a cost-efficient approach for sustainable hydrogen production. Here, the authors report a nanoscale BaxSr1-xTaO2N solid-solution photocatalyst exhibits an apparent quantum efficiency of 13.5% for H2 evolution at 420 nm.",
+    "source": "Nature Communications",
+    "date": "2026-01-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68655-2",
+    "title": "Substantially lower estimates in China’s offshore wind potential using farm-scale spatial modeling and wake effects",
+    "link": "https://www.nature.com/articles/s41467-026-68655-2",
+    "authors": [
+      "Shiwei Xu",
+      "Gege Yin",
+      "Peiyu Hu",
+      "Di Dong",
+      "Yue Qin",
+      "Yu Liu",
+      "Gang Liu",
+      "Lili Song",
+      "Chuan Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 26 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68655-2\">doi:10.1038/s41467-026-68655-2</a>The study evaluates China’s offshore wind potential using farm-scale modeling, revealing lower potential than previous estimates. It incorporates realistic turbine layouts, wake loss modeling, and climate scenarios, highlighting economic and technical differences between nearshore and deep-water wind farms.",
+    "source": "Nature Communications",
+    "date": "2026-01-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68344-0",
+    "title": "Electrical control of the metal-insulator transition in a one dimensional device",
+    "link": "https://www.nature.com/articles/s41467-026-68344-0",
+    "authors": [
+      "J. Craquelin",
+      "L. Jarjat",
+      "B. Hue",
+      "A. Théry",
+      "C. Fruy",
+      "N. Struchkov",
+      "D. Stefani",
+      "M. M. Desjardins",
+      "A. Cottet",
+      "M. R. Delbecq",
+      "T. Kontos"
+    ],
+    "summary": "Nature Communications, Published online: 26 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68344-0\">doi:10.1038/s41467-026-68344-0</a>Energy gaps can be induced by spatial modulation of the electronic potential. Here, the authors demonstrate a large and robust energy gap in a free-standing carbon nanotube utilizing a 15-gate keyboard that spatially modulates the local potential.",
+    "source": "Nature Communications",
+    "date": "2026-01-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03212-9",
+    "title": "Dislocation creep may control bridgmanite deformation in the Earth’s lower mantle",
+    "link": "https://www.nature.com/articles/s43247-026-03212-9",
+    "authors": [
+      "Longli Guan",
+      "Daisuke Yamazaki",
+      "Noriyoshi Tsujino",
+      "Yuji Higo",
+      "Sho Kakizawa",
+      "Xiang Wu",
+      "Junfeng Zhang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 26 January 2026; <a href=\"https://www.nature.com/articles/s43247-026-03212-9\">doi:10.1038/s43247-026-03212-9</a>Regional and global seismological observations in the uppermost lower mantle are best explained by the temperature-dependent lattice preferred orientation of bridgmanite, indicating that dislocation creep likely dominates deformation in this area, according to high- pressure and temperature analysis.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03044-z",
+    "title": "Climate change risk index and municipal bond disclosures of United States drinking water utilities",
+    "link": "https://www.nature.com/articles/s43247-025-03044-z",
+    "authors": [
+      "Zia J. Lyle",
+      "Jeanne M. VanBriesen",
+      "Constantine Samaras"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 26 January 2026; <a href=\"https://www.nature.com/articles/s43247-025-03044-z\">doi:10.1038/s43247-025-03044-z</a>67 million customers across the US rely on drinking water utilities that face higher climate risk than accounted for, which exposes major gaps in climate adaptation and resilience planning, suggests an assessment of vulnerability, exposure, and hazards across 1,455 municipal utilities.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03125-z",
+    "title": "Recent giant detachment of a glacier on the Tibetan plateau provoked by its frozen tongue",
+    "link": "https://www.nature.com/articles/s43247-025-03125-z",
+    "authors": [
+      "Andreas Kääb",
+      "Juditha Aga",
+      "Désirée Treichler",
+      "Luc Girod",
+      "Wei-An Chao"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 26 January 2026; <a href=\"https://www.nature.com/articles/s43247-025-03125-z\">doi:10.1038/s43247-025-03125-z</a>Massively increased ice speeds in combination with a stable terminus position led to a giant ice detachment (~40 million cubic meters) from a Tibetan glacier in November 2022, which ranks among the largest recorded ice avalanches, according to a study based on satellite imagery and seismic data.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-01-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2527222122?af=R",
+    "title": "Identifying variation in dinosaur footprints and classifying problematic specimens via unbiased unsupervised machine learning",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2527222122?af=R",
+    "authors": [
+      "Gregor HartmannTone BlakesleyPaige E. dePoloStephen L. BrusatteaDepartment of Optics and Beamlines, Helmholtz-Zentrum Berlin für Materialien und Energie GmbH, Berlin 12489, GermanybSchool of GeoSciences, University of Edinburgh, Edinburgh EH9 3FE, Scotland, United KingdomcSchool of Biological and Environmental Sciences, Liverpool John Moores University, Liverpool L3 3AF, England, United Kingdom"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 5, February 2026. <br />SignificanceDinosaur footprints are iconic fossils, but it is challenging to identify their makers. This is illustrated by a long-standing debate about whether some footprints from the Late Triassic-Early Jurassic belong to birds, which would be ~60 Ma ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-01-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826000387",
+    "title": "Geochemical and geochronological constraints on granitoids from the Chambishi-Nkana Basin, Zambian Copperbelt",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826000387?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 25 January 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Hu Qiaofan, Mo Jiangping, Wei Zhiwei, Qiu ZhengJie, Fang Ke, Zhou Shouyu, Huang Xueqiang, Liu Yaohui, Liu Wei, Li Jiacai, Wang Ailin",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-01-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826000399",
+    "title": "Advanced SOTEM survey for the exploration of low-sulphidation epithermal gold: Insights from Lvyuan, eastern Junggar, China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826000399?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 25 January 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Weiying Chen, Xiaoyin Ma, Quanhui Guo, Pengfei Lv",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-01-27",
+    "sent": true
+  },
+  {
     "id": "https://www.sciencedirect.com/science/article/pii/S0012821X2600049X",
     "title": "Accumulation of remineralised carbon and nutrients in the mid-depth Atlantic during Heinrich Stadial 1 and the Younger Dryas",
     "link": "https://www.sciencedirect.com/science/article/pii/S0012821X2600049X?dgcid=rss_sd_all",
