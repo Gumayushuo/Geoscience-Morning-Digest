@@ -30,7 +30,7 @@ RSS_URLS = [
     "https://rss.sciencedirect.com/publication/science/00167037",     #GCA
     "https://pubs.geoscienceworld.org/rss/site_65/advanceAccess_33.xml",   #Geology
     "https://pubs.geoscienceworld.org/rss/site_119/advanceAccess_60.xml",  #AM
-    "https://pubs.geoscienceworld.org/economicgeology/issue/120/6",       #EG
+    "https://pubs.geoscienceworld.org/rss/site_63/32.xml",       #EG
     "https://pubs.geoscienceworld.org/rss/site_69/advanceAccess_35.xml", #GSAB
     "https://academic.oup.com/rss/site_5332/advanceAccess_3198.xml",     #NSR
     "https://agupubs.onlinelibrary.wiley.com/feed/19449194/most-recent",  #Tectonic
