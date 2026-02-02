@@ -1,5 +1,239 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-68954-8",
+    "title": "Computational single-neuron mechanisms of visual object coding in the human temporal lobe",
+    "link": "https://www.nature.com/articles/s41467-026-68954-8",
+    "authors": [
+      "Runnan Cao",
+      "Jie Zhang",
+      "Jie Zheng",
+      "Yue Wang",
+      "Peter Brunner",
+      "Jon T. Willie",
+      "Shuo Wang"
+    ],
+    "summary": "Nature Communications, Published online: 01 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-68954-8\">doi:10.1038/s41467-026-68954-8</a>How the human brain transforms visual input into meaningful object representations remains unclear. Here, the authors show that dense feature-based coding in the ventral temporal cortex is transformed into sparse, conceptual representations in the medial temporal lobe, revealing neural computational mechanisms of object recognition.",
+    "source": "Nature Communications",
+    "date": "2026-02-01",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226000267",
+    "title": "Automated characterization of microfracture systems in organic-rich shales and their influence on porosity using convolutional neural networks on FIB-SEM images: A review",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226000267?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 31 January 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Bo Liu, Qamar Yasin, Eshimiakhe Daniel, Ghulam Mohyuddin Sohail, Mengdi Sun, David A. Wood",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26000671",
+    "title": "Low δ<sup>30</sup>Si values in olivine-hosted melt inclusions trace sediment contributions to subduction zone melts",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26000671?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 April 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 679Author(s): Anne-Sophie Bouvier, Martin Guitreau, Clémence Le Lay, Muriel Laubier, Estelle F. Rose-Koga",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26000713",
+    "title": "Zircon thermal annealing ages determine a late Eocene birth for the First Bend of the Yangtze River",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26000713?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 April 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 679Author(s): Yang Zhang, Rui Li, Guang-Yan Zhou, David Chew, Jian-Ping Zheng, Qing Xiong, Wei Wang",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118366",
+    "title": "Recent Cloud Controlling Factor Analyses Indicate Higher Climate Sensitivity",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118366?af=R",
+    "authors": [
+      "Sarah Wilson Kemsley, \nPeer Nowack, \nPaulo Ceppi"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-31",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120833",
+    "title": "Atmospheric Ion‐Neutral Coupling as a Potential Driver for Saturn's Magnetospheric Antisunward Electric Field",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120833?af=R",
+    "authors": [
+      "Tom S. Stallard"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-31",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117637",
+    "title": "Can a Single Sounding Predict the Weather? An AI Downscaling Framework for Local‐Circulation‐Dominated Flow Over Taiwan's Complex Topography",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117637?af=R",
+    "authors": [
+      "Fucent Hsuan Wei Hsu, \nMin‐Ken Hsieh, \nChien‐Ming Wu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-31",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119914",
+    "title": "Dawn‐Side Anomaly in Sudden Geomagnetic Field Responses to Solar Wind Pressure Discontinuities During the 10 May and 10 October 2024 Geomagnetic Storms",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119914?af=R",
+    "authors": [
+      "Deeksha Rai, \nS. Tulasi Ram, \nB. Nilam, \nD. M. Oliveira, \nB. Remya, \nAnil Raghav, \nD. Chakrabarty, \nAbhishek Kumar, \nShivam Parashar, \nVipin K. Yadav, \nA. P. Dimri"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-31",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118215",
+    "title": "On the Role of Sea Surface Temperature in the 16 April 2024 Rainstorm Over the United Arab Emirates",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118215?af=R",
+    "authors": [
+      "Basit Khan, \nSubrota Halder, \nZouhair Lachkar, \nFrancesco Paparella, \nOlivier Pauluis"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-31",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119391",
+    "title": "Morning–Afternoon Asymmetry in Correlations Between the Equatorial Electrojet and Sq Westward Currents on Polar‐Side of the Focus",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119391?af=R",
+    "authors": [
+      "Xiaocan Liu, \nPeng Han, \nKatsumi Hattori, \nHuaran Chen"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-31",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119878",
+    "title": "A New Surface Rupture of the 1556 Huaxian M ∼ 8.5 Earthquake Revealed by Rock Surface Luminescence Dating of a Bedrock Fault Scarp and Colluvial Wedges",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119878?af=R",
+    "authors": [
+      "Ming Luo, \nJie Chen, \nZhijun Gong, \nLewis A. Owen, \nHuili Yang, \nXiaohong Jiang, \nJinhui Yin, \nWei Xu, \nHua Wang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-31",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119003",
+    "title": "Characteristic Geometry of Keels in Arctic Sea Ice Ridges",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119003?af=R",
+    "authors": [
+      "Claire Eilers, \nAlice Bradley"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-31",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118812",
+    "title": "New Analytical Model for Forecasting Turbidity Current Run‐Up Heights: Implications for Risk Assessment of Seafloor Infrastructure on Submarine Slopes",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118812?af=R",
+    "authors": [
+      "Ru Wang, \nMia Hughes, \nJeff Peakall, \nDavid M. Hodgson, \nEd Keavney, \nHelena C. Brown, \nGareth M. Keevil"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-31",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118341",
+    "title": "Tropical Rainforests Exhibit Higher Multidimensional Stability Than Rubber Plantations Despite Lower Resistance to Temperature Anomalies",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118341?af=R",
+    "authors": [
+      "Zhong‐Yi Sun, \nZi‐Qin Wang, \nRun‐Qing Zhang, \nJun‐Fu Zhao, \nShuai Yin, \nLan Wu, \nZheng‐Hong Tan"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-31",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL116851",
+    "title": "How Can FengYun—3G Satellite Precipitation Radar and Microwave Imager Unveil Multi—Phase Hydrometeors?",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL116851?af=R",
+    "authors": [
+      "Linjun Han, \nFuzhong Weng, \nXiuqing Hu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-31",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118151",
+    "title": "Late Triassic Hydroclimatic Changes in Central China Linked to Evolving Mountain Topography",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118151?af=R",
+    "authors": [
+      "Rong Chai, \nJianghai Yang, \nPeter A. Cawood, \nChenguang Zhu, \nYuansheng Du, \nYongyun Hu, \nXiang Li, \nChengshan Wang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-31",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117453",
+    "title": "First Measurements of CFC‐12 in 1951 at Jungfraujoch and Comparison to Current Measurements and Atmospheric Models",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117453?af=R",
+    "authors": [
+      "Jamal Makkor, \nMathias Palm, \nIrene Pardo Cantos, \nMatthias Buschmann, \nEmmanuel Mahieu, \nZihao Wang, \nMartyn P. Chipperfield, \nJustus Notholt"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S001670372600044X",
+    "title": "Corrigendum to “Temperature dependence of uranium and thorium partitioning in igneous zircons” [Geochim. Cosmochim. Acta 402 (2025) 62–75]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S001670372600044X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 1 February 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Yuanyuan Liang, Michael J. Krawczynski, Noah M. McLean, Paul K. Carpenter, Jack P. Touran, Ashley N. Cocciadiferro",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826000478",
+    "title": "Late Triassic lithium mineralization in the Kumusayi-Shaliangxi deposit (Altyn Tagh, NW China): provenance and high-precision timing constraints",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826000478?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 31 January 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Minghong Shen, He Wang, Jinheng Liu, Xiaoyu Zhang, Xiaofei Du, Song Zhang, Liang Huang, Mingze Cai, Min Wang",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826000491",
+    "title": "Geochemical and mineralogical characteristics of six ore types of Main and Eastern orebodies in the Bayan Obo deposit: A combined PMF and SEM-EDS analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826000491?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 31 January 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Yanling Sun, Xueqiu Wang, Qinghai Hu, Jian Zhou, Mingjun Xie, Xiuming Jing",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-026-68857-8",
     "title": "Early detection of aberrant cell fate and repair using circulating progenitor cells in patients with heterotopic ossification",
     "link": "https://www.nature.com/articles/s41467-026-68857-8",
