@@ -1,5 +1,178 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-68928-w",
+    "title": "An experimentally-informed polymer model reveals high resolution organization of genomic loci",
+    "link": "https://www.nature.com/articles/s41467-026-68928-w",
+    "authors": [
+      "Rahul Mittal",
+      "Dieter W. Heermann",
+      "Arnab Bhattacherjee"
+    ],
+    "summary": "Nature Communications, Published online: 04 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-68928-w\">doi:10.1038/s41467-026-68928-w</a>The structure-function relationship of chromatin fibers remains poorly understood. Here, the authors use a hybrid experimental-computational approach to show that active and inactive genomic loci have different chromatin structures.",
+    "source": "Nature Communications",
+    "date": "2026-02-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69068-x",
+    "title": "Sensory encoding and memory retrieval are coordinated with propagating waves in the human brain",
+    "link": "https://www.nature.com/articles/s41467-026-69068-x",
+    "authors": [
+      "Yifan Yang",
+      "David A. Leopold",
+      "Jeff H. Duyn",
+      "Xiao Liu"
+    ],
+    "summary": "Nature Communications, Published online: 04 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69068-x\">doi:10.1038/s41467-026-69068-x</a>Sensory encoding and memory retrieval are oppositely modulated across the cycle of infra-slow brain dynamics in both humans and mice, revealing a conserved brain mechanism coordinating seconds-scale sensory and mnemonic processing.",
+    "source": "Nature Communications",
+    "date": "2026-02-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69103-x",
+    "title": "Environmental and economic benefits of UHPFRC intervention in bridge management for the Swiss network",
+    "link": "https://www.nature.com/articles/s41467-026-69103-x",
+    "authors": [
+      "Numa Bertola",
+      "Célia Küpfer",
+      "Eugen Brühwiler"
+    ],
+    "summary": "Nature Communications, Published online: 04 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69103-x\">doi:10.1038/s41467-026-69103-x</a>The study evaluates using ultra-high-performance fiber-reinforced cementitious composite (UHPFRC) for bridge maintenance in Switzerland, finding it feasible for 99.7% of bridges, potentially saving 7.7 million tons of CO2 equivalent and 18.5 billion Swiss francs over 80 years compared to traditional methods.",
+    "source": "Nature Communications",
+    "date": "2026-02-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68498-x",
+    "title": "Customized composition of lithium metal solid-electrolyte interphase by electric field modulation of anion motion direction",
+    "link": "https://www.nature.com/articles/s41467-026-68498-x",
+    "authors": [
+      "Shengtao Xu",
+      "Lijun Zheng",
+      "Xiaoyu Guo",
+      "Rong Gu",
+      "Shuaiqi Gong",
+      "Jinting Xu",
+      "Sheng Zhu",
+      "Qingwei Gao",
+      "Qunjie Xu",
+      "Penghui Shi",
+      "Xin Zhao",
+      "Yulin Min",
+      "Jun Lu"
+    ],
+    "summary": "Nature Communications, Published online: 04 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-68498-x\">doi:10.1038/s41467-026-68498-x</a>High-voltage lithium-metal batteries face safety and stability challenges. Here, authors develop a non-flammable triethyl phosphate-based electrolyte using a triple-salt solute strategy to induce a bilayer solid electrolyte interphase, enabling long-term cycling of 4.5 V Li metal batteries.",
+    "source": "Nature Communications",
+    "date": "2026-02-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69187-5",
+    "title": "Decoding efficacy and resistance space at a drug binding site",
+    "link": "https://www.nature.com/articles/s41467-026-69187-5",
+    "authors": [
+      "Simone Altmann",
+      "Cesar Mendoza-Martinez",
+      "Melanie Ridgway",
+      "Michele Tinti",
+      "Jagmohan S. Saini",
+      "Peter E. G. F. Ibrahim",
+      "Michael Thomas",
+      "Manu De Rycker",
+      "Michael J. Bodkin",
+      "David Horn"
+    ],
+    "summary": "Nature Communications, Published online: 04 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69187-5\">doi:10.1038/s41467-026-69187-5</a>The authors in this work present a study with multiplexed gene editing that is used to assess all possible mutations at a native drug binding site. The approach yields data that predicts spontaneous resistance, that aligns with in silico predictions, and that promises to facilitate drug discovery.",
+    "source": "Nature Communications",
+    "date": "2026-02-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69053-4",
+    "title": "Local alkalinity enables high-performance pure water anion exchange membrane electrolysis",
+    "link": "https://www.nature.com/articles/s41467-026-69053-4",
+    "authors": [
+      "Jiaxin Guo",
+      "Ruguang Wang",
+      "Yuting Yang",
+      "Qinhao Zhang",
+      "Fahe Cao",
+      "Jiong Zhao",
+      "Caofeng Pan",
+      "Tao Ling"
+    ],
+    "summary": "Nature Communications, Published online: 04 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69053-4\">doi:10.1038/s41467-026-69053-4</a>Current anion exchange membrane water electrolysers are hindered by poor performance in pure water. Here, the authors report a strategy that creates built-in alkaline microenvironments, enabling high performance and long-term stability using only pure water.",
+    "source": "Nature Communications",
+    "date": "2026-02-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69150-4",
+    "title": "Global impacts of transportation infrastructure on forest degradation and loss",
+    "link": "https://www.nature.com/articles/s41467-026-69150-4",
+    "authors": [
+      "Decheng Zhou",
+      "Jingfeng Xiao",
+      "Shuguang Liu",
+      "Lin Huang",
+      "Liangxia Zhang",
+      "Jiangwen Fan",
+      "Shuqing Zhao"
+    ],
+    "summary": "Nature Communications, Published online: 04 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69150-4\">doi:10.1038/s41467-026-69150-4</a>Transportation infrastructure threatens forests, but past studies have been regional or focused on single metrics like forest cover. This global analysis finds road-adjacent forests lose cover, height, and productivity and become more fragmented.",
+    "source": "Nature Communications",
+    "date": "2026-02-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69113-9",
+    "title": "Predator-prey temporal niche partitioning under human disturbance: a meta-analysis",
+    "link": "https://www.nature.com/articles/s41467-026-69113-9",
+    "authors": [
+      "Eamonn I. F. Wooster",
+      "Erick J. Lundgren",
+      "Dale G. Nimmo",
+      "Mitchell A. Cowan",
+      "Evan C. Fricke",
+      "Anke S. K. Frank",
+      "Alexandra J. R. Carthey",
+      "Kathryn L. Grabowski",
+      "Jennifer R. Green",
+      "Grant D. Linley",
+      "Taylor J. McEvoy",
+      "Amy Simpson",
+      "Dylan Westaway",
+      "Kwasi C. Wrensford",
+      "Nicholas S. Wright",
+      "Shinichi Nakagawa",
+      "Kaitlyn M. Gaynor"
+    ],
+    "summary": "Nature Communications, Published online: 04 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69113-9\">doi:10.1038/s41467-026-69113-9</a>Humans alter the daily timing of animal activity, potentially reshaping predator–prey interactions. This meta-analysis reveals that larger species tend to “lose” under human disturbance, with large predators overlapping less with their prey, and large prey overlapping more with their predators.",
+    "source": "Nature Communications",
+    "date": "2026-02-04",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38738.1/725524/Tracing-the-sedimentary-provenance-of-the",
+    "title": "Tracing the sedimentary provenance of the Carboniferous to Jurassic rocks from southern Taimyr (Siberian Arctic, Russia): Evidence from detrital zircon Hf isotopes",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38738.1/725524/Tracing-the-sedimentary-provenance-of-the",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The Carboniferous to Jurassic units of the Taimyr Peninsula, located at the northern edge of the Siberian Craton in the Russian High Arctic, are integral to the geological history of Pangea and closely linked to the Siberian Traps large igneous province event. This study endeavors to clarify the sedimentary provenance and tectonic evolution of southern Taimyr during the Carboniferous−Jurassic by employing Hf isotope analysis on U-Pb dated detrital zircons. Our results demonstrate that the southwestern Yenisey Ridge and Altai-Sayan Fold Belt were the primary sources of sediment during the Early Permian. Specifically for the Early Permian Byrrangskaya Formation, Late Devonian−Permian zircon grains exhibit negative ε<sub>Hf</sub>(t) values (median of −8.1). From the Late Permian onward, the sediment supply appears to have shifted to northern Taimyr and/or the Polar Urals, with an additional component from the Siberian Traps introduced in the Middle Triassic. Additionally, a ca. 195 Ma zircon with a pronounced negative ε<sub>Hf</sub>(t) value indicates a potential input from the distant Mongol-Okhotsk Belt in the south or the Verkhoyansk fold belt in the east, suggesting an intricate interplay of regional and distant tectonic forces shaped the southern Taimyr’s sedimentary record. The sedimentary and magmatic records of Taimyr provide valuable insights into the complex interplay between regional tectonics and global processes during the final stages of Pangea’s assembly, its breakup, and the subsequent shifts in Earth’s environmental conditions.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-02-03",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38399.1/725523/Decoding-tectonic-and-lithological-controls-on",
+    "title": "Decoding tectonic and lithological controls on sediment exported from footwall catchments: Implications for hanging-wall stratigraphy",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38399.1/725523/Decoding-tectonic-and-lithological-controls-on",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Hillslope and river channel processes combine to erode topography and release sediments in response to external forcing, such as tectonics. Any forcing that drives these processes to shape topography likely also controls the resulting sediment characteristics; however, the extent to which the forcing translates into exported sediment grain size remains elusive, especially where tectonic and lithological forcings coexist. Here, we focus on two catchments with these characteristics in the Gulf of Corinth, Greece, to probe how tectonics and lithology compete to control exported sediment grain size via hillslope and channel processes. Topographic analysis reveals that both tectonic and lithological forcings can drive hillslope and channel processes to shape topography. In the Sithas catchment, normal faulting older than 600 ka initiates knickpoints that steepen hillslopes and trigger concentrated mass-wasting downstream of the knickpoints. In the Phoenix catchment, which was only perturbed by active faulting for &lt;100 k.y., the landslide-prone bedrock triggers pervasive mass-wasting and steepens hillslopes. Combined with the observation that mass-wasting produces coarser grains, our data therefore show that both tectonic and lithological forcings can coarsen sediment generated on hillslopes. If hillslope sediment is friable, however, coarsened sediment from hillslopes can be rapidly abraded upon entering river channels and lose its coarse signal before reaching catchment outlets (e.g., tectonically induced coarsening in the Sithas catchment). In contrast, coarsened sediment from hillslopes can preserve its coarse signal to catchment outlets if its lithology is resistant to abrasion (e.g., lithologically induced coarsening in the Phoenix catchment). En route to catchment outlets, sediments coarser than the threshold for entrainment are filtered out; however, this selective transport attenuates rather than obliterates the coarse signal because coarse sediment input itself can increase the entrainment threshold by influencing channel steepness. Finally, we explore how continuous unroofing and knickpoint propagation may cause grain size variations in exported sediments and impact hanging-wall stratigraphy. Consequently, our study illustrates that lithology can outweigh tectonics in determining the characteristics of sediment exported from footwall catchments and paves the way for more comprehensive stratigraphic interpretation.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-02-03",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-026-10198-z",
     "title": "Ontogeny and transcriptional regulation of Thetis cells",
     "link": "https://www.nature.com/articles/s41586-026-10198-z",
