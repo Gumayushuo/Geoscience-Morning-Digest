@@ -1,5 +1,919 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-026-10198-z",
+    "title": "Ontogeny and transcriptional regulation of Thetis cells",
+    "link": "https://www.nature.com/articles/s41586-026-10198-z",
+    "authors": [
+      "Yoselin A. Paucar Iza",
+      "Tyler Park",
+      "Eliyambuya Baker",
+      "Gayathri Shibu",
+      "Tilman Hoelting",
+      "Greyson Feather",
+      "Anushka Yadav",
+      "Yollanda Franco Parisotto",
+      "Zihan Zhao",
+      "Blossom Akagbosu",
+      "Marc Elosua Bayes",
+      "Logan Fisher",
+      "Lucas M. James",
+      "Jianping Ma",
+      "Benjamin D. Philpot",
+      "Behdad Afzali",
+      "Christina Leslie",
+      "Chrysothemis C. Brown"
+    ],
+    "summary": "Nature, Published online: 03 February 2026; <a href=\"https://www.nature.com/articles/s41586-026-10198-z\">doi:10.1038/s41586-026-10198-z</a>Ontogeny and transcriptional regulation of Thetis cells",
+    "source": "Nature",
+    "date": "2026-02-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10147-w",
+    "title": "Author Correction: Increasingly negative tropical water–interannual CO<sub>2</sub> growth rate coupling",
+    "link": "https://www.nature.com/articles/s41586-026-10147-w",
+    "authors": [
+      "Laibao Liu",
+      "Philippe Ciais",
+      "Mengxi Wu",
+      "Ryan S. Padrón",
+      "Pierre Friedlingstein",
+      "Jonas Schwaab",
+      "Lukas Gudmundsson",
+      "Sonia I. Seneviratne"
+    ],
+    "summary": "Nature, Published online: 03 February 2026; <a href=\"https://www.nature.com/articles/s41586-026-10147-w\">doi:10.1038/s41586-026-10147-w</a>Author Correction: Increasingly negative tropical water–interannual CO<sub>2</sub> growth rate coupling",
+    "source": "Nature",
+    "date": "2026-02-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00344-y",
+    "title": "Embrace diverse PhD supervision styles — but enforce essential standards",
+    "link": "https://www.nature.com/articles/d41586-026-00344-y",
+    "authors": [
+      "Piera Cicchetti",
+      "Rosella Visintin"
+    ],
+    "summary": "Nature, Published online: 03 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00344-y\">doi:10.1038/d41586-026-00344-y</a>Embrace diverse PhD supervision styles — but enforce essential standards",
+    "source": "Nature",
+    "date": "2026-02-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00342-0",
+    "title": "Calling all scientists: Support your Iranian colleagues",
+    "link": "https://www.nature.com/articles/d41586-026-00342-0",
+    "authors": [
+      "Mohammad Hosseini"
+    ],
+    "summary": "Nature, Published online: 03 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00342-0\">doi:10.1038/d41586-026-00342-0</a>Calling all scientists: Support your Iranian colleagues",
+    "source": "Nature",
+    "date": "2026-02-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00192-w",
+    "title": "A history of hocus pocus: witchcraft down the ages",
+    "link": "https://www.nature.com/articles/d41586-026-00192-w",
+    "authors": [],
+    "summary": "Nature, Published online: 03 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00192-w\">doi:10.1038/d41586-026-00192-w</a>A book about witches casts a spell, and arguments about whether blue-green algae should be called blue-green bacteria, in this week’s pick from the Nature archive.",
+    "source": "Nature",
+    "date": "2026-02-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00343-z",
+    "title": "Who does academic consulting serve?",
+    "link": "https://www.nature.com/articles/d41586-026-00343-z",
+    "authors": [
+      "Nicolás C. Zanetta-Colombo"
+    ],
+    "summary": "Nature, Published online: 03 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00343-z\">doi:10.1038/d41586-026-00343-z</a>Who does academic consulting serve?",
+    "source": "Nature",
+    "date": "2026-02-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00311-7",
+    "title": "Many people have no mental imagery. What’s going on in their brains?",
+    "link": "https://www.nature.com/articles/d41586-026-00311-7",
+    "authors": [
+      "Elizabeth Quill"
+    ],
+    "summary": "Nature, Published online: 03 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00311-7\">doi:10.1038/d41586-026-00311-7</a>People with aphantasia are offering a window into consciousness.",
+    "source": "Nature",
+    "date": "2026-02-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00283-8",
+    "title": "The ‘bible for psychiatry’ is getting a rewrite: your guide to the next <i>DSM</i>",
+    "link": "https://www.nature.com/articles/d41586-026-00283-8",
+    "authors": [
+      "David Adam"
+    ],
+    "summary": "Nature, Published online: 03 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00283-8\">doi:10.1038/d41586-026-00283-8</a>Could the next version of the DSM be a 'living' document that has more focus on the causes of mental illness?",
+    "source": "Nature",
+    "date": "2026-02-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00314-4",
+    "title": "The global plastics treaty can be saved — here’s how to break the deadlock",
+    "link": "https://www.nature.com/articles/d41586-026-00314-4",
+    "authors": [
+      "Paul Einhäupl",
+      "Linda  Del Savio",
+      "Melanie Bergmann",
+      "Annika Jahnke"
+    ],
+    "summary": "Nature, Published online: 03 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00314-4\">doi:10.1038/d41586-026-00314-4</a>The stalled multinational effort to protect environmental and human health from plastic pollution is salvageable, with a revamped negotiation process.",
+    "source": "Nature",
+    "date": "2026-02-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00333-1",
+    "title": "More than one-third of cancer cases are preventable, massive study finds",
+    "link": "https://www.nature.com/articles/d41586-026-00333-1",
+    "authors": [
+      "Gemma Conroy"
+    ],
+    "summary": "Nature, Published online: 03 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00333-1\">doi:10.1038/d41586-026-00333-1</a>Many cancers are linked to two modifiable habits: tobacco smoking and alcohol consumption.",
+    "source": "Nature",
+    "date": "2026-02-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00308-2",
+    "title": "Now is not the time to defund human fetal tissue research",
+    "link": "https://www.nature.com/articles/d41586-026-00308-2",
+    "authors": [],
+    "summary": "Nature, Published online: 03 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00308-2\">doi:10.1038/d41586-026-00308-2</a>Hindering studies involving fetal tissue will impede the development of the alternatives intended to replace it, while slowing the search for new medicines.",
+    "source": "Nature",
+    "date": "2026-02-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00310-8",
+    "title": "I know science can’t fix the world — here’s why I do it anyway",
+    "link": "https://www.nature.com/articles/d41586-026-00310-8",
+    "authors": [
+      "Jean Colcombet"
+    ],
+    "summary": "Nature, Published online: 03 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00310-8\">doi:10.1038/d41586-026-00310-8</a>The world faces energy shortages as fossil fuels are phased out. Research can’t go on as normal.",
+    "source": "Nature",
+    "date": "2026-02-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00353-x",
+    "title": "Daily briefing: Scientists delve into the smells of history",
+    "link": "https://www.nature.com/articles/d41586-026-00353-x",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 02 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00353-x\">doi:10.1038/d41586-026-00353-x</a>Researchers are working to reproduce the smells of heritage and history, from mummies to the Battle of Waterloo. Plus, the best science images of the month and whether we’ve already achieved ‘artificial general intelligence’.",
+    "source": "Nature",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01902-1",
+    "title": "Anti-phased changes in Antarctic Circumpolar Current strength over orbital timescales",
+    "link": "https://www.nature.com/articles/s41561-025-01902-1",
+    "authors": [],
+    "summary": "Nature Geoscience, Published online: 03 February 2026; <a href=\"https://www.nature.com/articles/s41561-025-01902-1\">doi:10.1038/s41561-025-01902-1</a>Our study demonstrated that zonal asymmetry is a fundamental and persistent characteristic of Antarctic Circumpolar Current (ACC) strength over orbital timescales. This asymmetric behaviour reshapes our understanding of how the ACC interacts with Antarctic Ice Sheet dynamics, modulates global ocean circulation and influences the carbon cycle across past and future climate states.",
+    "source": "Nature Geoscience",
+    "date": "2026-02-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01910-1",
+    "title": "Mantle heterogeneity influenced Earth’s ancient magnetic field",
+    "link": "https://www.nature.com/articles/s41561-025-01910-1",
+    "authors": [
+      "A. J. Biggin",
+      "C. J. Davies",
+      "J. E. Mound",
+      "S. J. Lloyd",
+      "Y. E. Engbers",
+      "D. Thallner",
+      "A. T. Clarke",
+      "R. K. Bono"
+    ],
+    "summary": "Nature Geoscience, Published online: 03 February 2026; <a href=\"https://www.nature.com/articles/s41561-025-01910-1\">doi:10.1038/s41561-025-01910-1</a>Earth’s core dynamo, which produces the magnetic field, may have been influenced by spatial variations in heat flux across the core–mantle boundary, according to combined palaeomagnetic datasets and geodynamo simulations.",
+    "source": "Nature Geoscience",
+    "date": "2026-02-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-01917-2",
+    "title": "Reduced phosphorus bioavailability in rice paddies intensified by elevated CO<sub>2</sub>-driven warming",
+    "link": "https://www.nature.com/articles/s41561-026-01917-2",
+    "authors": [
+      "Yu Wang",
+      "Hao Chen",
+      "Weihua Su",
+      "Hongmeng Zhao",
+      "Benjamin L. Turner",
+      "Chuang Cai",
+      "Yiqi Luo",
+      "Josep Peñuelas",
+      "Kees Jan van Groenigen",
+      "Dongming Wang",
+      "Yuanyuan Huang",
+      "Mingkai Jiang",
+      "Lei Wang",
+      "Shenqiang Wang",
+      "Yong-Guan Zhu",
+      "Renfang Shen",
+      "Jiabao Zhang",
+      "Chunwu Zhu"
+    ],
+    "summary": "Nature Geoscience, Published online: 03 February 2026; <a href=\"https://www.nature.com/articles/s41561-026-01917-2\">doi:10.1038/s41561-026-01917-2</a>CO2-driven warming reduces phosphorus availability in rice paddies by promoting its binding with iron and organic carbon in the soil, according to a ten-year experiment using a free-air CO2 enrichment system to simulate in situ climate warming.",
+    "source": "Nature Geoscience",
+    "date": "2026-02-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01913-y",
+    "title": "Dusting off the iron hypothesis",
+    "link": "https://www.nature.com/articles/s41561-025-01913-y",
+    "authors": [
+      "Marion Fourquez"
+    ],
+    "summary": "Nature Geoscience, Published online: 02 February 2026; <a href=\"https://www.nature.com/articles/s41561-025-01913-y\">doi:10.1038/s41561-025-01913-y</a>Erosion by the West Antarctic Ice Sheet can supply iron to the Southern Ocean, with iron solubility as important as iron quantity in shaping ocean productivity and carbon cycling. The future projection of ocean carbon dynamics will therefore require integration of ice-sheet processes into ocean biogeochemistry models.",
+    "source": "Nature Geoscience",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01911-0",
+    "title": "South Pacific carbon uptake controlled by West Antarctic Ice Sheet dynamics",
+    "link": "https://www.nature.com/articles/s41561-025-01911-0",
+    "authors": [
+      "Torben Struve",
+      "Frank Lamy",
+      "Frederik Gäng",
+      "Johann P. Klages",
+      "Gerhard Kuhn",
+      "Oliver Esper",
+      "Lester Lembke-Jene",
+      "Gisela Winckler"
+    ],
+    "summary": "Nature Geoscience, Published online: 02 February 2026; <a href=\"https://www.nature.com/articles/s41561-025-01911-0\">doi:10.1038/s41561-025-01911-0</a>Iron derived from debris eroded by the West Antarctic Ice Sheet rather than from dust deposition drove variations in carbon export in the South Pacific Antarctic region over the past 500,000 years, according to geochemical proxies from a sediment core.",
+    "source": "Nature Geoscience",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01914-x",
+    "title": "Early Pleistocene ecosystem turnover in South Siberia linked to abrupt regional cooling",
+    "link": "https://www.nature.com/articles/s41561-025-01914-x",
+    "authors": [
+      "Joseph B. Novak",
+      "Alexander A. Prokopenko",
+      "Pavel E. Tarasov",
+      "James M. Russell",
+      "Emma R. Lindemuth",
+      "Koji Shichi",
+      "Kenji Kashiwaya",
+      "John Peck",
+      "Richard S. Vachula",
+      "George E. A. Swann",
+      "Pratigya J. Polissar"
+    ],
+    "summary": "Nature Geoscience, Published online: 02 February 2026; <a href=\"https://www.nature.com/articles/s41561-025-01914-x\">doi:10.1038/s41561-025-01914-x</a>Proxy records from Lake Baikal show that rapid cooling coincided with Northern Hemisphere ice sheet expansion 2.7 million years ago, a change accompanied by a transition to open steppe ecosystems.",
+    "source": "Nature Geoscience",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69229-y",
+    "title": "Author Correction: Analysis of the <i>Rehmannia chingii</i> genome identifies RcCYP72H7 as an epoxidase in iridoid glycoside biosynthesis",
+    "link": "https://www.nature.com/articles/s41467-026-69229-y",
+    "authors": [
+      "Fengqing Wang",
+      "Zhennan Jiang",
+      "Junge Gao",
+      "Chunyan Miao",
+      "Ci Song",
+      "Yahe Yang",
+      "Ning Ding",
+      "Yajing Li",
+      "Hongzheng Sun",
+      "Caixia Xie",
+      "Bao Zhang",
+      "Pengyu Zhang",
+      "Li Gu",
+      "Qiuwen Hao",
+      "Zhongyi Zhang",
+      "Luqi Huang",
+      "Yuan Yuan"
+    ],
+    "summary": "Nature Communications, Published online: 03 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69229-y\">doi:10.1038/s41467-026-69229-y</a>Author Correction: Analysis of the <i>Rehmannia chingii</i> genome identifies RcCYP72H7 as an epoxidase in iridoid glycoside biosynthesis",
+    "source": "Nature Communications",
+    "date": "2026-02-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69093-w",
+    "title": "Use of 3D and multidimensional X-ray imaging to see beneath the surface",
+    "link": "https://www.nature.com/articles/s41467-026-69093-w",
+    "authors": [
+      "Wendy L. Mao",
+      "Yijin Liu"
+    ],
+    "summary": "Nature Communications, Published online: 03 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69093-w\">doi:10.1038/s41467-026-69093-w</a>Modern 3D X-ray imaging reveals internal structure, density, and dynamics across multiple scales, overcoming fundamental limitations of 2D projections. These 3D and multidimensional imaging techniques are transforming materials characterization in disciplines from medical diagnostics to electronics and planetary science.",
+    "source": "Nature Communications",
+    "date": "2026-02-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-66772-y",
+    "title": "Author Correction: Regulation of nucleotide metabolism by mutant p53 contributes to its gain-of-function activities",
+    "link": "https://www.nature.com/articles/s41467-025-66772-y",
+    "authors": [
+      "Madhusudhan Kollareddy",
+      "Elizabeth Dimitrova",
+      "Krishna C. Vallabhaneni",
+      "Adriano Chan",
+      "Thuc Le",
+      "Krishna M. Chauhan",
+      "Zunamys I. Carrero",
+      "Gopalakrishnan Ramakrishnan",
+      "Kounosuke Watabe",
+      "Ygal Haupt",
+      "Sue Haupt",
+      "Radhika Pochampally",
+      "Gerard R. Boss",
+      "Damian G. Romero",
+      "Caius G. Radu",
+      "Luis A. Martinez"
+    ],
+    "summary": "Nature Communications, Published online: 03 February 2026; <a href=\"https://www.nature.com/articles/s41467-025-66772-y\">doi:10.1038/s41467-025-66772-y</a>Author Correction: Regulation of nucleotide metabolism by mutant p53 contributes to its gain-of-function activities",
+    "source": "Nature Communications",
+    "date": "2026-02-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69220-7",
+    "title": "Author Correction: A scope of prebiotic neat reaction conditions and the mechanism of urea-assisted phosphorylations of alcohols",
+    "link": "https://www.nature.com/articles/s41467-026-69220-7",
+    "authors": [
+      "Anastasiia Shvetsova",
+      "Lynda Merzoud",
+      "Augustin Lopez",
+      "Elodie Fromentin",
+      "Anne Baudouin",
+      "Henry Chermette",
+      "Isabelle Daniel",
+      "Michele Fiore",
+      "Peter Strazewski"
+    ],
+    "summary": "Nature Communications, Published online: 03 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69220-7\">doi:10.1038/s41467-026-69220-7</a>Author Correction: A scope of prebiotic neat reaction conditions and the mechanism of urea-assisted phosphorylations of alcohols",
+    "source": "Nature Communications",
+    "date": "2026-02-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68911-5",
+    "title": "Expanding the DNA damaging potential of artificial metallo-nucleases with click chemistry",
+    "link": "https://www.nature.com/articles/s41467-026-68911-5",
+    "authors": [
+      "Alex Gibney",
+      "Margareth Sidarta",
+      "Eva Delahunt",
+      "Pierre Mesdom",
+      "Lily Arrué",
+      "Sriram KK",
+      "Obed Akwasi Aning",
+      "Hedvig Hjerpe",
+      "Francisca Figueiredo",
+      "Kevin Cariou",
+      "Vickie McKee",
+      "Pegah Johansson",
+      "Shayon Bhattacharya",
+      "Damien Thompson",
+      "Michaela Wenzel",
+      "Gilles Gasser",
+      "Fredrik Westerlund",
+      "Andrew Kellett"
+    ],
+    "summary": "Nature Communications, Published online: 03 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-68911-5\">doi:10.1038/s41467-026-68911-5</a>New strategies to synthesise metal-based anticancer agents are critical for advancing chemotherapy. Here, the authors apply click chemistry to derive copper complexes that induce DNA strand breaks in recalcitrant cancer cells, validating an innovative route for metallodrug design.",
+    "source": "Nature Communications",
+    "date": "2026-02-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68812-7",
+    "title": "An absolute quantification atlas of small non-coding RNAs across diverse mammalian tissues and cell lines",
+    "link": "https://www.nature.com/articles/s41467-026-68812-7",
+    "authors": [
+      "Wen Xiao",
+      "Yuli Zheng",
+      "Hongdao Zhang",
+      "Beiying Xu",
+      "Ruiwen Zhang",
+      "Ligang Wu"
+    ],
+    "summary": "Nature Communications, Published online: 03 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-68812-7\">doi:10.1038/s41467-026-68812-7</a>A comprehensive and quantitatively accurate reference for small noncoding RNAs is lacking. Here, the authors present 4NBoost and create an absolute quantification atlas of sncRNA expression across tissues and cell lines, along with a bias-correction model and the SmRNAQuant web resource",
+    "source": "Nature Communications",
+    "date": "2026-02-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69164-y",
+    "title": "Anthropogenic climate change drives rising global heat stress and its spatial inequality",
+    "link": "https://www.nature.com/articles/s41467-026-69164-y",
+    "authors": [
+      "Jian Peng",
+      "Qi Wang",
+      "Zhiwei Yang",
+      "Jianquan Dong",
+      "Xiaoyu Yu",
+      "Jonathan Corcoran"
+    ],
+    "summary": "Nature Communications, Published online: 03 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69164-y\">doi:10.1038/s41467-026-69164-y</a>Global heat stress has increased, with 52% of land area showing rising mean intensity and 67% showing more extreme heat stress days. Anthropogenic climate change dominates these trends and widens inequalities across economies.",
+    "source": "Nature Communications",
+    "date": "2026-02-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03242-3",
+    "title": "Atmospheric rivers and winter sea ice drive recent reversal in Antarctic ice mass loss",
+    "link": "https://www.nature.com/articles/s43247-026-03242-3",
+    "authors": [
+      "Marlen Kolbe",
+      "Jose Abraham Torres Alavez",
+      "Ruth Mottram",
+      "Marwan Katurji",
+      "Richard Bintanja",
+      "Eveline C. van der Linden"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 03 February 2026; <a href=\"https://www.nature.com/articles/s43247-026-03242-3\">doi:10.1038/s43247-026-03242-3</a>The recent increase in Antarctic Ice Sheet mass is driven by enhanced precipitation from frequent atmospheric rivers, stronger westerlies, and reduced sea ice, which together offset ice loss from outlet glacier discharge, according to reanalysis and regional climate modelling.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-02-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03172-6",
+    "title": "High profits from soybean-corn agriculture are associated with increased land prices and deforestation rates in Mato Grosso’s Amazon forests",
+    "link": "https://www.nature.com/articles/s43247-025-03172-6",
+    "authors": [
+      "Richards Peter",
+      "Eugenio Arima"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 03 February 2026; <a href=\"https://www.nature.com/articles/s43247-025-03172-6\">doi:10.1038/s43247-025-03172-6</a>In Mato Grosso, Brazil, an increase in profits from safrinha corn indirectly increases land values and forest loss, and these effects persist for several years after a shift in profits, according to an analysis that combines crop, cost, and yield data with a statistical model.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-02-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03247-y",
+    "title": "El Niño–Southern Oscillation strengthened by North Atlantic Iceberg discharge during Heinrich stadial 1",
+    "link": "https://www.nature.com/articles/s43247-026-03247-y",
+    "authors": [
+      "Marco Yseki",
+      "Bruno Turcq",
+      "Dimitri Gutiérrez",
+      "Renato Salvatteci",
+      "Dante Espinoza-Morriberón",
+      "Hugues Boucher",
+      "Philippe Martinez",
+      "Matthieu Carré"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 03 February 2026; <a href=\"https://www.nature.com/articles/s43247-026-03247-y\">doi:10.1038/s43247-026-03247-y</a>El Niño–Southern Oscillation variability was not only stronger during the deglaciation but also correlated with North Atlantic records of iceberg discharge, according to analysis of finely laminated sediments from the Peruvian margin.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-02-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03233-4",
+    "title": "Amazonian fog harbors viable microbes",
+    "link": "https://www.nature.com/articles/s43247-026-03233-4",
+    "authors": [
+      "Ricardo H. M. Godoi",
+      "Emerson L. Y. Hara",
+      "Bruna G. Sebben",
+      "Philip E. Taylor",
+      "Dulcilena M. Castro e Silva",
+      "Sebastian Brill",
+      "Valter B. Duo Filho",
+      "Glaucio Valdameri",
+      "Luciano F. Huergo",
+      "Rosaria R. Ferreira",
+      "Cléo Q. Dias-Junior",
+      "Maurício C. Mantoani",
+      "Fábio L. T. Gonçalves",
+      "Rachel I. Albrecht",
+      "Nurun N. Lata",
+      "Gregory Vandergrift",
+      "Swarup China",
+      "Carlos I. Yamamoto",
+      "Rodrigo F. C. Marques",
+      "Rodolfo D. Piazza",
+      "Rodrigo A. F. Souza",
+      "Theotonio Pauliquevis",
+      "Paulo Artaxo",
+      "Luiz A. T. Machado",
+      "Heitor Evangelista",
+      "Jéssica C. dos Santos-Silva",
+      "Sanja Potgieter-Vermaak",
+      "Subha S. Raj",
+      "Christopher Pöhlker",
+      "Jens Weber",
+      "Bettina Weber",
+      "Laudemir C. Varanda",
+      "Ivan Kourtchev",
+      "Scot T. Martin",
+      "Ulrich Pöschl",
+      "Meinrat O. Andreae"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 03 February 2026; <a href=\"https://www.nature.com/articles/s43247-026-03233-4\">doi:10.1038/s43247-026-03233-4</a>Amazonian fog samples contain viable microbes, suggesting fog plays a role microbial dispersal, colonization and nutrient cycling, according to analyses of fog samples from a tall tower observatory.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-02-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03234-3",
+    "title": "Unique atmospheric boundary layer structures driven by lake effects",
+    "link": "https://www.nature.com/articles/s43247-026-03234-3",
+    "authors": [
+      "Weiyao Ma",
+      "Weiqiang Ma",
+      "Zhipeng Xie",
+      "Binbin Wang",
+      "Haoran Shi",
+      "R. Iestyn Woolway",
+      "Yaoming Ma"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 03 February 2026; <a href=\"https://www.nature.com/articles/s43247-026-03234-3\">doi:10.1038/s43247-026-03234-3</a>Large inland lakes tend to increase the atmospheric boundary layer height over nearby land areas and reduce it over the lake itself, with the dominant mechanisms (thermal, moisture, and dynamic processes) varying with season, lake elevation, size, and latitude.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-02-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03246-z",
+    "title": "Ultradeep drilling beyond 10 km revealing new insights into Earth systems and resources",
+    "link": "https://www.nature.com/articles/s43247-026-03246-z",
+    "authors": [
+      "Guangyou Zhu",
+      "Haiping Huang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 03 February 2026; <a href=\"https://www.nature.com/articles/s43247-026-03246-z\">doi:10.1038/s43247-026-03246-z</a>Hydrocarbons can persist and migrate far deeper than previously assumed and may coexist with natural hydrogen, geothermal fluids, and metal-rich brines, according to a synthesis of geochemical and petrophysical drilling data beyond 10 km from China’s recent programs.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-02-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03253-0",
+    "title": "Molecular fingerprinting of microbial consortia in late Oligocene microbialite architectures from a freshening Junggar paleolake, Central Asia",
+    "link": "https://www.nature.com/articles/s43247-026-03253-0",
+    "authors": [
+      "Zhenle Zhao",
+      "Chaodong Wu",
+      "Xingqian Cui",
+      "Jian Ma"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 02 February 2026; <a href=\"https://www.nature.com/articles/s43247-026-03253-0\">doi:10.1038/s43247-026-03253-0</a>Oligocene-aged microbialites preserved intact lipid biomarkers, revealing microbial activity and oncolite growth. Advanced geochemical and imaging techniques decoded these microbial “time capsules” at unprecedented resolution.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2502076123?af=R",
+    "title": "Deglacial stratification of the polar Southern Ocean",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2502076123?af=R",
+    "authors": [
+      "François FripiatDaniel M. SigmanXuyuan E. AiCédric DumoulinSimone MorettiAnja S. StuderBernhard DiekmannOliver EsperThomas FrederichsFrank LamyLing LiuFrank PattynMareike SchmittRalf TiedemannGerald H. HaugAlfredo Martínez-GarcíaaDepartment of Geosciences, Environment and Society, Université Libre de Bruxelles, Brussels 1050, BelgiumbClimate Geochemistry Department, Max Planck Institute for Chemistry, Mainz 55128, GermanycDepartment of Geosciences, Princeton University, Princeton, NJ 08544dDepartment of Environmental Sciences, University of Basel, Basel 4056, SwitzerlandeAlfred Wegener Institute, Helmholtz Centre for Polar and Marine Research, Bremerhaven 27570, GermanyfCenter for Marine Environmental Sciences, University of Bremen, Bremen 28334, GermanygDepartment of Earth Sciences, ETH Zürich, Zürich 8092, Switzerland"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 6, February 2026. <br />SignificanceThe effect of global warming on the circulation of the Southern Ocean is complicated by the potential for interactions between wind-driven upwelling and surface buoyancy fluxes. Here, we study changes in the Southern Ocean’s surface conditions ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2520191123?af=R",
+    "title": "Evolution of Pliocene-Pleistocene tropical terrestrial Andean temperature amplification",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2520191123?af=R",
+    "authors": [
+      "Lina C. Pérez-AngelJulio SepúlvedaPeter MolnarHéctor Mora-PaezAngélica ParradoKatelyn EamanJames RussellBalaji RajagopalanCatalina González-ArangoKathryn SnellCamilo MontesJames L. CrowleyMark SchmitzRobin B. TrayleraDepartment of Earth, Environmental, and Planetary Sciences, Brown University, Providence, RI 02912bInstitute at Brown for Environment and Society, Brown University, Providence, RI 02912cDepartment of Geological Sciences, University of Colorado Boulder, Boulder, CO 80309dInstitute of Arctic and Alpine Research, University of Colorado Boulder, Boulder, CO 80309eCooperative Institute for Research in Environmental Science, University of Colorado Boulder, Boulder, CO 80309fFacultad de Ciencias e Ingeniería, Universidad de Manizales, Manizales 170001, ColombiagLitoteca, Servicio Geológico Colombiano, Bogotá 11121, ColombiahDepartment of Geology, University at Buffalo, Buffalo, NY 14260iDepartment of Civil, Environmental, and Architectural Engineering, University of Colorado Boulder, Boulder, CO 80309jBiology Department, Universidad de Los Andes, Bogotá 111711, ColombiakDepartment of Physics and Geosciences, Universidad del Norte, Barranquilla 080001, ColombialDepartment of Geosciences, Boise State University, Boise, ID 83725mDepartment of Life and Environmental Sciences, University of California Merced, Merced, CA 95343"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 6, February 2026. <br />SignificanceThe tropics are home to 40% of the world’s population, and countries in the tropics are ill-equipped to adapt to future climate change. While the Pliocene epoch is one of the best climatic analogues to explore present and future change, it ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2524123123?af=R",
+    "title": "Projecting nitrous oxide over the 21st century, uncertainty related to stratospheric loss",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2524123123?af=R",
+    "authors": [
+      "Michael J. PratherCalum P. WilsonaEarth System Science Department, University of California, Irvine, CA 92697-3100"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 6, February 2026. <br />SignificanceProjecting atmospheric nitrous oxide (N2O) abundance is critical for climate and ozone assessments. Research has focused on projecting the changing emissions of N2O from direct anthropogenic sources, the dominant cause of the recent growth. ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2525498123?af=R",
+    "title": "Lead in archived hair documents a decline in lead exposure to humans since the establishment of the US Environmental Protection Agency",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2525498123?af=R",
+    "authors": [
+      "Thure E. CerlingDiego P. FernandezKen R. SmithaDepartment of Geology and Geophysics, University of Utah, Salt Lake City, UT 84112bSchool of Biological Sciences, University of Utah, Salt Lake City, UT 84112cDepartment of Family and Consumer Studies, University of Utah, Salt Lake City, UT 84112dHuntsman Cancer Institute, University of Utah, Salt Lake City, UT 84112"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 6, February 2026. <br />Lead (Pb) is well known to be toxic to humans. We use archived hair from individuals living along the Wasatch Front in Utah to evaluate changes in exposure to lead over the last 100 y. Current concentrations of lead in hair from this population average ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2600481123?af=R",
+    "title": "Correction for Ajourlou et al., Upper mantle temperatures illuminate the Iceland hotspot track and understanding of ice–Earth interactions in Greenland",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2600481123?af=R",
+    "authors": [],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 6, February 2026. <br />",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2600626123?af=R",
+    "title": "Correction for Yi et al., Underestimated input of terrestrial dissolved organic carbon to the ocean",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2600626123?af=R",
+    "authors": [],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 6, February 2026. <br />",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226000280",
+    "title": "Estimating paleotemperature using stable isotopes of soil-formed phyllosilicates from paleosols: A review",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226000280?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 2 February 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Kate Andrzejewski, Julia A. McIntosh, Erik L. Gulbranson, Daniel Ibarra",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-02-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226000309",
+    "title": "A review on geochemical carbon dioxide removal potential of mafic and ultramafic rocks in India",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226000309?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 2 February 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Shreya Katre, K. Ravi, Archana M. Nair",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-02-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26000427",
+    "title": "New early cretaceous paleomagnetic results from the Northern Lhasa Terrane and their tectonic implications",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26000427?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 April 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 679Author(s): Zijian Li, Yalin Li, Xiaodong Tan, Zhongpeng Han, Shuai Li, Xingduo Ma, Ying Liang, Xu Zhang, Jizheng Song, Zihao Zhou, Yuanxiang Li, Shuqing Miao, Chengshan Wang",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-02-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119484",
+    "title": "Persisting Modulation of Interdecadal Pacific Oscillation on Near‐Future Winter Precipitation Projections in Northern Europe",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119484?af=R",
+    "authors": [
+      "Mengyuan Yao, \nHaosu Tang, \nGang Huang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119667",
+    "title": "Warming of the Mid‐Troposphere Driven by Evapotranspiration During Compound Heatwave and Drought Events",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119667?af=R",
+    "authors": [
+      "Tao Xu, \nHongxi Pang, \nShuangye Wu, \nYuqi Zheng, \nHuiwen Guo, \nWangbin Zhang, \nPeng Zhang, \nDeliang Chen, \nShugui Hou"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120218",
+    "title": "Role of the Diurnal Tide in Driving the Westward Phase of the Mesospheric Semiannual Oscillation Around March Equinox",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120218?af=R",
+    "authors": [
+      "Christopher S. Krier, \nHanli Liu, \nGuiping Liu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119826",
+    "title": "Drying Soil Moisture Dominates Enhancing Summer Soil Moisture‐Temperature Coupling Under Climate Change",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119826?af=R",
+    "authors": [
+      "Xuwen Zhang, \nXihui Gu, \nLiangwei Li, \nYanhui Zheng, \nDongdong Kong, \nYansong Guan, \nSijia Luo, \nAminjon Gulakhmadov, \nXiang Zhang, \nWen Xiao, \nLunche Wang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120701",
+    "title": "Weakening of Regional Hadley Circulation Delays Indian Summer Monsoon Rainfall Onset",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120701?af=R",
+    "authors": [
+      "Vaishnavi A. Wadhai, \nBalaji Senapati, \nMihir K. Dash, \nSwadhin K. Behera"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117573",
+    "title": "Achieving Explainable ENSO Prediction Using Small Data Training",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117573?af=R",
+    "authors": [
+      "Jie Feng, \nTao Lian, \nTing Liu, \nDake Chen, \nXichen Li, \nYoumin Tang, \nYanqiu Gao, \nXunshu Song"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118492",
+    "title": "Impact of Inter‐Basin Interactions on ENSO‐Associated Hadley Circulation Adjustments",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118492?af=R",
+    "authors": [
+      "Yujie Miao, \nTao Lian, \nYa Wang, \nYueyue Yu, \nYurong Hou, \nWeiqi Wang, \nYadi Li, \nWeichen Tao, \nXichen Li"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032000",
+    "title": "Small‐ and Medium‐Wavelength Dynamic Topography and Active Mantle Flow in Eastern China",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032000?af=R",
+    "authors": [
+      "Xiulei Zhang, \nBo Chen, \nRussell N. Pysklywec, \nEbru Şengül Uluocak, \nJianxin Liu"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 2, February 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2024JB030829",
+    "title": "Stress and Rock Failure Near Salt Bodies: Insights From Field Observations, Kinematic Modeling, and Mechanical Analysis Near Arches National Park, Paradox Basin, Utah",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JB030829?af=R",
+    "authors": [
+      "Lauren J. Reeher, \nSeth Busetti, \nAmanda N. Hughes, \nGeorge H. Davis"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 2, February 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726000748",
+    "title": "Lithium isotopes in waters of the tropical volcanic island of Guadeloupe: A proxy of high and low-temperature water-rock interactions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726000748?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 3 February 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Céline Dessert, Mathieu Dellinger, Clémentine Clergue, Jérôme Gaillardet, Marc F. Benedetti",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-02-04",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53908.1/725506/Late-Cenozoic-tectonic-versus-glacial-control-on",
+    "title": "Late-Cenozoic tectonic versus glacial control on the topographic evolution of the Terskey Range, Kyrgyz Tian Shan",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53908.1/725506/Late-Cenozoic-tectonic-versus-glacial-control-on",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The relative influence of tectonics and climate on topography and surface processes remains poorly constrained in many mountainous regions. The effect of late-Cenozoic glaciations on global erosion rates and relief is particularly disputed. The Terskey Range, in the Kyrgyz Tian Shan, can provide key insights to these questions due to its well-documented late-Cenozoic tectonic activity and substantial Quaternary glacier cover. To address these questions, we investigated two valleys within the Terskey Range, separated by 40 km: the glacial Barskoon Valley and the mostly fluvial Kyzyl Suu Valley. We present new apatite (U-Th-Sm)/He (AHe) thermochronology data from valley-bottom samples in the Barskoon Valley and re-analyzed published low-temperature thermochronology data for both valleys. Inverse 3-D thermal-kinematic modeling indicates a shared tectonic history for both valleys, including accelerated thrusting starting at 10−8 Ma. In contrast to the Kyzyl Suu Valley, the Barskoon Valley additionally records a 22% increase in relief over the past ∼2 m.y., suggesting rapid valley deepening following the initiation of glaciation in the Terskey Range. These results imply that the impact of Quaternary climate change on erosion rates is highly spatially variable.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53971.1/725505/Derivation-of-the-nonlinear-dependence-of-aeolian",
+    "title": "Derivation of the nonlinear dependence of aeolian sand flux on wind speed",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53971.1/725505/Derivation-of-the-nonlinear-dependence-of-aeolian",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Aeolian transport, in which turbulent wind shearing over a granular bed causes grains to hop or roll along the bed, is a major mechanism controlling bedform evolution and desertification processes. Predictions of transport rates have significantly advanced in recent years, but none of the theoretical models has managed to provide accurate predictions of aeolian transport over a wide range of wind conditions. Here, we develop a theory, based on the physics of different transport regimes, that accounts for the linear and nonlinear scaling exhibited by aeolian sand transport, capturing quantitatively the contribution of these regimes to the total transport for a wide range of wind velocities. Our theoretical predictions are in very good agreement with experimental results for a large range of wind strengths.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54065.1/725504/Metal-transport-by-magmatic-volatile-phases-in",
+    "title": "Metal transport by magmatic volatile phases in crustal systems",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54065.1/725504/Metal-transport-by-magmatic-volatile-phases-in",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Magmatic volatile phases (MVPs) are multicomponent fluids that are a transport medium for metals being transferred from deep magmatic sources to sites of ore formation. However, the melt-to-fluid exchange of metals remains elusive because existing empirical simulations primarily address metal transport through the fate of one chemical element. We use a comprehensive thermochemical model to simulate the fractional crystallization of a silicate melt that degasses a multicomponent MVP. We show that the major and trace element abundances in MVPs formed from non-enriched magmatic systems are indistinguishable from MVPs found as fluid inclusions in mineralized and non-mineralized systems. We therefore conclude that ore formation is the consequence of repetitive intrusion-fractionation-degassing cycles common to crustal systems without pre-enriched sources, as opposed to scenarios wherein a particular or complex chemical system is required. Instead, the driving force of ore formation is a long-lived system fueled by an H<sub>2</sub>O- and Cl-bearing melt. Variations in metal signatures of fluids therefore reflect the pressure-temperature path of melt ascent and the changes in major element composition of the melt.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53699.1/725503/Pronounced-typhoon-landfall-imprints-in-the",
+    "title": "Pronounced typhoon landfall imprints in the Holocene precipitation isotope record from coastal South China",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53699.1/725503/Pronounced-typhoon-landfall-imprints-in-the",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Typhoon-induced heavy rainfall profoundly affects coastal society and economies, yet predicting its future remains challenging. Historical typhoon records are crucial for deciphering the mechanisms behind typhoon variability, but they seldom span the entire Holocene Epoch. Given the distinctively negative isotopic signatures of typhoon precipitation, this study examined a Holocene precipitation isotope record derived from the hydrogen isotope composition (δD) of leaf-wax <span style=\"font-style: italic;\">n</span>-alkanes in a lake sediment core from the South China coast to assess its potential for reflecting past typhoon activity. The reconstructed precipitation δD (δD<sub>p</sub>) values were less negative during 9.2−3.5 ka (1 ka = 1000 calendar yr B.P.) and more negative during 11.2−9.2 ka and 3.5−0 ka, showing an oscillating “negative-positive-negative” pattern. Superimposed on this pattern were millennial-scale negative excursions coinciding with North Atlantic Bond events. Unlike typical East Asian monsoon stalagmite δ<sup>18</sup>O records, we demonstrate that our δD<sub>p</sub> record reflects regional typhoon activity at millennial and multi-millennial time scales. It is likely that a weaker Atlantic Meridional Overturning Circulation and larger El Niño amplitude synergistically resulted in stronger typhoon activity and thus more negative δD<sub>p</sub> values in coastal South China during the early and late Holocene, respectively, as well as during Bond events.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53965.1/725502/Temporal-linkages-of-explosive-activity-of-Kolumbo",
+    "title": "Temporal linkages of explosive activity of Kolumbo and Santorini Volcanoes (Greece)",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53965.1/725502/Temporal-linkages-of-explosive-activity-of-Kolumbo",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The histories of submarine explosive volcanoes are commonly poorly known due to inaccessibility of their eruptive archives. This raises uncertainties in the eruption frequencies of these highly hazardous systems, and in their interactions with neighboring volcanoes. The submarine Kolumbo Volcanic Chain (KVC) northeast of Santorini is made up of the polygenetic Kolumbo Volcano and a linear zone of more than 20 smaller volcanic cones and is one of the most active eruptive centers on the South Aegean Volcanic Arc. However, despite the destructive eruption of Kolumbo in 1650 CE, and unrest in 2024−2025, the eruptive history of the KVC is poorly known. International Ocean Discovery Program (IODP) Expedition 398 deep-drilled the seafloor at two sites on the western flank of Kolumbo. Here, we use tephrostratigraphy to identify 19 explosive eruptions of the KVC (probably mostly Kolumbo itself) ranging from basaltic andesite to rhyolite in composition and beginning at ca. 265 ka. The lifespan-averaged recurrence time of explosive activity along the KVC is ∼6 k.y. (but as low as ∼1 k.y. between 178 ka and 164 ka), although many of these eruptions were smaller than that of 1650 CE. The birth of Kolumbo coincided with the transition of Santorini to highly explosive activity, possibly due to joint interactions with regional lithospheric stresses. Moreover, the three main phases of edifice construction at Kolumbo (ca. 265−193 ka, 24 ka, and 0.4 ka) broadly correspond to periods of caldera-forming eruptions at Santorini, reflecting additional couplings between the two volcanic systems on shorter time scales.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38032.1/725501/Long-duration-of-Permian-mafic-intrusions-in-the",
+    "title": "Long duration of Permian mafic intrusions in the northern Tarim Basin (northwestern China) and implications for the geodynamic evolution of the Tarim large igneous province",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38032.1/725501/Long-duration-of-Permian-mafic-intrusions-in-the",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The mafic intrusions represent one of the key factors contributing to an improved understanding of the characteristics of the Tarim large igneous province (LIP) of northwestern China and the geodynamic processes. The Awati-Manjar transition zone in the northern Tarim Basin contains extensive mafic intrusions, predominantly composed of diabases, making it a critical region for strengthening our understanding of the evolution and dynamics of the Tarim LIP. In this paper, we conducted an integrated analysis of the newly identified diabase intrusions in the Awati-Manjar transition zone of the northern Tarim Basin, including seismic and drilling data interpretation, petrographic observations, U-Pb isotopic dating, and whole-rock elemental and Sr-Nd isotopic analyses. Seismic and drilling data reveal two distinct occurrence models for the diabase intrusions: sill-shaped and saucer-shaped. Apatite U-Pb dating indicates that the diabases range in age from ca. 308 Ma to 266 Ma, with two distinguishable emplacement episodes identified within analytical uncertainty of 308−299 Ma and 286−266 Ma. The diabases from the earlier episode are sparsely distributed across the study area, whereas those from the later episode are widespread and constitute the majority of the diabase intrusions in the region. Geochemically, the diabases belong to an alkaline, sodium-rich, and high-Ti series. They exhibit consistent chondrite-normalized rare earth element and primitive mantle−normalized trace element patterns, marked by pronounced enrichment in light rare earth elements and highly incompatible elements, respectively. Notably, no Eu anomaly is observed, while distinct positive anomalies are present at Ba and Pb. Whole-rock Sr-Nd isotopic analyses reveal relatively depleted signatures, with (<sup>87</sup>Sr/<sup>86</sup>Sr)<sub>i</sub> ratios ranging from 0.7049 to 0.7074 and ε<sub>Nd</sub>(t) values from +0.60 to +2.75. Both elemental and isotopic data indicate that the diabases are compositionally analogous to oceanic-island basalt, implying a genetic link to a mantle plume. That is, they were likely formed through partial melting of a mantle plume source, followed by variable degrees of crustal assimilation and fractional crystallization. More significantly, our newly acquired geological data reveal that the mafic intrusions within the Tarim LIP actually exhibit a longer emplacement duration (spanning the entire lifespan of the Tarim LIP) and a broader spatial distribution (extending beyond the craton margins into its interior) than previously considered. To account for these observed characteristics, a new integrated crust-mantle interaction model has been developed.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38289.1/725500/Context-of-the-Falkland-Islands-in-the-pre-breakup",
+    "title": "Context of the Falkland Islands in the pre-breakup fabric of Gondwana: Evidence from detrital and ash fall zircon",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38289.1/725500/Context-of-the-Falkland-Islands-in-the-pre-breakup",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The Falkland Islands, within the South Atlantic Ocean, display expansive Paleozoic sedimentary successions for which affinities with coeval depositional systems in southern Gondwana have been debated. New U-Pb zircon age spectra for ash and sandstone samples from the Falklands successions assist in elucidating relationships. Dating of ash samples shows the Port Sussex Formation (Falklands Islands) is younger than the lower Ecca Group of the Karoo Basin, not contemporaneous, as previously proposed. The Falklands and South African Paleozoic sequences differ only modestly, suggesting their accumulation and subsequent inversions were similar, but they represent discrete, basinal entities. Detrital zircon age spectra for samples from the Falklands successions show remarkable age-related comparability. Those from Silurian−earliest Permian samples are dominated by late Neoproterozoic to Cambrian (650−490 Ma) and mid-Mesoproterzoic−earliest Neoproterzoic (1235−940 Ma) age clusters. Populations from younger, post-glacial, Permian strata are dominated by arc-derived Permian clusters, consistent with the occurrence of ashfall horizons in the Port Sussex Formation, as well as subordinate older zircon grains matching the populations from the older successions. Age spectra from the Falkland successions match those of rock assemblages of the Terra Australis Orogen, which developed across southern Gondwana during the late Neoproterozoic and Paleozoic, indicating enduring, large scale, provenance linkages. Two overlapping Paleozoic superbasinal systems, distributed as linear belts extending for &gt;6000 km are recognized as parts of southern Gondwana, stratigraphically separated by a disconformity embracing much of the Carboniferous. A remarkably similar upper-plate subsidence response to subduction along this margin is evident from the Silurian to Permian.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag074",
+    "title": "An orally administrable hydrogen-bonded organic framework (HOF)-based nanoreactor to reprogram metabolism for senescence intervention",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag074/8456377?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Aging poses significant health challenges due to functional decline and increased disease susceptibility. Modulating age-related metabolic dysregulation offers a promising therapeutic avenue. However, the efficacy of oral therapies is severely hampered by the degradation of active agents in the harsh gastrointestinal (GI) tract. Here, we report an orally administrable hydrogen-bonded organic framework (HOF)-based nanoreactor (MAO@NADH@PB@O-HOF@PEG) designed to intervene in senescence by modulating metabolic pathways. The HOF scaffold exhibits exceptional stability in ultra-acidic conditions and boiling water, providing a robust shield for its encapsulated delicate cargo from GI degradation. This protection enables prolonged <span style=\"font-style: italic;\">in situ</span> catalysis within the intestine, leading to reprogramming the gut metabolism by a catalytic degradation of the aging-elevated metabolite isoamylamine (IAA) in the intestine, serum, and cerebrospinal fluid (CSF). The apoptosis and inflammation driven by elevated IAA levels are mitigated through the catalytic degradation of IAA by the HOF-based anti-aging nanoreactor. Oral administration of MAO@NADH@PB@O-HOF@PEG to aged mice significantly alleviated cognitive decline, neuronal damage, and neuroinflammation. This study highlights the potential of robust HOF materials in the development of advanced oral delivery systems and geroprotective therapeutics.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-02-03",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2024TC008723",
+    "title": "Granite Emplacement in a Transpressional Tectonic Setting: Evidence of the Intra‐Pangea Megashear in Eastern China",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024TC008723?af=R",
+    "authors": [
+      "Chao Song, \nWei Lin, \nLingtong Meng, \nWei Wei, \nYin Wang, \nQuanlin Hou, \nRan An, \nZhao Guo, \nYang Chu, \nQinying Wu"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 2, February 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "10.1029/tect.70048",
+    "title": "Issue Information",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/tect.70048?af=R",
+    "authors": [
+      null
+    ],
+    "summary": "Tectonics, Volume 45, Issue 2, February 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-02-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S016913682600051X",
+    "title": "In situ geochemical investigations of pyrite constraining Au-Sb mineralization in the Jienagepu deposit, southern Tibet, China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S016913682600051X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 2 February 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Jinchao Wu, Degao Zhai, Zhi Zhang, Jiajun Liu, Jian-Feng Gao, Xiangfa Song, Zijun Qiu, Qingqing Zhao, Gang Zhao",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-02-04",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-026-10192-5",
     "title": "A broadly protective antibody targeting gammaherpesvirus gB",
     "link": "https://www.nature.com/articles/s41586-026-10192-5",
