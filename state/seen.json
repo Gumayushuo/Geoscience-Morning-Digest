@@ -1,5 +1,486 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-69077-w",
+    "title": "A combinatorial synthetic strategy for developing genome-editing protein-delivery agents targeting mouse retina",
+    "link": "https://www.nature.com/articles/s41467-026-69077-w",
+    "authors": [
+      "Jianye Zhang",
+      "Rafał Hołubowicz",
+      "Roman Smidak",
+      "Yulun Hu",
+      "Samuel W. Du",
+      "Jiin H. Felgner",
+      "Grazyna Palczewska",
+      "Carolline Rodrigues Menezes",
+      "Eleonora Risaliti",
+      "Zhiqian Dong",
+      "Xiuli Ma",
+      "Mojtaba H. Shayegan",
+      "Paul Z. Chen",
+      "Li Xing",
+      "Maria Hołubowicz",
+      "Bowen Li",
+      "David R. Liu",
+      "Philip L. Felgner",
+      "Gregory P. Tochtrop",
+      "Krzysztof Palczewski"
+    ],
+    "summary": "Nature Communications, Published online: 07 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69077-w\">doi:10.1038/s41467-026-69077-w</a>Precise and efficient CRISPR genome editing requires specialized delivery systems. Here, the authors develop Coomassie lipidoids that deliver purified adenine base editors into retinal tissues, making it possible to achieve robust genome editing with a defined, non-viral nanomedicine.",
+    "source": "Nature Communications",
+    "date": "2026-02-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69371-7",
+    "title": "Interleukin-10 expressing B lineage cells in visceral adipose tissue protect against aging-related insulin resistance and extend lifespan",
+    "link": "https://www.nature.com/articles/s41467-026-69371-7",
+    "authors": [
+      "Jielong Guo",
+      "Xue Han",
+      "Yue Qin",
+      "Kexin Hong",
+      "Yuchen Lin",
+      "Shuping Han",
+      "Ning Hou",
+      "Lihui Cao",
+      "Xiaoxiang Gao",
+      "Weidong Huang",
+      "Xiaomeng Liu",
+      "Jicheng Zhan",
+      "Yilin You"
+    ],
+    "summary": "Nature Communications, Published online: 07 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69371-7\">doi:10.1038/s41467-026-69371-7</a>Aging is characterised by visceral adipose tissue (VAT) inflammation but the molecular mechanisms driving or inhibiting the VAT-driven processes are not fully known. Here the authors identify BAFF as a soluble mediator in VAT to promote the expansion of regulatory B cells that produce IL-10 to inhibit aging-related inflammation.",
+    "source": "Nature Communications",
+    "date": "2026-02-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69084-x",
+    "title": "Neuromorphic photonic computing with an electro-optic analog memory",
+    "link": "https://www.nature.com/articles/s41467-026-69084-x",
+    "authors": [
+      "Sean Lam",
+      "Ahmed Khaled",
+      "Simon Bilodeau",
+      "Bicky A. Marquez",
+      "Paul R. Prucnal",
+      "Lukas Chrostowski",
+      "Bhavin J. Shastri",
+      "Sudip Shekhar"
+    ],
+    "summary": "Nature Communications, Published online: 07 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69084-x\">doi:10.1038/s41467-026-69084-x</a>Neuromorphic photonic systems can incur significant energy for moving and converting data between digital and analog domains. This work shows that integrating analog memory into these processors can save 26 × power over conventional digital-to-analog architectures while keeping > 90% inference accuracy.",
+    "source": "Nature Communications",
+    "date": "2026-02-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68982-4",
+    "title": "Radical footprinting in mammalian whole blood",
+    "link": "https://www.nature.com/articles/s41467-026-68982-4",
+    "authors": [
+      "Mingming Zhao",
+      "Lyle Tobin",
+      "Sandeep K. Misra",
+      "Anter A. Shami",
+      "Ajay Sharma",
+      "Juliette Locklar",
+      "Sayed A. Mobarak",
+      "Haolin Luo",
+      "Lisa M. Jones",
+      "James A. Stewart Jr.",
+      "Joshua S. Sharp"
+    ],
+    "summary": "Nature Communications, Published online: 07 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-68982-4\">doi:10.1038/s41467-026-68982-4</a>Radical protein footprinting reveals protein structure and interactions, but has not – to the best of the authors knowledge - been applied in whole blood. Here, authors demonstrate in-blood footprinting in mice, uncovering diabetes-associated protein conformational changes that were validated by orthogonal assays.",
+    "source": "Nature Communications",
+    "date": "2026-02-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69386-0",
+    "title": "Myoferlin is a component of late-stage vRNP trafficking vesicles for enveloped RNA viruses",
+    "link": "https://www.nature.com/articles/s41467-026-69386-0",
+    "authors": [
+      "Stefano Bonazza",
+      "Hannah L. Turkington",
+      "Swathi Sukumar",
+      "Emily Peate",
+      "Hannah L. Coutts",
+      "Joshua J. Montgomery",
+      "Courtney Hawthorn",
+      "Erin M. P. E. Getty",
+      "Olivier Touzelet",
+      "Judit Barabas",
+      "Ultan F. Power",
+      "David G. Courtney"
+    ],
+    "summary": "Nature Communications, Published online: 07 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69386-0\">doi:10.1038/s41467-026-69386-0</a>Here, the authors show that myoferlin is a crucial host factor that helps move viral genetic cargo to the cell surface, boosting influenza, RSV and Sendai virus spread, highlighting a common weak spot for future antivirals.",
+    "source": "Nature Communications",
+    "date": "2026-02-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69303-5",
+    "title": "Assessing conformation validity and rationality of deep learning-generated 3D molecules",
+    "link": "https://www.nature.com/articles/s41467-026-69303-5",
+    "authors": [
+      "Fan Fan",
+      "Bin Xi",
+      "Xianghu Meng",
+      "Han Wang",
+      "Bowen Zhang",
+      "Qingbo Xu",
+      "Wei Feng",
+      "Wenfeng Gao",
+      "Xiaoman Wang",
+      "Yuji Wang",
+      "Hongbo Zhang",
+      "Feng Zhou",
+      "Zhenming Liu",
+      "Wenbiao Zhou",
+      "Bo Huang"
+    ],
+    "summary": "Nature Communications, Published online: 07 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69303-5\">doi:10.1038/s41467-026-69303-5</a>The rapid expansion of 3D molecule generation models underscores the need for reliable conformation evaluation. Here, the authors present a fast two-stage framework that detects atomic and torsional errors with quantum-mechanical accuracy.",
+    "source": "Nature Communications",
+    "date": "2026-02-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69287-2",
+    "title": "In-memory multilevel control of generic SO(m) holonomy in photonics",
+    "link": "https://www.nature.com/articles/s41467-026-69287-2",
+    "authors": [
+      "Youlve Chen",
+      "Jiaxin Zhang",
+      "Jinlong Xiang",
+      "An He",
+      "Weibiao Chen",
+      "Yikai Su",
+      "Junying Li",
+      "Xuhan Guo"
+    ],
+    "summary": "Nature Communications, Published online: 07 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69287-2\">doi:10.1038/s41467-026-69287-2</a>The researchers showcase nonvolatile multilevel tunable SO(m) holonomy in heterogeneous integrated photonics, merging static geometric-phase control with programmability for robust and adaptable “all-geometric” classical and quantum information processing.",
+    "source": "Nature Communications",
+    "date": "2026-02-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69275-6",
+    "title": "Ultralong octupole moment switching driven by twin topological spin structures",
+    "link": "https://www.nature.com/articles/s41467-026-69275-6",
+    "authors": [
+      "Shijie Xu",
+      "Zhizhong Zhang",
+      "Bingqian Dai",
+      "Yan Huang",
+      "Yudong Pang",
+      "Yinchang Ma",
+      "Wenkai Lou",
+      "Tianyi Wang",
+      "Chen Liu",
+      "Man Yang",
+      "Meng Tang",
+      "Houyi Cheng",
+      "Kang L. Wang",
+      "Kai Chang",
+      "Yue Zhang",
+      "Weisheng Zhao",
+      "Xixiang Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 07 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69275-6\">doi:10.1038/s41467-026-69275-6</a>Authors find a twin-spin state in antiferromagnets, quantifies its magnetic octupole spin–orbit torque, and shows that it enables exceptionally long-distance spin transport beyond conventional spin currents.",
+    "source": "Nature Communications",
+    "date": "2026-02-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03268-7",
+    "title": "Stochastic poromechanical analysis forecasts a notable exceedance probability for the 2017 Pohang, South Korea, <i>M</i><sub>w</sub> 5.5 earthquake",
+    "link": "https://www.nature.com/articles/s43247-026-03268-7",
+    "authors": [
+      "Haiqing Wu",
+      "Victor Vilarrasa",
+      "Francesco Parisio",
+      "Andrés Alcolea",
+      "Peter Meier",
+      "Jesus Carrera",
+      "Maarten Saaltink"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 07 February 2026; <a href=\"https://www.nature.com/articles/s43247-026-03268-7\">doi:10.1038/s43247-026-03268-7</a>The failure stress threshold for fluid injection to activate a damaging earthquake at the Pohang site was about one order of magnitude larger than expected for natural earthquakes, according to stochastic poromechanical simulations of the fault zone",
+    "source": "Communications Earth & Environment",
+    "date": "2026-02-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03275-8",
+    "title": "Higher, but more variable, annual CO<sub>2</sub> emissions from lakes in drier Arctic landscapes",
+    "link": "https://www.nature.com/articles/s43247-026-03275-8",
+    "authors": [
+      "Václava Hazuková",
+      "Fredrik Alriksson",
+      "Cristian Gudasz",
+      "Jan Karlsson",
+      "Chunlin Song",
+      "Matthew J. Bogard",
+      "David E. Butman",
+      "Joshua F. Dean",
+      "Anders Jonsson",
+      "Erik Lundin",
+      "Suzanne E. Tank",
+      "Jasmine E. Saros"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 07 February 2026; <a href=\"https://www.nature.com/articles/s43247-026-03275-8\">doi:10.1038/s43247-026-03275-8</a>CO₂ emissions from Arctic lakes are higher and more variable in drier regions than in wetter ones, likely due to limited fluvial export that allows carbon to accumulate and be more efficiently emitted, based on the analysis of a pan-Arctic CO₂ dataset.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-02-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2601712123?af=R",
+    "title": "Next-gen geothermal could bring clean power to much more of the planet",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2601712123?af=R",
+    "authors": [
+      "Stephen Battersby"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 7, February 2026. <br />",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-02-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2528315123?af=R",
+    "title": "Dominant inverse nonlinear energy cascades in coastal and inner shelf waters",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2528315123?af=R",
+    "authors": [
+      "Annalisa De LeoChang HeAlessandro StocchinoaDepartment of Civil and Environmental Engineering, State Key Laboratory of Climate Resilience for Coastal Cities, The Hong Kong Polytechnic University, Hong Kong, ChinabMinistry of Ecology and Environment, Key Laboratory of Coastal Urban Soil-Water Environmental Evolution, Shenzhen University, Shenzhen 518060, ChinacState Key Laboratory of Intelligent Geotechnics and Tunnelling, Shenzhen University, Shenzhen 518060, Guangdong, ChinadResearch Institute for Land and Space, The Hong Kong Polytechnic University, Hong Kong, China"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 6, February 2026. <br />SignificanceOcean turbulence is responsible for various mass transports, such as heat transfer and nutrient mixing, critical to climate systems and marine life. In particular, the South China Sea is a hotspot of complex currents subject to energy inputs ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-02-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2530754123?af=R",
+    "title": "How earthquakes organize stress",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2530754123?af=R",
+    "authors": [
+      "Emily E. BrodskyGaspard FargeaDepartment of Earth and Planetary Sciences, University of California, Santa Cruz, CA 95060bLaboratoire de Géologie, Département de géosciences, École normale supérieure, Université Paris Sciences & Lettres, CNRS, Paris 75005, France"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 6, February 2026. <br />SignificanceEarthquakes organize the stress in the crust by redistributing it through slip events. As a result, fault systems evolve to preferred, reproducible states as evidenced by natural experiments that measure statistical distributions of stress ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-02-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226000310",
+    "title": "Euler-pole clustering of GNSS velocities using unsupervised machine learning in the Southeastern Tibetan Plateau: Crustal block identification and the dominance of sinistral-slip faults",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226000310?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 6 February 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): X. Rui, D.S. Stamps",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-02-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26000798",
+    "title": "Coupled tectonic and surface processes in the Guerrero forearc, Mexico: Insights from the basin-averaged erosion rates",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26000798?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 April 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 679Author(s): Krzysztof Gaidzik, María-Teresa Ramírez-Herrera",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-02-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26000774",
+    "title": "Revisiting oxygen isotope anomalies in NO<sub>2</sub> and nitrate in the nocturnal atmosphere: a modeling approach",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26000774?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 April 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 679Author(s): Zhuang Jiang, Tao Zhou, Zhongyi Zhang, Zeqian Liu, Lei Geng",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-02-08",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119603",
+    "title": "Radiative Forcing of Western Tibetan Vortex on Surface Air Temperature in Spring",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119603?af=R",
+    "authors": [
+      "Jingzhi Wang, \nXiao‐Feng Li, \nJing Wang, \nSong Yang, \nHayley J. Fowler"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117474",
+    "title": "Solar Soft X‐Ray Proxy Derived From Observed Auger Photoelectrons by MGS and a 1999–2006 Flare Catalog at Mars",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117474?af=R",
+    "authors": [
+      "Shaosui Xu, \nEdward M. Thiemann, \nDavid L. Mitchell, \nPhillip C. Chamberlin"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119039",
+    "title": "Topside Ionospheric Ambipolar Diffusion Derived From ICON Observations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119039?af=R",
+    "authors": [
+      "Rongjin Du, \nLibo Liu, \nRuilong Zhang, \nWenbo Li, \nJing Liu, \nBowei Liu, \nYiding Chen, \nHan Ma, \nHuijun Le"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120625",
+    "title": "Steady Source Gravity Wave Parameterizations and the Observed Momentum Flux Intermittency",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120625?af=R",
+    "authors": [
+      "Robert C. King, \nBrian Green, \nAditi Sheshadri"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119289",
+    "title": "Cycled Fluid Injection Limits Maximum Earthquake Size by Controlling the Cadence of Seismic Moment Release",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119289?af=R",
+    "authors": [
+      "Zhi Geng, \nLei Wang, \nQuansheng Liu, \nJunpeng Wang, \nPengliang Yu, \nYuan Zhou, \nYouqi Huang, \nYongshui Kang, \nBin Liu, \nDerek Elsworth"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120396",
+    "title": "Enhanced Adiabatic Heating Drives Faster Warming of Early Summer Hot Extremes in North China",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120396?af=R",
+    "authors": [
+      "Jiawei Fang, \nYang Chen, \nZhen Liao"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118998",
+    "title": "Local Land‐Atmosphere Interactions Precondition Moist and Dry Heatwaves Under Large‐Scale Subsidence Over the Indo‐Gangetic Plains",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118998?af=R",
+    "authors": [
+      "Manali Saha, \nVishal Dixit, \nLanka Karthikeyan"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119543",
+    "title": "Comparing Synoptic Pattern Evolution for Flash‐Flood‐Producing and Non‐Flash‐Flood‐Producing Mesoscale Convective Systems in the United States",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119543?af=R",
+    "authors": [
+      "Wenjun Cui, \nZhanxiang Hua, \nThomas J. Galarneau Jr., \nZhe Feng, \nAlexandra Anderson‐Frey"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120163",
+    "title": "A Neural Network Model of Equatorial Electric Field Structures in the Inner Magnetosphere",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120163?af=R",
+    "authors": [
+      "M. Hua, \nS. Tian, \nJ. Bortnik, \nD. Ma, \nY. Wang, \nL. R. Lyons, \nJ. R. Wygant"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120303",
+    "title": "Salt Precipitation‐Driven Rock Failure Mode Transition During Geological CO2 Sequestration",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120303?af=R",
+    "authors": [
+      "Senyou An, \nJunjie Ju, \nJi Kong, \nYing Teng, \nLifei Yan, \nPengfei Wang, \nJianbo Zhu, \nHeping Xie"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726000840",
+    "title": "Can karst aquifer for public supply threatened by lead smelting be sustainably managed? Part I: Evidence from lead isotopes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726000840?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 6 February 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Bei-Yi Xu, Run-Zhi Xie, Song-Lin Liu, Jian-Ming Zhu, Wu-Tian Cai, Yan Zheng",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-02-08",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38538.1/725586/Geological-events-recorded-by-automorphic",
+    "title": "Geological events recorded by automorphic feldspars and associated minerals in Cretaceous Ashua limestones and the metamorphic zone of the Chejol dacite intrusion, Peru",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38538.1/725586/Geological-events-recorded-by-automorphic",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Geological field observations, coupled with laboratory methods including X-ray diffraction, scanning electron microscopy with energy-dispersive spectrometry, electron microprobe, Raman spectroscopy, and cathodoluminescence, were used to solve the complex problem of the origin of automorphic feldspars and coexisting silicates and aluminosilicates dispersed in the Late Cretaceous Ashua limestones and their metamorphosed crystalline varieties in southern Peru. Petrographic and geochemical data reveal at least three distinct generations of feldspar. The earliest generations of consistent crystallographic orientation (albite A cores and B rims), commonly associated with sericite and adularia, are interpreted as magmatic to postmagmatic in origin. They derived from pyroclastic material of the Early Cretaceous Matalaque Formation within the West Peruvian Trough. Albite grains, introduced as volcaniclastic detritus, are found both in the siliciclastic deposits of the Ashua and/or Chilcane formations and sporadically in restricted, evaporitic marine carbonate environments where celestite, barite, and opal A also precipitated. The outermost regeneration rim (albite-oligoclase composition; generation C), exhibiting distinct crystallographic orientations, conferred the automorphic habit to the feldspars within the contact aureole of the Paleogene Chejol hypabyssal dacite intrusion. It crystallized within metasomatic assemblages representative of skarns, alkali-amphibole, and aceite-type metasomatites, as well as propylitic facies, which formed under conditions ranging from ∼500 °C to 150 °C at near-neutral pH (∼8).As the main cations involved in the three-phased processes are Na, K, Mg, and Ca, this feldspar-C generation was associated with cogenetic minerals in crystalline limestone hosts. Al-rich titanite, Mg-chlorite, talc, and authigenic quartz characterize the earliest hydrothermal pulse. The subsequent hydrothermal episode led to the zeolitization and albitization, followed by the formation of quartz pseudomorphs after stilbite and albite.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-02-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826000612",
+    "title": "Magnetotelluric signatures for deep copper exploration in North Xinjiang, China: Revealing controls of deposit type and sulfide content on geophysical responses",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826000612?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 6 February 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Aolin Pan, Aimin Du, Tiebing Liu, Lei Meng, Changhao Li, Changming Yu",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-02-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826000375",
+    "title": "Genesis of high-quality igneous phosphate ore from anorthosite-hosted mafic and ultramafic rocks of the newly discovered Bégin-Lamarche Fe-Ti-P deposit, Grenville Province, Canada",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826000375?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 6 February 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Sandeep Banerjee, Peir K. Pufahl, Sarah A.S. Dare, Jean-Philippe Arguin",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-02-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826000594",
+    "title": "Beyond fixed thresholds: trend surface modeling of geochemical anomalies in the Shadan porphyry gold–copper deposit, eastern Iran",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826000594?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 6 February 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Hamid Geranian, Davood Raeisi, Saeid Hajsadeghi",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-02-08",
+    "sent": true
+  },
+  {
+    "id": "10.1111/jmg.70020",
+    "title": "Issue Information",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jmg.70020?af=R",
+    "authors": [
+      null
+    ],
+    "summary": "Journal of Metamorphic Geology, Volume 44, Issue 2, February 2026.",
+    "source": "Wiley: Journal of Metamorphic Geology: Table of Contents",
+    "date": "2026-02-06",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-026-10236-w",
     "title": "Author Correction: Environmentally driven immune imprinting protects against allergy",
     "link": "https://www.nature.com/articles/s41586-026-10236-w",
