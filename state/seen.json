@@ -1,5 +1,127 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-69270-x",
+    "title": "A role for condensin-mediator interaction in mitotic chromosome organization",
+    "link": "https://www.nature.com/articles/s41467-026-69270-x",
+    "authors": [
+      "Osamu Iwasaki",
+      "Sanki Tashiro",
+      "Claire Yik-Lok Chung",
+      "Tomomi Hayashi",
+      "Hideki Tanizawa",
+      "Xuebing Wang",
+      "Shinya Ohta",
+      "Yuko Fujioka",
+      "Joseph Han",
+      "Gabrielle Tabor",
+      "Mikihiro Kawagoe",
+      "Ronen Marmorstein",
+      "Nobuo N. Noda",
+      "Ken-ichi Noma"
+    ],
+    "summary": "Nature Communications, Published online: 08 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69270-x\">doi:10.1038/s41467-026-69270-x</a>Accurate chromosome segregation relies on three-dimensional genome organization, yet its molecular basis remains unclear. Here, the authors identify an interaction between the condensin and the mediator complexes. Its disruption disturbs mitotic gene expression, chromatin domain formation, and chromosome segregation.",
+    "source": "Nature Communications",
+    "date": "2026-02-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69297-0",
+    "title": "Decoding phantom limb movements from intraneural recordings",
+    "link": "https://www.nature.com/articles/s41467-026-69297-0",
+    "authors": [
+      "Cecilia Rossi",
+      "Marko Bumbasirevic",
+      "Paul Čvančara",
+      "Thomas Stieglitz",
+      "Stanisa Raspopovic",
+      "Elisa Donati",
+      "Giacomo Valle"
+    ],
+    "summary": "Nature Communications, Published online: 08 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69297-0\">doi:10.1038/s41467-026-69297-0</a>Decoding motor intents from peripheral nerves remains challenging. The authors record intraneural sciatic activity in transfemoral amputees and use a spiking neural network to decode phantom leg movements. These findings support bidirectional, neurally-controlled prosthetic systems.",
+    "source": "Nature Communications",
+    "date": "2026-02-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69098-5",
+    "title": "Uncovering Cas9 PAM diversity through metagenomic mining and machine learning",
+    "link": "https://www.nature.com/articles/s41467-026-69098-5",
+    "authors": [
+      "Tao Fang",
+      "Lea Bogensperger",
+      "Lilith Feer",
+      "Ahmed Allam",
+      "Valentyn Bezshapkin",
+      "Zsolt Balázs",
+      "Christian von Mering",
+      "Shinichi Sunagawa",
+      "Michael Krauthammer",
+      "Gerald Schwank"
+    ],
+    "summary": "Nature Communications, Published online: 08 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69098-5\">doi:10.1038/s41467-026-69098-5</a>CRISPR-Cas9 genome editing is constrained by the need for a protospacer adjacent motif (PAM) at the target site. Here, the authors combine metagenomic mining with machine learning to map and predict PAM specificities across thousands of Cas9 enzymes, expanding the genomic target space.",
+    "source": "Nature Communications",
+    "date": "2026-02-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69284-5",
+    "title": "Electrostatic properties of disordered regions control transcription factor search and pioneer activity",
+    "link": "https://www.nature.com/articles/s41467-026-69284-5",
+    "authors": [
+      "Sim Sakong",
+      "Beat Fierz",
+      "David M. Suter"
+    ],
+    "summary": "Nature Communications, Published online: 08 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69284-5\">doi:10.1038/s41467-026-69284-5</a>This work describes how positive charge in the peptide chain flanking the DNA-binding domain of transcription factors speeds up their search on free and chromatinized DNA, helping to explain why some transcription factors act as stronger pioneers.",
+    "source": "Nature Communications",
+    "date": "2026-02-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26000816",
+    "title": "Why the end-Guadalupian biotic crisis differs from mass extinctions: Insights from high-precision geochronology and carbon cycle modeling",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26000816?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 April 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 679Author(s): Qiong Wu, Zhang-shuai Hou, Jahandar Ramezani, Dong-xun Yuan, Hua Zhang, Wen-qian Wang, Quan-feng Zheng, Yi-chun Zhang, Fei-fei Zhang, Guang-yi Wei, Shu-han Zhang, Yue Wang, Douglas H. Erwin, Yi-gang Xu, Shu-zhong Shen",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-02-09",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2024TC008693",
+    "title": "Multi‐Method Geochronology and P‒T Modeling Unravels the Thermo‐Tectonic History of the Rudall Province, Western Australia",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024TC008693?af=R",
+    "authors": [
+      "Alejandra Bedoya, \nMartin Hand, \nXiao‐Fang He, \nJade Anderson, \nDavid E. Kelsey, \nChristopher L. Kirkland, \nStijn Glorie"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 2, February 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-02-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025TC009142",
+    "title": "Heat and Tectonics of the Canadian Cordillera From the Seismically Constrained Inversion of Gravity Data",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC009142?af=R",
+    "authors": [
+      "Nathan Hayward, \nTark S. Hamilton"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 2, February 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-02-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826000600",
+    "title": "Magmatism and mineralization in the Sangye-Qulong magmatic section, Southern Tibet",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826000600?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 8 February 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Leilei Dong, Huawei Li, Zhiming Yang",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-02-09",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-026-69077-w",
     "title": "A combinatorial synthetic strategy for developing genome-editing protein-delivery agents targeting mouse retina",
     "link": "https://www.nature.com/articles/s41467-026-69077-w",
