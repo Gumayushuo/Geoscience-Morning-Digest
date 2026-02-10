@@ -1,5 +1,440 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-026-00336-y",
+    "title": "Jupiter gets downsized — and squashed",
+    "link": "https://www.nature.com/articles/d41586-026-00336-y",
+    "authors": [],
+    "summary": "Nature, Published online: 09 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00336-y\">doi:10.1038/d41586-026-00336-y</a>The gas giant’s shape and size, previously known only from data collected more than 45 years ago, have been updated at last.",
+    "source": "Nature",
+    "date": "2026-02-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00389-z",
+    "title": "My mission to make life more user friendly for the disability community",
+    "link": "https://www.nature.com/articles/d41586-026-00389-z",
+    "authors": [
+      "Laurie Udesky"
+    ],
+    "summary": "Nature, Published online: 09 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00389-z\">doi:10.1038/d41586-026-00389-z</a>Inventor Josh Miele says that accelerating change requires uprooting social attitudes about blindness and other disabilities.",
+    "source": "Nature",
+    "date": "2026-02-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00385-3",
+    "title": "The dark side of green technology: what do electric vehicles really cost?",
+    "link": "https://www.nature.com/articles/d41586-026-00385-3",
+    "authors": [
+      "Chris Stokel-Walker"
+    ],
+    "summary": "Nature, Published online: 09 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00385-3\">doi:10.1038/d41586-026-00385-3</a>A powerful book reveals the corrupt deals and human exploitation behind the global scramble for strategic metals.",
+    "source": "Nature",
+    "date": "2026-02-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00386-2",
+    "title": "How to stop the survey-taking AI chatbots that threaten to upend social science",
+    "link": "https://www.nature.com/articles/d41586-026-00386-2",
+    "authors": [
+      "Folco Panizza",
+      "Yara Kyrychenko",
+      "Jon Roozenbeek"
+    ],
+    "summary": "Nature, Published online: 09 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00386-2\">doi:10.1038/d41586-026-00386-2</a>Researchers need new bot-detection strategies that exploit the limits of human reasoning rather than AI weaknesses.",
+    "source": "Nature",
+    "date": "2026-02-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-01920-7",
+    "title": "Mild-to-wild plasticity of Earth’s upper mantle",
+    "link": "https://www.nature.com/articles/s41561-026-01920-7",
+    "authors": [
+      "David Wallis",
+      "Kathryn M. Kumamoto",
+      "Thomas Breithaupt"
+    ],
+    "summary": "Nature Geoscience, Published online: 09 February 2026; <a href=\"https://www.nature.com/articles/s41561-026-01920-7\">doi:10.1038/s41561-026-01920-7</a>Flow of Earth’s upper mantle may include intermittent wild fluctuations in plastic strain rate of increasing frequency with depth, according to results of nanoindentation experiments on olivine crystals.",
+    "source": "Nature Geoscience",
+    "date": "2026-02-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69389-x",
+    "title": "Spin-exciton coupling modified by interfacial magnetic interactions in a van der Waals heterostructure",
+    "link": "https://www.nature.com/articles/s41467-026-69389-x",
+    "authors": [
+      "Weican Lan",
+      "Chaocheng Liu",
+      "Yajuan Feng",
+      "Ruiqi Liu",
+      "Yafei Chu",
+      "Lu Cheng",
+      "Chao Wang",
+      "Huijuan Wang",
+      "Minghui Fan",
+      "Zixun Zhang",
+      "Yuran Niu",
+      "Jheng-Cyuan Lin",
+      "Francesco Maccherozzi",
+      "Hengli Duan",
+      "Wensheng Yan"
+    ],
+    "summary": "Nature Communications, Published online: 10 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69389-x\">doi:10.1038/s41467-026-69389-x</a>Excitons are important excitations in solids with potential applications in quantum and spintronic technologies. The authors achieve bidirectional control of exciton energy in a twodimensional antiferromagnetic semiconductor via interfacial spin-exciton coupling.",
+    "source": "Nature Communications",
+    "date": "2026-02-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69321-3",
+    "title": "Diffusion models enable high-fidelity prediction of fuel cell impedance spectrum from short time-domain profiles",
+    "link": "https://www.nature.com/articles/s41467-026-69321-3",
+    "authors": [
+      "Hao Yuan",
+      "Dayi Tan",
+      "Zhihua Zhong",
+      "Jiangong Zhu",
+      "Pingwen Ming",
+      "Xuezhe Wei",
+      "Haifeng Dai"
+    ],
+    "summary": "Nature Communications, Published online: 10 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69321-3\">doi:10.1038/s41467-026-69321-3</a>Reliable fuel cell monitoring needs rapid access to impedance. Here, the authors use a denoising diffusion model to predict high-fidelity impedance spectrum from short signals, beating existing methods and releasing large open datasets.",
+    "source": "Nature Communications",
+    "date": "2026-02-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69407-y",
+    "title": "Author Correction: Random access and semantic search in DNA data storage enabled by Cas9 and machine-guided design",
+    "link": "https://www.nature.com/articles/s41467-026-69407-y",
+    "authors": [
+      "Carina Imburgia",
+      "Lee Organick",
+      "Karen Zhang",
+      "Nicolas Cardozo",
+      "Jeff McBride",
+      "Callista Bee",
+      "Delaney Wilde",
+      "Gwendolin Roote",
+      "Sofia Jorgensen",
+      "David Ward",
+      "Charlie Anderson",
+      "Karin Strauss",
+      "Luis Ceze",
+      "Jeff Nivala"
+    ],
+    "summary": "Nature Communications, Published online: 09 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69407-y\">doi:10.1038/s41467-026-69407-y</a>Author Correction: Random access and semantic search in DNA data storage enabled by Cas9 and machine-guided design",
+    "source": "Nature Communications",
+    "date": "2026-02-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69415-y",
+    "title": "Author Correction: Enantioselective construction of inherently chiral pillar[5]arenes via palladium-catalysed Suzuki–Miyaura cross-coupling",
+    "link": "https://www.nature.com/articles/s41467-026-69415-y",
+    "authors": [
+      "Ting-Rui Luan",
+      "Che Sun",
+      "Yong-Le Tian",
+      "Yu-Kun Jiang",
+      "Long-Long Xi",
+      "Ren-Rong Liu"
+    ],
+    "summary": "Nature Communications, Published online: 09 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69415-y\">doi:10.1038/s41467-026-69415-y</a>Author Correction: Enantioselective construction of inherently chiral pillar[5]arenes via palladium-catalysed Suzuki–Miyaura cross-coupling",
+    "source": "Nature Communications",
+    "date": "2026-02-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69406-z",
+    "title": "Publisher Correction: [Hg<sub>3</sub>Se<sub>2</sub>]<sup>2-</sup> cluster drives giant optical anisotropy and broad infrared transparency",
+    "link": "https://www.nature.com/articles/s41467-026-69406-z",
+    "authors": [
+      "Qixian Ren",
+      "Chen Cui",
+      "Xinchen Chen",
+      "Yabo Wu",
+      "Ran An",
+      "Zhihua Yang",
+      "Shilie Pan"
+    ],
+    "summary": "Nature Communications, Published online: 09 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69406-z\">doi:10.1038/s41467-026-69406-z</a>Publisher Correction: [Hg<sub>3</sub>Se<sub>2</sub>]<sup>2-</sup> cluster drives giant optical anisotropy and broad infrared transparency",
+    "source": "Nature Communications",
+    "date": "2026-02-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69272-9",
+    "title": "Phase engineering of relaxor ferroelectricity in van der Waals crystal",
+    "link": "https://www.nature.com/articles/s41467-026-69272-9",
+    "authors": [
+      "Tao Yang",
+      "Yinchang Ma",
+      "Dongxing Zheng",
+      "Weili Deng",
+      "Chen Liu",
+      "Maolin Chen",
+      "Kairan Mai",
+      "Xiang Lv",
+      "Xiaowen Zhang",
+      "Jingkai Xu",
+      "Baoyu Wang",
+      "Yan Li",
+      "Meng Tang",
+      "Guo Tian",
+      "Weiqing Yang",
+      "Xixiang Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 09 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69272-9\">doi:10.1038/s41467-026-69272-9</a>Relaxor ferroelectricity is achieved in two-dimensional CuInP2(S1−xSex)6 crystal via controlling the monoclinic and trigonal coexist phase, enabling memristors with more analog states and lower operating voltages.",
+    "source": "Nature Communications",
+    "date": "2026-02-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68994-0",
+    "title": "Phytic acid (InsP<sub>6</sub>) activates HDAC3 epigenetic axis to maintain intestinal barrier function",
+    "link": "https://www.nature.com/articles/s41467-026-68994-0",
+    "authors": [
+      "Sujan Chatterjee",
+      "Zachary Sin",
+      "Nguyen Tran",
+      "Loretta Vierra",
+      "Anuj Shukla",
+      "Tam Tran",
+      "George Koshkaryan",
+      "Kevin Ritter",
+      "Xue Bessie Su",
+      "Saharat Jolak Ragsac",
+      "Seungman Park",
+      "Qian Liu",
+      "Richard Van",
+      "Katherine Huang",
+      "Kayci Huff-Hardy",
+      "Richard Rood",
+      "Anas Gremida",
+      "Martin Gregory",
+      "Chien-Huan Chen",
+      "Mira V. Han",
+      "Parakkal Deepak",
+      "Adolfo Saiardi",
+      "Henning J. Jessen",
+      "Prasun Guha"
+    ],
+    "summary": "Nature Communications, Published online: 09 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-68994-0\">doi:10.1038/s41467-026-68994-0</a>The study finds that IPMK and InsP6activate HDAC3 to preserve gut integrity. Loss of IPMK impairs this axis, causing leaky gut, while InsP6 restores HDAC3 function, offering a potential therapy for inflammatory bowel disease.",
+    "source": "Nature Communications",
+    "date": "2026-02-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69428-7",
+    "title": "Tailoring sodium and oxygen mixed-ion conduction in the A-site non-stoichiometric NaNbO<sub>3</sub>-based ceramics",
+    "link": "https://www.nature.com/articles/s41467-026-69428-7",
+    "authors": [
+      "Zhiyong Liu",
+      "Chenggong Xiang",
+      "Pengrong Ren",
+      "Kun Guo",
+      "Bing Xie",
+      "Pu Mao",
+      "Haijun Sun",
+      "Huiqing Fan"
+    ],
+    "summary": "Nature Communications, Published online: 09 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69428-7\">doi:10.1038/s41467-026-69428-7</a>Tailoring conduction properties of solid-state electrolytes is essential to fulfil the demands of electrochemical energy storage and conversion technologies. Here, authors demonstrate the synergistic regulation of Na+ and O2− ion conduction in the Na0.96xCa0.04Nb0.96Zr0.04O3-δ conductor by a non-stoichiometric ratio strategy.",
+    "source": "Nature Communications",
+    "date": "2026-02-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00768-0",
+    "title": "Tracing coral reef pollution using beachrocks",
+    "link": "https://www.nature.com/articles/s43017-026-00768-0",
+    "authors": [
+      "Liuwei Wang"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 09 February 2026; <a href=\"https://www.nature.com/articles/s43017-026-00768-0\">doi:10.1038/s43017-026-00768-0</a>Tracing coral reef pollution using beachrocks",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-02-09",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025RG000891",
+    "title": "Systematic Benchmarking of Climate Models: Methodologies, Applications, and New Directions",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025RG000891?af=R",
+    "authors": [
+      "Birgit Hassler, \nForrest M. Hoffman, \nRebecca Beadling, \nEd Blockley, \nBo Huang, \nJiwoo Lee, \nValerio Lembo, \nJared Lewis, \nJianhua Lu, \nLuke Madaus, \nElizaveta Malinina, \nBrian Medeiros, \nWilfried Pokam, \nEnrico Scoccimarro, \nRanjini Swaminathan"
+    ],
+    "summary": "Reviews of Geophysics, Volume 64, Issue 1, March 2026.",
+    "source": "Wiley: Reviews of Geophysics: Table of Contents",
+    "date": "2026-02-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226000334",
+    "title": "Impact of organic-inorganic interactions on shale source-reservoir systems",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226000334?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 8 February 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Yue Huang, Zhenkai Huang, Xi Li, Guangyou Zhu, Zhiyuan Lu, Siyu Chen, Ruilin Wang, Wanyan Lan, Jiezhi Zhang",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-02-10",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120587",
+    "title": "Coulomb Pre‐Stress Changes Modulate Coseismic Rupture Kinematics of the 2025 Mw7.7 Myanmar Earthquake Revealed by Space Geodesy",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120587?af=R",
+    "authors": [
+      "Lijia He, \nRino Salman, \nBryan Marfito, \nGuangcai Feng, \nHongbo Jiang, \nWenxin Wang, \nZhiqiang Xiong, \nKai Sun, \nYuedong Wang, \nSang‐Ho Yun"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-08",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119494",
+    "title": "Northern Hemisphere Warm Fronts Are Less Efficient at Precipitating Ice Than Their Southern Hemisphere Counterparts",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119494?af=R",
+    "authors": [
+      "Hanii Takahashi, \nCatherine M. Naud, \nDerek J. Posselt"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-08",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120688",
+    "title": "Distinguishing Single and Linked Ruptures in the Laboratory and Nature",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120688?af=R",
+    "authors": [
+      "Will Steinhardt, \nEmily E. Brodsky"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-08",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118120",
+    "title": "P‐ and S‐wave Velocity Measurement of Lunar Orthopyroxene up to 5.5 GPa and 1,273 K: Implication for the Iron Content of the Lunar Upper Mantle",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118120?af=R",
+    "authors": [
+      "Yoshihiro Inoue, \nYoshio Kono, \nSteeve Gréaux, \nJie‐Jun Jing, \nSho Kakizawa, \nItaru Ohira, \nNoriyoshi Tsujino, \nYuji Higo"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-08",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120186",
+    "title": "On the Role of Western Boundary Currents to Fertilize Adjacent Continental Shelves at Interannual Scales: A Case Study in the Southwestern Atlantic",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120186?af=R",
+    "authors": [
+      "Carola Ferronato, \nMartin Saraceno, \nValeria A. Guinder"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-08",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119909",
+    "title": "The Role of Near Solstice Solar Radiation on the Pacific Northwest Heatwave of June 2021",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119909?af=R",
+    "authors": [
+      "Shauna Ndoping, \nJamie Robson, \nLualawi Mareshet Admasu, \nTimothy C. Y. Chui, \nRosie Howard, \nRachel H. White"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-08",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119353",
+    "title": "Temperature Controls on Carbon‐Sulfur Diagenesis in Deep Hydrothermal Subseafloor Sediments",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119353?af=R",
+    "authors": [
+      "Bing‐Zheng Wu, \nJiarui Liu, \nGuang‐Chao Zhuang, \nXiting Liu, \nZhen Zhou, \nAndreas P. Teske, \nSamantha B. Joye"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-08",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag085",
+    "title": "Dynamic observation of reductive and oxidative hydroxylation of CoOx nanostructures in water vapor",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag085/8469403?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Water plays important roles in many energy chemistry and catalysis processes and yet atomic-scale understanding of water-solid interaction in the water-involved interfacial processes still remains further explored. Here, combining high-pressure scanning tunneling microscopy and theoretical calculation we have visualized and elucidated both oxidation of CoO bilayers and reduction of CoO<sub>2</sub> trilayers in water atmospheres. CoO bilayers are readily hydroxylated to Co(OH)<sub>2</sub> with slight Co oxidation even at 10<sup>−8</sup> mbar H<sub>2</sub>O. At CoO<sub>2−</sub><span style=\"font-style: italic;\">x</span> surface containing both CoO and CoO<sub>2</sub> domains, hydroxylation of CoO produces a metastable Co(OH)<sub>2</sub>-CoO<sub>2−</sub><span style=\"font-style: italic;\">x</span> interface, where H<sub>2</sub>O assists oxygen desorption from interfacial CoO<sub>2</sub> and further hydroxylation of newly formed CoO. The dynamic Co(OH)<sub>2</sub>-CoO<sub>2−</sub><span style=\"font-style: italic;\">x</span> reaction front drives unusual reductive hydroxylation of CoO<sub>2−</sub><span style=\"font-style: italic;\">x</span> into Co(OH)<sub>2</sub> under mbar H<sub>2</sub>O. Both CoO<sub>2</sub> reduction through H<sub>2</sub>O-assisted oxygen desorption and CoO oxidation via H<sub>2</sub>O dissociative adsorption reveal a dynamic redox mechanism for water-oxide interactions.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-02-09",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag092",
+    "title": "TiO2 protective layers shape photocathode performance in photoelectrochemical CO2 reduction",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag092/8469401?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Photoelectrochemical carbon dioxide reduction (PEC CO<sub>2</sub>R) enables direct solar-to-chemical conversion. However, few photocathodes are intrinsically stable light absorbers. The application of protective layers remains a critical approach for stabilizing photocathodes in corrosive environments. TiO<sub>2</sub> is the most widely adopted stabilizer, yet its influence on catalytic performance remains poorly understood. Here we examine TiO<sub>2</sub>-protected Cu<sub>2</sub>O photocathodes integrated with Au, Cu and Bi cocatalysts, combining experiments and simulations to unravel the role of the TiO<sub>2</sub> overlayer. We find that TiO<sub>2</sub> profoundly alters catalytic selectivity, suppressing CO and multicarbon (C<sub>2</sub><sup>+</sup>) pathways, while its impact on formate production with Bi, In and Sn cocatalysts is comparatively negligible. These results demonstrate that TiO<sub>2</sub> is not an inert stabilizer but an active component that reshapes interfacial reaction pathways. This work establishes critical design principles for integrating protective layers with photocathodes to achieve selective and efficient PEC CO<sub>2</sub>R.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-02-09",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag070",
+    "title": "Engineered gradient oxygen vacancies by ambient ball-milling boost ampere-level water electrolysis stability",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag070/8469398?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Balancing the activity and stability of catalysts has become one of the key approaches to breakthrough the bottleneck of ampere-level water electrolysis. Oxygen vacancy is one of the most important active structures in catalysts. The complex structure of oxygen vacancy, such as the spatial distribution, profoundly affects the catalytic activity and mechanism. Here, we present a mechanochemical method that utilizes controlled environment pressure to create oxygen vacancies and modulate its spatial distribution in Pr<sub>0.5</sub>Ba<sub>0.5</sub>CoO<sub>3</sub> by regulating the surface desorption and lattice diffusion process of lattice oxygen. Combining computational and experimental results, we proposed a detailed synthesis mechanism that outlines the formation and diffusion behavior of vacancies at the atomic scales. Further electrochemical studies developed two OER descriptors, surface and bulk oxygen vacancy concentrations, suitable for different catalytic mechanisms. Also, the above research further proposed an oxygen vacancy distribution control strategy, which can significantly improve the stability of the catalyst at ampere-level current density and under practical working conditions while maintaining their high intrinsic activity through the switching of catalytic mechanisms. This work offers a mechanochemical method for synthesizing oxygen vacancies and paves the new way for the development of ampere-level industrial electrolytic water catalysts.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-02-09",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag073",
+    "title": "First systematic experimental 2D mapping of linearly polarized γ-ray polarimetric distribution in relativistic Compton scattering",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag073/8469397?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The interaction of photons with relativistic electrons constitutes a fundamental electromagnetic process whose polarization transfer mechanics remain incompletely characterized. We report the first systematic measurement of spatial polarization distribution for γ rays generated via 45○ slant Inverse Compton Scattering (ICS) between linearly polarized 0.117 eV photons and 3.5 GeV electrons, performing full 2D mapping of intensity, Angle Of Polarization (AOP), and Degree Of Polarization (DOP). Measurements reveal an asymmetric beam profile along the laser’s polarization direction that resembles 180○ backward ICS observations. The central beam region exhibits DOP near 1.0 with AOP rigidly aligned at 45○, while peripheral regions display complex non-uniform polarization distributions. These findings confirm quantum electrodynamics predictions of near-complete polarization transfer along the beam axis in slant geometries, thus establishing slant scattering as a viable alternative to head-on configurations for generating high DOP γ rays.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-02-09",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag090",
+    "title": "CasMiner: a deep learning tool for high-throughput mining and rational design of efficient Cas9",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag090/8469394?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Since its inception, the CRISPR-Cas system, particularly Cas9, has demonstrated immense potential for life science applications, but expansion of the Cas9 toolkit is constrained by sequence alignment-based strategies for mining and optimization. Here, we developed CasMiner, a deep learning model for discovering and engineering novel Cas9 proteins. CasMiner achieved 99.63% accuracy in predicting Cas9s, and identified VpCas9 from public databases. Experimental validation showed that VpCas9 exhibits robust double-strand cleavage activity. Combining CasMiner and evolutionary analysis, we engineered three mutants with markedly increased structural rigidity and positive charge. <span style=\"font-style: italic;\">In vivo</span> cleavage assays revealed that the mutant VPM2-3 achieved a higher average editing efficiency in rice callus and maize protoplasts than the wild-type VpCas9, whose editing efficiency rivals that of SpCas9. This study thus establishes a comprehensive platform for mining and engineering Cas9 proteins, and provides VpCas9 and derivative nucleases as powerful tools that greatly broaden the horizon for genome editing applications.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-02-09",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag088",
+    "title": "China’s top 10 breakthroughs in science and technology in 2025",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag088/8469392?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Annual ranking selected by academicians of the Chinese Academy of Sciences (CAS) and the Chinese Academy of Engineering (CAE).</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-02-09",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag087",
+    "title": "TaWRKY115 enhances cold tolerance by weakening the expression of TaMYB4 on CBFs in common wheat",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag087/8469391?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Low temperature as one of the most important abiotic stresses has caused serious wheat production loss worldwide. We identified <span style=\"font-style: italic;\">TaWRKY115</span> affecting cold tolerance in wheat by integration of genome-wide association study and RNA sequencing. Overexpression and CRISPR/Cas9-mediated gene-editing revealed <span style=\"font-style: italic;\">TaWRKY115</span> positively modulating cold tolerance in wheat. Transcription factor <span style=\"font-style: italic;\">TaSP1</span> negatively regulates wheat cold tolerance by binding to the promoter of <span style=\"font-style: italic;\">TaWRKY115</span> in cold-sensitive haplotype. TaWRKY115 inhibited TaMYB4 at both protein and transcription levels. BSMV-mediated silenced wheat plants and EMS mutants of <span style=\"font-style: italic;\">TaMYB4</span> possessed increased wheat cold tolerance. We further revealed that <span style=\"font-style: italic;\">TaMYB4</span> repressed expressions of the <span style=\"font-style: italic;\">TaCBF</span> family through binding to their promoters. BSMV-mediated silenced wheat plants and EMS mutants of <span style=\"font-style: italic;\">TaCBF12d</span> exhibited decreased cold tolerance in wheat. This study brought forth a new model TaSP1-TaWRKY115-TaMYB4, regulating wheat cold tolerance through the <span style=\"font-style: italic;\">TaCBF</span> pathway and provided valuable cold tolerance genes for wheat breeding programs.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-02-09",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-026-69270-x",
     "title": "A role for condensin-mediator interaction in mitotic chromosome organization",
     "link": "https://www.nature.com/articles/s41467-026-69270-x",
