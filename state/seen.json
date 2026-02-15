@@ -1,5 +1,666 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-69470-5",
+    "title": "Ligand-dependent Wnt signaling promotes gastric cancer metastasis through hyaluronan expression in microenvironment",
+    "link": "https://www.nature.com/articles/s41467-026-69470-5",
+    "authors": [
+      "Yuichiro Furutani",
+      "Hiroko Oshima",
+      "Chang Pyo Hong",
+      "SeonJu Choi",
+      "Ryosuke Machi",
+      "Mizuho Nakayama",
+      "Kazuhiro Murakami",
+      "Shintaro Yagi",
+      "Yukinobu Ito",
+      "Daichi Maeda",
+      "Noriyuki Inaki",
+      "Nick Barker",
+      "Masanobu Oshima"
+    ],
+    "summary": "Nature Communications, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69470-5\">doi:10.1038/s41467-026-69470-5</a>Wnt signaling is activated in more than half of gastric cancers through a ligand-dependent manner. Here the authors show with mouse models that tumor-derived Wnt ligands activate liver stromal fibroblasts to facilitate hyaluronan accumulation in the microenvironment, promoting gastric cancer liver metastasis.",
+    "source": "Nature Communications",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69527-5",
+    "title": "From nicotine to SARS-CoV-2 antivirals with potent in vivo efficacy and a broad anti-coronavirus spectrum",
+    "link": "https://www.nature.com/articles/s41467-026-69527-5",
+    "authors": [
+      "Kaustav Khatua",
+      "Sandeep Atla",
+      "Demonta Coleman",
+      "Lauren R. Blankenship",
+      "Yugendar R. Alugubelli",
+      "Veerabhadra Vulupala",
+      "Xuejiao Shirley Guo",
+      "Hongjie Xia",
+      "Birte K. Kalveram",
+      "David H. Walker",
+      "Brett L. Hurst",
+      "Sathish Kumar",
+      "Chia-Chuan D. Cho",
+      "Shivangi Sharma",
+      "Kai Yang",
+      "Dorsa Rabie",
+      "Satyanarayana Nyalata",
+      "Benjamin W. Neuman",
+      "Xuping Xie",
+      "Shiqing Xu",
+      "Wenshe Ray Liu"
+    ],
+    "summary": "Nature Communications, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69527-5\">doi:10.1038/s41467-026-69527-5</a>Here the authors identify nicotine-derived inhibitors of the SARS-CoV−2 main protease that outperform Paxlovid in cells and mice, remain effective against resistant variants, and show broad activity against multiple human coronaviruses.",
+    "source": "Nature Communications",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69447-4",
+    "title": "Functional distinctions between orbitofrontal cortex and anterior cingulate cortex subregions in decision-making and autonomic regulation",
+    "link": "https://www.nature.com/articles/s41467-026-69447-4",
+    "authors": [
+      "Georgios K. Papageorgiou",
+      "Ken-ichi Amemori",
+      "Daniel J. Gibson",
+      "Helen N. Schwerdt",
+      "Michelangelo Naim",
+      "Michelle C. Wang",
+      "Tomoko Yoshida",
+      "Jitendra Sharma",
+      "Urvashi Upadhyay",
+      "Guangyu Robert Yang",
+      "Ann M. Graybiel"
+    ],
+    "summary": "Nature Communications, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69447-4\">doi:10.1038/s41467-026-69447-4</a>The roles of orbitofrontal and cingulate cortex in emotional decisions remain unclear. Here the authors show distinct timing between caudal orbitofrontal and cingulate signals, that orbitofrontal stimulation increases avoidance, and that physiological responses mirror behavior.",
+    "source": "Nature Communications",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69169-7",
+    "title": "ATRX loss couples genome instability at a G-rich repeat to dysregulation of human alpha-globin expression",
+    "link": "https://www.nature.com/articles/s41467-026-69169-7",
+    "authors": [
+      "Yuqi Shen",
+      "Kinam Gupta",
+      "Sue Mei Tan-Wong",
+      "Sean Wen",
+      "Christopher A. Fisher",
+      "Liezel Tamon",
+      "Nicholas J. Proudfoot",
+      "Richard J. Gibbons",
+      "Douglas R. Higgs"
+    ],
+    "summary": "Nature Communications, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69169-7\">doi:10.1038/s41467-026-69169-7</a>ATRX mutations are associated with developmental disorders and cancer, but how they affect gene regulation is unclear. Here, the authors report that ATRX loss can perturb alpha-globin gene expression by promoting G4- and R-loop-associated DNA damage via a G-rich repeat.",
+    "source": "Nature Communications",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69402-3",
+    "title": "Enabling global-scale nucleic acid repositories through versatile, scalable biochemical selection from room-temperature archives",
+    "link": "https://www.nature.com/articles/s41467-026-69402-3",
+    "authors": [
+      "Joseph D. Berleant",
+      "James L. Banal",
+      "Dhriti K. Rao",
+      "Mark Bathe"
+    ],
+    "summary": "Nature Communications, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69402-3\">doi:10.1038/s41467-026-69402-3</a>Large biospecimen banks are limited by a lack of fast, flexible, database-like retrieval. Here, authors encode metadata as DNA barcodes on silica-encapsulated samples and demonstrate numerical range, categorical, and Boolean queries, enabling rapid, precise recall from pooled DNA/RNA archives.",
+    "source": "Nature Communications",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69614-7",
+    "title": "Single-crystal 2D covalent organic frameworks for high-capacity methane storage",
+    "link": "https://www.nature.com/articles/s41467-026-69614-7",
+    "authors": [
+      "Baoqiu Yu",
+      "Felipe L. Oliveira",
+      "Wenliang Li",
+      "Qingmei Xu",
+      "Xu Ding",
+      "Shangwei Yuan",
+      "Yucheng Jin",
+      "Hua Liu",
+      "Hailong Wang",
+      "Xin Xiao",
+      "Jingping Zhang",
+      "Guillaume Maurin",
+      "Banglin Chen",
+      "Jianzhuang Jiang"
+    ],
+    "summary": "Nature Communications, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69614-7\">doi:10.1038/s41467-026-69614-7</a>2D covalent organic frameworks usually possess a polycrystalline nature as well as lower porosity and surface area than 3D counterparts, limiting their gas storage application. Here, the authors report the formation of single-crystal 2D covalent organic frameworks isomers with atom-resolution structures for methane storage.",
+    "source": "Nature Communications",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69430-z",
+    "title": "Blood-based epigenetic instability linked to human aging and disease",
+    "link": "https://www.nature.com/articles/s41467-026-69430-z",
+    "authors": [
+      "Salman Basrai",
+      "Ido Nofech-Mozes",
+      "Rajesh Detroja",
+      "Fernando L. Scolari",
+      "Mehran Bakhtiari",
+      "Andrea Arruda",
+      "Tracy Murphy",
+      "Scott V. Bratman",
+      "Steven M. Chan",
+      "Mark D. Minden",
+      "Jae Sook Ahn",
+      "Dennis D. H. Kim",
+      "Robert Kridel",
+      "Filio Billia",
+      "Sagi Abelson"
+    ],
+    "summary": "Nature Communications, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69430-z\">doi:10.1038/s41467-026-69430-z</a>DNA methylation heterogeneity and dynamics hinder distinguishing early pathological changes from normal variation. Here, the authors identify stable sites whose disruption is linked to blood cancers, aging, and cardiovascular risk.",
+    "source": "Nature Communications",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69188-4",
+    "title": "Large-array sub-millimeter precision coherent flash three-dimensional imaging",
+    "link": "https://www.nature.com/articles/s41467-026-69188-4",
+    "authors": [
+      "Bin Wang",
+      "Junze Tian",
+      "Jianwei Wang",
+      "Shukang Xu",
+      "Shuangxiang Zhao",
+      "Jianhao Duan",
+      "Weifeng Zhang",
+      "Yangyang Liu",
+      "Tao Zeng",
+      "Erke Mao"
+    ],
+    "summary": "Nature Communications, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69188-4\">doi:10.1038/s41467-026-69188-4</a>A solid-state flash 3D imaging system is demonstrated using stepped-frequency modulation and CCD-based coherent detection, achieving submillimeter precision, long-range detection, and scalable pixel performance.",
+    "source": "Nature Communications",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03297-2",
+    "title": "Seafloor geodetic evidence of slip deficit near the southwestern Kuril Trench",
+    "link": "https://www.nature.com/articles/s43247-026-03297-2",
+    "authors": [
+      "Fumiaki Tomita",
+      "Yusaku Ohta",
+      "Motoyuki Kido",
+      "Mako Ohzono",
+      "Hiroaki Takahashi",
+      "Ryota Hino",
+      "Takeshi Iinuma"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s43247-026-03297-2\">doi:10.1038/s43247-026-03297-2</a>Seafloor geodetic monitoring suggests the southwestern Kuril trench offshore Hokkaido, Japan, has accumulated substantial slip deficits through shallow plate interface coupling, which could indicate potential for a rare megathrust earthquake",
+    "source": "Communications Earth & Environment",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03292-7",
+    "title": "Tripole-like Antarctic sea ice pattern linked to remote forcing from the Indian Ocean and Maritime Continent",
+    "link": "https://www.nature.com/articles/s43247-026-03292-7",
+    "authors": [
+      "Weihan Ma",
+      "Xiaojun Yuan",
+      "Yurong Hou",
+      "Kai Man",
+      "Yujie Miao",
+      "Li Zhang",
+      "Xichen Li"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s43247-026-03292-7\">doi:10.1038/s43247-026-03292-7</a>Antarctic sea-ice variability follows a seasonally shifting tripole pattern, which extends beyond the traditional dipole pattern and highlights key forcing from Indian Ocean-Maritime Continent Rossby wave trains, according to observation-based analyses and numerical experiments.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03300-w",
+    "title": "Elevated ilmenite in lunar nearside cumulates revealed by extremely high-Ti glass beads augmented large-scale volcanism",
+    "link": "https://www.nature.com/articles/s43247-026-03300-w",
+    "authors": [
+      "Ziqing Li",
+      "Bo Zhang",
+      "Yuqi Qian",
+      "James W. Head",
+      "Tao Long",
+      "Xiaochao Che"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s43247-026-03300-w\">doi:10.1038/s43247-026-03300-w</a>Lunar mare asymmetry could be explained by a higher nearside ilmenite content which would cause increased partial melting and volcanism relative to the farside, according to observations and petrological modelling of high-Ti glass impact beads in Chang’e-5 samples.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03289-2",
+    "title": "Light exposure patterns shape marine microbial biogeography and metabolic strategy",
+    "link": "https://www.nature.com/articles/s43247-026-03289-2",
+    "authors": [
+      "Shizheng Xiang",
+      "Guangyu Li",
+      "Yifei Huang",
+      "Linfeng Gong",
+      "Jianyang Li",
+      "Guizhen Li",
+      "Liping Wang",
+      "Wei Ye",
+      "Libo Yu",
+      "Zhen Chen",
+      "Hongchen Jiang",
+      "Zongze Shao"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s43247-026-03289-2\">doi:10.1038/s43247-026-03289-2</a>Localized light histories control energy-acquisition tactics in marine micro-organisms, according to analyses of isolated microbial strains from sites around the world.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226000450",
+    "title": "Coastal changes in the low-latitude western North Pacific region",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226000450?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 13 February 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Haixian Xiong, Yongqiang Zong, Shuqing Fu",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-02-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X2600066X",
+    "title": "Sediment-derived deep forearc fluid caused coupled sulfur-Fe<sup>3+</sup>-enrichment in eclogite from the subducted Farallon plate",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X2600066X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 April 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 680Author(s): Sonja Aulbach, Johannes E. Pohlner, Richard A. Stern, Heidi E. Höfer, Daniel J. Schulze, Herwart Helmstaedt",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-02-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26000841",
+    "title": "Corrigendum to “Origin of the mass-dependent germanium isotopic continuum in the early Solar System” [Earth Planet. Sci. Lett. 672 (2025) 119663]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26000841?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 13 February 2026<b>Source:</b> Earth and Planetary Science LettersAuthor(s): Béatrice Luais, Guillaume Florin",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-02-15",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119055",
+    "title": "Modulation of the Mid‐Latitude Ionospheric Sporadic E Layer by the Northern Polar Vortex",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119055?af=R",
+    "authors": [
+      "Tomoki Maeda, \nHuixin Liu, \nYosuke Yamazaki, \nLihui Qiu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119733",
+    "title": "Landward Acceleration of Tropical Cyclones Making Landfall Along the South China Coast",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119733?af=R",
+    "authors": [
+      "Quanjia Zhong, \nWansuo Duan, \nShifei Tu, \nYongjie Huang, \nJohnny C. L. Chan, \nRuiqiang Ding"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119273",
+    "title": "Seismoacoustic Analysis of Possible Vent‐Drying Sequence During Phreatomagmatic Activity on 13 July 2021 at Semisopochnoi Island, Alaska",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119273?af=R",
+    "authors": [
+      "Dan Muramatsu, \nJohn J. Lyons, \nHannah R. Dietterich, \nMie Ichihara, \nAlexandra M. Iezzi"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120887",
+    "title": "Low Cloud Dispersion Effects by Anthropogenic Aerosols in Polluted Air",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120887?af=R",
+    "authors": [
+      "Xiaomi Teng, \nLiang Xu, \nFan Zhang, \nYihan Cheng, \nMin Gao, \nXiyao Chen, \nJiefeng Li, \nShengzhen Zhou, \nShoujuan Shu, \nShupeng Zhu, \nDantong Liu, \nChuanfeng Zhao, \nJoseph Ching, \nWeijun Li"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119490",
+    "title": "Deep Convection‐Driven Downward Transport of Trace Gases and Aerosols From the Free Troposphere to the Boundary Layer",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119490?af=R",
+    "authors": [
+      "Manisha Mehra, \nYang Wang, \nChanakya Bagya Ramesh, \nRuoyu Zhang, \nJiaoshi Zhang, \nScott E. Giangrande, \nJian Wang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119629",
+    "title": "Solar‐Wind Triggering of Substorm Onset During the May 2024 Superstorm: Coordinated Global Observations and Simulations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119629?af=R",
+    "authors": [
+      "Yong Ren, \nMinghui Zhu, \nLei Dai, \nWalter Gonzalez, \nShan Wang, \nChi Wang, \nC. Philippe Escoubet, \nJiaojiao Zhang, \nQiugang Zong"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119355",
+    "title": "Climate Change Will Enhance Hypercapnic Hypoxia Threatening Mangrove Habitats",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119355?af=R",
+    "authors": [
+      "Gloria M. S. Reithmaier, \nAriel K. Pezner, \nAdam Ulfsbo, \nFrank Melzner, \nIsaac R. Santos"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033350",
+    "title": "Dissolution and Flow Channeling in Hydrate‐Bearing Sediments: Implications for Permeability",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033350?af=R",
+    "authors": [
+      "Alejandro Cardona, \nYi Fang, \nDavid DiCarlo, \nPeter B. Flemings"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 2, February 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-02-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032061",
+    "title": "Paleosecular Variations in the South Atlantic Anomaly Region Over 65–40 ka — Revisiting Site ODP 1233",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032061?af=R",
+    "authors": [
+      "Jiabo Liu, \nNorbert R. Nowaczyk, \nYuhao Huang, \nXin Luo, \nHuapei Wang, \nFei Han, \nYiming Ma, \nQingsong Liu"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 2, February 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-02-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2024JB030971",
+    "title": "Self‐Consistent Models of Earth's Mantle and Core From Long‐Period Seismic and Tidal Constraints",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JB030971?af=R",
+    "authors": [
+      "F. D. Munch, \nJ. Kemper, \nA. Khan, \nG. Helffrich, \nD. Giardini"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 2, February 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-02-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001043",
+    "title": "Corrigendum to “Experimental kinetic rate laws for aqueous pyrite reduction at underground hydrogen storage conditions (60–150 °C, up to 150 bar H<sub>2</sub>)”. [Geochim. Cosmochim. Ac. 414 (2026) 169–190]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001043?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 13 February 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Robin Hintzen, Roland Hellmann, Vladimir Roddatis, Julia van Winden, Laurent Truche",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-02-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001055",
+    "title": "Continental weathering and redox dynamics modulated marine phosphorus availability during the Sturtian deglaciation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001055?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 13 February 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Ruru Li, Jun Hu, Sanzhong Li, Yuhao Li, Zheng Qin, Rui Dong, Huan Cui, Xueqi Liang, Kurt O. Konhauser",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-02-15",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/120/8/1863/725789/Eocene-Challis-Magmatism-in-the-Western-Part-of",
+    "title": "Eocene Challis Magmatism in the Western Part of the Thunder Mountain Volcanic Field and Adjacent Stibnite-Yellow Pine Au-Sb-W-Hg Mining District, Central Idaho",
+    "link": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/120/8/1863/725789/Eocene-Challis-Magmatism-in-the-Western-Part-of",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The Stibnite-Yellow Pine gold-antimony-tungsten-mercury (Au-Sb-W-Hg) mining district, an important source of antimony (Sb) and tungsten (W) in World War II with a major (~7 Moz) Au resource, is located a few kilometers west of the Thunder Mountain volcanic field on the northwestern edge of the Eocene Challis magmatic complex in west-central Idaho. Using new field studies,<sup>40</sup>Ar/<sup>39</sup>Ar and U/Pb geochronology, and major and trace element and isotope geochemistry, we document the stratigraphy of the western part of the Thunder Mountain volcanic field and the ages of related dikes in the Stibnite-Yellow Pine mining district and Pistol Creek dike swarm. The volcanic succession is divisible into a lower section of dacitic tuffs and lavas (ca. 49.5–48.0 Ma) and an upper section of rhyolitic lavas and tuffs (ca. 47.6–46.5 Ma), locally capped by trachyandesite flows (ca. 42.6 Ma). Dikes in the Stibnite-Yellow Pine mining district similarly range from basaltic andesite to rhyolite. Dike ages range from dacitic dikes as old as ca. 49.3 Ma to rhyolitic dikes as young as ca. 46.9 Ma; the emplacement age of basaltic andesite dikes has not been determined. Geochemical and isotopic compositions of igneous rock units of the western Challis magmatic complex indicate they can be clustered into four petrologic groups, which differ in source characteristics and/or in fractionation history. Although Challis magmatism was synchronous with extensional tectonism and detachment faulting, the broader tectonic setting of Challis magmatism is controversial. Despite exhibiting the geochemical hallmarks of subduction-related magmatism, most authors interpret these igneous rocks to have been derived by partial melting of the previously subduction-modified lithospheric mantle that was heated by upwelling asthenosphere in the Eocene. Epithermal Au-Ag mineralization in the Thunder Mountain mining district, located centrally in the Thunder Mountain volcanic field about 15 km northeast of Stibnite, is dated here at 46.0 ± 0.4 Ma. This age postdates the episodes of Au and W mineralization in the nearby Stibnite-Yellow Pine mining district but overlaps in age with its youngest mineralization episode of Sb-Hg ores.</span>",
+    "source": "Economic Geology Current Issue",
+    "date": "2025-12-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/120/8/1989/725788/Mineralization-and-Geochemistry-of-the",
+    "title": "Mineralization and Geochemistry of the Metasedimentary Rock-Hosted Au-(Ag-Sb-W) West End Deposit, Stibnite Roof Pendant, Yellow Pine Mining District, Idaho",
+    "link": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/120/8/1989/725788/Mineralization-and-Geochemistry-of-the",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The Yellow Pine mining district in central Idaho has been the focus of Au-(Sb-W) mining and exploration for nearly 100 years. Recently, Midas Gold Inc. (now Perpetua Resources) has developed an indicated resource of 170 metric tonnes (t; 5.464 Moz) of Au, 277 t (8.904 Moz) of Ag, and 66.7 Kt (87,000 short tons) of Sb in three deposits. The resources are hosted in the Cretaceous Idaho batholith and a roof pendant of Neoproterozoic to Ordovician metasedimentary rocks that include marble, quartzite, conglomerate, calc-silicate–bearing rock types, and mica schist. Most of the resource hosted in metasedimentary rocks is in the West End deposit. Four stages of mineralization in the metasedimentary rocks have been established by crosscutting relationships between four distinct vein types. Deep early veins are composed of milky white, coarse quartz with pyrite, local molybdenite (86.4 ± 0.4 Ma, Re-Os), and other sulfides, which are associated with mainly propylitic alteration and locally potassic alteration that appears to be temporally associated with the latest phase of the batholith. Deep early veins have the same orientation and similar radiometric dates as late-phase batholith-related leucogranite dikes proximal to the coeval Stibnite stock. Deep early veins are crosscut by main-stage veins composed mainly of quartz, carbonate, arsenopyrite, and arsenian pyrite. Main-stage veins contain more sulfides (up to 7%) and contain the bulk of the gold, which occurs in arsenopyrite and arsenian pyrite. Main-stage veins are strongly spatially and temporally controlled by the West End fault zone. Disseminated mineralization and illite alteration are found proximal to main-stage veins and fault zones. Later epithermal veins with lesser arsenopyrite and pyrite contain gold-rich electrum and are contemporaneous with the Eocene Challis volcanism and subvolcanic intrusions in the district. Epithermal veins formed in fault zones and along joints and lithologic contacts, and locally as stockworks. Unmineralized fine-grained quartz and pyrite microbreccia veins, which locally contain stibnite, crosscut the epithermal veins. The West End deposit shows similarities with the Donlin Creek deposit in Alaska, along with other deposits in the world, where host rocks, mineralogy, and overprinting events provide analogs for West End.</span>",
+    "source": "Economic Geology Current Issue",
+    "date": "2025-12-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/120/8/2063/725784/Sources-of-Sulfide-Mineral-Components-in-Au-Ag-W",
+    "title": "Sources of Sulfide Mineral Components in Au-Ag-W-Sb-Hg Deposits, Stibnite-Yellow Pine District, Idaho: Genetic Relationships to Host and Subjacent Rocks, and Regional Context",
+    "link": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/120/8/2063/725784/Sources-of-Sulfide-Mineral-Components-in-Au-Ag-W",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Approximately 5.6 million ounces (Moz) of Au (~174 tonnes [t]) and significant Sb, Ag, W, and Hg were produced from deposits in the Stibnite-Yellow Pine district, Valley County, Idaho, or exist in drill-defined resources. Epigenetic minerals of deposits and resources occur in fault zones in late Cretaceous granitic rocks of the Idaho batholith, in late Proterozoic-early Paleozoic metasedimentary rocks of the Stibnite pendant, and in vein and replacement deposits in pendant strata. Deposits and resources formed during at least five paragenetically distinct events that spanned approximately 24 m.y. The district-wide distribution of Au, Sb, W, and Hg are consistent with temperature gradient zoning in, adjacent to, and distal to major fluid conduits represented by the high-angle, north- to northeast-trending Meadow Creek and West End fault zones.Sulfide minerals of four events and host rocks were evaluated for component sources using Pb, Sr, and S isotope values—which are determined by microbeam and bulk analytical techniques—and by comparison to isotope values, stratigraphy, and ages of host rocks of polymetallic Ag-Au-Cu-Co-Pb-Zn deposits, host rocks, and plutonic rocks in Idaho, Montana, Alberta, and the Great Basin. Based on initial <sup>206</sup>Pb/<sup>204</sup>Pb, <sup>208</sup>Pb/<sup>204</sup>Pb, and <sup>87</sup>Sr/<sup>86</sup>Sr isotope values (13.17–21.26, 31.93–41.24, and 0.703–0.725, respectively) of sulfide minerals and whole rocks, sulfide mineral paragenesis, and comparisons, event 1A pyrite in vein and contact zone deposits (ca. 86–75 Ma); event 2 As ± Au pyrite, which contains most mined and resource Au (ca. 70–58 Ma); and some event 5 stibnite (ca. 49–46 Ma) were sourced from late Proterozoic-early Paleozoic and older, more radiogenic metasedimentary rocks. Alternatively, they were indirectly from Cretaceous intrusions in the Stibnite-Yellow Pine district that obtained Pb from these metasedimentary rocks. Less radiogenic Pb isotope values of other event 5 stibnite and cinnabar in mined deposits and resources are largely indistinguishable from those of the areally extensive Atlanta lobe of the Idaho batholith, reflecting mixed crust sources including Archean, Mesoproterozoic, and Paleozoic rocks.The broad range of δ<sup>34</sup>S values of sulfide minerals in deposits and host rocks of the Stibnite-Yellow Pine district (–19 to 9‰) and large masses of metasedimentary rocks adjacent to deposits reflect reduction of pore seawater sulfate following sedimentation and transfer of S in sedimentary pyrite to deposits. The relatively confined range of mostly positive δ<sup>34</sup>S values of minerals comprising events 1, 2, and 5 in granitic rocks (~1–9‰) implies that sedimentary pyrite was formed by thermochemical sulfate reduction (TSR) with δ<sup>34</sup>S values homogenized by high-temperature fractionation during Cretaceous magmatism. The broader range of δ<sup>34</sup>S values of event 5 cinnabar and realgar in metasedimentary rocks (~19–3‰) reflects direct replacement of sedimentary pyrite formed by thermochemical and biogenic sulfate reduction.Sulfur and Pb isotope systematics link many polymetallic deposits in Idaho, Montana, and the Great Basin, including those of the Stibnite-Yellow Pine district, to sedimentary source rocks and Mesozoic magmatism and demark a dominant metallogeny of large parts of the interior western United States.</span>",
+    "source": "Economic Geology Current Issue",
+    "date": "2025-12-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/120/8/1925/725783/Spatial-and-Paragenetic-Relationships-Among-Au-Ag",
+    "title": "Spatial and Paragenetic Relationships Among Au-Ag-W-Sb-Hg Deposits in the Stibnite-Yellow Pine District, Idaho",
+    "link": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/120/8/1925/725783/Spatial-and-Paragenetic-Relationships-Among-Au-Ag",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The Stibnite-Yellow Pine district, Valley County, Idaho, includes diverse deposits from which nearly 31 tonnes (t) Au (~1 Moz), ~65 t Ag (~2.1 Moz), and significant quantities of W, Sb, and Hg have been recovered, and large Au, Ag, and Sb resources recently defined. Gold-Ag-W-Sb deposits and resources occur in brecciated, veined, and replaced wall rock fragments and septa in the Meadow Creek fault zone, a near-vertical, N- to NE-trending, meter- to tens-of-meters-wide structure in Late Cretaceous felsic plutons of the Idaho batholith. Other Au-Ag deposits and resources and all productive Hg deposits occur in Neoproterozoic-early Paleozoic metasedimentary strata of the Stibnite roof pendant in and east-southeast of the West End fault zone, which parallels the Meadow Creek fault zone. The paragenesis and zoning of the deposits presented herein are based on field relationships, core logs and analyses, petrographic observations, geochronology, and chemical and isotopic analyses of minerals and rocks by conventional and microbeam methods.Of the five hydrothermal events that deposited epigenetic minerals in granitic and metasedimentary rocks, events 2 through 5 provided nearly all Au-Ag-W-Sb-Hg production and make up the resources. Small-volume 86 to 82 Ma quartz ± sulfide veins of event 1A are dispersed in granitic and metasedimentary rocks and are economically insignificant, whereas calc-silicate minerals on contacts of granitic and pendant strata contain minor to mined amounts of Au, Ag, and Sb deposited by later events. Aggregates of quartz, muscovite, pyrite, and pyrrhotite on other contacts, event 1B, are coeval with 78 to 75 Ma granitic intrusions exposed ~14 km west of the district but undated in the district.Event 2 mineral assemblages include sector- and growth-zoned As ± Au pyrite, arsenopyrite, K-feldspar, muscovite, and rutile. These and other minerals replaced igneous biotite, plagioclase, and Fe-Ti oxides of granitic rocks in and adjacent to the Meadow Creek fault zone. Zoned As ± Au pyrite in the Meadow Creek fault zone and disseminated in pendant strata near the West End fault zone is the largest source of produced and resource Au in the district. The event 3 minerals—quartz, K-feldspar, galena, sphalerite, Pb-Sb-Ag sulfides, dolomite, and scheelite—occur in breccia matrices and veins, partly replace granitic rock fragments and septa of the Meadow Creek fault zone, and are the source of recovered W. Event 2 and some event 3 epigenetic minerals, including K-feldspar, muscovite/illite, pyrite, and arsenopyrite, extend tens to hundreds of meters into granitic rocks from mine and resource boundaries defined by concentrations of zoned As ± Au pyrite. This pervasive potassic alteration accompanied deposition of events 2 and 3 minerals in the Meadow Creek fault zone between ca. 70 and 58 Ma and between ca. 58 and 56 Ma, respectively, based on Ar and U-Pb geochronology. Quartz-adularia-pyrite-electrum veins of event 4, unobserved in Meadow Creek fault zone exposures and drill core, are more frequently encountered in pendant strata, where they apparently make up significant proportions of some Au-Ag mines and resources in and adjacent to the West End fault zone. These veins may be represented in the Meadow Creek fault zone by μm-sized Au particles in heavy mineral concentrates of drill hole intervals composited for metallurgical tests. Event 5 minerals include quartz and K-feldspar in addition to stibnite, miargyrite, cinnabar, and minor Hg-Zn-Te-S minerals, which are the sources of most produced and resource Sb and Ag in the Meadow Creek fault zone and Hg in pendant strata.Spatial zoning of epigenetic minerals including As ± Au pyrite, scheelite, stibnite, and cinnabar and elements including Au, Ag, W, Sb, and Hg is evident from their distribution and concentration, respectively, in the Meadow Creek, West End fault zones, and metasedimentary strata east and southeast of those zones. Proposed lateral fluid-flow vectors, based on mineral and element spatial relationships, event succession, calculated fluid δ<sup>34</sup>S values, and fluid inclusion microthermometry, show that event 2 fluids (est. 200°C) primarily used the Meadow Creek fault zone and West End fault zone, with lesser flow through pendant strata to the southeast. The main conduit of events 3 and 5 fluids was the Meadow Creek fault zone, and those fluids permeated pendant rocks to the southeast for several kilometers, where minor stibnite and most cinnabar were deposited at relatively low temperatures (est. 175°–100°C).Other mining districts and geothermal fields display Sb and Hg zoning similar to that of the Stibnite-Yellow Pine district, but none replicates the variety and ~24-m.y. span of Au-Ag-W-Sb-Hg events at Stibnite-Yellow Pine. Pervasive fault zones in other plutons of the Idaho batholith and adjacent pendants may contain deposits similar to those of the Stibnite-Yellow Pine district.</span>",
+    "source": "Economic Geology Current Issue",
+    "date": "2025-12-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/120/8/2079/725782/INTERESTING-PAPERS-IN-OTHER-JOURNALS",
+    "title": "INTERESTING PAPERS IN OTHER JOURNALS",
+    "link": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/120/8/2079/725782/INTERESTING-PAPERS-IN-OTHER-JOURNALS",
+    "authors": [],
+    "summary": "",
+    "source": "Economic Geology Current Issue",
+    "date": "2025-12-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/120/8/1831/725781/Introduction-to-the-Special-Issue-on-Au-Ag-W-Sb-Hg",
+    "title": "Introduction to the Special Issue on Au-Ag-W-Sb-Hg Mineralization in the Stibnite-Yellow Pine District, West-Central Idaho, USA",
+    "link": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/120/8/1831/725781/Introduction-to-the-Special-Issue-on-Au-Ag-W-Sb-Hg",
+    "authors": [],
+    "summary": "",
+    "source": "Economic Geology Current Issue",
+    "date": "2025-12-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/120/8/1829/725780/BULLETIN-OF-THE-SOCIETY-OF-ECONOMIC-GEOLOGISTS",
+    "title": "BULLETIN OF THE SOCIETY OF ECONOMIC GEOLOGISTS",
+    "link": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/120/8/1829/725780/BULLETIN-OF-THE-SOCIETY-OF-ECONOMIC-GEOLOGISTS",
+    "authors": [],
+    "summary": "",
+    "source": "Economic Geology Current Issue",
+    "date": "2025-12-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/120/8/2035/725779/Geochemistry-of-Quartz-and-Fluid-Inclusions",
+    "title": "Geochemistry of Quartz and Fluid Inclusions Associated with Gold, Tungsten, and Antimony in the Stibnite-Yellow Pine District, Idaho",
+    "link": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/120/8/2035/725779/Geochemistry-of-Quartz-and-Fluid-Inclusions",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Deposits in the historic Stibnite-Yellow Pine district in east-central Idaho were mined for Ag, Au, Hg, Sb, and W. Ore is hosted in breccia and fault zones along NE-striking faults that transect the Atlanta lobe of the Late Cretaceous Idaho batholith and metamorphosed Neoproterozoic to lower Paleozoic rocks. Geochronological studies have delineated five superimposed and zoned hydrothermal events in the mining district which range in age from Late Cretaceous to the Eocene. They formed the following consecutive assemblages: (1) vein and disseminated pre-ore milky quartz (± calcite), muscovite, and brassy pyrite with minor molybdenite and base metal sulfides; (2) vein and disseminated quartz, calcite, sericite, auriferous-pyrite, and arsenopyrite; (3) potassium feldspar, quartz, dolomite, and calcite with vein and disseminated scheelite ± pyrite and arsenopyrite; (4) Au-Ag veins that contain adularia; and (5) breccia, vein, and disseminated quartz, calcite, and stibnite with minor Ag sulfosalts and distal zones of cinnabar and realgar at Fern and Hermes mines.In this study, the pressure, temperature, and composition of ore-forming fluids were measured in Au-, W-, and Sb-bearing samples collected from drill core and surface exposures. Using optical petrography, scanning electron microscopy cathodoluminescence (SEM-CL) and electron microprobe cathodoluminescence (EMPA-CL) imaging, as well as electron microprobe (EMP) and laser ablation-inductively coupled plasma-mass spectrometry trace element analyses, four major overprinting generations of hydrothermal quartz are defined. Fluid inclusion assemblages (FIAs) in each generation of quartz were characterized by microthermometry and laser Raman spectroscopy. Quartz and fluid inclusion paragenesis are as follows: (Qi) altered and overprinted Qi with no coeval FIAs that formed before or during event 1; (Q1) early veins as well as disseminated quartz with dull gray SEM-CL and H<sub>2</sub>O-NaCl-CO<sub>2</sub> FIAs that formed at minimum temperatures and pressures of 281° to 358°C and 1346 to 1789 bar during event 2 (Au); (Q2) vein and disseminated quartz, often euhedral, with H<sub>2</sub>O-NaCl ± CO<sub>2</sub> ± CH<sub>4</sub> FIAs that formed at minimum temperatures and pressures of 183° to 213°C and 72 to 602 bar during event 3 (W); and (Q3) euhedral and disseminated quartz with H<sub>2</sub>O-NaCl FIAs that formed at minimum temperature and pressures of 156° to 161°C and 5 to 6 bar during event 5 (Sb). Stibnite hosts H<sub>2</sub>O-NaCl FIAs trapped at minimum temperatures and pressures of 150° to 189°C and 5 to 12 bar that are similar to those of Q3-hosted FIAs. The quartz paragenetic history in the district follows a progressive temporal path from Tienriched quartz deposited by a relatively deep and higher temperature aqueous-carbonic fluid to a Li, Al, and Sb enriched quartz precipitated from a lower temperature aqueous fluid.Gases in fluid inclusion extracts from ore and gangue minerals were analyzed by mass spectrometry. Noble gas isotope analysis of fluid inclusion extracts revealed three signatures. Pre-ore Qi has R/R<sub>A</sub> (the isotopic ratio of the sample <sup>3</sup>He/<sup>4</sup>He to atmospheric <sup>3</sup>He/<sup>4</sup>He (1.384 × 10<sup>−6</sup>)) values that reflect the composition of the crustal melt-derived Atlanta lobe of the Idaho batholith. Quartz (Q1) and auriferous arsenian pyrite of hydrothermal event 2 have <sup>20</sup>Ne/<sup>4</sup>He and R/R<sub>A</sub> values that plot along the air-crust mixing line, and these gases were likely introduced by metamorphic fluids derived from metasedimentary rocks. Stibnite with associated quartz (Q3 ± Q2) have <sup>20</sup>Ne/<sup>4</sup>He and R/R<sub>A</sub> values that extend from the air-crust mixing line to the air-mantle mixing line, showing a shift from a crustal signature to an overprinting mantle signature. Late calcite has <sup>20</sup>Ne/<sup>4</sup>He and R/R<sub>A</sub> values that extend from air toward the mantle end member, which suggests that magmatic volatiles condensed into meteoric groundwater late in the paragenesis. A mantle volatile source is also supported by high <sup>20</sup>Ne/<sup>22</sup>Ne ratios.The Stibnite-Yellow Pine district is similar to other Au-W-Sb districts around the world in ore fluid chemistries, with late-stage stibnite being a product of cooling. The fluid pressure-temperature-composition (P-T-X) estimates and the crustal source of He during hydrothermal event 2 gold mineralization are characteristic of orogenic Au deposits, and the observed inclusion reequilibration textures indicate that trapped fluid inclusions were deformed during transitions between the brittle-ductile environment. Scheelite was deposited during event 3 with Q2 quartz and is overgrown by Q3 quartz and stibnite. Our interpretation of the quartz texture, chemistry, and fluid inclusion P-T-X data suggest that Au, W, and Sb mineralization occurred as hydrothermal fluids evolved from H<sub>2</sub>O-NaCl-CO<sub>2</sub> at &gt;300°C and depths of ~4 to 6 km near the ductile to brittle transition to H<sub>2</sub>O-NaCl at ~150°C and epithermal depths as the Idaho batholith was exhumed. Geochronology indicates that from the Late Cretaceous to early Eocene, overprinting hydrothermal events formed deep orogenic Au, intermediate W, and shallow epithermal Au-Ag and Sb. Without comprehensive geochronologic constraints, our fluid inclusion data and textural observations could be interpreted as a single evolving hydrothermal system, as has been done in many other mining districts with similar mineralization.</span>",
+    "source": "Economic Geology Current Issue",
+    "date": "2025-12-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/120/8/1899/661815/Aeromagnetic-and-Magnetotelluric-Imaging-of-West",
+    "title": "Aeromagnetic and Magnetotelluric Imaging of West-Central Idaho and the Stibnite-Yellow Pine Mining District: A Regional to District Perspective",
+    "link": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/120/8/1899/661815/Aeromagnetic-and-Magnetotelluric-Imaging-of-West",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Aeromagnetic and magnetotelluric (MT) data are used to better understand the geology and mineral resources near the Stibnite-Yellow Pine mining district in central Idaho. The reduced-to-pole (RTP) transformation of regional-scale aeromagnetic data shows that allochthonous island-arc rocks west of the Salmon River suture are significantly more magnetic than the Laurentian continental rocks east of the suture and that the granitoids of the Idaho batholith have moderate to low magnetization in both early, metaluminous, and late, peraluminous phases. Application of tilt derivative to aeromagnetic data highlights major crustal-scale structures. The 5-km upward continued magnetic data indicate island-arc rocks have deep magnetic sources. The 110-km-long MT profile images resistivity structure to depths around 30 km. At shallow depths, resistivity corresponds to mapped geologic units, with moderate resistivities underlying volcanic and roof-pendant metasedimentary rocks and moderate to high resistivities occurring beneath the Idaho batholith. Crustal-scale moderate resistivities beneath the suture image the results of tectonomagmatic processes that accompanied suturing and translating allochthonous terranes. Low resistivity values beneath and fringing the batholith are derived from metasedimentary rocks that may have served as a melt source and reductant during melt generation and provided metals during later ore formation.In the Stibnite-Yellow Pine mining district, a high-resolution aeromagnetic compilation is shown to correlate with mapped lithologies and mineral deposit-related structures. The RTP transform distinguishes magnetic and nonmagnetic granitoid phases of the Idaho batholith. The tilt derivative highlights metasedimentary rocks, some of which are favorable ore hosts. The Meadow Creek fault hosts the Stibnite and Hangar Flats deposits and is imaged as a magnetic low due to hydrothermal alteration. Reconstructions of magnetic anomaly offsets and orebodies indicate around 3 km of post-95 Ma dextral separation, with some or all of the offset inferred to postdate the main Au mineralization episode (61–66 Ma).</span>",
+    "source": "Economic Geology Current Issue",
+    "date": "2025-12-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/120/8/1953/638098/Timing-of-Hydrothermal-Alteration-and-Au-Sb-W",
+    "title": "Timing of Hydrothermal Alteration and Au-Sb-W Mineralization, Stibnite-Yellow Pine District, Idaho",
+    "link": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/120/8/1953/638098/Timing-of-Hydrothermal-Alteration-and-Au-Sb-W",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The Stibnite-Yellow Pine district of central Idaho was mined from the early 1900s until the 1990s, extracting gold, antimony, tungsten, and mercury from veins and disseminated and replacement ores in mountainous terrain along the headwaters of the Salmon River. Mining during the two World Wars supplied critical antimony and tungsten to the war efforts. Recent exploration has delineated mineral resources of over 187 metric tons Au, 274 metric tons Ag, and 93,000 metric tons Sb. Mineralization is hosted in Cretaceous Idaho batholith granitic rocks and a sequence of Neoproterozoic to Paleozoic metasedimentary strata of carbonate and siliciclastic compositions. Historical studies outlined some of the complex paragenesis but debated the absolute age of mineralization.New petrographic and geochronologic work documents a sequence of five hydrothermal events in the Stibnite-Yellow Pine district. Event 1 is related to Cretaceous magmatic and hydrothermal activity and includes events ranging in age from 86 to 75 Ma, including sparse quartz-molybdenite veins dated at 86 Ma. Disseminated gold mineralization of event 2 is associated with sericitic alteration and sulfidation of igneous biotite and replacement of plagioclase by potassium feldspar, largely in granodiorite. Gold is present in zoned arsenian pyrite in both disseminated ores and in crosscutting carbonate-quartz veins containing pyrite and arsenopyrite. The large Yellow Pine deposit, localized at a dilatant bend in the Meadow Creek fault, hosts such disseminated and vein gold. Event 2 is interpreted as the major gold-forming event; <sup>40</sup>Ar/<sup>39</sup>Ar ages of sericite and potassium feldspar alteration range, respectively, from 70 to 59 and 66 to 56 Ma. The long span is interpreted to reflect the age of gold mineralization and local overprinting by event 3. A narrower range from 66 to 61 Ma is interpreted to date the peak of gold mineralization and alteration. Event 3, tungsten mineralization with scheelite, is texturally later than event 2 gold and localized along the Meadow Creek structure. Event 3 scheelite has been dated by isotope dilution-thermal ionization mass spectrometry (ID-TIMS) and laser ablation-inductively coupled plasma-mass spectrometry (LA-ICP-MS) U-Pb methods at 57 Ma. Event 4, best developed in the West End area, includes gold-silver–bearing quartz-carbonate-pyrite veins and breccias with epithermal textures and potassium feldspar alteration envelopes. Adularia from event 4 yields <sup>40</sup>Ar/<sup>39</sup>Ar plateau ages of 52 to 51 Ma. Event 5 antimony and mercury mineralization consists of stibnite veins and breccia cements at the Yellow Pine and Hangar Flat deposits as well as cinnabar veins and replacements at the peripheral Fern and Hermes deposits; it is constrained by an LA-ICP-MS U-Pb date on scheelite (ca. 47 Ma) intergrown with stibnite. Minor propylitic and argillic alteration is evident in 47 Ma igneous dikes, which do not contain economic mineralization.The Au-Sb-W ores in the Stibnite-Yellow Pine mining district formed over an extended time period from about 70 to 45 Ma in multiple pulses that were localized along the Meadow Creek fault zone. Each event corresponds to episodes of magmatism and/or hydrothermal activity in the region. Insignificant event 1 skarn and molybdenum mineralization is similar in age to the Thompson Creek porphyry molybdenum deposit in central Idaho. Event 2 gold mineralization occurred during a magmatic gap in central Idaho but was synchronous with magmatism in the Bitterroot lobe further north; event 2 is similar in age to orogenic gold-arsenic mineralization at the Beartrack mine in eastern Idaho. Event 3 scheelite mineralization coincides with tungsten mineralization at the Quartz Creek deposit, late magmatism in the Bitterroot lobe, and rapid exhumation of the Atlanta lobe of the Idaho batholith. Event 4 gold mineralization is coincident with the onset of regional Challis magmatism and extension. Event 5 antimony and mercury mineralization is time-equivalent to epithermal gold mineralization in the nearby Thunder Mountain volcanic field and the peak of Challis magmatism.</span>",
+    "source": "Economic Geology Current Issue",
+    "date": "2025-12-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/120/8/1839/628170/Regional-Geologic-Framework-of-Mineral-Deposits-in",
+    "title": "Regional Geologic Framework of Mineral Deposits in the Stibnite-Edwardsburg Area, Central Idaho",
+    "link": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/120/8/1839/628170/Regional-Geologic-Framework-of-Mineral-Deposits-in",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Geologic mapping and associated U-Pb geochronologic work in the Stibnite-Edwardsburg area of central Idaho have provided regional geologic context for the gold-antimony-tungsten-mercury mineralization in this area. Roughly 6,000 m of strata that postdate the Mesoproterozoic Belt-Purcell Supergroup are preserved; overall, the strata young to the southwest and are found as roof pendants or septa within the Idaho batholith. Rocks suspected to be lower Paleozoic in age by early workers in the area contain detrital zircons as young as 500 Ma, confirming that age assignment. We recognized four mappable phases of Cretaceous intrusive rocks, ranging in age from about 95 to 85 Ma, but suspect additional dating and detailed mapping would better show the complexity of the intrusive history. Regional metamorphism ranges from greenschist to amphibolite facies and contact metamorphism is conspicuous near Cretaceous plutonic rocks. Lutetium-hafnium garnet geochronology shows that regional metamorphism of the strata northwest of Stibnite occurred at about 113 Ma and thus prior to batholith intrusion. Contact metamorphism likely occurred some 15 to 30 m.y. later, depending on the specific pluton age. Four large-volume Eocene ash-flow deposits (and their hypothesized eruptive centers) were recognized. Important structures in the Stibnite area include a SW-directed thrust fault, now overturned, that repeats part of the section, and N- to NE-striking faults that have localized mineralization.</span>",
+    "source": "Economic Geology Current Issue",
+    "date": "2025-12-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/120/8/2017/614053/U-Pb-Scheelite-Ages-of-Tungsten-and-Antimony",
+    "title": "U-Pb Scheelite Ages of Tungsten and Antimony Mineralization in the Stibnite-Yellow Pine District, Central Idaho",
+    "link": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/120/8/2017/614053/U-Pb-Scheelite-Ages-of-Tungsten-and-Antimony",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The Stibnite-Yellow Pine district contains the largest antimony resource in the United States, as well as significant gold, and is an historical producer of tungsten. Application of in situ laser ablation-inductively coupled plasma-mass spectrometry (LA-ICP-MS) direct dating of scheelite from two Au-Sb-W ore deposits, Yellow Pine and Hangar Flats, yielded an older group of U-Pb ages in the range of 60.0 ± 2.8 to 57.0 ± 1.1 Ma and a younger U-Pb age for scheelite intergrown with stibnite of 47.4 ± 1.1 Ma. These in situ analyses were calibrated by isotope dilution-thermal ionization mass spectrometry U-Pb lower intercept ages of two coarsely crystalline scheelite samples that yielded ages of 57.52 ± 0.22 and 56.62 ± 0.16 Ma. Scheelite of the latter age is of sufficient quality to serve as a primary reference material for LA-ICP-MS scheelite U-Pb geochronology. The group of older U-Pb scheelite ages agrees with <sup>40</sup>Ar/<sup>39</sup>Ar ages of 56.9 ± 1.2 to 56.38 ± 0.54 Ma on adularia from Yellow Pine and Hangar Flats, whereas the younger U-Pb scheelite age is similar to an <sup>40</sup>Ar/<sup>39</sup>Ar age of 46.00 ± 0.40 Ma on adularia from an epithermal gold-silver deposit in the adjacent Thunder Mountain caldera. Our results indicate that the main stage of tungsten mineralization occurred at ca. 57 Ma, whereas the main stage of antimony mineralization occurred at ca. 47 Ma—thereby providing first-time age constraints for antimony and tungsten mineralization in the Stibnite-Yellow Pine district.</span>",
+    "source": "Economic Geology Current Issue",
+    "date": "2025-12-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38113.1/725794/Outward-growth-of-the-NE-Tibetan-Plateau-Insights",
+    "title": "Outward growth of the NE Tibetan Plateau: Insights from the sedimentary record of the Jinta Basin in NW China",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38113.1/725794/Outward-growth-of-the-NE-Tibetan-Plateau-Insights",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Constraining when compressive tectonic stress began to affect the outermost frontier area of the NE Tibetan Plateau is crucial for determining whether the NE Tibetan Plateau was uplifted simultaneously with the India−Asia collision, or whether it underwent progressive northeastward expansion. The subsidence and infilling history of the peripheral basin between the NE Tibetan Plateau and the Beishan Block is the key to resolving this issue. We present the results of lithostratigraphic and magnetostratigraphic analyses from the sedimentary records of a 268-m-long drill core Liangjiazhuang from the Jinta Basin, located in the subsidence area between the tectonically active NE Tibetan Plateau and the relatively stable Beishan Block. Sedimentological and high-resolution magnetostratigraphic analyses show that sedimentation in the Jinta Basin began ca. 3.4 Ma. The sediment accumulation rate increased from 36 mm/k.y. to 114 mm/k.y., accompanied by sedimentary facies changes from braided river at the base to an ephemeral lake at ca. 3.0 Ma, then to a dryland river terminus system at ca. 1.7 Ma, and finally to a braided river again at ca. 1.2 Ma. Initial subsidence of the Jinta Basin began at ca. 3.4 Ma, indicating that the arid denudation plain was disrupted due to the northeastward tectonic propagation of the Tibetan Plateau. The late Pliocene global cooling enhanced the glacial erosion and frost-weathering, and thus supplied a large amount of sediments. Meanwhile, the related isostatic rebound of the Qilian Shan combined with the humid climate drove the long-distance transport of the coarse sediments to the Jinta Basin from ca. 3.4 Ma to 3.0 Ma. Between ca. 3.0 Ma and ca. 1.7 Ma, fine sediments deposited at a high accumulation rate indicates the uplift of the Jintanan Shan and the associated accelerated flexural subsidence of the Jinta Basin. From ca. 1.7 Ma to 0.8 Ma, the progradation of coarse sediments with low sediment accumulation rate indicates the basinward propagation of tectonic stress. The reoccurrence of coarse sediments with a high accumulation rate after ca. 0.8 Ma was forced by the climate oscillations after the mid-Pleistocene transition, which led to the large-scale erosion, transport, and redistribution of the previously deposited clastic materials from the piedmont of the North Qilian Shan and the Jiudong Basin to the downstream Jinta Basin. Consequently, the tectono-geomorphological evolution of the Jinta Basin supports the view of progressive northeastward growth of the Tibetan Plateau and highlights the interplay between tectonic and climatic forcing. Our findings provide a precise chronological framework and detailed records of basin formation and evolution for testing the plateau growth model. They provide a case study of the infilling and evolution of the peripheral basins at the outermost frontier of the NE Tibetan Plateau, as well as of the combined effects of tectonic activity, climate, and surface processes in shaping the regional landforms.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-02-13",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38649.1/725793/Controls-on-magma-dynamics-and-emplacement-in",
+    "title": "Controls on magma dynamics and emplacement in shallow faulted sediments: Insights from the Cretaceous Armintza Sill (Basque-Cantabrian rift basin, western Pyrenees)",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38649.1/725793/Controls-on-magma-dynamics-and-emplacement-in",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Magmatic and clastic sills are common elements in rift sedimentary basins worldwide. Many documented magmatic sills are based on seismic interpretations, which, owing to limited resolution and imaging constraints, provide only partial insights into their emplacement mechanisms and magma dynamics. This contribution presents detailed field results from a 1.3-km-long coastal outcrop of a Cretaceous (Albian) igneous sill occurring in rifted sediments of the western Pyrenees. This sheet, previously interpreted as a lava flow, shows many diagnostic features that indicate it intruded in organic-rich wet sediments, constituting a sill (the Armintza Sill). Detailed mapping assisted by drone imagery of the sill, host succession, and preexisting faults shows that the sill is composed of magma fingers arranged in a fault-block pattern. Concordant magma fingers were emplaced by thermal fluidization of host sediment due to flash boiling of pore waters, aided by contact metamorphism-induced fluid generation and overpressuring. We suggest that fluid overpressure also caused transient uplift of the thin overburden, leading to the nucleation of inelastic damage along the preexisting faults, facilitating magma ascent up fault. Progressive up-fault verticalization of the σ<sub>3</sub> orientation and reduction of inelastic damage likely created a partial barrier near the upper part of the faults, leading to significant flow thickening, deceleration, and diversion. The similarity between these features of the Armintza Sill and those observed in lava flows that interacted with topographic obstacles is interpreted to be the result of near-zero effective stresses in the host sediments.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-02-13",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38604.1/725792/Galena-geochemistry-as-recorder-of-and-pathfinder",
+    "title": "Galena geochemistry as recorder of and pathfinder for volcanogenic massive sulfide deposits: A case study of the Keketale volcanogenic massive sulfide−type Pb-Zn deposit, Altai Mountains",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38604.1/725792/Galena-geochemistry-as-recorder-of-and-pathfinder",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Galena is a common economic mineral, but galena geochemistry remains poorly understood in volcanogenic massive sulfide (VMS) deposits. This contribution attempts to characterize galena geochemistry and its controlling parameters, as well as assess its utility as an exploration indicator. Two generations of galena have been recognized in the Keketale VMS-type Pb-Zn deposit, Altai Mountains, i.e., syngenetic galena in massive sulfide mineralization and epigenetic galena in epigenetic superimposed mineralization. Syngenetic galena exhibits broad trace-element variations, whereas epigenetic galena compositions consistently overlap the syngenetic range. Despite metamorphism and remobilization, galena’s structural elements remain largely unmodified. It is inferred that almost all elements (Sb, Ag, As, Cu, Tl, etc.) are incorporated into galena by direct and/or coupled substitutions, though some elements (Zn, Cu, As, etc.) constitute the components of micro-inclusions. The trace-element composition of galena is principally governed by temperature and coexisting minerals (notably sphalerite and sulfosalts). The Pb isotopes of syngenetic and epigenetic galena define a mixing line between host sequences and concealed old crustal materials, indicating that metals were derived from strata that were successively leached by evolved seawater-derived and later metamorphic fluids, leading to syngenetic and epigenetic mineralization, respectively. Notably, galena proximal to the hydrothermal vent exhibits elevated Tl, Cd, and Sn contents, likely due to higher temperatures and fluid fluxes, and this trend potentially serves as a vectoring tool for locating mineralization centers. By integrating compiled galena datasets (<span style=\"font-style: italic;\">n</span> = 1066) with a random forest algorithm, different types of Pb-Zn deposits derived from contrasting fluids can likely be distinguished by galena geochemistry. Accordingly, both trained classifiers and the discrimination diagram (log[Tl] vs. log[Sn]) are proposed to facilitate the classification of unassigned Pb-Zn deposits. Briefly, this study refines current understanding of galena geochemical systematics in VMS deposits, providing insights that enhance both genetic interpretation and exploration strategies for VMS deposits.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-02-13",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag111",
+    "title": "Bimodal iontronic skins powered by edge intelligence for real-time collaborative interaction",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag111/8483908?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Real-time sensing and processing of large-scale tactile information are crucial for enhancing the compliant interaction of embodied robots, especially in collaborative systems. However, existing robotic skin systems are limited by latency in high-throughput signal readout and intelligent reasoning, making robust real-time interaction challenging. Here, we present a flexible bimodal skin powered by edge intelligence, enabling real-time sensory perception, decision-making, and actuation based on large-area coverage. The modular bimodal skin integrates pressure and temperature sensors, providing full coverage on robotic arm with over 768 pressure and 75 temperature sensor units. A rapid, crosstalk-free readout interface is implemented using a frequency-encoding architecture. Furthermore, we develop a lightweight deep learning framework that enables real-time autonomous decision-making for the bimodal skin at the edge device. We demonstrate that our system facilitates smooth, adaptive interaction for individuals with mobility impairments, even under complex or emergency conditions. This technology opens a promising avenue for real-time perception and interaction in human-centered embodied robotics.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag107",
+    "title": "Visualization of oligomerization, clustering, and density transition of intrinsically disordered proteins",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag107/8483906?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">This study directly visualizes how Intrinsically Disordered Proteins form condensates, revealing a multi-step nucleation process that begins with single molecules and proceeds through intermediate clusters and density transition.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag099",
+    "title": "A novel biomacromolecule-predominated hybrid unit: from design, characterization to application",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag099/8483900?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Current biomaterial designs struggle with complex clinical and life science demands as single-function approaches are increasingly inadequate, necessitating the systematic integration of four core elements: biosafety, physiological compatibility, biomechanical matching, and biocatalytic function across hierarchical levels. This study addresses this challenge by introducing a novel strategy using natural biomacromolecules to construct microscopic organic-inorganic hybrid units. A comprehensive characterization paradigm employing synchrotron SAXS, IR-AFM and high-resolution TEM was established to reveal emergent hybrid properties. Systematic characterization results demonstrate that the physicochemical properties of these hybrid units more closely resemble polymers than traditional nanomaterials. We introduced the classical polymer blob model to reveal the effects of the hybridization process on the rigidity/flexibility of the polymer chains. Combined characterization results confirmed that the hybrid units possess stable interfaces, bioinspired crosslinking, synergistic high enzyme-like activity with low toxicity, and broad pH tolerance. Multifunctional nanohybrid hydrogel fabricated with these hybrid units significantly enhances mammalian cell synthesis of high-quality PD-L1 protein with efficiency improved by nearly an order of magnitude and effectively protects skin organoids from damage caused by exogenous ROS. Integrated multi-omics analysis demonstrates the hydrogel modulates cell–cell/matrix interactions <span style=\"font-style: italic;\">via</span> mechano-bioinspiration, boosts endoplasmic reticulum protein processing, and ameliorates hypoxia to enhance mitochondrial respiration (without active oxygen supply), achieving systematic integration of biocompatibility, biomechanics, biocatalysis and physiological environment compatibility. The study also demonstrates the potential of hybrid units in applications such as hydrogel-derived optical fiber fabrication, 3D bio-printing and <span style=\"font-style: italic;\">in vitro</span> advanced cell culture models.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag106",
+    "title": "High thermal conductivity in metallic θ-TaN single crystals",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag106/8483893?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Metallic materials are critical in integrated circuits as they not only deliver power but also dissipate heat. However, their performance is constrained as metals’ thermal conductivity is capped with a value of about 400 W m<sup>-1</sup> K<sup>-1</sup>. Here, we shatter this long-standing ceiling by high-pressure synthesis of the metallic hexagonal tantalum mononitride (<span style=\"font-style: italic;\">θ</span>-TaN) single crystal with ultrahigh thermal conductivity. The <span style=\"font-style: italic;\">θ</span>-TaN single crystal exhibits a room-temperature thermal conductivity of 502 W m<sup>-1</sup> K<sup>-1</sup>, exceeding the conventional upper limit for metallic thermal conductors, despite the presence of a substantial concentration of nitrogen vacancies. Our findings identify a clear pathway for further enhancing the thermal conductivity through minimizing vacancy concentration in <span style=\"font-style: italic;\">θ</span>-TaN. This work establishes <span style=\"font-style: italic;\">θ</span>-TaN as a highly promising candidate for advanced thermal management applications and introduces a new approach for designing metallic conductors to surpass conventional limits.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag108",
+    "title": "Towards a sustainable high-quality materials data ecosystem: frameworks and strategies",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag108/8483891?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>High-quality data has increasingly been recognized as a critical catalyst in advancing artificial intelligence-driven materials discovery and design. However, the current data generation and management systems in materials science are often deficient, resulting in an abundance of low-quality data characterized by heterogeneous formats, incomplete entries, and semantic inconsistencies. Such fragmented data landscape limits direct access to reliable datasets, making it inevitable to allocate substantial resources toward data consolidation and governing existing data. Here, we propose a comprehensive quality-controlled framework encompassing all three principal stages of the research lifecycle—acquisition, management, and utilization. By establishing stage-specific requirements, materials data quality can be concurrently optimized and enhanced throughout the materials research and development process. Furthermore, we propose five strategic initiatives to operationalize this framework, including an integrated computational-experimental ‘data factory’ for data acquisition and an automated toolkit for data quality assessment. This work aims to embed quality-governed production directly into scientific inquiry, fostering a sustainable and robust materials data ecosystem.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag112",
+    "title": "Breaking the external pressure-dependent paradigm in all-solid-state batteries",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag112/8483884?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2026-02-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826000788",
+    "title": "Scheelite geochemistry constrains the origin of W mineralization in the Laojunshan district, Southeast Yunnnan, China: Comparative studies from the Nanyangtian, Changtian and Saxi deposits",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826000788?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 14 February 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Zi-Chao Tang, Xiao-Yu Zhao, Ming-Guo Deng, Wen-Chang Li, Ying-Hua Chen, Qing-Ge Zhang, Ding-Cai Zhang",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-02-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826000727",
+    "title": "Multistage F-rich hydrothermal fluids led to a large-scale high-grade fluorite deposit during the Miocene (16Ma) in South China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826000727?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 13 February 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Haoran Chen, Huawen Cao, Dianmeng Lin, Fangyue Wang, Shuhao Liang, Feiyang Yao, Jianfang Zhang, Zhen Wang, Yuandong Liu, Gangyang Zhang, Hao Zou",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-02-15",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-00476-1",
     "title": "Briefing Chat: Caffeine slows brain ageing, suggests decades of data",
     "link": "https://www.nature.com/articles/d41586-026-00476-1",
