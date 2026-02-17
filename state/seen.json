@@ -1,5 +1,629 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-026-10247-7",
+    "title": "Editorial Expression of Concern: Transcription-independent ARF regulation in oncogenic stress-mediated p53 responses",
+    "link": "https://www.nature.com/articles/s41586-026-10247-7",
+    "authors": [
+      "Delin Chen",
+      "Jing Shan",
+      "Wei-Guo Zhu",
+      "Jun Qin",
+      "Wei Gu"
+    ],
+    "summary": "Nature, Published online: 16 February 2026; <a href=\"https://www.nature.com/articles/s41586-026-10247-7\">doi:10.1038/s41586-026-10247-7</a>Editorial Expression of Concern: Transcription-independent ARF regulation in oncogenic stress-mediated p53 responses",
+    "source": "Nature",
+    "date": "2026-02-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10246-8",
+    "title": "Editorial Expression of Concern: Deacetylation of p53 modulates its effect on cell growth and apoptosis",
+    "link": "https://www.nature.com/articles/s41586-026-10246-8",
+    "authors": [
+      "Jianyuan Luo",
+      "Fei Su",
+      "Delin Chen",
+      "Ariel Shiloh",
+      "Wei Gu"
+    ],
+    "summary": "Nature, Published online: 16 February 2026; <a href=\"https://www.nature.com/articles/s41586-026-10246-8\">doi:10.1038/s41586-026-10246-8</a>Editorial Expression of Concern: Deacetylation of p53 modulates its effect on cell growth and apoptosis",
+    "source": "Nature",
+    "date": "2026-02-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10254-8",
+    "title": "Author Correction: The genomic landscape of response to EGFR blockade in colorectal cancer",
+    "link": "https://www.nature.com/articles/s41586-026-10254-8",
+    "authors": [
+      "Andrea Bertotti",
+      "Eniko Papp",
+      "Siân Jones",
+      "Vilmos Adleff",
+      "Valsamo Anagnostou",
+      "Barbara Lupo",
+      "Mark Sausen",
+      "Jillian Phallen",
+      "Carolyn A. Hruban",
+      "Collin Tokheim",
+      "Noushin Niknafs",
+      "Monica Nesselbush",
+      "Karli Lytle",
+      "Francesco Sassi",
+      "Francesca Cottino",
+      "Giorgia Migliardi",
+      "Eugenia R. Zanella",
+      "Dario Ribero",
+      "Nadia Russolillo",
+      "Alfredo Mellano",
+      "Andrea Muratore",
+      "Gianluca Paraluppi",
+      "Mauro Salizzoni",
+      "Silvia Marsoni",
+      "Michael Kragh",
+      "Johan Lantto",
+      "Andrea Cassingena",
+      "Qing Kay Li",
+      "Rachel Karchin",
+      "Robert Scharpf",
+      "Andrea Sartore-Bianchi",
+      "Salvatore Siena",
+      "Luis A. Diaz Jr",
+      "Livio Trusolino",
+      "Victor E. Velculescu"
+    ],
+    "summary": "Nature, Published online: 16 February 2026; <a href=\"https://www.nature.com/articles/s41586-026-10254-8\">doi:10.1038/s41586-026-10254-8</a>Author Correction: The genomic landscape of response to EGFR blockade in colorectal cancer",
+    "source": "Nature",
+    "date": "2026-02-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-025-09957-1",
+    "title": "De novo design of GPCR exoframe modulators",
+    "link": "https://www.nature.com/articles/s41586-025-09957-1",
+    "authors": [
+      "Shizhuo Cheng",
+      "Jia Guo",
+      "Yun-li Zhou",
+      "Xumei Luo",
+      "Gufang Zhang",
+      "Ya-zhi Zhang",
+      "Yixin Yang",
+      "Jiannan Xie",
+      "Ping Xu",
+      "Dan-dan Shen",
+      "Shaokun Zang",
+      "Huicui Yang",
+      "Xuechu Zhen",
+      "Min Zhang",
+      "Yan Zhang"
+    ],
+    "summary": "Nature, Published online: 16 February 2026; <a href=\"https://www.nature.com/articles/s41586-025-09957-1\">doi:10.1038/s41586-025-09957-1</a>De novo designed proteins that target the transmembrane domain of G-protein-coupled receptors, created using iterative structural predictions, are able to act as agonist-positive, negative or biased allosteric modulators of downstream activity.",
+    "source": "Nature",
+    "date": "2026-02-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00448-5",
+    "title": "Can consciousness ever be understood — this side of death?",
+    "link": "https://www.nature.com/articles/d41586-026-00448-5",
+    "authors": [
+      "Christof Koch"
+    ],
+    "summary": "Nature, Published online: 16 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00448-5\">doi:10.1038/d41586-026-00448-5</a>Philosophers, psychologists, neuroscientists, plant biologists and novelists have all grappled with the mysteries of conscious experience, to an uncertain end.",
+    "source": "Nature",
+    "date": "2026-02-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00467-2",
+    "title": "Why we don’t really know what the public thinks about science",
+    "link": "https://www.nature.com/articles/d41586-026-00467-2",
+    "authors": [
+      "Gordon Gauchat"
+    ],
+    "summary": "Nature, Published online: 16 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00467-2\">doi:10.1038/d41586-026-00467-2</a>Measuring trust isn’t enough. Furthering knowledge about the institutions and norms of science is the best way to build credibility.",
+    "source": "Nature",
+    "date": "2026-02-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00475-2",
+    "title": "How to wow a popular-science writer with your research expertise",
+    "link": "https://www.nature.com/articles/d41586-026-00475-2",
+    "authors": [
+      "Oscar Allan"
+    ],
+    "summary": "Nature, Published online: 16 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00475-2\">doi:10.1038/d41586-026-00475-2</a>Prepping for an interview with an author? Keep it simple, meet in person if possible, and stick to your subject, say five writers who regularly talk to scientists about their research.",
+    "source": "Nature",
+    "date": "2026-02-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00435-w",
+    "title": "Why Europe barred China from flagship Horizon research programmes",
+    "link": "https://www.nature.com/articles/d41586-026-00435-w",
+    "authors": [
+      "Rachel Fieldhouse"
+    ],
+    "summary": "Nature, Published online: 16 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00435-w\">doi:10.1038/d41586-026-00435-w</a>Fresh restrictions could result in China being less open with foreign collaborators, say some researchers.",
+    "source": "Nature",
+    "date": "2026-02-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00473-4",
+    "title": "‘What are we doing here?’ The polymaths who searched for the meaning of life",
+    "link": "https://www.nature.com/articles/d41586-026-00473-4",
+    "authors": [
+      "Urmila Chadayammuri"
+    ],
+    "summary": "Nature, Published online: 16 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00473-4\">doi:10.1038/d41586-026-00473-4</a>An ambitious book unravels the common themes driving people’s thirst for knowledge — matters that still resonate today.",
+    "source": "Nature",
+    "date": "2026-02-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00499-8",
+    "title": "Daily briefing: Exercise rewires the brain for endurance, in mice",
+    "link": "https://www.nature.com/articles/d41586-026-00499-8",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 13 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00499-8\">doi:10.1038/d41586-026-00499-8</a>Exercise might pump up our neurons as well as our muscles. Plus, the source of a rare side effect of some COVID vaccines and the ‘phantom pain’ that can be felt when biodiversity is lost.",
+    "source": "Nature",
+    "date": "2026-02-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69445-6",
+    "title": "Strategies to control the geometry and symmetry around lanthanide centres for tailored luminescence and magnetism",
+    "link": "https://www.nature.com/articles/s41467-026-69445-6",
+    "authors": [
+      "Thomas E. Karpiuk",
+      "Daniel B. Leznoff"
+    ],
+    "summary": "Nature Communications, Published online: 17 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69445-6\">doi:10.1038/s41467-026-69445-6</a>The luminescent and magnetic properties of trivalent lanthanides are indispensable for many emerging technologies, but exacting fine control over these properties requires an understanding of the coordination geometry and site symmetry of Ln3+ centres. Here, the authors leverage an analysis of 12,670 eight-coordinate Ln3+ centres in the Cambridge Structural Database to prescribe useful strategies for controlling coordination geometry.",
+    "source": "Nature Communications",
+    "date": "2026-02-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69758-6",
+    "title": "Author Correction: Collapse of density wave and emergence of superconductivity in pressurized-La4Ni3O10 evidenced by ultrafast spectroscopy",
+    "link": "https://www.nature.com/articles/s41467-026-69758-6",
+    "authors": [
+      "Shuxiang Xu",
+      "Hao Wang",
+      "Mengwu Huo",
+      "Deyuan Hu",
+      "Qiong Wu",
+      "Li Yue",
+      "Dong Wu",
+      "Meng Wang",
+      "Tao Dong",
+      "Nanlin Wang"
+    ],
+    "summary": "Nature Communications, Published online: 16 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69758-6\">doi:10.1038/s41467-026-69758-6</a>Author Correction: Collapse of density wave and emergence of superconductivity in pressurized-La4Ni3O10 evidenced by ultrafast spectroscopy",
+    "source": "Nature Communications",
+    "date": "2026-02-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69396-y",
+    "title": "Author Correction: Symbiosome functionality in <i>Medicago truncatula</i> nodules requires continuous clearing of pectins from the symbiosome space",
+    "link": "https://www.nature.com/articles/s41467-026-69396-y",
+    "authors": [
+      "Yongkang Gao",
+      "Lei Chen",
+      "Wei Yang",
+      "Tong Yue",
+      "Qianqian Li",
+      "Kuan Chen",
+      "Jing Yuan",
+      "Xia Li",
+      "Thomas Ott",
+      "Chao Su"
+    ],
+    "summary": "Nature Communications, Published online: 16 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69396-y\">doi:10.1038/s41467-026-69396-y</a>Author Correction: Symbiosome functionality in <i>Medicago truncatula</i> nodules requires continuous clearing of pectins from the symbiosome space",
+    "source": "Nature Communications",
+    "date": "2026-02-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69757-7",
+    "title": "Author Correction: Feasibility study of hydrogen-ammonia synergistic combustion in scramjets across broad Mach ranges",
+    "link": "https://www.nature.com/articles/s41467-026-69757-7",
+    "authors": [
+      "Xin Song",
+      "Zun Cai",
+      "Jianheng Ji",
+      "Zihang Chen",
+      "Taiyu Wang",
+      "Fan Li",
+      "Mingbo Sun"
+    ],
+    "summary": "Nature Communications, Published online: 16 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69757-7\">doi:10.1038/s41467-026-69757-7</a>Author Correction: Feasibility study of hydrogen-ammonia synergistic combustion in scramjets across broad Mach ranges",
+    "source": "Nature Communications",
+    "date": "2026-02-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69352-w",
+    "title": "Author Correction: Intracranial directed connectivity links subregions of the prefrontal cortex to major depression",
+    "link": "https://www.nature.com/articles/s41467-026-69352-w",
+    "authors": [
+      "John Myers",
+      "Jiayang Xiao",
+      "Raissa K. Mathura",
+      "Ben Shofty",
+      "Victoria Gates",
+      "Joshua Adkinson",
+      "Anusha B. Allawala",
+      "Adrish Anand",
+      "Ron Gadot",
+      "Ricardo Najera",
+      "Hernan G. Rey",
+      "Sanjay J. Mathew",
+      "Kelly Bijanki",
+      "Garrett Banks",
+      "Andrew Watrous",
+      "Eleonora Bartoli",
+      "Sarah R. Heilbronner",
+      "Nicole Provenza",
+      "Wayne K. Goodman",
+      "Nader Pouratian",
+      "Benjamin Y. Hayden",
+      "Sameer A. Sheth"
+    ],
+    "summary": "Nature Communications, Published online: 16 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69352-w\">doi:10.1038/s41467-026-69352-w</a>Author Correction: Intracranial directed connectivity links subregions of the prefrontal cortex to major depression",
+    "source": "Nature Communications",
+    "date": "2026-02-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69459-0",
+    "title": "Photogated two conductive pathways of donor-acceptor Stenhouse adducts in single-molecule junctions",
+    "link": "https://www.nature.com/articles/s41467-026-69459-0",
+    "authors": [
+      "Fanxi Sun",
+      "Shengqing Jiang",
+      "Hanjun Zhang",
+      "Rui Wang",
+      "Yu Ji",
+      "Songjun Hou",
+      "Maolin Zhang",
+      "Gaolu Zhu",
+      "Tianfang Shi",
+      "Jiayu Li",
+      "Yuantao Zheng",
+      "Wenshu Liu",
+      "Yangyang Pan",
+      "Hao Luo",
+      "Xu Deng",
+      "Yonghao Zheng",
+      "Chen Wei",
+      "Dongsheng Wang"
+    ],
+    "summary": "Nature Communications, Published online: 16 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69459-0\">doi:10.1038/s41467-026-69459-0</a>Achieving simultaneous control of multiple transport pathways within single-molecule junctions remains challenging. Here, Sun et al. report light-controlled modulation of two distinct conductive pathways in single donor-acceptor Stenhouse adduct molecule with three thiomethyl anchoring sites.",
+    "source": "Nature Communications",
+    "date": "2026-02-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69487-w",
+    "title": "Snow or rain? hybrid AI deciphers surface precipitation phase from satellite observations",
+    "link": "https://www.nature.com/articles/s41467-026-69487-w",
+    "authors": [
+      "Chunlei Yang",
+      "Haoran Li",
+      "Runzhe Zhu",
+      "Yan Wang",
+      "Feng Zhang",
+      "Mingjian Gu",
+      "Geng-Ming Jiang",
+      "Renhe Zhang",
+      "Xu Tang"
+    ],
+    "summary": "Nature Communications, Published online: 16 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69487-w\">doi:10.1038/s41467-026-69487-w</a>Distinguishing surface rain from snow in real time is crucial for winter storm warnings. This study presents “RePPIC-Net”, a hybrid AI model that fuses satellite data with AI weather forecasts to decipher snow from rain with rapid speed and accuracy, paving the way for improved global hazard alerts.",
+    "source": "Nature Communications",
+    "date": "2026-02-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69291-6",
+    "title": "Author Correction: Generic synthesis of small-sized hollow mesoporous organosilica nanoparticles for oxygen-independent X-ray-activated synergistic therapy",
+    "link": "https://www.nature.com/articles/s41467-026-69291-6",
+    "authors": [
+      "Wenpei Fan",
+      "Nan Lu",
+      "Zheyu Shen",
+      "Wei Tang",
+      "Bo Shen",
+      "Zhaowen Cui",
+      "Lingling Shan",
+      "Zhen Yang",
+      "Zhantong Wang",
+      "Orit Jacobson",
+      "Zijian Zhou",
+      "Yijing Liu",
+      "Ping Hu",
+      "Weijing Yang",
+      "Jibin Song",
+      "Yang Zhang",
+      "Liwen Zhang",
+      "Niveen M. Khashab",
+      "Maria A. Aronova",
+      "Guangming Lu",
+      "Xiaoyuan Chen"
+    ],
+    "summary": "Nature Communications, Published online: 16 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69291-6\">doi:10.1038/s41467-026-69291-6</a>Author Correction: Generic synthesis of small-sized hollow mesoporous organosilica nanoparticles for oxygen-independent X-ray-activated synergistic therapy",
+    "source": "Nature Communications",
+    "date": "2026-02-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03291-8",
+    "title": "Carbonic anhydrase traced by cadmium isotope fractionations in Archean to Holocene stromatolitic carbonates",
+    "link": "https://www.nature.com/articles/s43247-026-03291-8",
+    "authors": [
+      "Simon V. Hohl",
+      "Sebastian Viehmann",
+      "Philipp Gleissner",
+      "Ashley N. Martin",
+      "Martin J. Van Kranendonk"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 16 February 2026; <a href=\"https://www.nature.com/articles/s43247-026-03291-8\">doi:10.1038/s43247-026-03291-8</a>Strong cadmium isotope fractionation in stromatolites from the Tumbiana Formation in Western Australia at ~2.72 represents the earliest evidence of carbonic anhydrase, according to cadmium isotope analysis to trace deep-time enzymatic activity and microbial metabolism.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-02-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03304-6",
+    "title": "Marine cloud brightening mitigates the warming induced by the aerosol reductions toward carbon neutrality",
+    "link": "https://www.nature.com/articles/s43247-026-03304-6",
+    "authors": [
+      "Yang Yu",
+      "Yang Yang",
+      "Hailong Wang",
+      "Lynn M. Russell",
+      "Pinya Wang",
+      "Jianbing Jin",
+      "Jingyi Chen",
+      "Yikun Yang",
+      "Wenwen Xia",
+      "Hong Liao"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 16 February 2026; <a href=\"https://www.nature.com/articles/s43247-026-03304-6\">doi:10.1038/s43247-026-03304-6</a>Marine cloud brightening over the Pacific offsets global warming from aerosol reductions but creates uneven regional cooling and precipitation shifts, revealing complex trade-offs for geoengineering strategies, based on climate model simulations with targeted sea salt injections.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-02-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226000425",
+    "title": "Editorial Board",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226000425?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: April 2026<b>Source:</b> Earth-Science Reviews, Volume 275Author(s):",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-02-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226000322",
+    "title": "Investigating GIA-driven intraplate deformation in Eastern Canada with GNSS clustering and 3D strain rate analysis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226000322?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 16 February 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Alexander L. Peace, D. Sarah Stamps, Rui Xu",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-02-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26000920",
+    "title": "Editorial Board",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26000920?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 April 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 679Author(s):",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-02-17",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL116045",
+    "title": "Synthesis of Global Soil‐Emitted N2O Isotopic Signatures: Geoclimatic Patterns and Influential Factors",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL116045?af=R",
+    "authors": [
+      "Tianchen Li, \nEliza Harris, \nZetong Niu, \nLongfei Yu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-15",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120184",
+    "title": "Long Unrest (2007–2025) at Laguna del Maule: Linking Strain Field and Seismicity From GNSS and Seismic Data",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120184?af=R",
+    "authors": [
+      "M. Navarrete‐Reyes, \nF. Delgado, \nS. Ruiz, \nJ. C. Báez, \nB. Potin, \nL. Cabrera, \nA. Alarcón"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-15",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119813",
+    "title": "Deep Earthquakes Can Generate Larger Co‐Seismic Displacements Than Shallow Events",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119813?af=R",
+    "authors": [
+      "Sifang Chen, \nSunyoung Park"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-15",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119167",
+    "title": "Detecting Water‐Surface Superelevation in Meandering Rivers Using Surface Water and Ocean Topography (SWOT) Satellite Data",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119167?af=R",
+    "authors": [
+      "Tasneem Haq Meem, \nBruce L. Rhoads, \nJida Wang, \nRenato Prata de Moraes Frasson"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-15",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120456",
+    "title": "How Unusual Was the Paleocene‐Eocene Thermal Maximum?",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120456?af=R",
+    "authors": [
+      "B. B. Cael, \nG. L. Foster"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-15",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119877",
+    "title": "Benchmarking Atmospheric Circulation Variability in an AI Emulator, ACE2, and a Hybrid Model, NeuralGCM",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119877?af=R",
+    "authors": [
+      "I. Baxter, \nH. A. Pahlavan, \nP. Hassanzadeh, \nK. Rucker, \nT. A. Shaw"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-15",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL116530",
+    "title": "Pacing Early Mars Sedimentary Rock Formation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL116530?af=R",
+    "authors": [
+      "M. L. Turner, \nE. S. Kite"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-15",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119657",
+    "title": "Density–Inertia Coupling Drives Solute Trapping at Vertical Fracture Intersections",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119657?af=R",
+    "authors": [
+      "Porraket Dechdacho, \nHongfan Cao, \nSungyon Lee, \nPeter K. Kang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-15",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120405",
+    "title": "AMOC Weakening Shapes Ocean Heat Storage Patterns Under Strong Idealized Warming",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120405?af=R",
+    "authors": [
+      "Chiara Ventrucci, \nFederico Fabiano, \nOliver Mehling, \nKatinka Bellomo, \nPaolo Davini"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-15",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2024GL113821",
+    "title": "A Dynamical System Analysis of Electric Field Fluctuations Inside Equatorial Plasma Bubbles: A Case Study Using CSES‐01 Observations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL113821?af=R",
+    "authors": [
+      "P. De Michelis, \nV. Quattrociocchi, \nT. Alberti, \nE. Papini, \nG. Consolini"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-15",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120845",
+    "title": "Linking Hadley Cell Instability to Slow Equatorial Motions in Reanalysis and CMIP6 Models",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120845?af=R",
+    "authors": [
+      "Qiao‐Jun Lin, \nÁngel F. Adames Corraliza, \nVíctor C. Mayta"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-15",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032474",
+    "title": "Empirically Based Constitutive Modeling Approach for Methane Hydrate‐Bearing Soils",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032474?af=R",
+    "authors": [
+      "L. Rake, \nS. Pinkert"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 2, February 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-02-16",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag113",
+    "title": "Asymmetry of safeguarding regional air and water nitrogen boundaries in China",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag113/8487642?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Human activities have significantly disrupted the global nitrogen cycle, positioning it as one of the most severely surpassed planetary boundaries. As the country with the largest nitrogen flux, China faces numerous environmental challenges due to excessive losses of reactive nitrogen (N<sub>r</sub>) to both air and water from various sources. By quantifying regional nitrogen boundaries for air and water at the county level, we found that the aggregated regional safe boundaries in China for atmospheric release of N<sub>r</sub>, nitrogen runoff to surface water, and leaching to groundwater are 14.6, 5.2, and 4.8 million tonnes per year, respectively. In 2020, cumulative N<sub>r</sub> losses exceeded these boundaries by 54%, 262%, and 258%, respectively. Implementing cross-system technical mitigation measures could potentially halve the total N<sub>r</sub> losses to both air and water, yielding benefits approximately 2.5 times greater than the net implementation costs. Despite most counties being capable of meeting the emission boundary for atmospheric release of N<sub>r</sub> after abatement, boundaries for surface water and groundwater remain exceeded in over half of the counties. This highlights a significant asymmetry in nitrogen pollution control between air and water, further necessitating socioeconomic transformations to effectively address the persistent issue of water pollution in China.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-02-16",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag093",
+    "title": "Chemoproteomics identifies STAT3 as a key target of baicalin in ameliorating liver fibrosis",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag093/8487640?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Liver fibrosis results from an imbalance between the deposition and degradation of the extracellular matrix in the liver, where there are currently no effective therapeutic drugs available. In this study, we demonstrated that baicalin, a major active component of the traditional Chinese medicine <span style=\"font-style: italic;\">Scutellaria baicalensis</span>, was able to inhibit the activation of hepatic stellate cells and attenuate liver fibrosis in various mouse models. In order to elucidate the molecular basis of its anti-fibrotic effects, we designed a novel baicalin photo-crosslinking probe and applied a quantitative chemoproteomic strategy based on dimethyl labeling to profile baicalin-interacting proteins. Aided by systematic gene knockouts of these potential baicalin interactors, we identified STAT3 as a key target in mediating the anti-fibrotic function of baicalin. Mechanistically, baicalin primarily binds to the N-terminal domain of STAT3, inhibits its interaction with JAK2 and thereby suppresses STAT3 phosphorylation. Our findings reveal the molecular mechanism of baicalin’s anti-fibrotic effects and provide a theoretical basis for the design of new anti-fibrotic drugs based on the structure of baicalin.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-02-16",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag103",
+    "title": "A system capable of verifiably and privately screening global DNA synthesis",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag103/8487636?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Printing custom DNA sequences is essential to scientific and biomedical research, but the technology can be used to manufacture plagues as well as cures. Just as ink printers recognize and reject attempts to counterfeit money, DNA synthesizers and assemblers should deny unauthorized requests to make viral DNA that could be misused. There are three complications. First, we don’t need to quickly update printers to deal with newly discovered currencies, whereas we regularly learn of new potential pandemic viruses and other biological threats. Second, convincing counterfeit bills can’t be printed in small pieces and taped together, while preventing the distributed synthesis and subsequent re-assembly of controlled sequences will require tracking which DNA fragments have been ordered across all providers and benchtop devices while protecting legitimate customer privacy. Finally, counterfeiting can at worst undermine faith in currency, whereas unauthorized DNA synthesis could be used to deliberately cause pandemics. Here we describe SecureDNA, a free, privacy-preserving, and fully automated system capable of verifiably screening all DNA synthesis orders of 30 + nucleotides against an up-to-date database of controlled sequences, and its operational performance and specificity when applied to 67 million nucleotides of DNA synthesized by providers in the United States, Europe, and China.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-02-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826000818",
+    "title": "Fe–Ti oxide-orthopyroxene symplectites in the eastern Tianshan layered intrusions, NW China: Insights into late-stage reactive melt flow and re-equilibration",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826000818?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 15 February 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Yike He, Jiahao Zheng",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-02-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826000806",
+    "title": "Rb mineralization mechanisms and age in the Huashi deposit northern margin of the North China Craton: Constraints from zinnwaldite geochemistry, whole-rock geochemistry, and monazite–columbite–zircon geochronology",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826000806?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 15 February 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Yu Liu, Binghan Chen, Zhibin Li, Jie Li, Yunlei Feng, Juquan Zhang, Huiqing Geng, Qunfeng Miao",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-02-17",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-026-69712-6",
     "title": "Biomimetic metal-drug coordination nanoplatform to counteract drug resistance in <i>Pseudomonas aeruginosa</i> via energy disruption",
     "link": "https://www.nature.com/articles/s41467-026-69712-6",
