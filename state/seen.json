@@ -1,5 +1,465 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-69880-5",
+    "title": "Thin film lithium niobate on sapphire for integrated mid-infrared modulator",
+    "link": "https://www.nature.com/articles/s41467-026-69880-5",
+    "authors": [
+      "Pierre Didier",
+      "Prakhar Jain",
+      "Mathieu Bertrand",
+      "Jost Kellner",
+      "Oliver Pitz",
+      "Zhecheng Dai",
+      "Tristan Kuttner",
+      "Mattias Beck",
+      "Baile Chen",
+      "Jérôme Faist",
+      "Rachel Grange"
+    ],
+    "summary": "Nature Communications, Published online: 21 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69880-5\">doi:10.1038/s41467-026-69880-5</a>We demonstrate a mid-infrared Mach-Zehnder modulator operating from 3.95 to 4.5 μ m, achieving >20 GHz bandwidth, 17 dB extinction ratio, VπL = 22 V ⋅ cm implemented on lithium niobate on sapphire platform. The device is used to demonstrate 10 Gbit s−1 data transmission, and a 70 GHz broad frequency comb.",
+    "source": "Nature Communications",
+    "date": "2026-02-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69840-z",
+    "title": "Liquid photonic-molecule microlasers for ultrasensitive biosensing",
+    "link": "https://www.nature.com/articles/s41467-026-69840-z",
+    "authors": [
+      "Yan Wang",
+      "Yu-Hao Hu",
+      "Jin-Lei Wu",
+      "Rui Duan",
+      "Ya-Feng Jiao",
+      "Hai-Yan Wang",
+      "Li-Ying Jiang",
+      "Le-Man Kuang",
+      "Han-Dong Sun",
+      "Hui Jing"
+    ],
+    "summary": "Nature Communications, Published online: 21 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69840-z\">doi:10.1038/s41467-026-69840-z</a>Droplet microlasers are emerging as powerful tools for label-free biosensing. Here, the authors demonstrate a new method for creating liquid photonic-molecule microlasers that combine low lasing threshold and enhanced sensitivity, achieving biomolecular detection limit down to attoMolar level.",
+    "source": "Nature Communications",
+    "date": "2026-02-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69864-5",
+    "title": "Small heterodimer partner protects against osteoarthritis by inhibiting IKKβ/NF-κB-mediated matrix-degrading enzymes in chondrocytes",
+    "link": "https://www.nature.com/articles/s41467-026-69864-5",
+    "authors": [
+      "Eun-Jung Kang",
+      "Jung-Ran Noh",
+      "Jae-Hoon Kim",
+      "Ji Ah Park",
+      "Jeong-Pin Ahn",
+      "Min-Chan Kim",
+      "Jung Hyeon Choi",
+      "Young-Keun Choi",
+      "In-Bok Lee",
+      "Dong-Hee Choi",
+      "Yun Jeong Seo",
+      "Yoon Seok Jung",
+      "Kyoung-Shim Kim",
+      "Jung Hwan Hwang",
+      "Yong-Bum Kim",
+      "Jong-Soo Lee",
+      "Bon Jeong Ku",
+      "Jin-Ok Jeong",
+      "Hueng-Sik Choi",
+      "Jinhyun Kim",
+      "Yong-Hoon Kim",
+      "Chul-Ho Lee"
+    ],
+    "summary": "Nature Communications, Published online: 21 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69864-5\">doi:10.1038/s41467-026-69864-5</a>Osteoarthritis is a marked by cartilage loss and limited by the absence of effective disease modifying treatments. Here, the authors show that orphan nuclear receptor small heterodimer partner (SHP) protects cartilage by suppressing IKKβ dependent NF κB signaling, highlighting it as a potential therapeutic target.",
+    "source": "Nature Communications",
+    "date": "2026-02-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69709-1",
+    "title": "Localized quasiparticles in a fluxonium with quasi-two-dimensional amorphous kinetic inductors",
+    "link": "https://www.nature.com/articles/s41467-026-69709-1",
+    "authors": [
+      "Trevyn F. Q. Larson",
+      "Sarah Garcia Jones",
+      "Tamás Kalmár",
+      "Pablo Aramburu Sanchez",
+      "Sai Pavan Chitta",
+      "Varun Verma",
+      "Kristen L. Genter",
+      "Stephen T. Gill",
+      "Katarina Cicak",
+      "Sae Woo Nam",
+      "Gergö Fülöp",
+      "Jens Koch",
+      "Raymond W. Simmonds",
+      "András Gyenis"
+    ],
+    "summary": "Nature Communications, Published online: 21 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69709-1\">doi:10.1038/s41467-026-69709-1</a>High kinetic inductance materials are widely used in superconducting circuits, yet their loss mechanisms are not fully understood. Here the authors study quantum circuits incorporating nanowires made of quasi-2D disordered superconductor WSi and identify localized quasiparticles as the dominant source of loss.",
+    "source": "Nature Communications",
+    "date": "2026-02-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69586-8",
+    "title": "Exploring chemistry and catalysis by biasing skewed distributions via deep learning",
+    "link": "https://www.nature.com/articles/s41467-026-69586-8",
+    "authors": [
+      "Zhikun Zhang",
+      "GiovanniMaria Piccini"
+    ],
+    "summary": "Nature Communications, Published online: 21 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69586-8\">doi:10.1038/s41467-026-69586-8</a>Predicting chemical reactions remains a challenge. Here, the authors present Loxodynamics, a machine learning method that uses statistical skewness to automatically discover reaction pathways in complex systems without prior knowledge.",
+    "source": "Nature Communications",
+    "date": "2026-02-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69852-9",
+    "title": "Pattern-enhanced Resonant Soft X-ray Scattering for <i>Operando</i> monitoring of electrochemical solid-liquid interfaces",
+    "link": "https://www.nature.com/articles/s41467-026-69852-9",
+    "authors": [
+      "Haoyi Li",
+      "Kas Andrle",
+      "Qi Zhang",
+      "Isvar A. Cordova",
+      "Yao Yang",
+      "Zhengxing Peng",
+      "Feipeng Yang",
+      "Guillaume Freychet",
+      "Scott Dhuey",
+      "Alexander Hexemer",
+      "Brett A. Helms",
+      "Weilun Chao",
+      "Bruno La Fontaine",
+      "Ricardo Ruiz",
+      "Jinghua Guo",
+      "Wanli Yang",
+      "Junko Yano",
+      "Cheng Wang"
+    ],
+    "summary": "Nature Communications, Published online: 21 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69852-9\">doi:10.1038/s41467-026-69852-9</a>Understanding interfaces at sub-nanometer scales is vital for complex chemical reactions. Here, the authors advance Pattern-enhanced Resonant Soft X-ray Scattering, enabling efficient operando probing of chemical and structural dynamics at solid-liquid interfaces.",
+    "source": "Nature Communications",
+    "date": "2026-02-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68862-x",
+    "title": "Auditing unauthorized training data from AI generated content using information isotopes",
+    "link": "https://www.nature.com/articles/s41467-026-68862-x",
+    "authors": [
+      "Tao Qi",
+      "Jinhua Yin",
+      "Dongqi Cai",
+      "Yueqi Xie",
+      "Huili Wang",
+      "Zhiyang Hu",
+      "Peiru Yang",
+      "Guoshun Nan",
+      "Zhili Zhou",
+      "Chuhan Wu",
+      "Lingjuan Lyu",
+      "Shangguang Wang",
+      "Yongfeng Huang",
+      "Nicholas D. Lane"
+    ],
+    "summary": "Nature Communications, Published online: 21 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-68862-x\">doi:10.1038/s41467-026-68862-x</a>Here, the authors introduce information isotopes, a novel framework for tracing unauthorized training data in black-box AI systems, offering a practical tool for auditing data provenance and protecting data rights.",
+    "source": "Nature Communications",
+    "date": "2026-02-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69824-z",
+    "title": "Photocatalytic four-component reaction to access covalent organic frameworks for photocatalysis",
+    "link": "https://www.nature.com/articles/s41467-026-69824-z",
+    "authors": [
+      "Cheng-Juan Wu",
+      "Ting-Rui Li",
+      "Wen-Jing Liang",
+      "Hao-Jia Wang",
+      "Li-Jing Niu",
+      "Jianzhong Fan",
+      "Jing-Lan Kan",
+      "Yan Geng",
+      "Yu-Bin Dong"
+    ],
+    "summary": "Nature Communications, Published online: 21 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69824-z\">doi:10.1038/s41467-026-69824-z</a>Photocatalytic four-component reaction is a green and efficient synthetic strategy. Here, the authors report a series of covalent organic frameworks via the photocatalytic four-component reaction, which are used for photocatalysis.",
+    "source": "Nature Communications",
+    "date": "2026-02-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226000498",
+    "title": "Roles of provenance and salt tectonics in diagenesis of clastic sedimentary rocks: A review and synthesis of the Mesozoic Scotian Basin, offshore southeastern Canada",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226000498?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 20 February 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Georgia Pe-Piper, David J.W. Piper",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-02-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26001093",
+    "title": "Defining the main Paleo-Tethys suture in Tibet: First Permian paleomagnetic insights from the Eastern Kunlun Range",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26001093?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 May 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 681Author(s): Peiping Song, Lin Ding, Liyun Zhang, Chen Wu, Xiaoyu Duan, Yahui Yue, Jing Xie",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-02-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26001196",
+    "title": "Archean tectonics resembled modern-style plate tectonics? Pre-Columbia early plate tectonics in the São Francisco-Congo Craton",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26001196?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 May 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 681Author(s): Rodrigo I. Cerri, Richard M. Palin, David Chew, Nick M.W. Roberts, Fabrício A. Caxito, Renato Moraes, George L. Luvizotto, Silvia Volante, Christopher Spencer, Claudio Riccomini",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-02-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26001160",
+    "title": "Modeling of injection-induced seismicity on rough faults in porous media",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26001160?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 May 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 681Author(s): Cheng Mei, Albert Leonardo Aguilar Suarez, Paul Segall",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-02-22",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120305",
+    "title": "Anthropogenic Nitrogen Inputs Promote Plant Nitrate Utilization of Polluted Forests",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120305?af=R",
+    "authors": [
+      "Chong‐Juan Chen, \nZhong‐Cong Sun, \nChao‐Chen Hu, \nXue‐Yan Liu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119529",
+    "title": "Differences in Ultra‐Low‐Frequency Waves Associated With Dipolarization in the Near‐Earth Magnetotail Between Substorms and Pseudosubstorms",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119529?af=R",
+    "authors": [
+      "Kanpatom Kasonsuwan, \nYukinaga Miyashita, \nSuwicha Wannawichian"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120358",
+    "title": "Searching for Electron‐Only Magnetic Reconnection on Lunar Crustal Magnetic Fields: A Case Study of Kaguya Low‐Altitude Observations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120358?af=R",
+    "authors": [
+      "Kohei Ogino, \nYuki Harada, \nYoshifumi Saito, \nShoichiro Yokota, \nMasaki N. Nishino, \nFutoshi Takahashi, \nHisayoshi Shimizu, \nYoshiya Kasahara, \nAtsushi Kumamoto"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120193",
+    "title": "Seasonal Shift of Dissolved Organic Matter Stoichiometry in the Surface North Pacific Subtropical Gyre: Regulation by Enhanced N2 Fixation and DOP Utilization",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120193?af=R",
+    "authors": [
+      "Lusong Zhang, \nZuozhu Wen, \nHaizheng Hong, \nSijing Kang, \nPeng Jiang, \nShanshan Lin, \nWen Lin, \nDalin Shi, \nXiaolin Li"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120669",
+    "title": "Deep Learning Identifies the Climate Warming Signal in Global Ocean Chlorophyll From Satellite Records",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120669?af=R",
+    "authors": [
+      "Lei Lin, \nChen Dong, \nStephanie Henson, \nBingzhang Chen"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL116872",
+    "title": "Representation of Surface Mixed‐Layer Eddies Affects the Large‐Scale Ventilation of the Global Ocean",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL116872?af=R",
+    "authors": [
+      "Takaya Uchida, \nAbigail Bodner, \nBrandon G. Reichl, \nAlistair J. Adcroft, \nBaylor Fox‐Kemper, \nMehmet Ilicak, \nMats Bentsen, \nGustavo M. Marques, \nWilliam G. Large"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120713",
+    "title": "The Role of Land‐Atmosphere Feedbacks in Midlatitude Wintertime Surface Temperature Variability",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120713?af=R",
+    "authors": [
+      "Kezhou Lu, \nGang Chen, \nBowen Ge, \nRong Fu, \nWeiming Ma, \nHailong Wang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119773",
+    "title": "Salt Precipitation and Clogging During Gas Injection in Fractured Porous Media",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119773?af=R",
+    "authors": [
+      "Zhonghao Sun, \nBowen Zhang, \nBudi Zhao, \nLing Xu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012658",
+    "title": "Iron–Phosphorus–Carbon Coupled Cycling in Lacustrine System of Ordos Basin During the Middle Triassic",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012658?af=R",
+    "authors": [
+      "Bo Wang, \nRukai Zhu, \nPengcheng Ju, \nQuanyou Liu, \nWeiming Xu, \nPeng Li, \nWang Zhang, \nXinping Liang"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 2, February 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-02-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012768",
+    "title": "Reconciling Seismic and Thermo‐Chemical Models of Cratonic Lithosphere",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012768?af=R",
+    "authors": [
+      "Sefira Davison, \nSergei Lebedev, \nYihe Xu, \nSally Gibson, \nChiara Civiero, \nJavier Fullea"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 2, February 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-02-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001225",
+    "title": "Bridging in-situ chemical imaging and pore-scale reactive transport modelling: mechanistic insight into CaCO<sub>3</sub> polymorph dynamics",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001225?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 20 February 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Haonan Peng, Ashish Rajyaguru, Enzo Curti, Daniel Grolimund, Sergey V. Churakov, Nikolaos I. Prasianakis",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-02-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001134",
+    "title": "Moderately Volatile Elemental Depletion and Potassium Isotope Fractionation during Evaporation in Laser-Heating Aerodynamic-Levitation Experiments",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001134?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 20 February 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Mason Neuman, Catherine A. Macris, Astrid Holzheid, Katharina Lodders, Bruce Fegley, Heng Chen, Kun Wang",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-02-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001146",
+    "title": "Impact of diagenesis and acidic alteration on microbial fabrics and trace element distributions in fossilised siliceous hot spring deposits",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001146?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 20 February 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Barbara J. Lyon, Michael C. Rowe, Andrew Langendam, Kathleen A. Campbell, Diego M. Guido, Ayrton R. Hamilton, Ema E. Nersezova, Amanda Galar, Dominique A. Stallard",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-02-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001201",
+    "title": "Equilibrium and non-equilibrium clumped isotope signatures in microbially-produced H<sub>2</sub>",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001201?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 20 February 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Noam Lotem, Elliott P. Mueller, Jared R. Leadbetter, Nami Kitchen, Itay Halevy, John M. Eiler",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-02-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001158",
+    "title": "Redox reactions in the outermost thin surfaces of meteorite fusion crusts",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001158?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 20 February 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Toshimori Sekine, Ginga Kitahara, Akira Yoshiasa, Akira Yamaguchi",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-02-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001237",
+    "title": "Thallium isotope insights into Mn Oxides as precursor to Ediacaran Mn Carbonate Ore",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001237?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 20 February 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Xuwen Luo, Haifeng Fan, Jean Clemente, Chao Li, Hongjie Zhang, Long Chen, Yaowen Wu, Shaohong Fu, Jianfeng Gao, Hanjie Wen, Sune G. Nielsen",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-02-22",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53834.1/726665/Lithospheric-multilevel-structural-controls-on-the",
+    "title": "Lithospheric multilevel structural controls on the genesis of orogenic gold deposits",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53834.1/726665/Lithospheric-multilevel-structural-controls-on-the",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The formation of large and superlarge mineral deposits results from the accumulation of significant quantities of mineralized materials, driven by multistage geological processes. However, the complete migration pathway of orogenic gold systems—ranging from deep magmatic sources to crustal mineralization—remains elusive. Here, we integrate multiscale electrical resistivity models with lamprophyre isotopic analyses to establish a coherent metallogenic framework for the Daping gold deposit in the southeastern margin of the Tibetan Plateau. High-resolution magnetotelluric data reveal interconnected low-resistivity anomalies, delineating a continuous, translithospheric pathway. These vertically aligned anomalies represent (1) metasomatized mantle domains enriched in volatiles and Au-bearing melts; (2) transcrustal magmatic-hydrothermal channels facilitating melt ascent; and (3) shallow fluid exsolution loci controlling ore precipitation. Geodynamic simulations further suggest that migration efficiency is influenced by the overlying lithospheric structure—specifically, crustal-scale fault networks channel the metal-rich fluids, while rheological contrasts around the lithosphere-asthenosphere boundary regulate the migration pathway of melt. This study, by unveiling the multilevel structural framework for mineralizing fluid migration for the first time, establishes a unified model that structurally connects mantle reservoirs with near-surficial gold deposits and systematically integrates isotopic signature, geophysical evidence, and translithospheric fluid pathways. Recognizing such a multilevel lithospheric control system not only bridges the critical observational gap between mantle sources and surface mineralization but also offers a predictive framework for gold exploration.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-02-20",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54235.1/726664/Methanogenesis-and-siderite-precipitation-in-coal",
+    "title": "Methanogenesis and siderite precipitation in coal: Significance for carbon sequestration",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54235.1/726664/Methanogenesis-and-siderite-precipitation-in-coal",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Coal deposits derived from peat play a key role in Earth’s carbon cycle by facilitating the burial and transformation of organic carbon. However, the role of mineral precipitation in peat-forming environments, particularly the microbially mediated formation of siderite and its contribution to carbon cycling, remains poorly understood. Here, we investigate a Jurassic siderite-bearing coal seam to reconstruct mineral paragenesis and constrain diagenetic conditions during peat accumulation. Authigenic, <sup>13</sup>C-rich siderite associated with methanogenesis formed under acidic and reducing conditions, consistent with precipitation equilibrium simulations that show enhanced siderite saturation at elevated CO<sub>2</sub> pressures. Our results suggest that siderite genetically associated with coal may have acted as an inorganic carbon sink by limiting greenhouse-gas release during peat decomposition, thereby reducing CO<sub>2</sub> emission by 2% within the studied paleo-peat deposit and sequestering ∼12.67 Gt of CO<sub>2</sub> across three Jurassic coal basins. These findings reveal a previously overlooked pathway for carbon fixation in coal measures, with potential for both deep-time climate and modern greenhouse gas mitigation.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-02-20",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54080.1/726663/An-eastern-extension-of-the-layered-only-zone-of",
+    "title": "An eastern extension of the layered-only zone of Australasian tektites",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54080.1/726663/An-eastern-extension-of-the-layered-only-zone-of",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The Australasian tektite strewn field is the largest and youngest known in the Cenozoic, and its bilateral symmetry indicates an oblique impact oriented from northwest to southeast. Muong Nong−type (layered) tektites are the largest, least shocked, and most proximal tektites in the strewn field. The spatial relationship between the layered-only zone in the central Indochina Peninsula, where only Muong Nong−type tektites occur, and the undiscovered source crater remains understudied. Here, we report the spatial distribution and stratigraphic occurrence of Australasian tektites in China, revealing that southwestern Hainan Province has another layered-only zone (∼6300 km<sup>2</sup>), whereas splash-form tektites dominate farther north. We demonstrate that the two confirmed layered-only zones are symmetric about the impactor trajectory, consistent with ejecta patterns formed by oblique impacts on extraterrestrial planetary bodies. Considering the absence of layered-only zones in the uprange direction, these findings constrain the source crater to the Yinggehai−Song Hong Basin and suggest that it is likely concealed by thick terrigenous sediments.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-02-20",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38465.1/726685/Slope-failures-and-event-sedimentation-in",
+    "title": "Slope failures and event sedimentation in Manicouagan impact crater lake, northeastern Canada: From the 1663 CE Charlevoix earthquake to the large reservoir impoundment",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38465.1/726685/Slope-failures-and-event-sedimentation-in",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The foreseen “green” energy transition requires anticipating environmental hazards associated with hydropower and reservoir impoundment. Manicouagan Reservoir, the “Eye of Québec,” is a prominent annular reservoir formed in 1968 CE by the impoundment of a ring-shaped complex impact crater that raised the lake level of a 60-km-long fjord-type lake by 135 m. Sediment cores recovered from the drowned lake document the sedimentary regime shift from organo-clastic to organic-rich rhythmites following the impoundment. The coring dataset highlights numerous lithofacies interpreted as event layers (i.e., mass-transport deposits and turbidites) related to multiple slope failures previously mapped by acoustic swath bathymetry and subbottom imagery of the drowned lake. Multiproxy characterization and dating of event layers allowed us to reconstruct the chronology and spatial distribution of slope failures and underlying triggers over the past 500 years. Lake-wide slope failures were triggered by the strong 1663 CE earthquake with an epicenter located 450 km away in the Charlevoix-Kamouraska intraplate seismic zone. Subsequent event layers dated between the mid-seventeenth and the mid-twentieth century were caused by spontaneous slope failures and/or by regional hydroclimatic changes that modulated sedimentary inputs and the lake level, two factors conditioning lacustrine slope stability. The rapid filling of the reservoir by seasonal river inputs between 1964 CE and 1968 CE caused the failure of deltas in proximal zones and the deposition of a beige-reddish layer across the lake. The drowning of glaciofluvial sediments and forested slopes shut down clastic sedimentation and reduced the lake’s sensitivity to slope hazards, although the onset of organic sedimentation likely fueled hypoxia in deep basins (depth &gt;400 m). Lake Manicouagan provides a unique, high-resolution record of reservoir-induced slope failures, regional environmental changes, and natural hazards. This study further illustrates how earthquakes and water-level changes condition subaqueous slope stability and sedimentary regimes.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-02-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025TC009101",
+    "title": "A Study of Orogenic Processes: The Tectonic Evolution of the Eastern Central Asian Orogenic Belt",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC009101?af=R",
+    "authors": [
+      "Zhiqiang Feng, \nYuanrui Pei, \nYongjiang Liu, \nLong Li, \nWeimin Li, \nJianping Zhou, \nBoran Liu, \nWei Han, \nXuan Xiang"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 2, February 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-02-20",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-026-10280-6",
     "title": "Publisher Correction: PtdIns(3,5)P<sub>2</sub> is an endogenous ligand of STING in innate immune signalling",
     "link": "https://www.nature.com/articles/s41586-026-10280-6",
