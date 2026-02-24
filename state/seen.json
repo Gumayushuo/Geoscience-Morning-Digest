@@ -1,5 +1,556 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-026-10263-7",
+    "title": "Markovnikov hydroamination of terminal alkenes via phosphine redox catalysis",
+    "link": "https://www.nature.com/articles/s41586-026-10263-7",
+    "authors": [
+      "Flora Fan",
+      "Kassandra F. Sedillo",
+      "Alexander J. Maertens",
+      "Abigail G. Doyle"
+    ],
+    "summary": "Nature, Published online: 23 February 2026; <a href=\"https://www.nature.com/articles/s41586-026-10263-7\">doi:10.1038/s41586-026-10263-7</a>Markovnikov hydroamination of terminal alkenes via phosphine redox catalysis",
+    "source": "Nature",
+    "date": "2026-02-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00567-z",
+    "title": "From Victorian voyages to vanishing maps: Books in brief",
+    "link": "https://www.nature.com/articles/d41586-026-00567-z",
+    "authors": [
+      "Andrew Robinson"
+    ],
+    "summary": "Nature, Published online: 23 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00567-z\">doi:10.1038/d41586-026-00567-z</a>Andrew Robinson reviews five of the best science picks.",
+    "source": "Nature",
+    "date": "2026-02-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00568-y",
+    "title": "Why every scientist needs a librarian",
+    "link": "https://www.nature.com/articles/d41586-026-00568-y",
+    "authors": [
+      "Amber Dance"
+    ],
+    "summary": "Nature, Published online: 23 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00568-y\">doi:10.1038/d41586-026-00568-y</a>Librarians can be key research partners who help to scour the literature, manage data and make science open.",
+    "source": "Nature",
+    "date": "2026-02-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00566-0",
+    "title": "AI tools can design genomes. Will they upend how life evolves?",
+    "link": "https://www.nature.com/articles/d41586-026-00566-0",
+    "authors": [
+      "Kate Adamala"
+    ],
+    "summary": "Nature, Published online: 23 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00566-0\">doi:10.1038/d41586-026-00566-0</a>Breakthroughs in computing are supercharging a field of science dedicated to building synthetic organisms from scratch.",
+    "source": "Nature",
+    "date": "2026-02-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00535-7",
+    "title": "Iron Age mass grave reveals unprecedented violence against women and children",
+    "link": "https://www.nature.com/articles/d41586-026-00535-7",
+    "authors": [
+      "Katie Kavanagh"
+    ],
+    "summary": "Nature, Published online: 23 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00535-7\">doi:10.1038/d41586-026-00535-7</a>Women and children moving through Europe became victims of mass violence.",
+    "source": "Nature",
+    "date": "2026-02-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00585-x",
+    "title": "First-of-a-kind stem-cell therapies set for approval in Japan",
+    "link": "https://www.nature.com/articles/d41586-026-00585-x",
+    "authors": [
+      "Asher Mullard"
+    ],
+    "summary": "Nature, Published online: 23 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00585-x\">doi:10.1038/d41586-026-00585-x</a>Regenerative medicines are headed for people with Parkinson’s disease or severe heart failure — but researchers are concerned about minimal clinical-trial data.",
+    "source": "Nature",
+    "date": "2026-02-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00545-5",
+    "title": "Whistle while you whinny: researchers identify two sounds straight from the horse’s mouth",
+    "link": "https://www.nature.com/articles/d41586-026-00545-5",
+    "authors": [
+      "Katherine Bourzac"
+    ],
+    "summary": "Nature, Published online: 23 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00545-5\">doi:10.1038/d41586-026-00545-5</a>The ability to make two distinct sounds at once is shared with human beat boxers and throat singers.",
+    "source": "Nature",
+    "date": "2026-02-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00366-6",
+    "title": "Historically Black US universities chase top research ranking",
+    "link": "https://www.nature.com/articles/d41586-026-00366-6",
+    "authors": [
+      "Alexandra Witze"
+    ],
+    "summary": "Nature, Published online: 23 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00366-6\">doi:10.1038/d41586-026-00366-6</a>Howard University is reaping the rewards of becoming the first such institution to reach ‘R1’ status.",
+    "source": "Nature",
+    "date": "2026-02-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00536-6",
+    "title": "This AI can improve your peer review — and make it more polite",
+    "link": "https://www.nature.com/articles/d41586-026-00536-6",
+    "authors": [
+      "Nicola Jones"
+    ],
+    "summary": "Nature, Published online: 23 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00536-6\">doi:10.1038/d41586-026-00536-6</a>A system of five models helps peer reviewers to write more constructive comments, but it is not yet known whether this strengthens the papers that are being reviewed.",
+    "source": "Nature",
+    "date": "2026-02-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00463-6",
+    "title": "How big is the ‘motherhood penalty’? In Denmark, it adds up to $120,000",
+    "link": "https://www.nature.com/articles/d41586-026-00463-6",
+    "authors": [
+      "Sarah Wild"
+    ],
+    "summary": "Nature, Published online: 23 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00463-6\">doi:10.1038/d41586-026-00463-6</a>An analysis documents the cumulative income hit mothers incur — as well as the extent to which state aid can offset the loss.",
+    "source": "Nature",
+    "date": "2026-02-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00565-1",
+    "title": "Music is not a universal language — but it can bring us together when words fail",
+    "link": "https://www.nature.com/articles/d41586-026-00565-1",
+    "authors": [
+      "Patrick E. Savage"
+    ],
+    "summary": "Nature, Published online: 23 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00565-1\">doi:10.1038/d41586-026-00565-1</a>Societies, animals and even machines have music in common. Our varied experiences of it might tell us about the origins of language.",
+    "source": "Nature",
+    "date": "2026-02-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-01919-0",
+    "title": "Nitrogen management to achieve China’s Sustainable Development Goals",
+    "link": "https://www.nature.com/articles/s41561-026-01919-0",
+    "authors": [
+      "Binhui Chen",
+      "Xiuming Zhang",
+      "Baojing Gu"
+    ],
+    "summary": "Nature Geoscience, Published online: 23 February 2026; <a href=\"https://www.nature.com/articles/s41561-026-01919-0\">doi:10.1038/s41561-026-01919-0</a>A framework assessing the impact of nitrogen on China’s SDGs reveals effects on 11 out of the 17 SDG goals in 2020, with regional disparities. This highlights the need for revised economic strategies to improve nitrogen management.",
+    "source": "Nature Geoscience",
+    "date": "2026-02-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-01924-3",
+    "title": "Millennial-aged peat carbon outgassed by large humic lakes in the Congo Basin",
+    "link": "https://www.nature.com/articles/s41561-026-01924-3",
+    "authors": [
+      "Travis W. Drake",
+      "Jordon D. Hemingway",
+      "Matti Barthel",
+      "Antoine de Clippele",
+      "Negar Haghipour",
+      "Jose N. Wabakanghanzi",
+      "Kristof Van Oost",
+      "Johan Six"
+    ],
+    "summary": "Nature Geoscience, Published online: 23 February 2026; <a href=\"https://www.nature.com/articles/s41561-026-01924-3\">doi:10.1038/s41561-026-01924-3</a>Two major humic lakes in the Congo Basin emit ancient carbon from nearby peatlands into the atmosphere, as shown by the isotopic signatures of their carbon pools.",
+    "source": "Nature Geoscience",
+    "date": "2026-02-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70023-z",
+    "title": "Author Correction: Droughts preceding tree mortality events have increased in duration and intensity, especially in dry biomes",
+    "link": "https://www.nature.com/articles/s41467-026-70023-z",
+    "authors": [
+      "Antonio Gazol",
+      "Manuel Pizarro",
+      "William M. Hammond",
+      "Craig D. Allen",
+      "J. Julio Camarero"
+    ],
+    "summary": "Nature Communications, Published online: 23 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-70023-z\">doi:10.1038/s41467-026-70023-z</a>Author Correction: Droughts preceding tree mortality events have increased in duration and intensity, especially in dry biomes",
+    "source": "Nature Communications",
+    "date": "2026-02-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69649-w",
+    "title": "Author Correction: Mechanically reliable and electronically uniform monolayer MoS<sub>2</sub> by passivation and defect healing",
+    "link": "https://www.nature.com/articles/s41467-026-69649-w",
+    "authors": [
+      "Boran Kumral",
+      "Nima Barri",
+      "Pedro G. Demingos",
+      "Gokay Adabasi",
+      "Andrew Grishko",
+      "Guorui Wang",
+      "Jimpei Kawase",
+      "Momoko Onodera",
+      "Tomoki Machida",
+      "Mehmet Z. Baykara",
+      "Chandra V. Singh",
+      "Tobin Filleter"
+    ],
+    "summary": "Nature Communications, Published online: 23 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69649-w\">doi:10.1038/s41467-026-69649-w</a>Author Correction: Mechanically reliable and electronically uniform monolayer MoS<sub>2</sub> by passivation and defect healing",
+    "source": "Nature Communications",
+    "date": "2026-02-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69897-w",
+    "title": "Efficiency hierarchy and optimization of waste incineration in China to balance disposal and energy supply",
+    "link": "https://www.nature.com/articles/s41467-026-69897-w",
+    "authors": [
+      "Jicui Cui",
+      "Ying Cui",
+      "Jiyang Li",
+      "Xiaofeng Gao",
+      "Wendong Wei",
+      "Yuan Chen",
+      "Wenchao Ma",
+      "Nanwen Zhu",
+      "Yong Geng",
+      "Youcai Zhao",
+      "Ziyang Lou"
+    ],
+    "summary": "Nature Communications, Published online: 23 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69897-w\">doi:10.1038/s41467-026-69897-w</a>The authors compile a national database of 975 plants including 2,151 incinerators across China, showing that they supplied up to 7% of residential electricity consumption in 2023. Scenario projections indicated that waste incineration could generate up to 259 TWh by 2035, meeting 13% of residential demand.",
+    "source": "Nature Communications",
+    "date": "2026-02-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69805-2",
+    "title": "Feedback neurons based on perovskite memristor with nickel single-atom engineered reduced graphene oxide cathode",
+    "link": "https://www.nature.com/articles/s41467-026-69805-2",
+    "authors": [
+      "Qing-Xiu Li",
+      "Hua-Xin Li",
+      "Tao Sun",
+      "Ming-Hao Jiang",
+      "Yan-Bing Leng",
+      "Zi-Yu Lv",
+      "You Zhou",
+      "Ye Zhou",
+      "Wai-Yeung Wong",
+      "Su-Ting Han"
+    ],
+    "summary": "Nature Communications, Published online: 23 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69805-2\">doi:10.1038/s41467-026-69805-2</a>Li et al. report feedback neurons based on perovskite memristors with a nickel single-atom modified reduced graphene oxide cathode. The device successfully implements an unsupervised learning network with over 50% clustering accuracy and cooperative learning for solving NP-hard combinatorial optimisation problem.",
+    "source": "Nature Communications",
+    "date": "2026-02-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69937-5",
+    "title": "Evaluating multiple candidates simultaneously reduces racial disparities in promotion and tenure",
+    "link": "https://www.nature.com/articles/s41467-026-69937-5",
+    "authors": [
+      "Theodore C. Masters-Waage",
+      "Juan M. Madera",
+      "Ebenezer Edema-Sillo",
+      "Ally St. Aubin",
+      "Peggy Lindner",
+      "Maritza Gaytan",
+      "Heyao Yu",
+      "Christiane Spitzmueller"
+    ],
+    "summary": "Nature Communications, Published online: 23 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69937-5\">doi:10.1038/s41467-026-69937-5</a>Past work has found that Black and Hispanic faculty are judged more harshly in promotion and tenure. Here, evidence from a natural experiment shows that evaluating faculty simultaneously with other candidates helps mitigate these racial disparities.",
+    "source": "Nature Communications",
+    "date": "2026-02-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69838-7",
+    "title": "Stereoselective vicinal C(sp³)–C bond formation via metallaphotoredox 1,2-difunctionalization of internal alkenes",
+    "link": "https://www.nature.com/articles/s41467-026-69838-7",
+    "authors": [
+      "Yanyan Zhang",
+      "Tianyu Long",
+      "Yangxing Sun",
+      "Ye Yuan",
+      "Jing Li",
+      "Chuqian Tang",
+      "Feng-Ling Qing",
+      "Lingling Chu"
+    ],
+    "summary": "Nature Communications, Published online: 23 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69838-7\">doi:10.1038/s41467-026-69838-7</a>Stereocontrolled construction of vicinal C(sp3)–C bonds on unsymmetrical internal alkenes remains an important goal in synthetic chemistry. Here, the authors report a metallaphotoredox strategy that enables highly chemo-, regio-, diastereo- and enantioselective alkene difunctionalization, providing efficient access to drug-like molecular architectures.",
+    "source": "Nature Communications",
+    "date": "2026-02-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69739-9",
+    "title": "Probing hidden symmetry via nonlinear transport in an altermagnet candidate Ca<sub>3</sub>Ru<sub>2</sub>O<sub>7</sub>",
+    "link": "https://www.nature.com/articles/s41467-026-69739-9",
+    "authors": [
+      "Subin Mali",
+      "Yufei Zhao",
+      "Yu Wang",
+      "Saugata Sarker",
+      "Yangyang Chen",
+      "Zixuan Li",
+      "Jun Zhu",
+      "Ying Liu",
+      "Venkatraman Gopalan",
+      "Binghai Yan",
+      "Zhiqiang Mao"
+    ],
+    "summary": "Nature Communications, Published online: 23 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69739-9\">doi:10.1038/s41467-026-69739-9</a>Altermagnets are characterized by fully compensated magnetic moments yet break time-reversal symmetry, leading to symmetry-enforced momentum dependent spin splitting. While demonstrations of almagnetism have typically proceeded via spectroscopic probes like ARPES, here Mali, Zhao and coauthors show that nonlinear transport can serve as a sensitive probe to screen for altermagnetic candidates, using Ca3Ru2O7 as a case study.",
+    "source": "Nature Communications",
+    "date": "2026-02-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69235-0",
+    "title": "A new highly oxygen-deficient and cubic Pr<sub>3</sub>ZrO<sub>8-δ</sub> for intermediate-temperature thermochemical production of oxygen and hydrogen",
+    "link": "https://www.nature.com/articles/s41467-026-69235-0",
+    "authors": [
+      "Jiaxin Lu",
+      "Yongliang Zhang",
+      "Luhong Chen",
+      "Yan Chen",
+      "Ke An",
+      "Yasser Shoukry",
+      "Xinfang Jin",
+      "Zhi-Hao Wang",
+      "Sai Mu",
+      "Xueling Lei",
+      "Kevin Huang"
+    ],
+    "summary": "Nature Communications, Published online: 23 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69235-0\">doi:10.1038/s41467-026-69235-0</a>Two-step thermochemical cycles provide a clean and sustainable route for producing hydrogen and oxygen, yet their practical deployment remains limited by the high temperatures ( > 1500 °C) typically required for most redox-active oxides (RAOs). Here, the authors report Pr3ZrO8 as a new RAO capable of efficient redox cycling within an intermediate temperature window.",
+    "source": "Nature Communications",
+    "date": "2026-02-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00761-7",
+    "title": "Uncertainties of enhanced rock weathering for climate-change mitigation",
+    "link": "https://www.nature.com/articles/s43017-026-00761-7",
+    "authors": [
+      "Marcus Schiedung",
+      "Kirsty J. Harrington",
+      "Xavier Dupla",
+      "Benjamin Möller",
+      "Ennio Facq",
+      "Tim Sweere",
+      "Axel Don",
+      "Robert G. Hilton",
+      "Sebastian Doetterl",
+      "Jordon D. Hemingway"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 24 February 2026; <a href=\"https://www.nature.com/articles/s43017-026-00761-7\">doi:10.1038/s43017-026-00761-7</a>Enhanced rock weathering (ERW) is a carbon dioxide removal (CDR) strategy that converts atmospheric CO2 to stable carbonates by applying minerals to agricultural land. This Perspective discusses the potential difficulties in scaling ERW, covering feedstock availability, impacts on soil–plant systems, uncertainties around CDR efficiency along the land–ocean continuum and socio-economic challenges.",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-02-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03258-9",
+    "title": "Author Correction: Mummified cave cheetahs inform rewilding actions in Saudi Arabia",
+    "link": "https://www.nature.com/articles/s43247-026-03258-9",
+    "authors": [
+      "Ahmed Al Boug",
+      "Zaffar R. Mir",
+      "Sharif Jbour",
+      "Vincent van der Merwe",
+      "Abdullah Al Salem",
+      "Abdulmani H. Al-Qahtani",
+      "Saleh Al A’amri",
+      "Zuhair Amr",
+      "Francesco Maria Angelici",
+      "Francesco Maria Galassi",
+      "Elena Varotto",
+      "Mohammed F. Albeshr",
+      "Talal Al Shamari",
+      "Khalaf Al Shamari",
+      "Mohammed Al Mutairi",
+      "Pamela A. Burger",
+      "Stefan Prost",
+      "Carlos M. Duarte"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 23 February 2026; <a href=\"https://www.nature.com/articles/s43247-026-03258-9\">doi:10.1038/s43247-026-03258-9</a>Author Correction: Mummified cave cheetahs inform rewilding actions in Saudi Arabia",
+    "source": "Communications Earth & Environment",
+    "date": "2026-02-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03284-7",
+    "title": "Dynamic deepwater invertebrate populations challenge the concept of oxygen-rich reference conditions for European lakes",
+    "link": "https://www.nature.com/articles/s43247-026-03284-7",
+    "authors": [
+      "Pierre Lapellegerie",
+      "Simona Breu",
+      "Lucia Wick",
+      "Fabian Rey",
+      "Ieva Grudzinska",
+      "Nathalie Dubois",
+      "Sönke Szidat",
+      "Sandra Camara-Brugger",
+      "Urs Leuzinger",
+      "Oliver Heiri"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 23 February 2026; <a href=\"https://www.nature.com/articles/s43247-026-03284-7\">doi:10.1038/s43247-026-03284-7</a>Neolithic and Bronze Age human activity and clearcutting improved conditions for deepwater invertebrates in Lake Bichelsee, Switzerland, but from the Roman Age onward similar disturbances caused severe hypoxia and declining deepwater invertebrates as shown by a millennia-long palaeoecological record.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-02-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03315-3",
+    "title": "Heavy iron isotopes in arc rocks reveal anoxic sediment recycling in subduction zones",
+    "link": "https://www.nature.com/articles/s43247-026-03315-3",
+    "authors": [
+      "Zhigang Wang",
+      "Li-Qun Dai",
+      "Zi-Fu Zhao",
+      "Li-Tao Ma",
+      "Wei Fang",
+      "Xing-Mian Hu"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 23 February 2026; <a href=\"https://www.nature.com/articles/s43247-026-03315-3\">doi:10.1038/s43247-026-03315-3</a>The recycled anoxic sediments play an important role in determining the heavy iron isotope composition of arc magmas, according to Fe-Mo-Sr-Nd-Hf isotope analyses of Northeast China arc rocks and global data correlations.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-02-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03327-z",
+    "title": "Scale-dependent model-observation inconsistencies in global terrestrial water storage models",
+    "link": "https://www.nature.com/articles/s43247-026-03327-z",
+    "authors": [
+      "Gangqiang Zhang",
+      "Tongren Xu",
+      "Shaomin Liu",
+      "Liqiang Zhang",
+      "Sayed M. Bateni",
+      "Jianzhi Dong",
+      "Wenjie Yin",
+      "Qingqing Wang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 23 February 2026; <a href=\"https://www.nature.com/articles/s43247-026-03327-z\">doi:10.1038/s43247-026-03327-z</a>Using a satellite observation-constrained assimilation system can mitigate hydrological models’ inconsistencies, leading to improved global performance and maintaining robustness across various climate zones, according to analysis of model-observation inconsistencies across global, climate-zone, and multiple basin scales.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-02-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03344-y",
+    "title": "Colony formation sustains the global competitiveness of nitrogen-fixing <i>Trichodesmium</i> under ocean acidification",
+    "link": "https://www.nature.com/articles/s43247-026-03344-y",
+    "authors": [
+      "Weicheng Luo",
+      "Meri Eichner",
+      "Ondřej Prášil",
+      "Futing Zhang",
+      "Keisuke Inomura",
+      "Ya-Wei Luo"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 23 February 2026; <a href=\"https://www.nature.com/articles/s43247-026-03344-y\">doi:10.1038/s43247-026-03344-y</a>Ocean acidification differentially shapes adaptive strategies in Trichodesmium trichomes and colonies due to distinct morphologies, according to analysis of eco-physiological models.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-02-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03323-3",
+    "title": "Anaerobic urea oxidation is an overlooked but globally relevant nitrogen loss pathway in marine sediments",
+    "link": "https://www.nature.com/articles/s43247-026-03323-3",
+    "authors": [
+      "Haoming Xu",
+      "Guodong Song",
+      "Ruosi Zhu",
+      "Shuo Wei",
+      "Liyuan Liu",
+      "Guanxuan Yuan",
+      "Guiling Zhang",
+      "Sumei Liu"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 23 February 2026; <a href=\"https://www.nature.com/articles/s43247-026-03323-3\">doi:10.1038/s43247-026-03323-3</a>Globally, anaerobic urea oxidation accounted for around 7% of total sedimentary nitrogen loss, with a disproportionately high contribution in deep-sea sediment, according to direct isotopic measurements and contributions of anaerobic urea oxidation rates across China’s marginal sea sediments.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-02-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26001275",
+    "title": "Editorial Board",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26001275?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 April 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 680Author(s):",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-02-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121239",
+    "title": "High Ozone Isotope Anomaly at Mt. Everest Linked to Stratospheric Ozone Intrusion",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121239?af=R",
+    "authors": [
+      "Yichao Wu, \nZhongyi Zhang, \nZhuang Jiang, \nShichang Kang, \nJoel Savarino, \nChunxiang Ye, \nPengfei Chen, \nWeili Lin, \nChong Zhang, \nLei Geng"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-22",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119913",
+    "title": "Emerging Effective Radiative Forcing in the Radiative Imbalance Since 2010",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119913?af=R",
+    "authors": [
+      "S. Yukimoto, \nH. Kawai, \nN. Oshima, \nM. Deushi"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-22",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118996",
+    "title": "Satellite‐Based Estimation of Near‐Surface Specific Humidity During Tropical Cyclones in the Western North Pacific and North Atlantic",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118996?af=R",
+    "authors": [
+      "Hiroyuki Tomita, \nAkiyoshi Wada"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-22",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag110",
+    "title": "Unmasking true confinement effects: ultrahigh linear selectivity and chain-length oscillatory behavior in zeolite-encapsulated rhodium hydroformylation",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag110/8494848?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Hydroformylation of higher <span style=\"font-style: italic;\">α</span>-olefins with high linear selectivity is hampered by rapid isomerization and lack of steric control in conventional heterogeneous catalysts. Here, we selectively passivate external rhodium (Rh) sites on a zeolite-encapsulated Rh@MEL catalyst using bulky 2,4-dimethylbenzenethiol (DMBT), producing Rh@MEL-DMBT that exposes only micropore-confined single Rh sites within 5.3 × 5.4 Å MEL channels. This eliminates interference from unrestricted surface Rh, enabling unambiguous probing of true shape-selective hydroformylation. Rh@MEL-DMBT delivers exceptional performance for C<sub>5</sub>–C<sub>12</sub>  <span style=\"font-style: italic;\">α</span>-olefins, achieving linear-to-branched (<span style=\"font-style: italic;\">l</span>/<span style=\"font-style: italic;\">b</span>) ratios up to 600, &gt;95% aldehyde chemoselectivity, and significant suppression of isomerization (&lt;5% internal olefins) observed for most substrates within this range. Strikingly, activity and aldehyde selectivity exhibit sinusoidal oscillation with increasing chain length, directly linked to resonant diffusion of olefins in toluene-filled pores revealed by molecular dynamics simulations. <span style=\"font-style: italic;\">In situ</span> Fourier-transform infrared spectroscopy (FTIR) confirms encaged [HRh(CO)<sub>2</sub>] and [HRh(CO)] intermediates, while kinetic isotope effect (KIE = 1.2) and pressure-dependent kinetics rigorously identify CO insertion as the rate-determining step. These results establish the first experimentally validated molecular mechanism of zeolite-confined single-site Rh hydroformylation and unveil diffusion-controlled chain-length-dependent regioselectivity in confined catalysis.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-02-23",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag109",
+    "title": "Magnetic properties of molecules on surfaces studied with scanning probe methods",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag109/8494839?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Magnetic molecules on surfaces provide atomically precise testbeds for quantum magnetism and device concepts in spintronics and quantum information. Scanning probe techniques now resolve and control single-molecule spin states, their coupling to substrates, and emergent many-body phenomena including the Kondo effect and Yu–Shiba–Rusinov (YSR) states. This review summarizes recent progress in combining molecular design, adsorption geometry, and interfacial hybridization to create measurable spin anisotropy, excitations, and correlations. We first recall fundamentals of spin formation and surface-induced modifications, then survey key methodologies like scanning tunneling microscopy, inelastic tunneling spectroscopy, pump–probe protocols, functionalized and superconducting tips, and magnetic exchange force microscopy. Case studies span single-ion magnets, metal-free Kondo-active molecules, molecular magnets on superconductors, and coupled spin architectures assembled by on-surface synthesis. Across these examples, we distill design rules for tuning exchange, anisotropy, and charge transfer at the molecule–surface interface. We conclude with open challenges—reproducibility, room-temperature stability, and multiscale theory—and outline opportunities in van der Waals integration, ultrafast spin dynamics, and data-driven spectroscopy, charting a path from single-molecule experiments to programmable molecular spin devices.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-02-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S016913682600082X",
+    "title": "Apatite chemistry as an indicator of pegmatitic magmatic evolution and rare-metal mineralization: Evidence from the Koktokay pegmatite field, Xinjiang, NW China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S016913682600082X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 22 February 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Chong Cao, Shujing Wu, Ping Shen, Haoxuan Feng, Shuzhi Wang, Xinming Liu, Yaoqing Luo, Wenzhe Zuo, Zhihua Guo, Lina Liu",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-02-24",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-026-69697-2",
     "title": "Subtypes of adolescent major depressive disorder characterized by divergent information dynamics in sensory-association cortices",
     "link": "https://www.nature.com/articles/s41467-026-69697-2",
