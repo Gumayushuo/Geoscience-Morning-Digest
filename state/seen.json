@@ -1,5 +1,546 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-69845-8",
+    "title": "Nanoporosity-driven deformation of additively manufactured nano-architected metals",
+    "link": "https://www.nature.com/articles/s41467-026-69845-8",
+    "authors": [
+      "Wenxin Zhang",
+      "Zhi Li",
+      "Huajian Gao",
+      "Julia R. Greer"
+    ],
+    "summary": "Nature Communications, Published online: 28 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69845-8\">doi:10.1038/s41467-026-69845-8</a>A two-photon-lithography hydrogel-infusion process prints 3D nickel nano-architectures with ~100-nm features and high specific strength, indicating that localized nanoporosity hotspots govern deformation and size-dependent strength.",
+    "source": "Nature Communications",
+    "date": "2026-02-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70171-2",
+    "title": "Physical echo state network based on the nonlinearity and dynamic response of ambipolar heterostructure transistors",
+    "link": "https://www.nature.com/articles/s41467-026-70171-2",
+    "authors": [
+      "Wen-Min Zhong",
+      "Wenbin Zhang",
+      "Yu-Xiang Zeng",
+      "JiYu Zhao",
+      "Ziqi Jia",
+      "Guanglong Ding",
+      "Su-Ting Han",
+      "Vellaisamy A. L. Roy",
+      "Ye Zhou"
+    ],
+    "summary": "Nature Communications, Published online: 28 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-70171-2\">doi:10.1038/s41467-026-70171-2</a>In neuromorphic computing, time-series prediction is a significant challenge to recurrent neural network architecture. Here, the authors present ambipolar transistors implementing a physical echo-state network for efficient time-series and image tasks, achieving high accuracy via static and dynamic computing modes.",
+    "source": "Nature Communications",
+    "date": "2026-02-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69737-x",
+    "title": "Polyanion-stabilized amorphous halide electrolytes with low lithium content for all-solid-state lithium batteries",
+    "link": "https://www.nature.com/articles/s41467-026-69737-x",
+    "authors": [
+      "Wen Tang",
+      "Feilong Wang",
+      "Shuaika Liang",
+      "Fiaz Hussain",
+      "Jo-chi Tseng",
+      "Pengcheng Yu",
+      "Jiuwei Lei",
+      "Hailun Jin",
+      "Chunlei Zhao",
+      "Haochang Zhang",
+      "Zhepu Shi",
+      "Ying Li",
+      "Wen Yin",
+      "Fucheng Ren",
+      "Shuo Wang",
+      "Zi‑Feng Ma",
+      "Xueliang Sun",
+      "Wei Xia"
+    ],
+    "summary": "Nature Communications, Published online: 28 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69737-x\">doi:10.1038/s41467-026-69737-x</a>Halide solid electrolytes typically require high lithium content, raising costs and exacerbating air sensitivity. Here, authors leverage anion clusters to synthesize an amorphous electrolyte with low lithium content of 2.4 wt%, high ionic conductivity of 1.5 mS cm-1, and good air-stability.",
+    "source": "Nature Communications",
+    "date": "2026-02-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70129-4",
+    "title": "Strong optical anisotropy in one-dimensional phosphorus wavy tubes",
+    "link": "https://www.nature.com/articles/s41467-026-70129-4",
+    "authors": [
+      "Shuai Zhang",
+      "Zhaolong Liu",
+      "Tongtong Jiang",
+      "Chen Wang",
+      "Jiahui Wang",
+      "Han Wang",
+      "Minqiang Fan",
+      "Li Yang",
+      "Yang Li",
+      "Liping Ding",
+      "Ying Yu",
+      "Xiaodong Hao",
+      "Shufang Ma",
+      "Bingshe Xu",
+      "Xiaolong Chen",
+      "Cong Ye",
+      "Xianfeng Chen",
+      "Paul K. Chu",
+      "Shifeng Jin",
+      "Feng Ding",
+      "Xue-Feng Yu",
+      "Zhipei Sun",
+      "Jiahong Wang"
+    ],
+    "summary": "Nature Communications, Published online: 28 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-70129-4\">doi:10.1038/s41467-026-70129-4</a>Strong optical anisotropy is commonly achieved by complex engineered materials. Here, authors synthesize elemental crystals of type-II red phosphorus made of wavy tubular structures, exhibiting strong birefringence in the visible and near-infrared spectral region. They demonstrate anisotropic photoluminescence, Raman scattering and second-harmonic generation.",
+    "source": "Nature Communications",
+    "date": "2026-02-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69127-3",
+    "title": "SOD1 lactylation impair its enzymatic activity by conformational change to aggravate intervertebral disc degeneration",
+    "link": "https://www.nature.com/articles/s41467-026-69127-3",
+    "authors": [
+      "Yuyao Zhang",
+      "Yu Zhai",
+      "Chao Liu",
+      "Minghang Chen",
+      "Yang Zhang",
+      "Zhiqun Bian",
+      "Xian Chang",
+      "Zhilei Hu",
+      "Jianmin Li",
+      "Chao Zhang",
+      "Zhenhong Ni",
+      "Yangli Xie",
+      "Lin Chen",
+      "Minghan Liu",
+      "Changqing Li"
+    ],
+    "summary": "Nature Communications, Published online: 28 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69127-3\">doi:10.1038/s41467-026-69127-3</a>Lactylation of SOD1 at lysine in nucleus pulposus cells and aggravates intervertebral disc degeneration (IVDD) in male rats.",
+    "source": "Nature Communications",
+    "date": "2026-02-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70089-9",
+    "title": "Vertical nanodiamond dominated sheets possessing both high capacitance and high n-type Hall mobility",
+    "link": "https://www.nature.com/articles/s41467-026-70089-9",
+    "authors": [
+      "Yuemin Gong",
+      "Zhiqiang Zhang",
+      "Meiyan Jiang",
+      "Chengke Chen",
+      "Shaohua Lu",
+      "Xiaojun Hu"
+    ],
+    "summary": "Nature Communications, Published online: 28 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-70089-9\">doi:10.1038/s41467-026-70089-9</a>The authors transformed Ta-loaded vertical graphene into diamond by Ar/O plasma treatment at ordinary pressure and obtained vertical nanodiamond dominated sheets electrode with both high capacitance and high n-type Hall mobility.",
+    "source": "Nature Communications",
+    "date": "2026-02-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69954-4",
+    "title": "Attention-related modulation in the superior colliculus encodes perceptual sensitivity, but not perceptual choice",
+    "link": "https://www.nature.com/articles/s41467-026-69954-4",
+    "authors": [
+      "Supriya Ghosh",
+      "John H. R. Maunsell"
+    ],
+    "summary": "Nature Communications, Published online: 28 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69954-4\">doi:10.1038/s41467-026-69954-4</a>The specific contributions of different SC (superior colliculus) neuron subtypes to the diverse perceptual and behavioral aspects of attentional performance remain unclear. Here authors show that neurons in the SC support visual spatial attention by enhancing perceptual sensitivity and motor bias, without reflecting internal perceptual decisions or choice accuracy, revealing its unique role in transforming attention into action.",
+    "source": "Nature Communications",
+    "date": "2026-02-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69730-4",
+    "title": "Modulating TPP riboswitch activity simultaneously enhances crop yield, nutritional quality and stress tolerance",
+    "link": "https://www.nature.com/articles/s41467-026-69730-4",
+    "authors": [
+      "Yufei Li",
+      "Kang Li",
+      "Jiazhi Lu",
+      "Mustafa Bulut",
+      "Huanteng Hou",
+      "Qamar U. Zaman",
+      "Ran Zhang",
+      "Zhuang Yang",
+      "Chenkun Yang",
+      "Chuansong Zhan",
+      "Guan Wang",
+      "Tong Chen",
+      "Xianqing Liu",
+      "Qiao Zhao",
+      "Shuangqian Shen",
+      "Alisdair R. Fernie",
+      "Jie Luo"
+    ],
+    "summary": "Nature Communications, Published online: 28 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69730-4\">doi:10.1038/s41467-026-69730-4</a>Improving crop yield very often comes at the cost of crop quality and stress resistance. Here, the authors report that gene editing of the thiamine pyrophosphate riboswitch in rice leads to elevated levels of various vitamins and phytonutrients, as well as resistance to cold and blast disease without penalty on grain yield.",
+    "source": "Nature Communications",
+    "date": "2026-02-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03341-1",
+    "title": "Precipitation and soil moisture coupling constrains subseasonal predictability of a prolonged extreme heatwave",
+    "link": "https://www.nature.com/articles/s43247-026-03341-1",
+    "authors": [
+      "Bingjie Lv",
+      "Shuguang Wang",
+      "Gang Chen",
+      "Baoqiang Xiang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 28 February 2026; <a href=\"https://www.nature.com/articles/s43247-026-03341-1\">doi:10.1038/s43247-026-03341-1</a>Precipitation–soil moisture coupling plays a key role in modulating the intensity of a prolonged Yangtze River Valley heatwave, confirming the dominant influence of local precipitation in limiting its subseasonal predictability, according to process-resolving heatwave analyses.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-02-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03332-2",
+    "title": "Opportunity windows accelerate action and expand options for climate adaptation in Europe",
+    "link": "https://www.nature.com/articles/s43247-026-03332-2",
+    "authors": [
+      "Valeria Di Fant",
+      "Hans Middelkoop",
+      "Karianne de Bruin",
+      "Ann-Kathrin Petersen",
+      "Bart van den Hurk",
+      "Marjolijn Haasnoot"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 28 February 2026; <a href=\"https://www.nature.com/articles/s43247-026-03332-2\">doi:10.1038/s43247-026-03332-2</a>Practical openings for climate adaptation may emerge or be created in Europe when funding becomes available, policies shift, public concern rises, infrastructure reaches its limits, or new technologies mature, according to a study identifying 34 opportunities across the region",
+    "source": "Communications Earth & Environment",
+    "date": "2026-02-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03064-9",
+    "title": "Glacier-specific controls on enhanced trace metal mobility across global mountain and polar meltwaters",
+    "link": "https://www.nature.com/articles/s43247-025-03064-9",
+    "authors": [
+      "Shipika Sundriyal",
+      "Tanuj Shukla",
+      "Shichang Kang",
+      "Yulang Zhang",
+      "Rajesh Singh",
+      "Uday Bhan",
+      "D. P. Dobhal"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 28 February 2026; <a href=\"https://www.nature.com/articles/s43247-025-03064-9\">doi:10.1038/s43247-025-03064-9</a>Meltwaters from mountain glaciers and ice sheets contain essential micronutrients like zinc, cobalt, nickel, cadmium, and copper, which can fertilize nutrient-limited ecosystems but also raise metal toxicity, according to an analysis of samples from 14 glaciers and 2 ice sheets worldwide.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-02-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03322-4",
+    "title": "A soil food web approach to integrate soil fauna into multitrophic biogeochemistry",
+    "link": "https://www.nature.com/articles/s43247-026-03322-4",
+    "authors": [
+      "Justine D. M. Lejoly",
+      "Kyle Mason-Jones",
+      "G. F. Ciska Veen"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 28 February 2026; <a href=\"https://www.nature.com/articles/s43247-026-03322-4\">doi:10.1038/s43247-026-03322-4</a>A soil food web approach integrating trophic and non-trophic pathways into multitrophic biogeochemistry is needed to predict the impact of soil fauna on carbon cycling.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-02-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03346-w",
+    "title": "Synergizing resource recovery and net-zero emissions in China’s wastewater sector",
+    "link": "https://www.nature.com/articles/s43247-026-03346-w",
+    "authors": [
+      "Wei Yang",
+      "Haoyuan Liu",
+      "Tianfu Yao",
+      "Qilin Cao",
+      "Wufei Zhang",
+      "Junnian Song"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 27 February 2026; <a href=\"https://www.nature.com/articles/s43247-026-03346-w\">doi:10.1038/s43247-026-03346-w</a>An integrated, high-technology readiness level wastewater treatment system can shift China’s wastewater sector from 99.8 to −10.0 million tonnes carbon dioxide equivalent while exporting net energy, nutrients, and reclaimed water, according to a life-cycle assessment",
+    "source": "Communications Earth & Environment",
+    "date": "2026-02-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26001044",
+    "title": "Subduction collapse and the isolation of southwest Gondwana basins from the Panthalassa Ocean",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26001044?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 May 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 681Author(s): Guido M. Gianni, Federico Dávila, Cesar R. Navarrete, Gustavo Correa, Osvaldo Conde, Pietro Sternai",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-03-01",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26001159",
+    "title": "Enhanced erosion of the Laramide ranges during the Paleocene–Eocene Thermal Maximum, Bighorn Basin, Wyoming",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26001159?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 May 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 681Author(s): Gilby Jepson, Sarah W.M. George, Barbara Carrapa, Thomas J. Lapen",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-03-01",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121568",
+    "title": "Quasi‐Periodic Behavior of Tropical Cyclone Precursors and Its Phase Matching With the Insolation Diurnal Cycle",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121568?af=R",
+    "authors": [
+      "Bolei Yang, \nJi Nie, \nZhe‐Min Tan, \nJuan Fang, \nWilliam R. Boos"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120181",
+    "title": "Major Melting Event on the Ross Ice Shelf, Antarctica, Connected With Enhanced Atmospheric Turbulence",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120181?af=R",
+    "authors": [
+      "Dhiman R. Mondal, \nPedro Elosegui, \nNathra Ramrajvel, \nScott Paine"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118765",
+    "title": "North Pacific Model Biases Influence Kuroshio Extension Atmospheric Circulation Patterns",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118765?af=R",
+    "authors": [
+      "Se‐Yong Song, \nSamantha Stevenson, \nEmanuele Di Lorenzo, \nMatthew Newman, \nAntonietta Capotondi, \nNiklas Schneider"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120498",
+    "title": "Estimating Ice Cover on the Great Lakes Using Seismic Ambient Noise",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120498?af=R",
+    "authors": [
+      "Joshua B. Russell, \nChristopher J. W. Carchedi"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120608",
+    "title": "Constraints on Past CO2 and Climate Sensitivity From Global Temperature and Sea Level Reconstructions Across the Plio‐Pleistocene",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120608?af=R",
+    "authors": [
+      "Peter Köhler, \nPeter U. Clark"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120700",
+    "title": "Environmental Controls on the Seasonal and Spatial Variability of Submesoscale Thermal Air–Sea Coupling Over the Gulf Stream",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120700?af=R",
+    "authors": [
+      "Lionel Renault, \nCarlos Conejero, \nFabien Desbiolles"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120182",
+    "title": "Anisotropic Melt Inclusions as a Confounding Signal for Ice‐Penetrating Radar Observations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120182?af=R",
+    "authors": [
+      "A. H. Cheng, \nD. M. Schroeder, \nN. S. Wolfenbarger, \nR. Shaper, \nC. Seltzer, \nB. Hills"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118767",
+    "title": "Asymmetry in ENSO Prediction Skill Linked to Consecutive La Niña Events Within the IRI Real‐Time Forecast System",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118767?af=R",
+    "authors": [
+      "Wenchang Ge, \nHan‐Ching Chen, \nWenjun Zhang, \nYu‐Heng Tseng, \nFei‐Fei Jin"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121383",
+    "title": "Surface Observations From Atmospheric Radiation Measurement Sites Constrain the Anthropogenic Contribution to Cloud Droplet Number",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121383?af=R",
+    "authors": [
+      "Dani B. Jones, \nHunter Y. Brown, \nJacqueline M. Nugent, \nAugust Mikkelsen, \nCi Song, \nDamao Zhang, \nSusannah M. Burrows, \nHamish Gordon, \nAndrew Kirby, \nDaniel T. McCoy"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012717",
+    "title": "A Thermodynamic Framework for Turing‐Type Instabilities in Porous Media: Part II Applications",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012717?af=R",
+    "authors": [
+      "Klaus Regenauer‐Lieb, \nManman Hu, \nQingpei Sun, \nChong Liu, \nZhennan Zhu, \nVictor Calo"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 3, March 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-02-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012710",
+    "title": "A Thermodynamic Framework for Turing‐Type Instabilities in Porous Media: Part I Theory",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012710?af=R",
+    "authors": [
+      "Klaus Regenauer‐Lieb, \nManman Hu, \nQingpei Sun, \nChong Liu, \nZhennan Zhu, \nVictor Calo"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 3, March 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-02-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB033776",
+    "title": "Extensive Models for Seismically Viable Inner Core Compositions Featuring Light Element Variations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB033776?af=R",
+    "authors": [
+      "Qianxi Chen, \nFeiwu Zhang, \nJoshua M. R. Muir"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 3, March 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-02-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033455",
+    "title": "Limited Passive Lithospheric Underthrusting and Localized Crustal Thickening Beneath the Qilian Shan, Northeastern Tibetan Plateau: Evidence From Receiver Function Imaging",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033455?af=R",
+    "authors": [
+      "Yifang Chen, \nJiuhui Chen, \nYu Li, \nPanpan Zhao, \nBiao Guo, \nShuncheng Li"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 3, March 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-02-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001341",
+    "title": "A new pair of lunar gabbroic meteorites record magma recharge at ∼ 3.0 Ga",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001341?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 28 February 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): P.Y. Li, Y. Jiang, K. Zhao, S.Y. Liao, X.C. Che, X.R. Zhang",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-03-01",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001195",
+    "title": "Triple oxygen and hydrogen stable isotope composition of hydroxyl water in orgueil (CI-type) and Tagish Lake (C2-type) carbonaceous chondrites",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001195?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 27 February 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Erik J.H. Oerter, Christopher D.K. Herd, Conel M.O’D. Alexander",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-03-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53496.1/726831/Deformed-submarine-terraces-in-Puget-Sound-Pacific",
+    "title": "Deformed submarine terraces in Puget Sound, Pacific Northwest, indicate only one M &gt;∼7.5 earthquake on the Seattle fault zone in the past 11,000 yr",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G53496.1/726831/Deformed-submarine-terraces-in-Puget-Sound-Pacific",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Submerged marine terraces in Puget Sound, deformed across the Seattle fault zone (SFZ), indicate that only one earthquake as large as M ∼7.5 has occurred in at least the past 11 k.y. Previous paleoseismic studies documented an M ∼7.5 earthquake between 923 and 924 CE, which uplifted coastal marine terraces by as much as 8 m. We demonstrated that this earthquake was the only such event since ca. 11 ka by mapping and quantifying deformation of older marine terraces that are now submerged in Puget Sound. The submerged terraces, attributed to a late-glacial sea-level lowstand, record both glacial isostatic rebound and tectonic deformation. Vertical offset of the ca. 11 ka terraces within the SFZ is comparable to that of the marine terraces uplifted in 923 CE, implying no additional large (M &gt;∼7.5) earthquake on the SFZ since ca. 11 ka. This result implies a longer recurrence interval than current hazard estimates, which assume recurrence of M &gt;7.1 events every 5 k.y. Our mapping of SFZ deformation since ca. 11 ka also supports fault segmentation and contiguous block uplift between the Seattle and Tacoma fault zones.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-02-27",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-10024/726845/Contrasting-whole-rock-geochemistry-and-mineralogy",
+    "title": "Contrasting whole-rock geochemistry and mineralogy of REE- and U-fertile granites: Implications for the formation of regolith-hosted REE and granite-related U deposits",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-10024/726845/Contrasting-whole-rock-geochemistry-and-mineralogy",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The origin of both regolith-hosted rare earth elements (REE) and granite-related uranium deposits has been generally suggested to be associated with REE-U-bearing accessory minerals in granitic rocks. However, different mineralization styles are often associated with granites with specific geochemical and mineralogical fingerprints. Here, whole-rock geochemistry and mineralogy of the REE-fertile Zhaibei and U-fertile Aigao granites in southern Jiangxi Province were investigated to decode petrogenesis of granites and their genetic link with the REE and U mineralization. Zircon and monazite-(Ce) U-Pb dating indicates that the Aigao and Zhaibei granites were emplaced at the Triassic (∼231 Ma) and Jurassic (∼191 Ma), respectively. The Aigao granite belongs to low-Ca peraluminous L-type leucogranites with whole-rock <sup>87</sup>Sr/<sup>86</sup>Sr ratios of 0.7059–0.7228 and ɛNd(t) values of −11.4 to −11.5, monazite-(Ce) ɛNd(t) values of −13.2 to −9.7, and Paleoproterozoic Nd model ages, suggesting that the granite was mainly derived from partial melting of ancient continental crust. In contrast, the Zhaibei granite is high in SiO<sub>2</sub>, (Na<sub>2</sub>O + K<sub>2</sub>O)/CaO, FeO<sub>T</sub>/MgO, and Zr + Nb + Ce + Y, but low in CaO, TiO<sub>2</sub>, and Sr and shows the affinity of A2-type granites. It has whole-rock <sup>87</sup>Sr/<sup>86</sup>Sr ratios of 0.7016–0.7097 and ɛNd(t) values of −6.4 to −0.6 and monazite-(Ce) ɛNd(t) values of −6.7 to −5.5. These results indicate that the Zhaibei granite was generated by mixing between mantle-derived mafic magma and crustal-derived felsic magma.The Aigao granite, with low whole-rock Th/U and REE/U ratios, is characterized by the association of monazite-(Ce), Th-poor uraninite, and xenotime-(Y), and represents a favorable U source for uranium deposits. The Zhaibei granite exhibits higher REE + Y, Th, Zr, (REE + Y)/U, and Th/U and has primary REE-bearing minerals of monazite-(Ce), U-rich thorite, and zircon. Some magmatic phases have been transformed into the secondary forms (e.g., REE-fluorocarbonates) that are easier to be weathered during deuteric alteration, which sets the stage for regolith-hosted REE mineralization. This study suggests that uraninite-bearing, low-Ca peraluminous granites with U/(REE + Y) &gt;∼0.2 should be considered as high-priority targets for exploration for U deposits, while high-Si (SiO<sub>2</sub> &gt;∼74 wt%), low-Ca (CaO &lt;1 wt%) peraluminous granites with the LREE/(HREE + Y) ratio of &lt;∼1.5 and high-Ca granites (CaO &gt;1 wt%) with the LREE/(HREE + Y) ratio of &gt;∼1.5 may have greater regolith-hosted HREE and LREE ore potential, respectively.</span>",
+    "source": "American Mineralogist Advance Access",
+    "date": "2026-02-26",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-10133/726844/Single-crystal-elasticity-of-clinopyroxene-along",
+    "title": "Single crystal elasticity of clinopyroxene along Diopside–Hedenbergite solid solution",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-10133/726844/Single-crystal-elasticity-of-clinopyroxene-along",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Clinopyroxene (Cpx) is a major constituent of terrestrial planetary interiors, thus constraining its elasticity across key solid solutions is essential for interpreting geophysical observations. While the effects of coupled NaAl–CaMg substitution along the diopside (Di)–jadeite (Jd) join are well characterized, the influence of Fe–Mg substitution along the Di–hedenbergite (Hd) join remains less certain. We measured the single-crystal elasticity of three Fe-rich natural Cpx spanning the Di–Hd join using Brillouin spectroscopy. We found that the elastic moduli of Cpx vary linearly with Fe–Mg substitution: longitudinal and shear moduli decrease with Fe (or Hd) content, whereas most off-diagonal elastic moduli increase. Increasing Fe content has a negligible effect on the bulk modulus but produces a pronounced reduction in the shear modulus. Combining our results with previous studies, we developed an empirical compositional model for the single-crystal elastic moduli of Cpx at ambient conditions, which predicts that each 10 mol% increase in Hd decreases V<sub>P</sub> by ∼1.1% and V<sub>S</sub> by ∼1.8%. These results provide improved constraints on the seismic signatures of Fe-enriched terrestrial upper mantle lithologies.</span>",
+    "source": "American Mineralogist Advance Access",
+    "date": "2026-02-26",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38415.1/726961/Magmatic-and-hydrothermal-histories-recorded-by",
+    "title": "Magmatic and hydrothermal histories recorded by altered zircon in carbonatites from the Selkirk allochthon and Monashee complex, British Columbia",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38415.1/726961/Magmatic-and-hydrothermal-histories-recorded-by",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Carbonatites are rare mantle-derived igneous rocks often economically enriched in rare earth and high field strength elements and are crucial archives of mantle and crustal processes. Zircon U-Th-Pb geochronology provides a powerful means of constraining their magmatic and hydrothermal evolution, but interpretation is often hindered by discordant data arising from open-system behavior. Discordant data are often dismissed as meaningless, yet hydrothermally recrystallized zircon can in fact record the timing of fluid-rock interaction, offering a means to date important orogenic-related or economic deposit-forming hydrothermal events.Here, we show that integrated U-Th-Pb geochronology, textural observations, trace element analysis, and Pb isotope data from the Mount Grace carbonatite and associated carbonatites and syenites in the southeastern Canadian Cordillera resolve both magmatic and hydrothermal histories. Four samples from meta-carbonatite and meta-alkaline rocks in the Monashee complex and Selkirk allochthon in the southern Omineca belt were studied to clarify the magmatic ages through new zircon U-Th-Pb geochronology. Concordant U-Pb zircon ages of ca. 360 Ma from the pyroclastic Mount Grace carbonatite confirm a Late Devonian depositional age for protoliths of the Monashee cover gneiss. Ca. 360 Ma magmatic ages for all four carbonatite-syenite samples expand the record of Late Devonian−Early Mississippian alkaline magmatism in the Monashee complex and Selkirk allochthon. Hydrothermally altered zircon domains that correspond with convolute zoning in cathodoluminescence and elevated light rare earth element contents yield a Th-Pb age of ca. 163 Ma from the Mount Grace carbonatite and U-Pb weighted mean and upper intercept ages of ca. 130 Ma from the Three Valley Gap carbonatite and syenite in the Monashee Complex and the Trident Mountain syenite in the Selkirk allochthon. Our data identifies a Jurassic hydrothermal event that affected carbonatites in both the Monashee complex and Selkirk allochthon, argued by some authors to have been tectonically separated until the Upper Cretaceous−Paleocene.Mineral Pb isotopic analyses from the same four carbonatites and syenites and one sediment-hosted magnetite-rich ore deposit reveal a highly radiogenic linear trend inconsistent with traditional closed-system models, likely indicating mixing between radiogenic Pb derived from clastic sedimentary sources and Pb in the alkaline bodies. This, along with the robust Late Devonian zircon age of the underlying Mt. Grace carbonatite, calls into question the validity of the shale curve model age for the Cottonbelt Pb-Zn deposit and helps resolve a longstanding age conundrum.Our findings refine the timing of Late Devonian carbonatite-alkaline magmatism along the western Laurentian margin, reveal a previously unrecognized Jurassic hydrothermal event that affected both the Monashee complex and Selkirk allochthon during Cordilleran orogenesis, and address a decades-old age conundrum in the Monashee complex leading to determination of a ca. 360 Ma maximum depositional age of the Monashee complex. More broadly, this study underscores the potential of hydrothermal zircon to date fluid-mediated events in carbonate-rich systems, offering a new framework for interpreting isotopically disturbed datasets in mineralized terranes.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-02-27",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38637.1/726960/From-mountain-range-to-flat-plateau-in-the",
+    "title": "From mountain range to flat plateau in the Qiangtang Block (western China): Insights from low-temperature thermochronology",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38637.1/726960/From-mountain-range-to-flat-plateau-in-the",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The Tibetan Plateau is currently undergoing lateral extrusion and expansion, but it remains unclear whether such orogen-parallel growth occurred during the plateau’s early uplift. Additionally, it is uncertain how this process developed after the formation of the proto-Tibetan Plateau. Constraining both these processes will help improve our understanding of the plateau’s uplift history and mechanisms of formation. This study focuses on the Qiangtang terrane of western China, the core of the proto-Tibetan Plateau, and integrates new low-temperature thermochronological data from Eocene granites with published datasets to reconstruct the uplift history from the perspective of spatiotemporal exhumation patterns. Results reveal that prior to 40−35 Ma, the Qiangtang Plateau experienced not only orogen-perpendicular growth but also east−west-trending expansion. Following establishment of this proto-Tibetan Plateau, localized exhumation persisted in northern Qiangtang. Based on the correlation between apparent exhumation rates and fault activity, geomorphic indices, precipitation, and magmatism, we suggest that compressive thickening was the primary mechanism governing the initial uplift, while crustal channel flow drove the northeastward expansion of the Qiangtang Plateau. Conversely, extensional lithospheric thinning and climate-related erosion processes may have only played a role in localized regions. This study reconstructs the uplift history of the Qiangtang Plateau, from its initial formation as a mountain range to a flat plateau. The findings confirm that lateral growth was likely prevalent during the early stage of uplift and provide thermochronological evidence supporting the topographic transition driven by crustal melting.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-02-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025TC009220",
+    "title": "The Paleo‐Tethys Suture Zone in the Afghan Hindu Kush‒Pamir: Geo‐Thermochronology, Geochemistry, Tectonics",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC009220?af=R",
+    "authors": [
+      "Lothar Ratschbacher, \nSaid Amin Hashimy, \nHasan Malistani, \nYasuhito Osanai, \nJianhua Li, \nZhao Yang, \nBradley R. Hacker, \nLeander Franz, \nHadi Karimi"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 3, March 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-02-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826000855",
+    "title": "Tectonic extension and pre-enrichment of REEs in the southern margin of the North China Craton during late Paleoproterozoic: Evidence from geochemistry and Lu-Hf-Nd isotopes of Longwangzhuang REE-bearing granite",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826000855?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 28 February 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Jiangpeng Shi, Guang Wu, Debin Yang, Yanjing Chen, Haotian Yang",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-03-01",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826000971",
+    "title": "Mineral paragenesis and ore-forming process of the large Xiaoyingpan Te-rich gold deposit, North China Craton: Insights from deposit geology and pyrite geochemistry",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826000971?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 28 February 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Jian Wang, Zhi-Gao Wang, Gao-Hua Fan, Kai-Kai Yang, Wei Huang, Zhuo Li",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-03-01",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-026-10308-x",
     "title": "Editorial Expression of&#xa0;Concern: The gene product Murr1 restricts HIV-1 replication in resting CD4+ lymphocytes",
     "link": "https://www.nature.com/articles/s41586-026-10308-x",
