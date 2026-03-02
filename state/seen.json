@@ -1,5 +1,192 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-70220-w",
+    "title": "Targeting NAT10 alleviates colonic senescence and elderly-onset colitis by disrupting N4-acetylation of <i>DYRK1A</i>",
+    "link": "https://www.nature.com/articles/s41467-026-70220-w",
+    "authors": [
+      "Jingyu Chen",
+      "Meng Xue",
+      "Shuyi Mi",
+      "Anbo Fu",
+      "Wenwen Chen",
+      "Yuhao Sun",
+      "Shenglong Xia",
+      "Qiwei Ge",
+      "Jiakai Luo",
+      "Qiao Yu",
+      "Liangjing Wang",
+      "Shujie Chen"
+    ],
+    "summary": "Nature Communications, Published online: 01 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70220-w\">doi:10.1038/s41467-026-70220-w</a>This study identifies NAT10-mediated RNA ac4C modification as a key regulator of colonic epithelial aging. Through N4-acetylation regulation of DYRK1A, NAT10 promotes intestinal senescence, highlighting a potential therapeutic target for elderly-onset colitis.",
+    "source": "Nature Communications",
+    "date": "2026-03-01",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120143",
+    "title": "Splay Fault Permeability Governs Fluid–Structure Interaction in Accretionary Wedges",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120143?af=R",
+    "authors": [
+      "Joaquin Julve, \nÅke Fagereng, \nGiovanni Toffol, \nKohtaro Ujiie"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120526",
+    "title": "Projected Global Diversity of Marine Heatwaves in the 21st Century",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120526?af=R",
+    "authors": [
+      "Wenjing Zhang, \nZijie Zhao, \nAlistair J. Hobday, \nNeil J. Holbrook"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120489",
+    "title": "Indo–Western Pacific Tropical Heating Anomalies Regulate the Cross‐Pacific Atmospheric River Highways During Boreal Summer",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120489?af=R",
+    "authors": [
+      "Yurong Song, \nMengqian Lu, \nYang Zhao"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119766",
+    "title": "Resonant Vibrational Excitation and Overtone Vibrational Emissions of Nitric Oxide (NO) in Sub‐Auroral Ion Drift (SAID) Region: A Source of STEVE Continuum Emission",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119766?af=R",
+    "authors": [
+      "Andrew W. Yau, \nAndrew D. Howarth, \nWilliam K. Peterson"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120170",
+    "title": "Enabling High‐Fidelity Wave‐Particle Interaction Studies: A Novel Filtering for Isolating Whistlers From Spacecraft Noise",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120170?af=R",
+    "authors": [
+      "Fulin Shi, \nLi Zeng, \nYuhui Fu, \nJinbin Cao, \nZhima Zeren, \nDapeng Liu, \nDehe Yang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120513",
+    "title": "Assessment of SWOT for Monitoring Ice‐Marginal Lake Water Levels in Greenland",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120513?af=R",
+    "authors": [
+      "Xiaoyi Shen, \nYubin Fan, \nStephen J. Livingstone, \nChang‐Qing Ke"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119064",
+    "title": "Frontal‐Driven Water‐Mass Transformation in a Western Boundary Current: Evidence From the Yucatan Current",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119064?af=R",
+    "authors": [
+      "Giovanni Durante, \nJulio Sheinbaum, \nAlejandro Domínguez‐Guadarrama, \nJulien Jouanno, \nLuna Hiron, \nUwe Send, \nHomar Verdugo‐Ortega, \nAngel Ruiz‐Angulo"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117164",
+    "title": "Theoretical Maximum and Cumulative Seismic Moment Relationships Confirm that Injection Volume Controls the Occurrence Rate, But Not the Magnitude, of Induced Earthquakes",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117164?af=R",
+    "authors": [
+      "L. De Barros, \nD. Marsan"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117418",
+    "title": "Improving Aerosol Absorption Estimates Via Size‐Resolved Constraints Based on AERONET and In Situ Measurements",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117418?af=R",
+    "authors": [
+      "Luoyao Guan, \nJason Blake Cohen, \nShuo Wang, \nPravash Tiwari, \nZhewen Liu, \nKai Qin"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032076",
+    "title": "Influence of the Loading Stiffness on Sheared Granular Fault Gouge, and Applicability to Slip‐Weakening Theory",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032076?af=R",
+    "authors": [
+      "Guilhem Mollon, \nNathalie Casas, \nMarco Scuderi"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 3, March 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-02-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB031961",
+    "title": "Quantifying Gas and Thermal Energy Emissions in an Active Geothermal Area: Insights From Le Biancane (Larderello Field, Italy)",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB031961?af=R",
+    "authors": [
+      "D. Granieri, \nM. Cerminara, \nF. Mazzarini, \nR. Novellino, \nM. Trolese, \nE. Dallara, \nM. Lelli"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 3, March 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-02-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001298",
+    "title": "Molecular inventory and comparative organic profiling of a homogenized aggregate sample from asteroid (101955) Bennu",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001298?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 28 February 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): José C. Aponte, Denise K. Buckner, Angel Mojarro, Jamie E. Elsila, Jason P. Dworkin, Daniel P. Glavin, Harold C. Connolly, Dante S. Lauretta",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-03-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S001670372600133X",
+    "title": "Assessing the plausibility of direct constraints on ancient atmospheric <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si1.svg\" class=\"math\"><msub><mi>P</mi><msub><mrow><mi mathvariant=\"italic\">CO</mi></mrow><mn>2</mn></msub></msub></math> from fluid inclusions in halite: a theoretical and experimental approach",
+    "link": "https://www.sciencedirect.com/science/article/pii/S001670372600133X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 28 February 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Michael Naylor Hudgins, Justin G. Park, Alex M. Ryan, Jessika A. Rogers, Morgan F. Schaller",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-03-02",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026TC009431",
+    "title": "2025 Reviewer Appreciation Editorial",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026TC009431?af=R",
+    "authors": [
+      "Giulio Viola, \nMargaret Rusmore, \nDjordje Grujic, \nFederico Rossetti"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 3, March 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-02-28",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-026-69845-8",
     "title": "Nanoporosity-driven deformation of additively manufactured nano-architected metals",
     "link": "https://www.nature.com/articles/s41467-026-69845-8",
