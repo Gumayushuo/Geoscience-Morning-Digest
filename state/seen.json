@@ -1,5 +1,529 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-70346-x",
+    "title": "Multimodal evidence for hippocampal engagement and modulation by functional connectivity-guided parietal TMS",
+    "link": "https://www.nature.com/articles/s41467-026-70346-x",
+    "authors": [
+      "Zhuoran Li",
+      "Nicholas T. Trapp",
+      "Joel Bruss",
+      "Xianqing Liu",
+      "Kang Wu",
+      "Ziyan Chen",
+      "Amit Etkin",
+      "Matthew A. Howard",
+      "Aaron D. Boes",
+      "Jing Jiang"
+    ],
+    "summary": "Nature Communications, Published online: 08 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70346-x\">doi:10.1038/s41467-026-70346-x</a>Noninvasive hippocampal modulation is key for addressing hippocampal dysfunction. Using multimodal brain recordings, the authors show that personalized connectivity-guided transcranial magnetic stimulation can causally alter hippocampal activity.",
+    "source": "Nature Communications",
+    "date": "2026-03-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70277-7",
+    "title": "Preventing subsoil enhanced nitrification to safeguard agroecosystem sustainability",
+    "link": "https://www.nature.com/articles/s41467-026-70277-7",
+    "authors": [
+      "Yao Wang",
+      "Xin Luo",
+      "Esteban G. Jobbágy",
+      "Nandita B. Basu",
+      "Ganlin Zhang",
+      "Yi Zheng",
+      "Baojing Gu",
+      "Shaoliang Zhang",
+      "Yiqi Yu",
+      "Fenfang Wang",
+      "Zeyang Lu",
+      "Ruifeng Yan",
+      "Scott X. Chang",
+      "Yonglong Lu",
+      "Nengwang Chen"
+    ],
+    "summary": "Nature Communications, Published online: 07 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70277-7\">doi:10.1038/s41467-026-70277-7</a>Global cropland subsoil hides a “biogeochemical engine” where crop roots, soil texture, nitrifier communities, and hydrological conditions interact to fuel nitrification, silently driving soil acidification and groundwater nitrate pollution.",
+    "source": "Nature Communications",
+    "date": "2026-03-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70329-y",
+    "title": "Built-in tandem catalysis in hierarchical pores for efficient vinyl chloride production",
+    "link": "https://www.nature.com/articles/s41467-026-70329-y",
+    "authors": [
+      "Bolin Wang",
+      "Xingyun Li",
+      "Yuxue Yue",
+      "Shuheng Tian",
+      "Ruoting Liu",
+      "Haifeng Zhang",
+      "Ding Ma"
+    ],
+    "summary": "Nature Communications, Published online: 07 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70329-y\">doi:10.1038/s41467-026-70329-y</a>Hierarchical porous catalysts can promote industrial chemistry by running reactions in sequence at different sites. This study traps Ru, Cu–Ru and Au–Ru in large, medium and tiny pores to boost vinyl chloride production and long-term stability.",
+    "source": "Nature Communications",
+    "date": "2026-03-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70249-x",
+    "title": "Dynamic bond-driven encapsulation of enzymes in metal–organic frameworks beyond pore size constraints",
+    "link": "https://www.nature.com/articles/s41467-026-70249-x",
+    "authors": [
+      "Youcong Li",
+      "Meng Qiao",
+      "Lei Gao",
+      "Yuxiu Zhong",
+      "Ying Yang",
+      "Jie Zheng",
+      "Jing-Lin Zuo",
+      "Xing Zhang",
+      "Shuai Yuan"
+    ],
+    "summary": "Nature Communications, Published online: 07 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70249-x\">doi:10.1038/s41467-026-70249-x</a>Metal–organic frameworks with dynamic metal–ligand bonds form reversible gates that admit enzymes larger than the pores, enabling stable encapsulation and efficient multi-enzyme cascade catalysis for glycan precursor synthesis.",
+    "source": "Nature Communications",
+    "date": "2026-03-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70430-2",
+    "title": "Cyclophilin A stabilizes the capsid protein p72 to facilitate African swine fever virus replication",
+    "link": "https://www.nature.com/articles/s41467-026-70430-2",
+    "authors": [
+      "Hui Kong",
+      "Liqin Yang",
+      "Zhenjiang Zhang",
+      "Ying Zhang",
+      "Linlin Liu",
+      "Wan Wang",
+      "Linfei Song",
+      "Yuanmao Zhu",
+      "Encheng Sun",
+      "Fang Li",
+      "Zhigao Bu",
+      "Xiangpeng Sheng",
+      "Dongming Zhao"
+    ],
+    "summary": "Nature Communications, Published online: 07 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70430-2\">doi:10.1038/s41467-026-70430-2</a>African swine fever virus (ASFV) virions mainly contain capsid protein p72. Here, the authors show that host cyclophilin A binds to and stabilizes p72, promoting viral factory formation and virion assembly, thus offering a promising anti-ASFV target.",
+    "source": "Nature Communications",
+    "date": "2026-03-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70251-3",
+    "title": "Accelerated discovery of highly active enzyme nanohybrids with parallelized Bayesian optimization in hybrid space",
+    "link": "https://www.nature.com/articles/s41467-026-70251-3",
+    "authors": [
+      "Yu Liu",
+      "Haoyang Hu",
+      "Yueheng Han",
+      "Jia Song Deon Chon",
+      "Chin Lee Lo",
+      "Zhixuan Chen",
+      "Zheng Zhang",
+      "Zhihong Yuan",
+      "Jun Ge"
+    ],
+    "summary": "Nature Communications, Published online: 07 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70251-3\">doi:10.1038/s41467-026-70251-3</a>AI is transforming protein engineering, but the immobilization of enzymes often impairs their activity. Here, the authors present a machine-learning-based workflow that can be used to identify optimal nanohybrids with high activity recovery across diverse enzymes.",
+    "source": "Nature Communications",
+    "date": "2026-03-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70501-4",
+    "title": "Ligand engineering tailors hydrophobic microenvironments for efficient electrocatalytic oxidation of fatty alcohol",
+    "link": "https://www.nature.com/articles/s41467-026-70501-4",
+    "authors": [
+      "Ruiqi Du",
+      "Zemao Chen",
+      "Boyan Zhang",
+      "Shiyan Wang",
+      "Kaiqi Nie",
+      "Binhang Yan",
+      "Jun Bao",
+      "Yi Cheng"
+    ],
+    "summary": "Nature Communications, Published online: 07 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70501-4\">doi:10.1038/s41467-026-70501-4</a>Electrocatalytic oxidation of fatty alcohols in aqueous media is limited by mass transport due to their low solubility. Here, the authors propose ligand engineering to create hydrophobic microenvironments in Nickel MOFs, enabling efficient oxidation to fatty acids by enriching reactants.",
+    "source": "Nature Communications",
+    "date": "2026-03-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70339-w",
+    "title": "Direct oxidative carbonylation of methane to acetic acid via high-valent iron-oxo mediated water activation",
+    "link": "https://www.nature.com/articles/s41467-026-70339-w",
+    "authors": [
+      "Haonan Zhang",
+      "Richard J. Lewis",
+      "A. Iulian Dugulan",
+      "Yang Li",
+      "Shuai Wang",
+      "Zhenxing Wang",
+      "Jianrong Zeng",
+      "Nicholas F. Dummer",
+      "Yanyan Xi",
+      "Yunyun Li",
+      "Thomas E. Davies",
+      "Mingbo Wu",
+      "Graham J. Hutchings",
+      "Wenting Wu"
+    ],
+    "summary": "Nature Communications, Published online: 07 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70339-w\">doi:10.1038/s41467-026-70339-w</a>Converting methane into valuable chemicals is challenging due to its stable bonds and inefficient C–C coupling. Herein, a dual-site catalyst with high-valent metals to selectively converts methane to acetic acid with high efficiency and stability.",
+    "source": "Nature Communications",
+    "date": "2026-03-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03348-8",
+    "title": "Negative emissions technologies and practices could challenge global resource supply and environmental limits",
+    "link": "https://www.nature.com/articles/s43247-026-03348-8",
+    "authors": [
+      "Selene Cobo",
+      "Ángel Galán-Martín",
+      "Gonzalo Guillén-Gosálbez"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 07 March 2026; <a href=\"https://www.nature.com/articles/s43247-026-03348-8\">doi:10.1038/s43247-026-03348-8</a>Scaling up carbon dioxide removal could strain global mineral and nutrient supplies and trigger new environmental pressures, according to a prospective life-cycle assessment of negative-emissions technologies and practices.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-03-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03353-x",
+    "title": "Nitrate stable isotopes complement subarctic new production estimates",
+    "link": "https://www.nature.com/articles/s43247-026-03353-x",
+    "authors": [
+      "Britton Dempsey",
+      "Carolyn Buchwald"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 07 March 2026; <a href=\"https://www.nature.com/articles/s43247-026-03353-x\">doi:10.1038/s43247-026-03353-x</a>Nitrate stable isotopes complement one-dimensional models of seasonal nitrate drawdown in the Labrador Sea, constraining contributions of surface nitrate regeneration and vertical nitrate resupply to total productivity, according to ocean nitrate modeling.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-03-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03369-3",
+    "title": "South American fire activity in spring is linked to Antarctic sea ice variability",
+    "link": "https://www.nature.com/articles/s43247-026-03369-3",
+    "authors": [
+      "Hongyi Hou",
+      "Li Zhang",
+      "Wenju Cai",
+      "Xuya Ren",
+      "Junkai Wang",
+      "Lixin Wu"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 07 March 2026; <a href=\"https://www.nature.com/articles/s43247-026-03369-3\">doi:10.1038/s43247-026-03369-3</a>An increase in sea ice concentrations near the Antarctic Peninsula can lead to hot, dry, and windy conditions over South America in spring and thus favor local fire activities, as revealed by observational records and climate model experiments.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-03-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03358-6",
+    "title": "Drought is associated with human migration in agriculture-dependent middle-income countries",
+    "link": "https://www.nature.com/articles/s43247-026-03358-6",
+    "authors": [
+      "Maurizio Mazzoleni",
+      "Giuliano Di Baldassarre",
+      "Ana Hagström",
+      "Elena Raffetti"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 06 March 2026; <a href=\"https://www.nature.com/articles/s43247-026-03358-6\">doi:10.1038/s43247-026-03358-6</a>Social and economic factors are the primary drivers of migration, and drought was a major predictor of migration in 11 percent of regions, with robust drought-migration associations in mid-income countries, according to panel regression analysis.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-03-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2512645123?af=R",
+    "title": "A theoretical index for understanding distinct land relative humidity trends in observations, reanalyses, and models",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2512645123?af=R",
+    "authors": [
+      "Wenyu ZhouL. Ruby LeungBryce E. HarropZiming ChenChuan-Chieh ChangaAtmospheric, Climate, and Earth Sciences Division, Pacific Northwest National Laboratory, Richland, WA 99354"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 10, March 2026. <br />SignificanceUnderstanding how land relative humidity (RH) has changed and how well Earth system models capture those changes is critical, yet progress has been impeded by limited coverage of observations, biases in global reanalyses, and complex ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-03-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2525260123?af=R",
+    "title": "Observed universal continuum morphology of raindrops reveals a concise diagram of heavy precipitation microphysics",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2525260123?af=R",
+    "authors": [
+      "Long WenGang ChenShuguang WangJi NieKun ZhaoaState Key Laboratory of Severe Weather Meteorological Science and Technology, Nanjing University, Nanjing 210023, ChinabDepartment of Atmospheric and Oceanic Sciences, School of Physics, Peking University, Beijing 100871, ChinacKey Laboratory of Transportation Meteorology of China Meteorological Administration, Nanjing Joint Institute for Atmospheric Sciences, Nanjing 210019, ChinadSchool of Atmospheric Sciences, Nanjing University, Nanjing 210023, ChinaeChina Meteorological Administration Tornado Key Laboratory, Foshan 528315, ChinafInstitute of Carbon Neutrality, Peking University, Beijing 100871, China"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 10, March 2026. <br />SignificanceObservations of raindrop size distribution are crucial, as they provide a key link between cloud microphysics, remote sensing, hydrology, and climate science. Despite a long history of measurement, significant inconsistencies and uncertainties ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-03-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226000711",
+    "title": "Pyroclastic density currents at mafic volcanic systems: insights from four decades of observations at Mount Etna volcano, Southern Italy",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226000711?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 6 March 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Giorgio Costa, Marco Viccaro",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-03-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226000486",
+    "title": "Benchmark-based metric distances as predictors of geochemical processes and data variability: A comprehensive discussion",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226000486?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 6 March 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Caterina Gozzi, Antonella Buccianti",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-03-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26001330",
+    "title": "A common mantle source for strongly silica-undersaturated magmas: Insights from Zn-Fe isotopes in kimberlites",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26001330?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 May 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 681Author(s): Ronghua Cai, Andrea Giuliani, Paolo A. Sossi, Tian-Hao Wu, Yongsheng He, D. Graham Pearson, Stephen F. Foley, Jingao Liu",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-03-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26001378",
+    "title": "Corrigendum to “Evolving microstructure during experimental deformation of Maryland diabase” [Earth and Planetary Science Letters, Volume 627 (2024), 118564]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26001378?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 7 March 2026<b>Source:</b> Earth and Planetary Science LettersAuthor(s): Katherine Billings, Philip Skemer",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-03-08",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118804",
+    "title": "Global Warming Has Accelerated Significantly",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118804?af=R",
+    "authors": [
+      "G. Foster, \nS. Rahmstorf"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119424",
+    "title": "Collapses of Hemispheric Available Potential Energy",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119424?af=R",
+    "authors": [
+      "Marc Federer, \nSacha Le May, \nMichael Sprenger, \nLukas Papritz"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120128",
+    "title": "Impact of Continental Configuration on the Climate Response to Greenhouse‐Gas Forcing in an Idealized GCM",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120128?af=R",
+    "authors": [
+      "David B. Bonan, \nMarysa M. Laguë, \nWilliam R. Boos"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120064",
+    "title": "Monitoring of the Transient Sea Level Variations Associated With Hurricane‐Induced Storm Surges by GNSS‐IR",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120064?af=R",
+    "authors": [
+      "Xin Chang, \nZuozhu Tan, \nKai Liu, \nZhao Li, \nNico Sneeuw, \nQusen Chen, \nDawei Li, \nTaoyong Jin, \nWeiping Jiang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120852",
+    "title": "Surface Air Enrichment of Cosmogenic 35S at a Subtropical Site During the May 2024 Solar Superstorm",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120852?af=R",
+    "authors": [
+      "Xinling Zou, \nLin Su, \nZhisheng Zhang, \nXiaomin Lin, \nMang Lin"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121428",
+    "title": "Abrupt Disappearance of Plasmaspheric Hiss Inside the Magnetic Dip",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121428?af=R",
+    "authors": [
+      "Yan Zhuang, \nChao Yue, \nShan Wang, \nHaimeng Li, \nSibo Xu, \nXu‐Zhi Zhou, \nQiu‐Gang Zong"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120367",
+    "title": "A Curie Point Depth Model of the Conterminous United States Derived From a Prior‐Constrained Equivalent Source Inversion",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120367?af=R",
+    "authors": [
+      "Chuanjie Chen, \nZhengtao Wang, \nYu Gao, \nZiyi Zhu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119106",
+    "title": "Dual Role of a Subducted Seamount in Megathrust Rupture Initiation and Rupture Barrier",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119106?af=R",
+    "authors": [
+      "G. Ponce, \nA. Meltzer, \nA. Wickham‐Piotrowski, \nS. Beck, \nM. Ruiz, \nS. Hernández, \nM. Segovia"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032951",
+    "title": "Stress and Strain in Magma‐Mush Reservoirs: Implications for Reservoir Failure and Magma Propagation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032951?af=R",
+    "authors": [
+      "L. Mantiloni, \nJ. Hickey, \nR. Alshembari"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 3, March 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-03-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033454",
+    "title": "Fault Roughness Controls Seismicity Front Migration During Fluid Injection",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033454?af=R",
+    "authors": [
+      "Hsiao‐Fan Lin, \nThibault Candela, \nJean‐Paul Ampuero"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 3, March 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-03-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032952",
+    "title": "Fault Kinematics of the 2019–2026 Puerto Rico Earthquake Sequence: Conjugate Faulting Within a Zone of Oblique Subduction",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032952?af=R",
+    "authors": [
+      "Lei Sun, \nXiaohua Xu, \nPaul Mann, \nJean‐Claude Hippolyte"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 3, March 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-03-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB031951",
+    "title": "Accurate Geomagnetic Paleointensities Retrieved by the RESET Method From a 1915 Mount Lassen Dacitic Lava Dominated by Non‐Single‐Domain Titanomagnetites",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB031951?af=R",
+    "authors": [
+      "Xiaowei Chen, \nHuapei Wang, \nChen Wen, \nRobert S. Coe, \nDennis V. Kent"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 3, March 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-03-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB031945",
+    "title": "Broadband Dielectric Analysis of Clays: Impact of Cation Exchange Capacity, Water Content, and Porosity",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB031945?af=R",
+    "authors": [
+      "Felix Schmidt, \nNorman Wagner, \nInes Mulder, \nKatja Emmerich, \nThierry Bore, \nJan Bumberger"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 3, March 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-03-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032291",
+    "title": "Poroelastic Bulk Controls on Shear Localization in Fault Gouge During Earthquake Rupture: Insights From a Hybrid Numerical Framework",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032291?af=R",
+    "authors": [
+      "Yu‐Han Wang, \nElías Rafn Heimisson"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 3, March 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-03-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001365",
+    "title": "Do magmatic sill intrusions simply liberate the sulphur of the sedimentary reservoirs?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001365?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 6 March 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Alban Cheviet, Flavien Choulet, Martine Buatier, Christophe Galerne, Wolfgang Bach, Wolf-Achim Kahl, Armelle Riboulleau, Lucie Pastor",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-03-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001572",
+    "title": "Experimental characterization of multi-pathway diffusion of lithium in feldspar",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001572?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 6 March 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Brendan Garvey, Megan Holycross, Gabriel Larouche",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-03-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001389",
+    "title": "A prolonged bombardment history of asteroid 4 Vesta: insights from U–Pb chronology of eucrite phosphates and zircons",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001389?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 6 March 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): M. Koike, Y. Sumiya, R. Kanemaru, B.G. Rider-Stokes, R. Sakai, N. Takahata, K. Sasaki, H. Asanuma, Y. Sano",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-03-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001250",
+    "title": "Diagenetic effects on conodont oxygen-isotopic compositions: implications for in-situ analysis and paleothermometry",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001250?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 6 March 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Lei Zhang, Thomas J. Algeo, He Zhao, Zhengyi Lyu, Fang Hao",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-03-08",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54248.1/727275/Tourmaline-fault-mirrors-record-seismic-slip-on-N",
+    "title": "Tourmaline fault mirrors record seismic slip on N-S normal faults in the Himalayan orogen",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54248.1/727275/Tourmaline-fault-mirrors-record-seismic-slip-on-N",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">A prominent set of N-S−trending normal faults hosts most of the destructive earthquakes in the central Tibetan Plateau, including the 2025 M<sub>w</sub> 7.1 Dingri earthquake. The source physics of these earthquakes is unclear. However, fault mirrors provide important records of fault slip. We found a special type of fault mirror, tourmaline fault mirrors (TFMs), to be remarkably widespread in the N-S normal fault systems of the Himalayan orogen, these being intermittently yet repeatedly exposed for tens of kilometers along strike, suggesting that the TFMs likely hosted large earthquakes. Here, we report the first field- to nanoscale study of these TFMs from the Mount Everest area. Microstructural analyses show that a typical TFM consists of three distinct layers, from the slip surface to the gneiss host rock: a 30−80-nm-thick film of amorphous tourmaline, a net-textured layer (20−100 µm) containing tourmaline clasts in an amorphous tourmaline matrix, and a dynamically recrystallized layer of tourmaline grains (≤400 µm). The observed amorphous material, micropores, and embayed residual tourmaline grains, combined with Ti-in-quartz thermometry implying temperatures &gt;840 °C at the slip surface, suggest that the TFMs formed by frictional melting during seismic slip on tourmaline-filled veins. Combining unstable frictional slip data for tourmaline gouge at 200−300 °C with the coexistence of tourmaline cataclasites and TFMs, we propose that tourmaline veins play a key role in controlling seismic rupture on the N-S normal fault systems of the Himalayan orogen.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-03-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826001071",
+    "title": "Identification of regional geochemical anomalies based on VGAE-T",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826001071?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 6 March 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Yaru Sun, Fengqin Ran, Tonghui Luo, Long Tang, Lushan Wei, Xin Li, Dingsha Jiang, Jinye Li",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-03-08",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-00759-7",
     "title": "Briefing chat: What Galileo’s scribbled margin notes reveal about his scientific journey",
     "link": "https://www.nature.com/articles/d41586-026-00759-7",
