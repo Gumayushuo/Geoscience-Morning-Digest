@@ -1,5 +1,201 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-026-00669-8",
+    "title": "Monthly HIV-drug injections offer potent alternative to daily tablets",
+    "link": "https://www.nature.com/articles/d41586-026-00669-8",
+    "authors": [],
+    "summary": "Nature, Published online: 08 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00669-8\">doi:10.1038/d41586-026-00669-8</a>Long-lasting treatment suppresses HIV in people with mental illness and other conditions that make it challenging to adhere to standard treatments.",
+    "source": "Nature",
+    "date": "2026-03-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70405-3",
+    "title": "High-voltage and stable co-free LiNiO<sub>2</sub> positive electrode for sulfide-based all-solid-state batteries",
+    "link": "https://www.nature.com/articles/s41467-026-70405-3",
+    "authors": [
+      "Yue Wang",
+      "Dixing Ni",
+      "Huan Li",
+      "Bernt Johannessen",
+      "Chao Ye",
+      "Shi-Zhang Qiao"
+    ],
+    "summary": "Nature Communications, Published online: 08 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70405-3\">doi:10.1038/s41467-026-70405-3</a>High-voltage Co-free LiNiO2 positive electrode for all-solid-state batteries suffers from structural and interfacial degradation. Here, the authors report a general doping strategy that stabilizes the cathode and enables durable, high-voltage all-solid-state batteries.",
+    "source": "Nature Communications",
+    "date": "2026-03-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70085-z",
+    "title": "Lyn governs the establishment and maintenance of B cell anergy by suppressing PI3K signaling",
+    "link": "https://www.nature.com/articles/s41467-026-70085-z",
+    "authors": [
+      "Brigita E. Fiske",
+      "Scott M. Wemlinger",
+      "Bergren W. Crute",
+      "Andrew Getahun"
+    ],
+    "summary": "Nature Communications, Published online: 08 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70085-z\">doi:10.1038/s41467-026-70085-z</a>The Src-family kinase Lyn plays multiple roles in myeloid and B cell development; thus, conventional or cell-type specific genomic deletion of Lyn does not allow clear functional readouts regarding specific mature B cell functions. Here the authors establish a mouse model in which Lyn is acutely deleted in a Tamoxifen inducible manner in B cells and find that Lyn plays a role in the anergy of DNA reactive Ars/A1 B cells via providing continuous inhibitory signalling.",
+    "source": "Nature Communications",
+    "date": "2026-03-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226000589",
+    "title": "Bedding-parallel fractures in shale: Formation mechanisms, geological significance, and implications for hydrocarbon accumulation—A review",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226000589?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 7 March 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Shu Jiang, Huanquan Sun, Jichao Fang, Hanyong Bao, Zhiguo Shu, Jiqing Li, Yiwen Ju",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S001282522600070X",
+    "title": "Formation and evolution of sandy deserts in China: A review",
+    "link": "https://www.sciencedirect.com/science/article/pii/S001282522600070X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 7 March 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Xin Wang, Ziying Yu, Han Hu, Chongwen Luo, Wenjing Yang, Jiayi Lin, Yu Cao, Zaijun Li, Fei Wang, Baofeng Li, Shengqian Chen, Huayu Lu, Fahu Chen",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226000681",
+    "title": "Hydrocarbon resources resulting from plant terrestrialization: A review",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226000681?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 7 March 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Yu Liu, Jiayue Feng, Chenxi Wang, Liguang Mao, Zhen Shen",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26001342",
+    "title": "Permo-Triassic rift nucleation in East Antarctica revealed by low-temperature thermochronology",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26001342?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 May 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 681Author(s): Ferdinand Mayer-Ullmann, Stijn Glorie, Martin Hand, Samuel C. Boone, Angus Nixon, Martin Danišík, Jacqueline A. Halpin, Jacob A. Mulder",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118321",
+    "title": "Reductions in Anthropogenic Aerosol and Greenhouse Gas Drive Divergent Regional Impacts on Wildfire Risks in China Under Carbon Neutrality",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118321?af=R",
+    "authors": [
+      "Lili Ren, \nShicheng Yan, \nYang Yang, \nHailong Wang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119357",
+    "title": "Characterizing Landslide‐Induced Floods Using the SWOT Mission: A Case Study on the Chilcotin River, Canada",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119357?af=R",
+    "authors": [
+      "J. Plante, \nC. B. Brunelle, \nL. Perez"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118277",
+    "title": "Overturning Circulation of the North Atlantic Subtropical Gyre Computed in Density Coordinates at 26°N",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118277?af=R",
+    "authors": [
+      "D. A. Smeed, \nW. E. Johns, \nR. H. Smith, \nT. Petit, \nE. L. McDonagh, \nD. Rayner, \nD. L. Volkov, \nS. Elipot, \nJ. B. Kajtar, \nB. A. King, \nY. L. Firing, \nB. I. Moat"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120069",
+    "title": "The “Predictability Barrier” Phenomenon of Winter Extreme Cold Events in Central and Eastern China and Mechanisms of Error Amplification",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120069?af=R",
+    "authors": [
+      "Zhe Han, \nWansuo Duan, \nGuokun Dai, \nShuanglin Li, \nBoyu Chen, \nYuxuan Hou"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL116925",
+    "title": "Extremes in Southern Hemispheric Zonal Wave‐3 and Their Impact on Antarctic Sea‐Ice Thickness",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL116925?af=R",
+    "authors": [
+      "Shreya Trivedi, \nRishav Goyal, \nMarilyn Raphael"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119807",
+    "title": "Long‐Period Seismic Waves From Seawater Disturbances During the 2018 Anak Krakatau Volcanic Island Collapse",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119807?af=R",
+    "authors": [
+      "Yifan Zhu, \nShingo Watada, \nChao An, \nMasumi Yamada, \nTomokazu Kobayashi, \nKaryono Karyono, \nArif Aditiya, \nIyan E. Mulia"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033414",
+    "title": "Observations of Tidal Induced Responses in Self‐Potential Data in a UK Beach Sand Aquifer: Implications for Monitoring Seawater Intrusion",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033414?af=R",
+    "authors": [
+      "T. S. L. Rowan, \nA. P. Butler, \nM. C. McDonnell, \nJ. F. Águila, \nR. Flynn, \nG. A. Hamill, \nS. Donohue, \nM. D. Jackson"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 3, March 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-03-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001419",
+    "title": "Microbial activity preserved in 3.4 Ga colloform pyrite: A micro–scale sulfur isotope analyses",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001419?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 7 March 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Kohei Sasaki, Naoto Takahata, Akizumi Ishida, Takeshi Kakegawa, Kenichiro Sugitani",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001390",
+    "title": "Soil formation and weathering over the past 60 kyr reconstructed using lithium isotopes from Maar records",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001390?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 7 March 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Philip A.E. Pogge von Strandmann, Silke Voigt, Ying Zhou, Denis Scholz, Wolfgang Müller, Anthony Dosseto, Frank Sirocko",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826001101",
+    "title": "Influence of training data confidence on random forest–based gold mineral prospectivity models in the Timmins Region, Canada",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826001101?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 7 March 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Pouran Behnia, Ahmad Reza Mokhtari, Jeff Harris, Jack M. Simmons, John Ayer, Mostafa Naghizadeh",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-026-70346-x",
     "title": "Multimodal evidence for hippocampal engagement and modulation by functional connectivity-guided parietal TMS",
     "link": "https://www.nature.com/articles/s41467-026-70346-x",
