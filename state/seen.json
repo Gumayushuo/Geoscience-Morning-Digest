@@ -1,5 +1,523 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-026-00702-w",
+    "title": "The world’s salt lakes are drying up, but solutions are hard to come by",
+    "link": "https://www.nature.com/articles/d41586-026-00702-w",
+    "authors": [
+      "Josie Glausiusz"
+    ],
+    "summary": "Nature, Published online: 09 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00702-w\">doi:10.1038/d41586-026-00702-w</a>An eclectic book asks how humans have shaped these ‘queer’ landscapes and how they can be restored.",
+    "source": "Nature",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04128-8",
+    "title": "Eight common errors I see in PhD applications and interviews, and how to avoid them",
+    "link": "https://www.nature.com/articles/d41586-025-04128-8",
+    "authors": [
+      "Violeta Rodriguez"
+    ],
+    "summary": "Nature, Published online: 09 March 2026; <a href=\"https://www.nature.com/articles/d41586-025-04128-8\">doi:10.1038/d41586-025-04128-8</a>Convince a supervisor that you’re a great fit for their laboratory by preparing questions, honing your personal statement and showcasing strong team-player instincts.",
+    "source": "Nature",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00705-7",
+    "title": "How pollutants and poo paint a picture of past civilizations",
+    "link": "https://www.nature.com/articles/d41586-026-00705-7",
+    "authors": [
+      "Katarina Zimmer"
+    ],
+    "summary": "Nature, Published online: 09 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00705-7\">doi:10.1038/d41586-026-00705-7</a>A blend of chemistry and molecular-biology techniques are enabling archaeologists to mine ancient sediments for clues about the people who once lived there.",
+    "source": "Nature",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00755-x",
+    "title": "How fast does a protein fold? Real-time technique captures the moment",
+    "link": "https://www.nature.com/articles/d41586-026-00755-x",
+    "authors": [
+      "Katherine Bourzac"
+    ],
+    "summary": "Nature, Published online: 09 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00755-x\">doi:10.1038/d41586-026-00755-x</a>Proteins assume complex 3D shapes even faster than does DNA, which is a simpler molecule.",
+    "source": "Nature",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00703-9",
+    "title": "How Congress can restore the independence of US science",
+    "link": "https://www.nature.com/articles/d41586-026-00703-9",
+    "authors": [
+      "Natalie B. Aviles",
+      "Mark H. Histed"
+    ],
+    "summary": "Nature, Published online: 09 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00703-9\">doi:10.1038/d41586-026-00703-9</a>Members must go beyond reinstating US government research spending and re-establish decentralized governance at the National Institutes of Health and other agencies.",
+    "source": "Nature",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00741-3",
+    "title": "Daily multivitamin slows signs of biological ageing",
+    "link": "https://www.nature.com/articles/d41586-026-00741-3",
+    "authors": [
+      "Jacob Smith"
+    ],
+    "summary": "Nature, Published online: 09 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00741-3\">doi:10.1038/d41586-026-00741-3</a>The supplement’s anti-ageing effect was greater in people who were already biologically older than their years.",
+    "source": "Nature",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00706-6",
+    "title": "My PhD student is stuck. How do I teach them perseverance and problem solving?",
+    "link": "https://www.nature.com/articles/d41586-026-00706-6",
+    "authors": [
+      "N. G. Boeck"
+    ],
+    "summary": "Nature, Published online: 09 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00706-6\">doi:10.1038/d41586-026-00706-6</a>A new principal investigator wants to help PhD students to develop resilience and creativity in the laboratory without hovering or doing the work for them.",
+    "source": "Nature",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00771-x",
+    "title": "Daily briefing: How koalas escaped a genetic bottleneck",
+    "link": "https://www.nature.com/articles/d41586-026-00771-x",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 06 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00771-x\">doi:10.1038/d41586-026-00771-x</a>Evidence from koalas suggest that even species pushed to the brink of extinction can recover lost genetic diversity. Plus, the first ‘half Möbius’ carbon-based molecule and a mathematician modelling Mexico’s drug cartels.",
+    "source": "Nature",
+    "date": "2026-03-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70176-x",
+    "title": "Polyphenol mediated zinc-oxygen synergistic hydrogel remodels senescent microenvironment for periodontal tissue regeneration",
+    "link": "https://www.nature.com/articles/s41467-026-70176-x",
+    "authors": [
+      "Chengxinyue Ye",
+      "Jin Liu",
+      "Jinhui Ran",
+      "Shoushan Hu",
+      "Lu Yang",
+      "Jialiang Zhao",
+      "Xinyi Fang",
+      "Zhenzhen Zhang",
+      "Xin Xiong",
+      "Xueman Zhou",
+      "Yating Yi",
+      "Xiaolong Zeng",
+      "Xiong Lu",
+      "Jun Wang",
+      "Chaoming Xie"
+    ],
+    "summary": "Nature Communications, Published online: 10 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70176-x\">doi:10.1038/s41467-026-70176-x</a>Periodontitis treatment is challenged by senescent stem cells in the periodontal niche. Here, authors develop a multifunctional hydrogel that alleviates hypoxia and stem cell aging, and restores microbial balance to accelerate regeneration.",
+    "source": "Nature Communications",
+    "date": "2026-03-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70289-3",
+    "title": "Directional dynamics in the entorhinal cortex of male mice driven by behavioral constraints",
+    "link": "https://www.nature.com/articles/s41467-026-70289-3",
+    "authors": [
+      "Ruojin Liu",
+      "Jun Hao",
+      "Xiang Zhang",
+      "Shidan Wen",
+      "Youran Yang",
+      "Haiqian Cai",
+      "Kai Gao",
+      "Emilio Kropff",
+      "Chenglin Miao"
+    ],
+    "summary": "Nature Communications, Published online: 09 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70289-3\">doi:10.1038/s41467-026-70289-3</a>How behavioral constraints re-organize functionally-defined HD (head direction) cells within the wider entorhinal network is not fully understood. Here authors show the complementary role of learning and self-organization in some entorhinal subpopulations, enabling animals to adaptively represent themselves within their environment, shaped by ongoing behavioral constraints.",
+    "source": "Nature Communications",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70145-4",
+    "title": "Learning turbulent flows with generative models for super resolution and sparse flow reconstruction",
+    "link": "https://www.nature.com/articles/s41467-026-70145-4",
+    "authors": [
+      "Vivek Oommen",
+      "Siavash Khodakarami",
+      "Aniruddha Bora",
+      "Zhicheng Wang",
+      "George Em Karniadakis"
+    ],
+    "summary": "Nature Communications, Published online: 09 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70145-4\">doi:10.1038/s41467-026-70145-4</a>Turbulent flow modeling remains a significant challenge due to the computational expense and difficulty in accurately capturing fine-scale structures. This work introduces an adversarially trained neural operator that effectively combines operator learning with generative modeling, achieving substantial improvements in spatio-temporal super resolution, forecasting, and sparse flow reconstruction, thereby enabling accurate and efficient analysis of turbulent flows.",
+    "source": "Nature Communications",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70272-y",
+    "title": "Nitrogen fixation in a non-equilibrium spatially distributed electric field",
+    "link": "https://www.nature.com/articles/s41467-026-70272-y",
+    "authors": [
+      "Shuyan Guo",
+      "Yuan Wang",
+      "Yuntian Guo",
+      "Bryan R. Goldsmith",
+      "Hao Zhao"
+    ],
+    "summary": "Nature Communications, Published online: 09 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70272-y\">doi:10.1038/s41467-026-70272-y</a>The authors report a non-equilibrium spatially distributed electric field strategy for 2 nitrogen fixation in ambient air plasma.",
+    "source": "Nature Communications",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69944-6",
+    "title": "Multi-modal dissection of cell-type specific TDP-43 pathology in the motor cortex",
+    "link": "https://www.nature.com/articles/s41467-026-69944-6",
+    "authors": [
+      "Wolfgang P. Ruf",
+      "Julia K. Kühlwein",
+      "Laura Meier",
+      "Sarah J. Brockmann",
+      "Jaehyun LeeBae",
+      "Ghazaleh Sadri-Vakili",
+      "Deniz Yilmazer-Hanke",
+      "Susanne Petri",
+      "Dietmar R. Thal",
+      "Veselin Grozdanov",
+      "Karin M. Danzer"
+    ],
+    "summary": "Nature Communications, Published online: 09 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-69944-6\">doi:10.1038/s41467-026-69944-6</a>TDP-43 pathology is a key event in ALS/FTD and selectively affects specific neurons in the motor cortex. Here, the authors report which neuron types are affected and demonstrate that transcriptomic changes are cell-type specific.",
+    "source": "Nature Communications",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70562-5",
+    "title": "Reconstructing fine-scale 3D wind fields with terrain-informed machine learning",
+    "link": "https://www.nature.com/articles/s41467-026-70562-5",
+    "authors": [
+      "Chensen Lin",
+      "Ruian Tie",
+      "Shihong Yi",
+      "Dongqing Liu",
+      "Xiaohui Zhong",
+      "Zixin Hu",
+      "Hao Li"
+    ],
+    "summary": "Nature Communications, Published online: 09 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70562-5\">doi:10.1038/s41467-026-70562-5</a>This study presents a terrain-aware AI framework trained on computational fluid dynamics that reconstructs fine-scale 3D wind fields from coarse weather forecasts, enabling accurate wind prediction over complex terrain without costly simulations.",
+    "source": "Nature Communications",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70383-6",
+    "title": "Bioengineered ferritin-based lysosome-targeting chimera platform for tumor-targeted therapy",
+    "link": "https://www.nature.com/articles/s41467-026-70383-6",
+    "authors": [
+      "Shuai Zhang",
+      "Yiliang Jin",
+      "Yaxin Hou",
+      "Guoheng Tang",
+      "Zhuoran Wang",
+      "Xuehui Chen",
+      "Xiyun Yan",
+      "Kelong Fan"
+    ],
+    "summary": "Nature Communications, Published online: 09 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70383-6\">doi:10.1038/s41467-026-70383-6</a>Lysosome-targeting chimeras (LYTACs) hold therapeutic potential by degrading pathogenesis associated proteins, but current LYTAC systems often require case-by-case constructions and are devoid of a convenient and efficient modular platform. Here, the authors address these issues by developing a modular ferritin-based LYTAC platform for targeted degradation of membrane proteins for cancer therapy.",
+    "source": "Nature Communications",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70435-x",
+    "title": "Structural and mechanistic insights into the dual-nuclease defense protein Upx as an anti-phage system",
+    "link": "https://www.nature.com/articles/s41467-026-70435-x",
+    "authors": [
+      "Ruimin Zhou",
+      "Yingcan Liu",
+      "Qian Zhang",
+      "Zhenning Yin",
+      "Jiajing Tong",
+      "Chendi Zhang",
+      "Lingling Zhang",
+      "Xuzichao Li",
+      "Yanhao Zhao",
+      "Shuqin Zhang",
+      "Zhikun Liu",
+      "Weichang Chen",
+      "Nan Ji",
+      "Heng Zhang",
+      "Zhuang Li",
+      "Hang Yin",
+      "Shengkai Zuo",
+      "Yong Wei"
+    ],
+    "summary": "Nature Communications, Published online: 09 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70435-x\">doi:10.1038/s41467-026-70435-x</a>Bacteria employ diverse nucleases to defend against viruses. Here, authors characterize Upx, a single-protein, dual-nuclease system, and reveal that a specific phage protein relieves auto-inhibition to activate its antiviral function.",
+    "source": "Nature Communications",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00769-z",
+    "title": "A quantitative comparison of the physical supply and biological uptake of new nitrogen in the Arctic Ocean",
+    "link": "https://www.nature.com/articles/s43017-026-00769-z",
+    "authors": [
+      "Anya M. Waite",
+      "Alice Lane",
+      "Eddy Carmack",
+      "Seth L. Danielson",
+      "Ingrid Ellingsen",
+      "Ilker Fer",
+      "Yueng-Djern Lenn",
+      "Laurent Oziel",
+      "Benjamin Rabe",
+      "Achim Randelhoff",
+      "Eric J. Raes",
+      "Andreas Rogge",
+      "Jean-Éric Tremblay",
+      "Sinhué Torres-Valdés",
+      "Sarah-Sophie Weil",
+      "Wilken-Jon von Appen"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 10 March 2026; <a href=\"https://www.nature.com/articles/s43017-026-00769-z\">doi:10.1038/s43017-026-00769-z</a>Vertical nitrate fluxes to sunlit surface waters have an important role in supporting primary production in the Arctic Ocean. This Review explores the contributions of various physical mixing mechanisms in supplying nitrate to the Arctic euphotic zone and compares them to the biological uptake rates.",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-03-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00772-4",
+    "title": "Tracking past alpine cave glaciations",
+    "link": "https://www.nature.com/articles/s43017-026-00772-4",
+    "authors": [
+      "Gabriella Koltai",
+      "Hannah Hatcher"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 09 March 2026; <a href=\"https://www.nature.com/articles/s43017-026-00772-4\">doi:10.1038/s43017-026-00772-4</a>Nature Reviews Earth & Environment interviewed Gabriella Koltai about their project investigating past cave glaciations in the European Alps.",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03374-6",
+    "title": "Climate warming advances flowering and fruiting but drives divergent changes in reproductive season length",
+    "link": "https://www.nature.com/articles/s43247-026-03374-6",
+    "authors": [
+      "Guannan Ji",
+      "Yalan Peng",
+      "Xiaobo Li",
+      "Shaokang Zhang",
+      "Huoxing Zhu",
+      "Zhuolin Yang",
+      "Meng Lv",
+      "Frank Berninger",
+      "Qianqian Ma"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 09 March 2026; <a href=\"https://www.nature.com/articles/s43247-026-03374-6\">doi:10.1038/s43247-026-03374-6</a>Temperature and accumulated forcing are the primary drivers of changes in reproductive season length of woody species, exerting opposite effects that produce divergent phenological responses to warming, based on observations of 102 species across China from 1980 to 2008.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03273-w",
+    "title": "Increased methane emissions from boreal peatlands following linear disturbances",
+    "link": "https://www.nature.com/articles/s43247-026-03273-w",
+    "authors": [
+      "Percy Korsah",
+      "Scott J. Davidson",
+      "Maria Strack"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 09 March 2026; <a href=\"https://www.nature.com/articles/s43247-026-03273-w\">doi:10.1038/s43247-026-03273-w</a>Seismic lines, being significantly warmer and wetter provided ideal conditions for increased methane emissions in bog by almost three times and fen sites by twice as compared natural areas, according to a measurement of methane fluxes along seismic disturbances near Peace River, Alberta, Canada.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03351-z",
+    "title": "A perceptual model indicates air pollution-induced shifts in honeybee floral-scent recognition",
+    "link": "https://www.nature.com/articles/s43247-026-03351-z",
+    "authors": [
+      "Jordanna D. H. Sprayberry",
+      "Robbie D. Girling",
+      "James M. W. Ryalls",
+      "James D. Blande",
+      "Ben Langford"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 09 March 2026; <a href=\"https://www.nature.com/articles/s43247-026-03351-z\">doi:10.1038/s43247-026-03351-z</a>The Compounds Without Borders method can be used to provide insights into air pollution impacts on pollination, according to examination of a perceptual modelling tool for understanding how pollutants like ozone affect honeybee scent perception.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03359-5",
+    "title": "Ichnofossils in volcanic glass from palaeoproterozoic hydrothermal vents were burrowed by microorganisms probably seeking phosphate",
+    "link": "https://www.nature.com/articles/s43247-026-03359-5",
+    "authors": [
+      "Dominic Papineau"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 09 March 2026; <a href=\"https://www.nature.com/articles/s43247-026-03359-5\">doi:10.1038/s43247-026-03359-5</a>Nearly 1,900 million years old hydrothermal vents have trace fossils and biosignatures suggesing the original microorganisms dissolved basaltic glass to obtain phosphate. Carbon and sulphur isotopes suggest they had a chemolithotrophic lifestyle.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03361-x",
+    "title": "Melting of fluorine-rich biotite as a mechanism for generating lithium-rich granites",
+    "link": "https://www.nature.com/articles/s43247-026-03361-x",
+    "authors": [
+      "Matthew C. Morris",
+      "Owen M. Weller",
+      "Caroline R. Soderman",
+      "Marie Edmonds",
+      "Charles D. Beard",
+      "Christopher M. Yeomans"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 09 March 2026; <a href=\"https://www.nature.com/articles/s43247-026-03361-x\">doi:10.1038/s43247-026-03361-x</a>Fluorinated biotite breakdown provides a viable mechanism for the petrogenesis of lithium-rich granites, according to thermodynamic modelling results.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226000632",
+    "title": "Post-wildfire recovery of forest vegetation, soil, and hydrological responses: A review",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226000632?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 8 March 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Ioannis Zacharakis, Vassilios A. Tsihrintzis",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-03-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226000723",
+    "title": "Influences of map resolution, quality and interpretation on fault network topology",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226000723?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 8 March 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): D.C.P. Peacock, D.J. Sanderson",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-03-10",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117991",
+    "title": "Three Centuries of ENSO Variability Inferred From Muna, Sulawesi, Indonesia Teak δ18O: Limited Response to Radiative Forcing",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117991?af=R",
+    "authors": [
+      "M. N. Evans, \nS. H. S. Herho, \nJ. C. Wollney, \nA. N. Carter, \nM. A. Gbenro, \nG. R. Tripp, \nR. D. D’Arrigo, \nS. Y. Cahyarini"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-08",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118677",
+    "title": "Mechanochemical Enhancement of Siderite‐To‐Magnetite Conversion in Faults",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118677?af=R",
+    "authors": [
+      "Tingting Du, \nTao Yang, \nLu Yao, \nQi Zhang, \nTing Li, \nTsafrir Levi, \nRam Weinberger, \nShmuel Marco"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-08",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012682",
+    "title": "A Joint Inversion Algorithm of GNSS and InSAR for Continuous 3‐D Surface Velocities and Associated Horizontal Strain Rate Field",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012682?af=R",
+    "authors": [
+      "Jeonghyeop Kim, \nMradula Vashishtha, \nWilliam E. Holt, \nKyle D. Murray, \nRowena B. Lohman"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 3, March 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001407",
+    "title": "Molecular-scale insights into surface-induced cobalt precipitation on palygorskite: roles of pH, metal concentration, and mineral template",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001407?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 9 March 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Xinxin Mo, Wei Li, Chi Zhang, Yoshio Takahashi, Xueyuan Gu, Matthew G. Siebecker, Yuanfeng Cai, Donald L. Sparks, Xiancai Lu",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-03-10",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag143",
+    "title": "Enhancing carbon nanotubes production from pyrolysis-catalysis of plastic waste through monolithic heating",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag143/8512303?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>In this study, we developed a novel monolithic heating method utilizing electromagnetic induction to enhance carbon nanotube (CNT) production from plastic waste via pyrolysis-catalysis. Metal porous catalysts, including iron (Fe), nickel (Ni), and Fe-Ni alloy, enabled rapid volumetric heating, improved catalytic efficiency, and reduced energy consumption compared to conventional methods. The porous Fe catalyst demonstrated superior CNT yield, while Ni provided the highest hydrogen (H<sub>2</sub>) production. We achieved carbon recovery efficiencies of 86%, 84%, and 82% for low-density polyethylene, high-density polyethylene, and polypropylene, respectively, using the Fe catalyst. Our economic analysis indicated that CNT production from waste polyethylene and waste polypropylene is feasible, with break-even selling prices of $4.02 kg<sup>−1</sup> and $4.87 kg<sup>−1</sup>, respectively. Our work supports the development of a circular economy by enabling the efficient conversion of plastic waste into valuable CNT and H<sub>2</sub> via pyrolysis-catalysis.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag144",
+    "title": "Engineering single topological π-conjugated polymers and interpolating topological solitons by end-group modification",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag144/8512298?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Topological solitons can act as mobile domain walls between topologically nontrivial and trivial phases, merging hybrid zero-mode properties from both solitonic and symmetry-protected boundary states, and providing both fundamental insights and unprecedented opportunities for quantum technologies. However, their experimental realization is challenging. Here, we demonstrate on-surface engineering of topological structures and introduction of topological solitons in π-conjugated pentacene polymers through end-group modification on Au(111), using combined multiple techniques including scanning tunneling microscopy, non-contact atomic force microscopy, and tip-enhanced Raman spectroscopy, along with density functional theory and tight-binding calculations. We fabricate cumulene-bridged pentacene oligomers and polymers with nearly length independence by anchoring their both termini to the surface. By converting a near-end segment into the trivial phase through its end group modification, we realize the interpolation of topological solitons as domain walls between nontrivial and trivial phases, which are well supported by observations of the solitonic zero-energy peaks across the domain walls, the band reverse between the separated regions, and the distinct region-dependent vibration modes, as well as theoretical calculations. The realization of topological solitons as domain walls between nontrivial and trivial phases offers a rich platform for fundamental research, and illustrates potential applications of π-conjugated polymers in quantum devices.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag137",
+    "title": "Surprises from a boron-rich semiconductor under pressure",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag137/8512295?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag146",
+    "title": "Switch metastable dynamics in many-body open quantum systems",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag146/8512294?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Stochastic switching is a central phenomenon in dissipative many-body systems, offering a key probe of metastability across classical and quantum regimes. Here, we unravel the connection between switching dynamics and quantum metastability through the lens of spectral decomposition, quantum-jump simulations, and the large deviation principles. By establishing a direct correspondence between classical fixed points and quantum metastable states, we distinguish the trajectory-level noise-induced metastability from the spectrum-level deterministic metastability in a Markovian open quantum system with bistability. The Liouvillian gap, the steady-state occupation ratio, and the observed switching rates of the metastable states all exhibit exponential scaling with system size, giving rise to a quantum analogue of Arrhenius law, with the inverse system size serving as an effective temperature. These results provide a unified picture of quantum bistability and clarify the relaxation processes of strongly interacting, dissipative quantum systems far from the thermodynamic limit.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag138",
+    "title": "Soret-effect induced thermoelectrics: confronting the efficiency bottleneck",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag138/8512288?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">This Perspective explains why ionic thermoelectric devices generate large thermal voltages yet fail to utilize most input heat in practice, and outlines strategies to improve overall energy-conversion efficiency.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag145",
+    "title": "Reply to “No pervasive relationship between phyllosphere nitrifiers abundance and canopy nitrification in European forests”",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag145/8512287?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2026-03-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826001113",
+    "title": "A multiscale convolutional autoencoder for fusing element concentrations and key geological information for geochemical anomaly recognition",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826001113?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 9 March 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Ying Liu, Dan Liu",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-03-10",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-00669-8",
     "title": "Monthly HIV-drug injections offer potent alternative to daily tablets",
     "link": "https://www.nature.com/articles/d41586-026-00669-8",
