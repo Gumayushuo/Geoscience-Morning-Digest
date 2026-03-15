@@ -1,5 +1,535 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-026-00814-3",
+    "title": "Top brass in China reaffirm goal to be world leaders in tech, AI",
+    "link": "https://www.nature.com/articles/d41586-026-00814-3",
+    "authors": [
+      "Xiaoying You"
+    ],
+    "summary": "Nature, Published online: 14 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00814-3\">doi:10.1038/d41586-026-00814-3</a>The new five-year plan calls for more original scientific research to facilitate the country's bid for self-reliance.",
+    "source": "Nature",
+    "date": "2026-03-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70536-7",
+    "title": "Cortical representation of multidimensional handwriting movement and implications for neuroprostheses",
+    "link": "https://www.nature.com/articles/s41467-026-70536-7",
+    "authors": [
+      "Zebin Wang",
+      "Guangxiang Xu",
+      "Bowen Yu",
+      "Kedi Xu",
+      "Junming Zhu",
+      "Gang Pan",
+      "Jianmin Zhang",
+      "Yueming Wang",
+      "Yaoyao Hao"
+    ],
+    "summary": "Nature Communications, Published online: 14 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70536-7\">doi:10.1038/s41467-026-70536-7</a>This study reveals that the brain encodes handwriting in multiple dimensions. The decoding paradigm, informed by movement data from healthy individuals, captures these full dimensions to enhance the performance of brain-to-text communication.",
+    "source": "Nature Communications",
+    "date": "2026-03-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70654-2",
+    "title": "High-Fidelity quantum teleportation mediated by hole transfer in an acceptor–donor–radical molecular triad",
+    "link": "https://www.nature.com/articles/s41467-026-70654-2",
+    "authors": [
+      "Junhang Duan",
+      "Shunta Nakamura",
+      "Chelsie Greene",
+      "Samuel B. Tyndall",
+      "Ryan M. Young",
+      "Matthew D. Krzyaniak",
+      "Michael R. Wasielewski"
+    ],
+    "summary": "Nature Communications, Published online: 14 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70654-2\">doi:10.1038/s41467-026-70654-2</a>Recent advances with molecular qubits have enabled the implementation of spin quantum teleportation (QT), albeit with limited fidelity & applicability. Here, the authors demonstrate optimal QT of spin states via hole transfer in covalently linked acceptor-donor-radical molecules, opening towards rational design of molecular materials for coherent information transfer.",
+    "source": "Nature Communications",
+    "date": "2026-03-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70781-w",
+    "title": "Mid-infrared to ultraviolet efficient multiphoton frequency upconversion in NbOI<sub>2</sub> crystals",
+    "link": "https://www.nature.com/articles/s41467-026-70781-w",
+    "authors": [
+      "Song Zhu",
+      "Xuan Mao",
+      "Congliao Yan",
+      "Fakun Wang",
+      "Zhen Xu",
+      "Hao Hu",
+      "Xiaodong Xu",
+      "Yuqiang Fang",
+      "Fangyuan Sun",
+      "Ruihuan Duan",
+      "Yao Wu",
+      "Yuhui Yang",
+      "Chongwu Wang",
+      "Zhen Qiao",
+      "Wenduo Chen",
+      "Houkun Liang",
+      "Fuqiang Huang",
+      "Zheng Liu",
+      "Yu Luo",
+      "Qi Jie Wang"
+    ],
+    "summary": "Nature Communications, Published online: 14 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70781-w\">doi:10.1038/s41467-026-70781-w</a>The mid-infrared (MIR) range of the electromagnetic spectrum can be indirectly accessed by frequency upconversion. Here, authors propose a phase-matching-free scheme for broadband and efficient upconversion, covering wavelengths from MIR to ultraviolet with high-order harmonics generated from a NbOI2 crystal. MIR imaging is demonstrated with a standard silicon camera.",
+    "source": "Nature Communications",
+    "date": "2026-03-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70579-w",
+    "title": "Vacuum-induced interfacial compaction for scalable fabrication of high-performance organic solar cells",
+    "link": "https://www.nature.com/articles/s41467-026-70579-w",
+    "authors": [
+      "Siying Wang",
+      "Ruxue Ding",
+      "Ziyang Zhang",
+      "Yawei Liu",
+      "Jiarui Wang",
+      "Jiali Weng",
+      "Yao Zhao",
+      "Jianqi Zhang",
+      "Zihao Xu",
+      "Zheng Tang",
+      "Yunhao Cai",
+      "Hui Huang"
+    ],
+    "summary": "Nature Communications, Published online: 14 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70579-w\">doi:10.1038/s41467-026-70579-w</a>Organic solar cells face morphological and interfacial limits that reduce efficiency and stability. The authors present a vacuum-induced compaction method that builds dense, smooth interfaces, delivering large area-scalable high-performance devices.",
+    "source": "Nature Communications",
+    "date": "2026-03-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70478-0",
+    "title": "Jagged-mediated lateral induction patterns Notch3 signaling within adult neural stem cell populations",
+    "link": "https://www.nature.com/articles/s41467-026-70478-0",
+    "authors": [
+      "Sara Ortica",
+      "Miguel Martinez Herrera",
+      "Louis Degroux",
+      "Bastian Rochette",
+      "Nicolas Dray",
+      "Laure Bally-Cuif"
+    ],
+    "summary": "Nature Communications, Published online: 14 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70478-0\">doi:10.1038/s41467-026-70478-0</a>Notch3 signaling promotes neural stem cell maintenance in the adult brain. Ortica et al show that Notch3 signaling levels are spatially patterned across the stem cell population, engaging two ligands and signaling modes to coordinate cell states.",
+    "source": "Nature Communications",
+    "date": "2026-03-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70541-w",
+    "title": "Complex marine ecological response during the Eocene-Oligocene revealed by global foraminiferal record",
+    "link": "https://www.nature.com/articles/s41467-026-70541-w",
+    "authors": [
+      "Zhengbo Lu",
+      "Ke Xue",
+      "Yiying Deng",
+      "Junxuan Fan",
+      "Peiyue Fang",
+      "Bridget S. Wade",
+      "Laia Alegret",
+      "Michael J. Benton",
+      "Yuchang Wu",
+      "Chao Qian",
+      "Xudong Hou",
+      "Yukun Shi",
+      "Peter M. Sadler",
+      "Huiqing Xu",
+      "Zhi-Hua Zhou",
+      "Shuzhong Shen"
+    ],
+    "summary": "Nature Communications, Published online: 14 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70541-w\">doi:10.1038/s41467-026-70541-w</a>The impact of cooling through the Eocene-Oligocene transition on the marine biosphere is not well constrained. Here the authors construct a high-resolution record of foraminiferal species richness history spanning this transition that reveals differential diversity trends depending on foraminiferal habitat and life mode.",
+    "source": "Nature Communications",
+    "date": "2026-03-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70664-0",
+    "title": "Optimizing global genomic surveillance for early detection of emerging SARS-CoV-2 variants",
+    "link": "https://www.nature.com/articles/s41467-026-70664-0",
+    "authors": [
+      "Haogao Gu",
+      "Jifan Li",
+      "Wanying Sun",
+      "Mengting Li",
+      "Kathy Leung",
+      "Joseph T. Wu",
+      "Hsiang-Yu Yuan",
+      "Maggie H. Wang",
+      "Bingyi Yang",
+      "Matthew R. McKay",
+      "Ning Ning",
+      "Leo L. M. Poon"
+    ],
+    "summary": "Nature Communications, Published online: 14 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70664-0\">doi:10.1038/s41467-026-70664-0</a>Global travel hubs could be key in future pandemic surveillance efforts. Here, using a global metapopulation model calibrated to epidemiology, phylogeography and air travel, the authors show that traveler-focused genomic surveillance at key hubs can speed up detection of SARS-CoV-2 variants under resource constraints.",
+    "source": "Nature Communications",
+    "date": "2026-03-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03383-5",
+    "title": "Fluid-driven element mobility resets plagioclase rubidium strontium and barium clocks while potassium feldspar resists",
+    "link": "https://www.nature.com/articles/s43247-026-03383-5",
+    "authors": [
+      "Hao-Xiang Zhang",
+      "Shao-Yong Jiang",
+      "Si-Qi Liu",
+      "Hui-Min Su",
+      "Wen-Tian Li"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 14 March 2026; <a href=\"https://www.nature.com/articles/s43247-026-03383-5\">doi:10.1038/s43247-026-03383-5</a>Magmatic-hydrothermal fluids erase trace-element and isotopic signatures in plagioclase but only partially modify K-feldspar, and that comparing the two minerals reveals both the fluid’s composition and the extent of fluid–rock interaction, according to geochemical analysis of feldspars from the Paleoproterozoic pegmatites in the North China Craton.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-03-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03390-6",
+    "title": "Sediment transport pathways and organic carbon burial impacted by offshore wind farms in shelf seas",
+    "link": "https://www.nature.com/articles/s43247-026-03390-6",
+    "authors": [
+      "Jiayue Chen",
+      "Nils Christiansen",
+      "Lucas Porz",
+      "Bo Miao",
+      "Mengyao Ma",
+      "Corinna Schrum",
+      "Wenyan Zhang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 14 March 2026; <a href=\"https://www.nature.com/articles/s43247-026-03390-6\">doi:10.1038/s43247-026-03390-6</a>Wind farms can reduce mud and particulate organic carbon accumulation in established depocenters and create new depocenters through long-term accumulative effects.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-03-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03368-4",
+    "title": "Satellite retrieved soil surface dynamics reduce the extent and frequency of sediment flux with implications for early warning systems",
+    "link": "https://www.nature.com/articles/s43247-026-03368-4",
+    "authors": [
+      "Zhuoli Zhou",
+      "Adrian Chappell",
+      "Chunlai Zhang",
+      "Hongquan Song"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 14 March 2026; <a href=\"https://www.nature.com/articles/s43247-026-03368-4\">doi:10.1038/s43247-026-03368-4</a>Dynamic thresholds decrease unrealistic fluxes by 45% in vegetated, rough areas and reduce wind-erosion-affected areas by 69%, highlighting the need to include dynamic soil surface conditions in large-scale models, based on satellite retrievals and wind tunnel data.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-03-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226000772",
+    "title": "Editorial Board",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226000772?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: May 2026<b>Source:</b> Earth-Science Reviews, Volume 276Author(s):",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-03-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26001561",
+    "title": "Mapping of absolute stresses around two California earthquakes reveals a very weak crust",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26001561?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 May 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 682Author(s): Siyuan Zhang, Heidi Houston, Binhao Wang, Hao Zhang",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-03-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26001536",
+    "title": "Editorial Board",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26001536?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 May 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 681Author(s):",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-03-15",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120393",
+    "title": "Data‐Driven Exploration of Tropical Cyclone's Controllability",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120393?af=R",
+    "authors": [
+      "Yohei Sawada, \nMasashi Minamide, \nYuyue Yan, \nKazumune Hashimoto, \nLe Duc"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118647",
+    "title": "Motional Induction in Ganymede's Ocean",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118647?af=R",
+    "authors": [
+      "Simon Cabanes, \nThomas Gastine, \nAlexandre Fournier"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119188",
+    "title": "Distant Storms Can Affect Seismic Noise Crustal Monitoring",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119188?af=R",
+    "authors": [
+      "Jinwu Li, \nSin‐Mei Wu, \nPilar Sánchez‐Pastor, \nLaura Ermert, \nAnne Obermann"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121419",
+    "title": "Holistic Retrieval of Absolute Coseismic Displacement Fields From Single Interferograms via Physics‐Aware GANs",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121419?af=R",
+    "authors": [
+      "Chuanhua Zhu, \nJiaqiao Gan, \nZuqi Lan, \nChisheng Wang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120643",
+    "title": "A Southern Ocean Multidecadal Oscillator Forced by Deep Convection",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120643?af=R",
+    "authors": [
+      "Robert R. Ford, \nBrian E. J. Rose"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122706",
+    "title": "Thank You to Our 2025 Peer Reviewers",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122706?af=R",
+    "authors": [
+      "Kristopher Karnauskas, \nAnantha Aiyyer, \nSuzana Camargo, \nFabio Capitanio, \nPeter Chi, \nSloan Coats, \nSylvia Dee, \nChristine Dow, \nSarah Feakins, \nRobinson Fulweiler, \nValier Galy, \nNeil Ganju, \nAlessandra Giannini, \nYu Gu, \nJianping Guo, \nChristian Huber, \nValeriy Ivanov, \nGregory Johnson, \nMonika Korte, \nSujay Kumar, \nSoléne Lejosne, \nKevin Lewis, \nHuixin Liu, \nGudrun Magnusdottir, \nMathieu Morlighem, \nYuichi Otsuka, \nPaola Passalacqua, \nChristina Patricola‐DiRosario, \nGermán Prieto, \nBo Qiu, \nLynn Russell, \nKanako Seki, \nHui Su, \nDaoyuan Sun, \nHari Viswanathan, \nGuiling Wang, \nKaicun Wang, \nAngelicque White, \nQuentin Williams, \nLei Zhang, \nZhaoru Zhang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119935",
+    "title": "Local Time Asymmetry in Energetic Electron Distribution Within Saturn's Inner Magnetosphere",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119935?af=R",
+    "authors": [
+      "Yimeng Li, \nChao Yue, \nYixin Sun, \nYixin Hao, \nQiugang Zong, \nXuzhi Zhou"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119590",
+    "title": "Inverse Grading Emerges From Particle‐Scale Migration Under Seasonal Freeze‐Thaw Forcing: Evidence From Multi‐Year Monitoring and Physical Modeling",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119590?af=R",
+    "authors": [
+      "Weibo Li, \nQinglu Deng, \nLimin Zhang, \nPengju An, \nXingwei Ren, \nXuexue Su, \nRuiqiang Bai, \nJiren Xie, \nLi Zeng, \nKun Fang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2024GC011919",
+    "title": "Laboratory Measurements of Rise Velocity for Individual, Hydrate‐Free and Hydrate‐Coated Gas Bubbles in Water",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GC011919?af=R",
+    "authors": [
+      "Alexandra M. Padilla, \nWilliam F. Waite"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 3, March 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-03-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012729",
+    "title": "Geochemical Analysis of Diachronous V‐Shaped Ridges and Troughs That Flank the Reykjanes Ridge South of Iceland",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012729?af=R",
+    "authors": [
+      "Nicky White, \nChia‐Yu Tien, \nCallum Pearman, \nJohn Maclennan, \nBramley Murton, \nExpedition 395 Scientists"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 3, March 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-03-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB031983",
+    "title": "Late Carboniferous Geomagnetic Field Events Recorded in Post‐Collisional Altenberg–Teplice Caldera, Variscan Belt",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB031983?af=R",
+    "authors": [
+      "P. Vitouš, \nM. S. Petronis, \nM. S. Foucher, \nF. Tomek"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 3, March 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-03-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032994",
+    "title": "Hindered but Not Halted Crustal Flow: Implications From Lg‐Wave Attenuation Tomography Based on High‐Density ChinArray in SE Tibetan Plateau",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032994?af=R",
+    "authors": [
+      "Xi He, \nLian‐Feng Zhao, \nXiao‐Bi Xie, \nRuo‐Jie Li, \nTong Lu, \nZhen‐Xing Yao"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 3, March 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-03-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2024JB030647",
+    "title": "Large‐Scale Deformation, Strain Characteristics, and Locking Distribution of the Qilian‐Haiyuan Fault System",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JB030647?af=R",
+    "authors": [
+      "Donglin Wu, \nChunyan Qu, \nDezheng Zhao, \nHan Chen, \nYilin Rong, \nXiaoyi Wang, \nXinjian Shan"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 3, March 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-03-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001699",
+    "title": "Grain-size-specific Sr–Nd isotopic evidence for the dominant role of fluvial sediments in Danube loess formation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001699?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 14 March 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Xuechao Wu, Qingzhen Hao, Slobodan B. Marković, Xinbo Gao, Long Han, Yu Fu, Yang Song, Zhipeng Wu, Shouye Yang, Zhengtang Guo",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-03-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001705",
+    "title": "Permeability as the first-order control on the rate of aqueous alteration in carbonaceous chondrites",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001705?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 13 March 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Bianka Babrián, Queenie H.S. Chan, Jens Najorka, James Malley, Lee F. White, Martin D. Suttle",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-03-15",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38805.1/727569/Paleomagnetic-constraints-on-the-Early-Permian",
+    "title": "Paleomagnetic constraints on the Early Permian pause of the northward drift of the Indochina block and its implications for the evolution of the Paleo-Tethys Ocean",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38805.1/727569/Paleomagnetic-constraints-on-the-Early-Permian",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The Indochina block is one of the major blocks separating the northern and southern branches of the east Paleo-Tethys Ocean. Paleomagnetic studies on the late Paleozoic drift history of the Indochina block are crucial for quantitatively constraining the evolution of the east Paleo-Tethys Ocean. In this study, we conducted paleomagnetic analyses on the Wusu basalts in the Simao Basin (southwestern Yunnan Province, China), located in the northern part of the Indochina block. Paleomagnetic analysis of the Wusu basalts reveals a clockwise rotation in remanent magnetization directions. We interpret this observed rotational pattern as the tectonic result of bookshelf faulting within a dextral intra-arc shear zone, which was active during the oblique subduction of the east Paleo-Tethys Ocean. Paleomagnetic analysis passed an inclination-only fold test, indicating a paleolatitude of 14.2°S ± 3.2° for the sampling area (23.3°N, 101.6°E) during the Early Permian (287 ± 5 Ma). This new paleolatitude, combined with existing data, confirms a three-phase drift history for the Indochina and North Qiangtang blocks. They initially drifted northward slowly from the Late Carboniferous to the Early Permian, then remained relatively stable during the Early to Middle Permian, and underwent accelerated northward drift after the Middle Permian. Based on paleomagnetic analyses and regional magmatic records, we propose that the opposing subduction of the southern and northern branches of the east Paleo-Tethys Ocean during the Early to Middle Permian may have contributed to this period of relative stability.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-03-13",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38527.1/727568/A-transition-of-Mongol-Okhotsk-and-Paleo-Pacific",
+    "title": "A transition of Mongol-Okhotsk and Paleo-Pacific tectonic regimes in the Early Cretaceous: Evidence from sedimentary and volcanic events in the northern Great Xing’an Range (Northeast China)",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38527.1/727568/A-transition-of-Mongol-Okhotsk-and-Paleo-Pacific",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The late Mesozoic evolution of Northeast China was dominantly controlled by the Mongol-Okhotsk and the Paleo-Pacific tectonic regimes. Their superposition during the Early Cretaceous profoundly influenced magmatic activity, volcanic assemblages, sedimentary basin development, and extensional structures, ultimately establishing the present-day tectonic framework of Northeast China. This comprehensive study focuses on the formation processes of sandstones and volcanic rocks of the northern Great Xing’an Range, highlighting the transitional processes between these two tectonic regimes in the Early Cretaceous. Geochemistry and framework analysis of sandstones, along with detrital zircon U-Pb ages and provenance studies, consistently suggest a transitional tectonic setting during the deposition of the Early Cretaceous Jiufengshan Formation. Comparative geochemical analysis of volcanic rocks and zircon Hf isotopes reveals a fundamental shift in magma generation processes for volcanic rocks formed before and after the Jiufengshan Formation. Zircon trace element systematics document two distinct episodes of crustal thickening and thinning during the Early Cretaceous, genetically linked to the final closure of the Mongol-Okhotsk Ocean followed by post-collisional extension, as well as low-angle subduction and subsequent slab rollback of the Paleo-Pacific plate. This paper demonstrates that the post-collisional extension of the Mongol-Okhotsk tectonic regime primarily governed the tectonic evolution recorded in the Baiyingaolao, Meiletu, Longjiang, and Guanghua formations, with its influence progressively diminishing during the deposition of Jiufengshan Formation. Synchronously, far-field effects induced by the low-angle subduction of the Paleo-Pacific plate had already propagated into the northern Great Xing’an Range, where subsequent slab rollback triggered the formation of bimodal volcanic rocks in the Ganhe and Gushanzhen formations. The transition between these two competing tectonic regimes is precisely constrained to the interval between 116 Ma and 111 Ma, based on integrated chronostratigraphic evidence.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-03-13",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag161",
+    "title": "Unveiling the correlation between high-entropy alloy element systems and electrocatalytic activity",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag161/8524004?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The complex element combinations and synergistic effects of high-entropy alloys (HEAs) present significant challenges for efficient exploration and optimal design. Here, we propose a collaborative framework that integrates large language models (LLMs) with a high-throughput platform, aiming to reveal the correlation between HEA element systems and oxygen reduction reaction (ORR) activity. By domain-specific fine-tuning of the LLM, we developed ChatHEA as an assistant for the enumeration of HEA combinations, which enabled rapid synthesis via a high-throughput platform and facilitated the construction of a standardized ORR activity dataset through batch performance evaluation. Subsequently, ChatHEA performs multidimensional analysis and pattern recognition on the dataset to uncover the intrinsic relationships between HEA element systems and ORR activity, followed by detailed validation of the superior combinations. Density functional theory (DFT) and advanced pH-dependent microkinetic modeling further elucidate and confirm the facilitating effect of elemental synergism on reaction activity. This collaborative framework combining LLMs, high-throughput experimentation, and advanced modeling offers a new pathway for the efficient development of catalytic materials and mechanistic understanding.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-03-14",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag162",
+    "title": "Simultaneous enhancement of stretchability, healability and carrier mobility in polymer semiconductors via hierarchical hydrogen-bonded engineering",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag162/8523999?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Stretchable polymer semiconductors are vital for intelligent technologies such as health monitoring and human-machine interactions, suffering from a fundamental trade-off between charge transport and stretchability/self-healability. Herein, we introduce the concept of hierarchical hydrogen bonds to provide multilevel dynamic interconnected polymer network that simultaneously delivers outstanding stretchability, notable self-healing ability and high charge carrier mobility. The conjugation breaker N,N-dicarbamoylpyridine-2,6-dicarboxamide is incorporated into the polymer backbone with different strengths of hydrogen bonds, affording a crack-onset strain up to 150% and 90% mobility recovery upon healing treatment. Crucially, the hierarchical hydrogen bonds enable close interchain stacking for efficient interchain charge transport while enhancing chain dynamics and mechanical compliance. Fully stretchable transistors based on our designed polymer show stable and high mobility up to 1.01 cm<sup>2</sup> V<sup>−1</sup> s<sup>−1</sup> even under 150% strain, marking unprecedented performance for healable semiconductors. Hierarchical hydrogen-bonded engineering thus establishes a design paradigm for high-performance stretchable and healable polymer semiconductors.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-03-14",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag164",
+    "title": "Revisiting fast-charging performance in supercapacitors",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag164/8523997?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2026-03-14",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag163",
+    "title": "Bridging the vertical mismatch: Elevation-dependent drivers and conservation strategies for mountain biodiversity",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag163/8523991?rss=1",
+    "authors": [],
+    "summary": "",
+    "source": "National Science Review Advance Access",
+    "date": "2026-03-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025TC009279",
+    "title": "Tectonic Overprinting From Distinct Orogenic Domains: Evidence From Syntectonic Depositions and Magmatic Records in the Overriding Continent",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC009279?af=R",
+    "authors": [
+      "Chengfa Lin, \nShaofeng Liu, \nBo Zhang, \nChenglong Ran, \nCheng Tian, \nMuyun Tian"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 3, March 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-03-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826001150",
+    "title": "Long-term trends and structural changes in China’s domestic metal exploration investment: 1950–2024",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826001150?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 14 March 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Jiamin Cheng",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-03-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826001137",
+    "title": "Geochronology and compositions of ore-forming fluids of the Qinglonggou gold deposit in the northern margin of Qaidam Basin, NW China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826001137?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 14 March 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Peng Wang, Lin Yang, Yiwei Song, Lin Zhou, Xiaoguang Ma, Jicai Guo, Zhen Zhang, Feng Yu",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-03-15",
+    "sent": true
+  },
+  {
+    "id": "10.1111/jmg.70037",
+    "title": "Early Palaeozoic Barrovian Metamorphism in the Northern Central Qilian Block, NW China: Structure and Evolution of a Continental Arc in the Proto‐Tethys Tectonic Domain",
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/jmg.70037?af=R",
+    "authors": [
+      "Zhuoyang Li, \nYilong Li, \nXiujuan Bai, \nHuaning Qiu, \nFraukje M. Brouwer"
+    ],
+    "summary": "Journal of Metamorphic Geology, EarlyView.",
+    "source": "Wiley: Journal of Metamorphic Geology: Table of Contents",
+    "date": "2026-03-13",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-026-10376-z",
     "title": "Author Correction: SLAMF6 as a drug-targetable suppressor of T cell immunity against cancer",
     "link": "https://www.nature.com/articles/s41586-026-10376-z",
