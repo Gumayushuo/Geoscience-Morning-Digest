@@ -1,5 +1,415 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-70503-2",
+    "title": "Multisite atomic-chlorine-passivation stabilizes perovskite interfaces for efficient H<sub>2</sub>O<sub>2</sub> photosynthesis from seawater",
+    "link": "https://www.nature.com/articles/s41467-026-70503-2",
+    "authors": [
+      "Genping Meng",
+      "Shuai Wei",
+      "Ning Li",
+      "Yuhui Yin",
+      "Bin Dong",
+      "Shihao Sun",
+      "Guowen Hu",
+      "Hao Wang",
+      "Baodui Wang"
+    ],
+    "summary": "Nature Communications, Published online: 15 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70503-2\">doi:10.1038/s41467-026-70503-2</a>Lead halide perovskites are promising for artificial photosynthesis but are unstable in seawater. Here, the authors report multisite atomic-chlorine passivation to stabilize CsPbI3 quantum dots in a hydrophobic covalent organic framework, enabling efficient H2O2 photosynthesis directly from seawater.",
+    "source": "Nature Communications",
+    "date": "2026-03-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70616-8",
+    "title": "Flash joule heating-induced spinel-phase surface in Ni-rich layered oxide positive electrodes to stabilise lattice oxygen",
+    "link": "https://www.nature.com/articles/s41467-026-70616-8",
+    "authors": [
+      "Huiping Yang",
+      "Zhefei Sun",
+      "Yonghui Zhao",
+      "Ying Zhang",
+      "Zhiyi Sun",
+      "Hongling Yi",
+      "Huiqun Wang",
+      "Yuxiang Mao",
+      "Junjie Liu",
+      "Wenxing Chen",
+      "Jiexi Wang",
+      "Shijie Feng",
+      "Qinghe Zhao",
+      "Yang Cao",
+      "Jiajia Han",
+      "Qiaobao Zhang",
+      "Li Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 15 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70616-8\">doi:10.1038/s41467-026-70616-8</a>High-nickel layered positive electrodes suffer from lattice oxygen loss and inherent lattice strain. Here, authors report a self-derived subtractive strategy to form a coherent spinel-phase shell with tunable thickness to confine active oxygen intermediates and suppresses interfacial side reactions.",
+    "source": "Nature Communications",
+    "date": "2026-03-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70866-6",
+    "title": "Embodying physical computing into soft robots",
+    "link": "https://www.nature.com/articles/s41467-026-70866-6",
+    "authors": [
+      "Jun Wang",
+      "Ziyang Zhou",
+      "Ardalan Kahak",
+      "Suyi Li"
+    ],
+    "summary": "Nature Communications, Published online: 15 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70866-6\">doi:10.1038/s41467-026-70866-6</a>Physical computing in soft robots reveals new principles of mechanical intelligence. The authors show that embodied oscillators, reservoir dynamics and mechanical logic enable robots to sense act and move without conventional electronics.",
+    "source": "Nature Communications",
+    "date": "2026-03-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70687-7",
+    "title": "Wireless, non-invasive, high-resolution thrill sensor for continuous vascular access monitoring of hemodialysis patients",
+    "link": "https://www.nature.com/articles/s41467-026-70687-7",
+    "authors": [
+      "Yicong Wang",
+      "Jie Wang",
+      "Yuqi Tian",
+      "Zhiheng Xu",
+      "Mengyao Liu",
+      "Lin Zhou",
+      "Renhua Lv",
+      "Yujun Deng",
+      "Jinyun Tan",
+      "Linfa Peng",
+      "Zhongqin Lin"
+    ],
+    "summary": "Nature Communications, Published online: 15 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70687-7\">doi:10.1038/s41467-026-70687-7</a>Early detection of vascular access dysfunction is critical for hemodialysis patients, but current monitoring lacks continuous solutions. Here, the authors develop a wireless, noninvasive sensor that enables VA monitoring by detecting thrill intensity changes.",
+    "source": "Nature Communications",
+    "date": "2026-03-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70774-9",
+    "title": "Multitrait GWAS and functional validation reveal genetic loci for gastric cancer",
+    "link": "https://www.nature.com/articles/s41467-026-70774-9",
+    "authors": [
+      "Huanxin Ding",
+      "Chuxuan Liu",
+      "Qing Sun",
+      "Yue Jiang",
+      "Qian Xu",
+      "Zhenguo Zhu",
+      "Xin Jin",
+      "Qibo Huang",
+      "Yue Li",
+      "Yingchao Song",
+      "Zenglin Liu",
+      "Tianming Yu",
+      "Bowen Shi",
+      "Delin Tan",
+      "Linzehao Li",
+      "Frank Mentch",
+      "Joseph Glessner",
+      "Xiao Chang",
+      "Hakon Hakonarson",
+      "Guangyong Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 15 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70774-9\">doi:10.1038/s41467-026-70774-9</a>Multi-trait genetic analysis in East Asians identifies a novel gastric cancer risk locus shared with cardiovascular traits and shows that this variant modulates regulation of nearby genes, including VEZT, with functional effects on gastric cancer cell behaviour.",
+    "source": "Nature Communications",
+    "date": "2026-03-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70793-6",
+    "title": "Giant <i>ZT</i> enhancement in rhombohedral GeTe-based thermoelectric materials",
+    "link": "https://www.nature.com/articles/s41467-026-70793-6",
+    "authors": [
+      "Jincheng Yu",
+      "Xiaodong Liu",
+      "Yilin Jiang",
+      "Chen Chen",
+      "Jing-Wei Li",
+      "Haihua Hu",
+      "Lin Song",
+      "Tian Xie",
+      "Bin-Bin Ruan",
+      "Yu Pan",
+      "Guoyu Wang",
+      "B. Layla Mehdi",
+      "Xiaoyuan Zhou",
+      "Jing-Feng Li"
+    ],
+    "summary": "Nature Communications, Published online: 15 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70793-6\">doi:10.1038/s41467-026-70793-6</a>The thermoelectric performance of rhombohedral GeTe-based material is boosted by the TiB2 nanoparticle-induced interfacial constraint effect that results in reduced equivalent deformation potential and substantial interfacial thermal resistance.",
+    "source": "Nature Communications",
+    "date": "2026-03-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70765-w",
+    "title": "Synthetic aptamer mechanoreceptors enable cell-specific force sensing and temporal control via DNA circuits",
+    "link": "https://www.nature.com/articles/s41467-026-70765-w",
+    "authors": [
+      "Tao Xu",
+      "Soumya Sethi",
+      "Christoph Drees",
+      "Andreas Walther"
+    ],
+    "summary": "Nature Communications, Published online: 15 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70765-w\">doi:10.1038/s41467-026-70765-w</a>Engineering synthetic mechanosensing systems with both cell-specificity and programmability remains challenging, especially for classical mechanoreceptors. Here, the authors develop an all-DNA mechanosensing platform based on aptamers that transmit force through noncanonical surface receptors.",
+    "source": "Nature Communications",
+    "date": "2026-03-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70800-w",
+    "title": "Phosphorus-activated carboxyl small molecule positive electrode for high specific capacity and long-life iron-organic batteries",
+    "link": "https://www.nature.com/articles/s41467-026-70800-w",
+    "authors": [
+      "Yehui Zhang",
+      "Qi Huang",
+      "Pingxuan Liu",
+      "Yaokang Lv",
+      "Ziyang Song",
+      "Lihua Gan",
+      "Mingxian Liu"
+    ],
+    "summary": "Nature Communications, Published online: 15 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70800-w\">doi:10.1038/s41467-026-70800-w</a>Aqueous iron-ion batteries represent a compelling energy storage solution due to the cost-effectiveness, suitable redox potential, and high capacity of Fe negative electrodes. This study activates phosphorus redox activity in a carboxyl small molecule positive electrode for iron-ion batteries.",
+    "source": "Nature Communications",
+    "date": "2026-03-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03386-2",
+    "title": "Reclaiming abandoned croplands to adapt wheat production to a warmer world",
+    "link": "https://www.nature.com/articles/s43247-026-03386-2",
+    "authors": [
+      "Liyin He",
+      "Chenchen Ren",
+      "Lorenzo Rosa"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 15 March 2026; <a href=\"https://www.nature.com/articles/s43247-026-03386-2\">doi:10.1038/s43247-026-03386-2</a>Recultivating 30.8 million hectares of abandoned croplands could produce up to 110 million tonnes of winter wheat annually, with high-yield areas supplying 70% of this potential on half the land, based on machine-learning projections trained on yield, climate, and management data from 1982 to 2015.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-03-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03393-3",
+    "title": "Geographic constraints shape urban and economic growth worldwide",
+    "link": "https://www.nature.com/articles/s43247-026-03393-3",
+    "authors": [
+      "Luyao Wang",
+      "Zhehao Hu",
+      "Wenping Song",
+      "Junhua Xi"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 15 March 2026; <a href=\"https://www.nature.com/articles/s43247-026-03393-3\">doi:10.1038/s43247-026-03393-3</a>Geographic constraints systematically limit the horizontal expansion of urban areas but promote denser, taller urban development worldwide, according to an analysis that uses urban and climate data, geographic and growth urban metrics, and a statistical approach",
+    "source": "Communications Earth & Environment",
+    "date": "2026-03-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03381-7",
+    "title": "Barren depths from 82° N to the North Pole reveal scarcity of fish in the Central Arctic Ocean",
+    "link": "https://www.nature.com/articles/s43247-026-03381-7",
+    "authors": [
+      "Paul A. Dodd",
+      "Haakon Hop",
+      "Anna Nikolopoulos",
+      "Mats A. Granskog",
+      "Vegard Stürzinger",
+      "Anette Wold",
+      "Rolf J. Korneliussen",
+      "Ole Arve Misund"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 15 March 2026; <a href=\"https://www.nature.com/articles/s43247-026-03381-7\">doi:10.1038/s43247-026-03381-7</a>Ship-based surveys show a very low occurrence of pelagic fish north of 82°N in the Central Arctic Ocean. The vulnerability of this largely undisturbed ecosystem needs to be considered, as declining sea ice may enable increased shipping, tourism and resource use.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-03-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03384-4",
+    "title": "Interior Antarctica is undergoing marked climate change",
+    "link": "https://www.nature.com/articles/s43247-026-03384-4",
+    "authors": [
+      "David H. Bromwich",
+      "Xun Zou",
+      "Sheng-Hung Wang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 15 March 2026; <a href=\"https://www.nature.com/articles/s43247-026-03384-4\">doi:10.1038/s43247-026-03384-4</a>Interior Antarctica is nearing major climate change while the northern Antarctic Peninsula and coastal West Antarctica are already experiencing it, according to observational reconstructions and model simulations.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-03-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03391-5",
+    "title": "Global estimates of glacier equilibrium-line altitude ratios for enhanced paleoclimate reconstructions",
+    "link": "https://www.nature.com/articles/s43247-026-03391-5",
+    "authors": [
+      "Weilin Yang",
+      "Andrew N. Mackintosh",
+      "Emma-Louise Cooper",
+      "Yingkui Li",
+      "Richard S. Jones",
+      "Wenchao Chu",
+      "Levan G. Tielidze"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 15 March 2026; <a href=\"https://www.nature.com/articles/s43247-026-03391-5\">doi:10.1038/s43247-026-03391-5</a>Glacier type plays an important role on the steady state equilibrium-line altitudes ratios, with additional influences from climate setting, glacier size, slope, and aspect, according to a glacier model constrained by a combination of global datasets.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-03-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26001494",
+    "title": "A model study of sulfur mass-independent fractionation formation produced in a chamber photochemical experiment under reducing conditions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26001494?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 May 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 682Author(s): Tran Thi Ngoc Trieu, Miho Oinuma, Yuanzhe Li, Sebastian Oscar Danielache",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-03-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26001391",
+    "title": "Precise kinetic parameters for thermal resetting of clumped isotope signatures in biogenic and abiogenic calcites",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26001391?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 May 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 682Author(s): Nico Kueter, Nathan Looser, Jordon D. Hemingway, Nils B. Gies, Gregory D. Price, Alberto Perez-Huerta, Stefano M. Bernasconi",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-03-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26001482",
+    "title": "High diversity did not prevent extinction of a major Paleozoic brachiopod clade",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26001482?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 May 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 682Author(s): Bing Huang, B․Gudveig Baarli, Colin D. Sproat",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-03-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL121885",
+    "title": "Coral δ13C Reveals Little Ice Age Dimming of Tropical Surface Shortwave Radiation Not Captured by Climate Models",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL121885?af=R",
+    "authors": [
+      "Guangchao Deng, \nHuimin Guo, \nXuefei Chen, \nJian‐xin Zhao, \nGangjian Wei, \nWenfeng Deng"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120292",
+    "title": "Steady Collapse of Uranus' Exosphere After 1998 to the Present Decade",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120292?af=R",
+    "authors": [
+      "D. Bhattacharyya, \nJ. T. Clarke, \nP. Stephenson, \nT. Koskinen, \nJ.‐Y. Chaufray, \nL. Moore, \nH. Melin"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119385",
+    "title": "Enhanced Full Spectral Temperature‐Dependent Refractive Index of Liquid Water From Supercooled to Ambient Conditions",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119385?af=R",
+    "authors": [
+      "Siheng Wang, \nPing Yang, \nHelen E. Brindley, \nXianglei Huang, \nTristan S. L'Ecuyer"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120781",
+    "title": "An Arctic Sea Ice Energy Budget for the Last Interglacial",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120781?af=R",
+    "authors": [
+      "M. Pollock, \nR. Diamond, \nH. Heorton, \nL. C. Sime, \nD. Schroeder, \nC. Brierley"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120206",
+    "title": "Influence of Tibetan Plateau Snow Cover on ENSO Variability via the Dust‐Iron Fertilization",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120206?af=R",
+    "authors": [
+      "Chao Zhang, \nAnmin Duan, \nThomas J. Browning, \nYuxin Xie, \nEric P. Achterberg"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012484",
+    "title": "Electron Spin Resonance Thermochronometry Indicates Quaternary Activity of the Brenner Fault (Eastern Alps)",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012484?af=R",
+    "authors": [
+      "Valentina Argante, \nSumiko Tsukamoto, \nDavid Colin Tanner, \nChristoph von Hagke, \nChristian Brandes, \nJunjie Zhang, \nChloé Bouscary, \nChristoph Glotzbach"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 3, March 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-03-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012475",
+    "title": "Reconstruction of Core‐Surface Flows During the Last 3,300 Years",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012475?af=R",
+    "authors": [
+      "Pablo Rivera, \nF. J. Pavón‐Carrasco, \nM. L. Osete"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 3, March 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-03-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032259",
+    "title": "A Random Walker Algorithm for Plate Boundary Detection in Spherical Mantle Convection Models and Global Geophysical Data Sets: Application to Euler Vector Determination",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032259?af=R",
+    "authors": [
+      "P. Javaheri, \nJ. P. Lowman"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 3, March 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-03-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001730",
+    "title": "Basin-scale sulfur cycling driven by volcanism in Southern high latitudes during the Oceanic Anoxic Event 2",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001730?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 14 March 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Zhiyu Zeng, Yilun Xu, Weiqi Yao",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-03-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001596",
+    "title": "Chronology of ungrouped achondrites Northwest Africa 11119 and 7325/8486: implications for early evolution of a heterogeneous crust on a differentiated planetesimal",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001596?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 14 March 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Daniel R. Dunlap, Julia A. Cartwright, Piers Koefoed, Evgenii Krestianinov, Stephen J. Romaniello, Carl Agee, Yuri Amelin, Meenakshi Wadhwa",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-03-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826001125",
+    "title": "Genesis of mantle peridotites and high-Cr chromitites from the Jiangco ophiolite, northern Tibetan Plateau: Insights from mineralogy, geochronology, and geochemistry",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826001125?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 14 March 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Yue Tang, Qingguo Zhai, Peiyuan Hu, Yiming Liu, Wei Wang, Lingfang Wu, Baode Kou, Jinyong Li, Ning Yang",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-03-16",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-00814-3",
     "title": "Top brass in China reaffirm goal to be world leaders in tech, AI",
     "link": "https://www.nature.com/articles/d41586-026-00814-3",
