@@ -1,5 +1,491 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-026-10372-3",
+    "title": "Direct conversion from alkenes to alkynes",
+    "link": "https://www.nature.com/articles/s41586-026-10372-3",
+    "authors": [
+      "Junhong Meng",
+      "Yiqi Liang",
+      "Ruilin Xu",
+      "Zengrui Cheng",
+      "Yilei Huang",
+      "Hongwei Shi",
+      "Yichi Chen",
+      "Xi Wang",
+      "Jialiang Wei",
+      "Teng Wang",
+      "Binzhi Zhao",
+      "Ning Jiao"
+    ],
+    "summary": "Nature, Published online: 16 March 2026; <a href=\"https://www.nature.com/articles/s41586-026-10372-3\">doi:10.1038/s41586-026-10372-3</a>Direct conversion from alkenes to alkynes",
+    "source": "Nature",
+    "date": "2026-03-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00769-5",
+    "title": "A single course of antibiotics can cause lingering changes in gut microbes",
+    "link": "https://www.nature.com/articles/d41586-026-00769-5",
+    "authors": [],
+    "summary": "Nature, Published online: 16 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00769-5\">doi:10.1038/d41586-026-00769-5</a>Microbial diversity loss seen after a course of some commonly prescribed antibiotics can persist for years.",
+    "source": "Nature",
+    "date": "2026-03-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10179-2",
+    "title": "Insulin resistance prediction from wearables and routine blood biomarkers",
+    "link": "https://www.nature.com/articles/s41586-026-10179-2",
+    "authors": [
+      "Ahmed A. Metwally",
+      "A. Ali Heydari",
+      "Daniel McDuff",
+      "Alexandru Solot",
+      "Zeinab Esmaeilpour",
+      "Anthony Z. Faranesh",
+      "Menglian Zhou",
+      "Girish Narayanswamy",
+      "Maxwell A. Xu",
+      "Xin Liu",
+      "Yuzhe Yang",
+      "David B. Savage",
+      "Mark Malhotra",
+      "Conor Heneghan",
+      "Shwetak Patel",
+      "Cathy Speed",
+      "Javier L. Prieto"
+    ],
+    "summary": "Nature, Published online: 16 March 2026; <a href=\"https://www.nature.com/articles/s41586-026-10179-2\">doi:10.1038/s41586-026-10179-2</a>A machine-learning model that integrates data from wearable devices (such as smartwatches) with blood biomarkers and demographic data can predict whether someone has insulin resistance, enabling timely lifestyle interventions to prevent progression to type 2 diabetes.",
+    "source": "Nature",
+    "date": "2026-03-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00843-y",
+    "title": "AI and the PhD student: friend or foe?",
+    "link": "https://www.nature.com/articles/d41586-026-00843-y",
+    "authors": [
+      "Linda Nordling"
+    ],
+    "summary": "Nature, Published online: 16 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00843-y\">doi:10.1038/d41586-026-00843-y</a>Graduate students increasingly use artificial-intelligence tools to draft, code and search — but many fear it could erode the very skills a doctorate is meant to build.",
+    "source": "Nature",
+    "date": "2026-03-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00841-0",
+    "title": "The real story behind China’s technology triumph",
+    "link": "https://www.nature.com/articles/d41586-026-00841-0",
+    "authors": [
+      "Xiaoyu Zhang"
+    ],
+    "summary": "Nature, Published online: 16 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00841-0\">doi:10.1038/d41586-026-00841-0</a>An exemplary book gets much right, but misses the point that the nation’s tech dominance has more to do with globalization than with policy choices.",
+    "source": "Nature",
+    "date": "2026-03-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00422-1",
+    "title": "PhD students are turning to side hustles to make ends meet, finds <i>Nature</i> poll",
+    "link": "https://www.nature.com/articles/d41586-026-00422-1",
+    "authors": [
+      "Katie Kavanagh"
+    ],
+    "summary": "Nature, Published online: 16 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00422-1\">doi:10.1038/d41586-026-00422-1</a>Almost half of the scientists who responded said they have or had second jobs during their degrees.",
+    "source": "Nature",
+    "date": "2026-03-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00849-6",
+    "title": "China approves brain chip to treat paralysis — a world first",
+    "link": "https://www.nature.com/articles/d41586-026-00849-6",
+    "authors": [
+      "Rachel Fieldhouse",
+      "Xiaoying You"
+    ],
+    "summary": "Nature, Published online: 16 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00849-6\">doi:10.1038/d41586-026-00849-6</a>Chip allows people with paralysis to control a soft robotic hand.",
+    "source": "Nature",
+    "date": "2026-03-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00380-8",
+    "title": "Data from smart watches reveal early signs of insulin resistance",
+    "link": "https://www.nature.com/articles/d41586-026-00380-8",
+    "authors": [
+      "Christopher M. Hartshorn"
+    ],
+    "summary": "Nature, Published online: 16 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00380-8\">doi:10.1038/d41586-026-00380-8</a>Patterns in continuous data from wearable devices could reveal early metabolic dysfunction long before routine clinical tests detect it.",
+    "source": "Nature",
+    "date": "2026-03-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00842-z",
+    "title": "Can AI models reliably forecast extreme weather events?",
+    "link": "https://www.nature.com/articles/d41586-026-00842-z",
+    "authors": [
+      "Shruti Nath",
+      "Tim Palmer"
+    ],
+    "summary": "Nature, Published online: 16 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00842-z\">doi:10.1038/d41586-026-00842-z</a>More-rigorous testing is required before artificial-intelligence approaches are widely adopted by public forecasting agencies.",
+    "source": "Nature",
+    "date": "2026-03-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00859-4",
+    "title": "Daily briefing: Genomes shake up the shark family tree",
+    "link": "https://www.nature.com/articles/d41586-026-00859-4",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 13 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00859-4\">doi:10.1038/d41586-026-00859-4</a>Is there no such thing as a shark? Plus, the role of videogame icon Doom in science and how people with a religious connection to glaciers are responding to their loss.",
+    "source": "Nature",
+    "date": "2026-03-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00831-2",
+    "title": "Daily briefing: ‘Virtual cell’ simulates nearly every chemical reaction in the real thing",
+    "link": "https://www.nature.com/articles/d41586-026-00831-2",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 11 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00831-2\">doi:10.1038/d41586-026-00831-2</a>A new simulation models processes such as DNA replication and cell division in a virtual bacterial cell. Plus, China is giving science a billion-dollar spending boost and why national statistics are in trouble.",
+    "source": "Nature",
+    "date": "2026-03-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-01934-1",
+    "title": "Deep ocean control of global temperature after net-zero emissions",
+    "link": "https://www.nature.com/articles/s41561-026-01934-1",
+    "authors": [
+      "Yong-Han Lee",
+      "Sang-Wook Yeh",
+      "Guojian Wang",
+      "Se-Yong Song",
+      "Soon-Il An"
+    ],
+    "summary": "Nature Geoscience, Published online: 16 March 2026; <a href=\"https://www.nature.com/articles/s41561-026-01934-1\">doi:10.1038/s41561-026-01934-1</a>When atmospheric carbon dioxide levels decline, increased ocean heat absorption would initially slow surface warming before warming the deep ocean, which ultimately raises global mean surface temperatures, according to future model simulations.",
+    "source": "Nature Geoscience",
+    "date": "2026-03-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-01928-z",
+    "title": "Widespread presence of anthropogenic compounds in marine dissolved organic matter",
+    "link": "https://www.nature.com/articles/s41561-026-01928-z",
+    "authors": [
+      "Jarmo-Charles J. Kalinski",
+      "Abzer K. Pakkir Mohamed Shah",
+      "Bruno Ruiz Brandão da Costa",
+      "Shane P. Farrell",
+      "Lisa Schellenberg",
+      "Lana G. Graves",
+      "Tilman Schramm",
+      "Paolo Stincone",
+      "Irina Koester",
+      "Brandon M. Stephens",
+      "Ralph R. Torres",
+      "Lucia Cancelada",
+      "Caroline Utermann-Thüsing",
+      "Zachary A. Quinlan",
+      "Linda Wegley Kelly",
+      "Craig A. Carlson",
+      "Cristóbal Castillo-Ilabaca",
+      "Silvio Pantoja-Gutiérrez",
+      "J. Michael Beman",
+      "Aaron Hartmann",
+      "Allegra Aron",
+      "Xavier Siwe Noundou",
+      "Rosemary A. Dorrington",
+      "Deniz Tasdemir",
+      "Andreas F. Haas",
+      "Pieter C. Dorrestein",
+      "Craig E. Nelson",
+      "Lihini I. Aluwihare",
+      "Mingxun Wang",
+      "Daniel Petras"
+    ],
+    "summary": "Nature Geoscience, Published online: 16 March 2026; <a href=\"https://www.nature.com/articles/s41561-026-01928-z\">doi:10.1038/s41561-026-01928-z</a>Synthetic chemicals can make up substantial proportions of dissolved organic matter in the ocean, with major differences in compound classes depending on the distance from coastlines, according to an analysis of seawater samples from around the globe.",
+    "source": "Nature Geoscience",
+    "date": "2026-03-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69148-y",
+    "title": "Author Correction: Organocatalytic enantioselective [2<i>π</i> + 2<i>σ</i>] cycloaddition reactions of bicyclo[1.1.0]butanes with <i>α</i>,<i>β</i>-unsaturated aldehydes",
+    "link": "https://www.nature.com/articles/s41467-026-69148-y",
+    "authors": [
+      "Yi-Xiang Geng",
+      "Teng-Fei Xiao",
+      "Dong Xie",
+      "Ming-Ming Li",
+      "Pan-Pan Zhou",
+      "Guo-Qiang Xu",
+      "Peng-Fei Xu"
+    ],
+    "summary": "Nature Communications, Published online: 16 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-69148-y\">doi:10.1038/s41467-026-69148-y</a>Author Correction: Organocatalytic enantioselective [2<i>π</i> + 2<i>σ</i>] cycloaddition reactions of bicyclo[1.1.0]butanes with <i>α</i>,<i>β</i>-unsaturated aldehydes",
+    "source": "Nature Communications",
+    "date": "2026-03-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69478-x",
+    "title": "Publisher Correction: Dynamic realization of emergent high-dimensional optical vortices",
+    "link": "https://www.nature.com/articles/s41467-026-69478-x",
+    "authors": [
+      "Dongha Kim",
+      "Geonhyeong Park",
+      "Yun-Seok Choi",
+      "Arthur Baucour",
+      "Jisung Hwang",
+      "Jaeyu Kim",
+      "Sanghyeok Park",
+      "Hee Seong Yun",
+      "Jonghwa Shin",
+      "Haiwen Wang",
+      "Shanhui Fan",
+      "Dong Ki Yoon",
+      "Min-Kyo Seo"
+    ],
+    "summary": "Nature Communications, Published online: 16 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-69478-x\">doi:10.1038/s41467-026-69478-x</a>Publisher Correction: Dynamic realization of emergent high-dimensional optical vortices",
+    "source": "Nature Communications",
+    "date": "2026-03-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70929-8",
+    "title": "Author Correction: Generalizable and scalable protein stability prediction with rewired protein generative models",
+    "link": "https://www.nature.com/articles/s41467-026-70929-8",
+    "authors": [
+      "Ziang Li",
+      "Yunan Luo"
+    ],
+    "summary": "Nature Communications, Published online: 16 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70929-8\">doi:10.1038/s41467-026-70929-8</a>Author Correction: Generalizable and scalable protein stability prediction with rewired protein generative models",
+    "source": "Nature Communications",
+    "date": "2026-03-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68407-2",
+    "title": "Author Correction: Central American mountains inhibit eastern North Pacific seasonal tropical cyclone activity",
+    "link": "https://www.nature.com/articles/s41467-026-68407-2",
+    "authors": [
+      "Dan Fu",
+      "Ping Chang",
+      "Christina M. Patricola-DiRosario",
+      "R. Saravanan",
+      "Xue Liu",
+      "Hylke E. Beck"
+    ],
+    "summary": "Nature Communications, Published online: 16 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-68407-2\">doi:10.1038/s41467-026-68407-2</a>Author Correction: Central American mountains inhibit eastern North Pacific seasonal tropical cyclone activity",
+    "source": "Nature Communications",
+    "date": "2026-03-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70767-8",
+    "title": "Toroidicity as a route towards non-volatile quaternary memory in antiferromagnets",
+    "link": "https://www.nature.com/articles/s41467-026-70767-8",
+    "authors": [
+      "Navid Qureshi",
+      "Adheena Painganoor",
+      "Mikkel C. Larsen",
+      "Mikkel Ravn-Feld",
+      "Ketty Beauvois",
+      "José Alberto Rodríguez-Velamazán",
+      "David Vaknin",
+      "Paul Steffens",
+      "Rasmus Toft-Petersen",
+      "Niels Bech Christensen"
+    ],
+    "summary": "Nature Communications, Published online: 16 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70767-8\">doi:10.1038/s41467-026-70767-8</a>This work demonstrates quaternary non-volatile memory in a single-phase antiferromagnet. Polarized neutron scattering reveals that four magnetic domains in LiNi0.8Fe0.2PO4 can be selectively stabilized using combined electric and magnetic fields.",
+    "source": "Nature Communications",
+    "date": "2026-03-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70706-7",
+    "title": "Space and space-time topologies in a type-II hyperbolic lattice",
+    "link": "https://www.nature.com/articles/s41467-026-70706-7",
+    "authors": [
+      "Jingming Chen",
+      "Zebin Zhu",
+      "Minqi Cheng",
+      "Linyun Yang",
+      "Yuxin Zhong",
+      "Zhen Gao"
+    ],
+    "summary": "Nature Communications, Published online: 16 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70706-7\">doi:10.1038/s41467-026-70706-7</a>Hyperbolic topological states have attracted broad interest but are thus far limited to static and spatial topological states in type-I hyperbolic lattices. Here, the authors report a comprehensive study of spatial and spatiotemporal topological states in newly discovered type-II hyperbolic lattices.",
+    "source": "Nature Communications",
+    "date": "2026-03-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70315-4",
+    "title": "Large megathrust earthquakes in cold mantle wedge corners under lawsonite blueschist facies",
+    "link": "https://www.nature.com/articles/s41467-026-70315-4",
+    "authors": [
+      "Hao Zhang",
+      "Sylvain Barbot",
+      "Zekang Yang",
+      "Mingqi Liu",
+      "Lei Zhang",
+      "John Platt"
+    ],
+    "summary": "Nature Communications, Published online: 16 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70315-4\">doi:10.1038/s41467-026-70315-4</a>This study finds that stable minerals at cold subduction zones enable large earthquakes in Earth’s upper mantle.",
+    "source": "Nature Communications",
+    "date": "2026-03-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70381-8",
+    "title": "Dynamics of phage-host interactions in <i>Bacteroides fragilis</i> resolved by single-cell transcriptomics",
+    "link": "https://www.nature.com/articles/s41467-026-70381-8",
+    "authors": [
+      "Anika Gupta",
+      "Norma Morella",
+      "Dmitry Sutormin",
+      "Naisi Li",
+      "Karl Gaisser",
+      "Alexander Robertson",
+      "Yaroslav Ispolatov",
+      "Georg Seelig",
+      "Neelendu Dey",
+      "Anna Kuchina"
+    ],
+    "summary": "Nature Communications, Published online: 16 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70381-8\">doi:10.1038/s41467-026-70381-8</a>Phage-bacteria interactions are typically studied in bulk culture, which obscures cell-cell differences. Here the authors study phage-bacteria interactions using single-cell transcriptomics, identifying cell subpopulations that resist infection through variable expression of multiple genes, without acquiring mutations.",
+    "source": "Nature Communications",
+    "date": "2026-03-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-025-03012-7",
+    "title": "Controls of root-system overlap on hillslope stability",
+    "link": "https://www.nature.com/articles/s43247-025-03012-7",
+    "authors": [
+      "Rozaqqa Noviandi",
+      "Takashi Gomi",
+      "Roy C. Sidle",
+      "Naoto Iwasa",
+      "Norihiro Ohtaka"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 16 March 2026; <a href=\"https://www.nature.com/articles/s43247-025-03012-7\">doi:10.1038/s43247-025-03012-7</a>Vegetation density influences slope stability with higher root-system overlaps delaying landslide initiation and smaller landslide areas at moderate densities, according to lab flume experiments using pea plants with different densities.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-03-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117334",
+    "title": "Differing Controls on the Cycling of Neodymium in the Atlantic and the Pacific",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117334?af=R",
+    "authors": [
+      "Paige M. Wise, \nBenoît Pasquier, \nSeth G. John, \nSophia K. V. Hines"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119502",
+    "title": "Frictional Heterogeneity Governs Slip Partitioning and Seismic Hazard in the 2023 Turkey Earthquake Doublet",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119502?af=R",
+    "authors": [
+      "Jianlong Chen, \nPeizhen Zhang, \nXin Qiao, \nZicheng Huang, \nLejun Lu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001845",
+    "title": "The importance of dissolved sulfhydryl binding sites on the speciation of aqueous metals in lake waters: Results from pristine and human-impacted lakes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001845?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 15 March 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Jessica C. Brown, Qiang Yu, Antonio Simonetti, Jeremy B. Fein",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-03-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001821",
+    "title": "Stable neodymium isotopic fractionation during plate subduction: insights from back-arc basin basalts",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001821?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 15 March 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Fang Liu, Lei Li, Hongli Zhu, Xin Li, Yajun An, Zhaofeng Zhang",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-03-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001869",
+    "title": "Ferrous iron input retards denitrification and drives N<sub>2</sub>O accumulation across salinity gradients",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001869?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 15 March 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Jianrong Huang, Jingjing Zhao, Sayed Dildar Hussain, Mingxian Han, Jian Yang, Qing Liu, Andreas Kappler, Hongchen Jiang",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-03-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001717",
+    "title": "The impact of forearc serpentinization on the composition of subduction-zone fluids revealed by Mg–Fe isotopes in jadeitites",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001717?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 15 March 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Kun Chen, Yi-Xiang Chen, Tatsuki Tsujimori, Hans-Peter Schertl, Xin-Yue Qiao, Jia-Le Xu, Yu-Chen Liu, Naoko Takahashi, Fang Huang, Walter V. Maresch",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-03-17",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag135",
+    "title": "Optically locked low-noise photonic microwave oscillator",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag135/8524805?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The next-generation sensing and communication applications rely on high-frequency microwave generation with low noise. Microwave photonic technology is highly promising; however, its practical applications have so far been limited by the complexity of existing system architectures. Here, we demonstrate an optically locked low-noise photonic microwave oscillator, in which all the optical components are packaged within a small module of 166 mL, and low noise microwave generation is achieved at 10.4 GHz with single-sideband phase noise of − 54 dBc/Hz at 10 Hz, −141 dBc/Hz at 10 kHz, and − 162 dBc/Hz at 10 MHz offset. Above performance arises from a dual-laser self-injection-locking scheme to a single Fabry–Pérot cavity with high Q exceeding 10<sup>8</sup>, with over 20 dB common-mode noise suppression. The low-noise nature of this reference is coherently transferred to the X-band through a high-performance TFLN electro-optic comb chip, thereby overcoming long-standing barriers in photonic microwave integration to enable truly field-deployable low-noise microwave generation.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-03-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025TC009090",
+    "title": "Combining Numerical Simulation and Seismology to Unravel the Exhumation Mechanism and Pathways of the Yardoi Dome, Eastern Himalayas",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025TC009090?af=R",
+    "authors": [
+      "Xinglang Yin, \nXiao Xu, \nXiaoyu Guo, \nChunsen Li, \nXiaofei Tong, \nBo Xiang, \nZizhao Yuan, \nYanqi Lin, \nHongcheng Shi"
+    ],
+    "summary": "Tectonics, Volume 45, Issue 3, March 2026.",
+    "source": "Wiley: Tectonics: Table of Contents",
+    "date": "2026-03-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826001198",
+    "title": "Control of sulfide droplet accumulation on mineralization distribution in the Jinchuan Ni-Cu sulfide deposit: insights from numerical simulation of magma cooling",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826001198?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 15 March 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Xin-Ming Duan, Xian-Cheng Mao, Long-Jiao Li, Zhan-Kun Liu, Yong-Cai Wang",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-03-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826001162",
+    "title": "Origin of the unique volcanic-related uranium-phosphate mineralization in Shengyuan uranium ore field, South China: constraints from zircon Hf-O isotopes, mineral chemistry and sulfur isotope",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826001162?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 15 March 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Yong-Jian Wang, Ya-Qing Pang, Hong-Hai Fan, Jian-Ji Tian",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-03-17",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-026-70503-2",
     "title": "Multisite atomic-chlorine-passivation stabilizes perovskite interfaces for efficient H<sub>2</sub>O<sub>2</sub> photosynthesis from seawater",
     "link": "https://www.nature.com/articles/s41467-026-70503-2",
