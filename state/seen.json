@@ -1,5 +1,418 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-70918-x",
+    "title": "An ultrafast plenoptic-camera system for high-resolution 3D particle tracking in unsegmented scintillators",
+    "link": "https://www.nature.com/articles/s41467-026-70918-x",
+    "authors": [
+      "Till Dieminger",
+      "Saúl Alonso-Monsalve",
+      "Christoph Alt",
+      "Claudio Bruschini",
+      "Noemi Bührer",
+      "Edoardo Charbon",
+      "Kodai Kaneyasu",
+      "Tim Weber",
+      "Matthew Franks",
+      "Davide Sgalaberna"
+    ],
+    "summary": "Nature Communications, Published online: 21 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70918-x\">doi:10.1038/s41467-026-70918-x</a>We propose an alternative approach to elementary particle detection: a plenoptic system combined with time-resolving single-photon avalanche diode array sensors leads to ultrafast three-dimensional high-resolution imaging in unsegmented scintillator.",
+    "source": "Nature Communications",
+    "date": "2026-03-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70786-5",
+    "title": "In-utero exposure to chikungunya and child morbimortality: a population-based study using linked routine data",
+    "link": "https://www.nature.com/articles/s41467-026-70786-5",
+    "authors": [
+      "Mio Kushibuchi",
+      "Orlagh Carroll",
+      "Thiago Cerqueira-Silva",
+      "Viviane S. Boaventura",
+      "Maria Glória Teixeira",
+      "Mauricio L. Barreto",
+      "Enny S. Paixão"
+    ],
+    "summary": "Nature Communications, Published online: 21 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70786-5\">doi:10.1038/s41467-026-70786-5</a>Long-term effects of in utero Chikungunya exposure are not well characterized, although intrapartum exposure is known to be associated with neonatal mortality. Here, the authors assess risk of all-cause hospitalization and mortality up to three years following in-utero exposure in a cohort from Brazil.",
+    "source": "Nature Communications",
+    "date": "2026-03-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70510-3",
+    "title": "Activation of <span>l</span>-histidine biosynthesis as a new antibiotic strategy against <i>Mycobacterium tuberculosis</i>",
+    "link": "https://www.nature.com/articles/s41467-026-70510-3",
+    "authors": [
+      "Debbie M. Hunt",
+      "João Pedro Pisco",
+      "Angela Rodgers",
+      "Cesira de Chiara",
+      "Anisha Zaveri",
+      "Kamila L. Pacholarz",
+      "Dimitrios Evangelopoulos",
+      "Acely Garza-Garcia",
+      "Sabine Ehrt",
+      "Dirk Schnappinger",
+      "Perdita E. Barran",
+      "Maximiliano G. Gutierrez",
+      "Luiz Pedro S. de Carvalho"
+    ],
+    "summary": "Nature Communications, Published online: 21 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70510-3\">doi:10.1038/s41467-026-70510-3</a>Here, the authors report metabolic activation as a potential antimicrobial strategy against Mycobacterium tuberculosis. They show that supra-physiological activation of L-histidine biosynthesis reduces bacterial growth and causes loss of fitness due to nutrient and energy depletion.",
+    "source": "Nature Communications",
+    "date": "2026-03-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70968-1",
+    "title": "Supercurrent-controlled spontaneous ferromagnetism of magnetic impurities in a spin-orbit-coupled superconductor",
+    "link": "https://www.nature.com/articles/s41467-026-70968-1",
+    "authors": [
+      "Bingke Xiang",
+      "Qiushi He",
+      "Yishi Lin",
+      "Keyi Liang",
+      "Zhijie Li",
+      "Jinjiang Zhu",
+      "Boren Chen",
+      "Youfang Wang",
+      "Puhua Zhang",
+      "Hongxu Yao",
+      "Chunxiang Wu",
+      "Tingyu Zhou",
+      "Minghu Fang",
+      "Yao Lu",
+      "Ilya Tokatly",
+      "Sebastian Bergeret",
+      "Yihua Wang"
+    ],
+    "summary": "Nature Communications, Published online: 21 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70968-1\">doi:10.1038/s41467-026-70968-1</a>In conventional s-wave superconductors, ferromagnetism is strongly suppressed, due to the singlet pairing of the electrons. Here, Xiang, He, Lin, and coauthors find a long-range ferromagnetic order among impurity sites in the spin-orbit coupled Fe(Se,Te) using scanning superconducting quantum interference device microscopy.",
+    "source": "Nature Communications",
+    "date": "2026-03-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71013-x",
+    "title": "In vivo metabolic tagging and targeting of circulating red blood cells",
+    "link": "https://www.nature.com/articles/s41467-026-71013-x",
+    "authors": [
+      "Yusheng Liu",
+      "Yizun Wang",
+      "Kyungwon Ko",
+      "Yuan Liu",
+      "Haiyi Huang",
+      "Yueji Wang",
+      "Jiadiao Zhou",
+      "Dhyanesh Baskaran",
+      "Joonsu Han",
+      "Rimsha Bhatta",
+      "Daniel Nguyen",
+      "Cecilia Leal",
+      "Matthew R. Berry",
+      "Fan Lam",
+      "Hua Wang"
+    ],
+    "summary": "Nature Communications, Published online: 21 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-71013-x\">doi:10.1038/s41467-026-71013-x</a>Strategies to directly engineer red blood cells (RBCs) in vivo for drug delivery, imaging, and other applications are lacking. Here, the authors develop a strategy for in vivo metabolic tagging of RBCs and show applications in imaging and prolonged blood circulation of therapeutic agents.",
+    "source": "Nature Communications",
+    "date": "2026-03-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70843-z",
+    "title": "Cell-type-specific immune programs orchestrate spatial defense in the Arabidopsis leaf epidermis",
+    "link": "https://www.nature.com/articles/s41467-026-70843-z",
+    "authors": [
+      "Jingpu Song",
+      "Mahsa Modareszadeh",
+      "Dinithi Kumarapeli",
+      "Wilson Andres Acosta",
+      "Yuhai Cui",
+      "Yangdou Wei"
+    ],
+    "summary": "Nature Communications, Published online: 21 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70843-z\">doi:10.1038/s41467-026-70843-z</a>Here, salicylic acid defenses are found to propagate from infected Arabidopsis cells via calcium-dependent signaling. Guard cells deploy a distinct, salicylic acid-independent immune strategy driven by calcium and reactive oxygen species signaling.",
+    "source": "Nature Communications",
+    "date": "2026-03-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70999-8",
+    "title": "Proton transfer regulated photocured robust room-temperature phosphorescence from naphthalimide",
+    "link": "https://www.nature.com/articles/s41467-026-70999-8",
+    "authors": [
+      "Aicheng Wang",
+      "Haoxuan Wei",
+      "Kunquan Lin",
+      "Xing Huang",
+      "Mingxing Chen",
+      "Wentao Bian",
+      "Junxiao Wang",
+      "Yuzhou Qiao",
+      "Bing Fang",
+      "Yuxia Zhao",
+      "Jianxiang Yu",
+      "Meizhen Yin",
+      "Yuhua Dai"
+    ],
+    "summary": "Nature Communications, Published online: 21 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70999-8\">doi:10.1038/s41467-026-70999-8</a>Photocured materials with room temperature phosphorescence are potentially useful but can be challenging to prepare. Here, the authors report the development of such materials by use of naphthalimide as both a chromophore and photoinitiator.",
+    "source": "Nature Communications",
+    "date": "2026-03-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71028-4",
+    "title": "X-ray preactivated reversible persistent luminescence enables photodynamic immunotherapy of deep tumors",
+    "link": "https://www.nature.com/articles/s41467-026-71028-4",
+    "authors": [
+      "Win Topatana",
+      "Yuchao Sun",
+      "Tianao Xie",
+      "Yiyuan Zhu",
+      "Taorui Yang",
+      "Ruijing Shen",
+      "Peng Ran",
+      "Chengao Li",
+      "Jiadong Chen",
+      "Xuqiu Shen",
+      "Ziyi Lu",
+      "Yina Han",
+      "Yukai Shan",
+      "Shijie Li",
+      "Tianen Chen",
+      "Xiujun Cai",
+      "Renren Deng",
+      "Sarun Juengpanich",
+      "Mingyu Chen"
+    ],
+    "summary": "Nature Communications, Published online: 21 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-71028-4\">doi:10.1038/s41467-026-71028-4</a>Persistent luminescence is promising for photodynamic therapy in deep-seated tumors, but the uncontrollability of light within the body complicates precise spatiotemporal regulation. Here, the authors report X-ray preactivated elimusertib-loaded tumor-targeted photodynamic nanoparticles with controllable “on-off-on” afterglow properties for the treatment of deep-seated tumors.",
+    "source": "Nature Communications",
+    "date": "2026-03-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03403-4",
+    "title": "A combination of social media and satellite data improves flood monitoring in China",
+    "link": "https://www.nature.com/articles/s43247-026-03403-4",
+    "authors": [
+      "Hongji Gu",
+      "Jun Xiao",
+      "Dingtao Shen",
+      "Chunxiao Zhang",
+      "Shuting Xiao",
+      "Zhuang Niu",
+      "Fei Yu"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 21 March 2026; <a href=\"https://www.nature.com/articles/s43247-026-03403-4\">doi:10.1038/s43247-026-03403-4</a>In China, about half of the flood events were unobservable by remote sensing, capturing mostly riverine flooding in open areas, while social media fills gaps in densely populated urban settings, according to a social sensing framework that combines satellite precipitation mapping and Sina Weibo posts",
+    "source": "Communications Earth & Environment",
+    "date": "2026-03-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03418-x",
+    "title": "The Martian mid-latitude subsurface ice is the remnant of a past ice sheet",
+    "link": "https://www.nature.com/articles/s43247-026-03418-x",
+    "authors": [
+      "E. Vos",
+      "F. Forget",
+      "L. Lange",
+      "J. Naar",
+      "J. B. Clement",
+      "E. Millour"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 21 March 2026; <a href=\"https://www.nature.com/articles/s43247-026-03418-x\">doi:10.1038/s43247-026-03418-x</a>Mars planetary climate model simulations show that mid-latitude ice accumulated around 630,000 years ago, at 35° obliquity, matching the depth and spatial variation of today’s buried ice and suggesting this ice layer contains a record of the retreating past surface ice sheet",
+    "source": "Communications Earth & Environment",
+    "date": "2026-03-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.annualreviews.org/content/journals/10.1146/annurev-earth-032524-113824?TRACK=RSS",
+    "title": "The Central Segment of the Famatinian Arc: Insights into the Construction of Ancient Arc Crust",
+    "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-earth-032524-113824?TRACK=RSS",
+    "authors": [
+      "Juan E. Otamendi, Facundo A. Escribano, Tomás Guerreiro, Giuliano C. Camilletti, Emanuel Giovanini, Eber A. Cristofolini, Olivier Bachmann, Andrea Galli and George W. Bergantz"
+    ],
+    "summary": "<div>The Famatinian arc provides an extensive cross section through an ancient magmatic arc, elucidating the evolution of subduction-related magmatism and the generation of the continental crust. Although the mantle-crust transition is not exposed, integrated field observations and laboratory analyses allow the reconstruction of a spatiotemporal model for the arc's thermal structure and magmatic evolution. The resulting cross section demonstrates that depth-dependent petrological processes govern igneous differentiation. At greater depths, crystallization-driven fractionation and melt-mush interactions produce variations within mafic-ultramafic complexes. From the middle crust to volcanic levels, crystal fractionation, partial melting, and the reactive assimilation of prearc host crust drive the evolution toward intermediate and silicic compositions. Comparative analysis with other ancient arcs indicates that subduction-related plutonic-volcanic columns are density filtered and organized as vertically interconnected systems. Within these trans-lithospheric magmatic columns, the influx of mantle-derived melts, multi-level crystal-melt-fluid fractionation, and assimilation of preexisting crust occur simultaneously in space and time from source to surface.\n<ul>\n<li><span class=\"label\">&#9642;&#160;\n</span>The Famatinian represents a 30-km-thick segment of Ordovician arc crust that has undergone differential uplift along several hundred kilometers of its paleo-axis.\n</li>\n<li><span class=\"label\">&#9642;&#160;\n</span>Mantle melt input, polybaric igneous fractionation, and intracrustal melting controlled lithological and chemical diversification across the magmatic column.\n</li>\n<li><span class=\"label\">&#9642;&#160;\n</span>Extensive igneous columns transition from melt-dominated magmatic systems in the middle crust to crystal-rich mushy reservoirs in the upper crust.\n</li>\n<li><span class=\"label\">&#9642;&#160;\n</span>Comparable lithological architectures in ancient arc sections allow assessment of how the building blocks of continental crust develop over convergent plate margins.\n</li>\n</ul></div>",
+    "source": "Annual Review of Earth and Planetary Sciences: Most Recent Articles",
+    "date": "2026-03-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226000863",
+    "title": "Geothermal heat flow in the Princess Elizabeth Land sector, East Antarctica",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226000863?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 20 March 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Devsamridhi Arora, Naresh Chandra Pant, Tobias Stål, Aditya Naik, Mayuri Pandey, Rashmi Gupta",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-03-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226000851",
+    "title": "Millennial-scale changes in marine lithofacies during the paleocene-eocene thermal maximum: A deep-time analog for anthropocene hydrologic and acidification impacts",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226000851?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 20 March 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Jingxin Jiang, Xiumian Hu, Eduardo Garzanti, Ying Cui, Thomas J. Algeo",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-03-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26001433",
+    "title": "Establishment of subduction at early Earth continent margins by migration: Implications for interpreting geochemical observations",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26001433?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 June 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 683Author(s): Hee Choi, Bradford J. Foley",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-03-22",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119960",
+    "title": "Injection Induced Seismicity in Complex Fault Zone Architecture",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119960?af=R",
+    "authors": [
+      "Md Shumon Mia, \nMohamed Abdelmeguid, \nAhmed Elbanna"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120745",
+    "title": "Widespread Co‐Location of Less Frequent and More Intense Daily Precipitation Over Land",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120745?af=R",
+    "authors": [
+      "Andrew F. Feldman, \nXue Feng, \nAndrew J. Felton, \nWade T. Crow, \nJoel A. Biederman, \nAlexandra G. Konings, \nBenjamin Poulter, \nShawn P. Serbin"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120455",
+    "title": "Monitoring Near‐Surface Changes Using Anthropogenic Seismic Vibrations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120455?af=R",
+    "authors": [
+      "Sayan Mukherjee, \nYunyue Elita Li, \nAndrew Stumpf, \nHeng Zhang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120347",
+    "title": "New Constraints on the Calabrian Arc (Central Mediterranean) Geodynamics: High‐Resolution Imaging of Lithospheric and Upper Mantle Discontinuities From P and S Receiver Functions",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120347?af=R",
+    "authors": [
+      "C. Montuori, \nS. Monna, \nF. Frugoni, \nC. Piromallo, \nM. De Caro, \nA. Giuntini, \nA. Argnani"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121145",
+    "title": "Typical Sunlit Tropical Leaves in South China Show a Consistent Isoprene Light Response",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121145?af=R",
+    "authors": [
+      "Jianqiang Zeng, \nYanli Zhang, \nWeihua Pang, \nXiao Tian, \nYuting Lu, \nHaofan Ran, \nHao Guo, \nWei Song, \nPing'an Peng, \nXinming Wang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121487",
+    "title": "Deriving All‐Hour Aerosol Optical Depth Over China From Automated Visibility Observations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121487?af=R",
+    "authors": [
+      "Zhou Yang, \nHengheng Zhao, \nZhaoliang Zeng, \nKe Gui, \nXutao Zhang, \nNanxuan Shang, \nYu Zheng, \nLei Li, \nHuizheng Che"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121459",
+    "title": "Thousand‐Kilometer‐Scale Wavelike Undulations in Ionospheric Plasma Bubble Lifetime and Development Over Wide Longitudes",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121459?af=R",
+    "authors": [
+      "Wenjie Sun, \nYuichi Otsuka, \nGuozhu Li, \nPrayitno Abadi, \nZequan Wang, \nGuofeng Dai, \nLianhuan Hu, \nBiqiang Zhao, \nJianfei Liu, \nHaiyong Xie, \nXiukuan Zhao, \nYi Li, \nBaiqi Ning, \nAtsuki Shinbori, \nMichi Nishioka, \nSepti Perwitasari"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119176",
+    "title": "Mean Biases Dominate CMIP6 Model Deficiencies in Simulating Heavy Rainfall During Monsoon Intraseasonal Oscillation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119176?af=R",
+    "authors": [
+      "Qingjian Shi, \nJianhuang Qin, \nBaosheng Li"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012719",
+    "title": "Fault Stability Assessment in Tectonically Active Geothermal Fields Through Integrated Stress Analysis",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012719?af=R",
+    "authors": [
+      "Roberto Emanuele Rizzo, \nDerek Keir, \nAmeha Muluneh, \nSnorri Guðbrandsson, \nDavid Healy, \nFederico Sani, \nGiacomo Corti, \nPaola Vannucchi"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 3, March 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-03-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001936",
+    "title": "Mechanistic insights into quinone-enhanced hydroxyl radical production during the oxygenation of Fe(II) minerals",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001936?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 20 March 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Yingxiao Tian, Rong Chen, Peng Zhang, Songhu Yuan",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-03-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826001216",
+    "title": "Li-Hf isotope and geochronology constraints on Mesozoic granite type lithium deposit in southern Jiuling batholith in the eastern segment of Jiangnan orogeny, South China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826001216?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 20 March 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Ting Ding, Xingfu Jiang, Bing Pan, Li Yao",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-03-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826001265",
+    "title": "Genesis and age of gold mineralization in the Shipenggou gold deposit, Jilin province, NE China: Evidences from Rb-Sr geochronology, H-O-S isotopes and trace element geochemistry of pyrite",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826001265?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 20 March 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Zi-jian Zeng, Shi-jiong Han, Yan-chen Yang, Zhao-yang Song, Tian-wen Chen, Yu-xuan Liu, Tian-yue Xie",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-03-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826001253",
+    "title": "Magmatic-hydrothermal evolution of the Xuefengling rare-metal pegmatite deposit in the Western Kunlun (NW China): evidence from mineral geochemistry and Sr-Nd isotopic composition",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826001253?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 20 March 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Hong-Yang Bai, He Wang, Liang Huang, Xiao-Yu Zhang, Kun-Yu Wang, Bao-Zhang Zhu, Zhen-Hong Wang, Song Zhang",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-03-22",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-026-10411-z",
     "title": "Author Correction: A PP1–PP2A phosphatase relay controls mitotic progression",
     "link": "https://www.nature.com/articles/s41586-026-10411-z",
