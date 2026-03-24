@@ -1,5 +1,563 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-026-00881-6",
+    "title": "How the idea of human superiority over nature was invented",
+    "link": "https://www.nature.com/articles/d41586-026-00881-6",
+    "authors": [
+      "Brock Bastian"
+    ],
+    "summary": "Nature, Published online: 23 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00881-6\">doi:10.1038/d41586-026-00881-6</a>Scientific discoveries are increasingly eroding the human–animal divide and challenging long-standing assumptions about human exceptionalism.",
+    "source": "Nature",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00884-3",
+    "title": "How to measure a good life – tips for moving beyond GDP",
+    "link": "https://www.nature.com/articles/d41586-026-00884-3",
+    "authors": [
+      "Richard Heys",
+      "Himanshi Bhardwaj",
+      "Cliodhna Taylor"
+    ],
+    "summary": "Nature, Published online: 23 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00884-3\">doi:10.1038/d41586-026-00884-3</a>Including human and environmental capital paints a different picture of national economies than does GDP alone.",
+    "source": "Nature",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00434-x",
+    "title": "How I squeeze fresh science from public data",
+    "link": "https://www.nature.com/articles/d41586-026-00434-x",
+    "authors": [
+      "Rhys H. Parry"
+    ],
+    "summary": "Nature, Published online: 23 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00434-x\">doi:10.1038/d41586-026-00434-x</a>For cash-strapped and early-career researchers, archived data sets can fuel new science.",
+    "source": "Nature",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00882-5",
+    "title": "The intelligence illusion: why AI isn’t as smart as it is made out to be",
+    "link": "https://www.nature.com/articles/d41586-026-00882-5",
+    "authors": [
+      "David Adam"
+    ],
+    "summary": "Nature, Published online: 23 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00882-5\">doi:10.1038/d41586-026-00882-5</a>Artificial-intelligence models will supposedly take over the world, but AI innovator Luc Julia tells Nature that they’re little more than glorified pocket calculators.",
+    "source": "Nature",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00946-6",
+    "title": "The world just lived through the 11 hottest years on record — what now?",
+    "link": "https://www.nature.com/articles/d41586-026-00946-6",
+    "authors": [
+      "Rachel Fieldhouse",
+      "Mohana Basu"
+    ],
+    "summary": "Nature, Published online: 23 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00946-6\">doi:10.1038/d41586-026-00946-6</a>Earth is increasingly ‘out of balance’, as more heat is trapped in the atmosphere, driving global warming.",
+    "source": "Nature",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00802-7",
+    "title": "Forty-five years of progress after a key paper about the evolution of cooperation",
+    "link": "https://www.nature.com/articles/d41586-026-00802-7",
+    "authors": [
+      "Sarah Mathew",
+      "Robert Boyd"
+    ],
+    "summary": "Nature, Published online: 23 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00802-7\">doi:10.1038/d41586-026-00802-7</a>A 1981 publication showed how cooperators can prevail over defectors, laying the foundation for how the evolution of cooperation between unrelated individuals is studied.",
+    "source": "Nature",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00880-7",
+    "title": "Drowning in data sets? Here’s how to cut them down to size",
+    "link": "https://www.nature.com/articles/d41586-026-00880-7",
+    "authors": [
+      "Sarah Wild"
+    ],
+    "summary": "Nature, Published online: 23 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00880-7\">doi:10.1038/d41586-026-00880-7</a>Indefinite data retention is neither financially nor practically possible, but there are ways to give your data maximal long-term value.",
+    "source": "Nature",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70639-1",
+    "title": "Anterior cingulate neurons combine outcome monitoring of past decisions with ongoing movement signals",
+    "link": "https://www.nature.com/articles/s41467-026-70639-1",
+    "authors": [
+      "Lukas T. Oesch",
+      "Makenna C. Thomas",
+      "Davis Sandberg",
+      "João Couto",
+      "Anne K. Churchland"
+    ],
+    "summary": "Nature Communications, Published online: 24 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70639-1\">doi:10.1038/s41467-026-70639-1</a>Whether anterior cingulate cortex neurons track cognitive variables or primarily reflect movements remains unclear. Here, the authors demonstrate that anterior cingulate neurons are modulated by both movements and a movement-independent record of past decisions/outcomes that is similar across subjects.",
+    "source": "Nature Communications",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70981-4",
+    "title": "Continuous evolution of a halogenase enzyme with improved solubility and activity for sustainable bioproduction",
+    "link": "https://www.nature.com/articles/s41467-026-70981-4",
+    "authors": [
+      "Andre Arashiro Pulschen",
+      "Justin Booth",
+      "Ari Satanowski",
+      "Christelle Soudy",
+      "Joaquin Caro-Astorga",
+      "Osaid Ather",
+      "Namita Patel",
+      "Ali Alidoust",
+      "Samir Aoudjane",
+      "Lily Nematollahi",
+      "Erika DeBenedictis"
+    ],
+    "summary": "Nature Communications, Published online: 24 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70981-4\">doi:10.1038/s41467-026-70981-4</a>Halogenation enhances the stability and function of pharmaceuticals and biomaterials, however, current halogenase enzymes are inefficient and insoluble. Here the authors use continuous evolution to engineer a soluble and active halogenase that can produce 2.7 g/L of halogenated tryptophan.",
+    "source": "Nature Communications",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70972-5",
+    "title": "Retraction Note: Re-engineered BCG overexpressing cyclic di-AMP augments trained immunity and exhibits improved efficacy against bladder cancer",
+    "link": "https://www.nature.com/articles/s41467-026-70972-5",
+    "authors": [
+      "Alok Kumar Singh",
+      "Monali Praharaj",
+      "Kara A. Lombardo",
+      "Takahiro Yoshida",
+      "Andres Matoso",
+      "Alex S. Baras",
+      "Liang Zhao",
+      "Geetha Srikrishna",
+      "Joy Huang",
+      "Pankaj Prasad",
+      "Jonathan D. Powell",
+      "Max Kates",
+      "David McConkey",
+      "Drew M. Pardoll",
+      "William R. Bishai",
+      "Trinity J. Bivalacqua"
+    ],
+    "summary": "Nature Communications, Published online: 23 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70972-5\">doi:10.1038/s41467-026-70972-5</a>Retraction Note: Re-engineered BCG overexpressing cyclic di-AMP augments trained immunity and exhibits improved efficacy against bladder cancer",
+    "source": "Nature Communications",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68448-7",
+    "title": "Author Correction: Structural insights into antagonist recognition by the vasopressin V2 receptor",
+    "link": "https://www.nature.com/articles/s41467-026-68448-7",
+    "authors": [
+      "Tianwei Zhang",
+      "Hongli Liu",
+      "Chongzhao You",
+      "Yixiao Zhang",
+      "Youwei Xu",
+      "Benxun Pan",
+      "Canrong Wu",
+      "Sanshan Jin",
+      "Yu-Ling Yin",
+      "Kai Wu",
+      "Yue Chen",
+      "Hong Sun",
+      "Yuan Si",
+      "Yangxia Tan",
+      "Wanchao Yin",
+      "H. Eric Xu",
+      "Dong Guo",
+      "Yi Jiang"
+    ],
+    "summary": "Nature Communications, Published online: 23 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-68448-7\">doi:10.1038/s41467-026-68448-7</a>Author Correction: Structural insights into antagonist recognition by the vasopressin V2 receptor",
+    "source": "Nature Communications",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69974-0",
+    "title": "Author Correction: Self-configuring high-speed multi-plane light conversion",
+    "link": "https://www.nature.com/articles/s41467-026-69974-0",
+    "authors": [
+      "José C. A. Rocha",
+      "Unė G. Būtaitė",
+      "Joel Carpenter",
+      "David B. Phillips"
+    ],
+    "summary": "Nature Communications, Published online: 23 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-69974-0\">doi:10.1038/s41467-026-69974-0</a>Author Correction: Self-configuring high-speed multi-plane light conversion",
+    "source": "Nature Communications",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70798-1",
+    "title": "RFC4 drives temozolomide resistance in glioblastoma by activating STK38-BECN1-dependent autophagy",
+    "link": "https://www.nature.com/articles/s41467-026-70798-1",
+    "authors": [
+      "Min Mao",
+      "Hang Ji",
+      "Wen-Qian Yu",
+      "Qu-Jing Gai",
+      "Qiang Sun",
+      "Qian Yan",
+      "Sen-Lin Xu",
+      "Meng-Li Zhu",
+      "Mei-Hua Qu",
+      "Han-Min Liu",
+      "Jean-Philipe Hugnot",
+      "Xi He",
+      "Xin Wang",
+      "Yan Wang"
+    ],
+    "summary": "Nature Communications, Published online: 23 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70798-1\">doi:10.1038/s41467-026-70798-1</a>Autophagy has been reported to have an important role in glioblastoma temozolomide resistance but the underlying mechanisms are unclear. Here, the authors identify RFC4-STK38-BECN1 complex as a driver of autophagy activation and subsequent temozolomide resistance in preclinical models of glioblastoma.",
+    "source": "Nature Communications",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70630-w",
+    "title": "Water as a gas separation membrane",
+    "link": "https://www.nature.com/articles/s41467-026-70630-w",
+    "authors": [
+      "Kian P. Lopez",
+      "Max Saffer-Meng",
+      "Mohammad Allouzi",
+      "Yukai Tomsovic",
+      "Joshua N. Sherrit",
+      "Sasha R. Neefe",
+      "Patrick O. Saboe",
+      "Mou Paul",
+      "Abhishek Roy",
+      "Anthony P. Straub"
+    ],
+    "summary": "Nature Communications, Published online: 23 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70630-w\">doi:10.1038/s41467-026-70630-w</a>Ultrathin layers of liquid water confined in nanoporous membranes enable fast, selective, and stable separation of carbon dioxide from other gases.",
+    "source": "Nature Communications",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70946-7",
+    "title": "Point defects in monolayer WSi<sub>2</sub>N<sub>4</sub> and MoSi<sub>2</sub>N<sub>4</sub>",
+    "link": "https://www.nature.com/articles/s41467-026-70946-7",
+    "authors": [
+      "Jinmeng Tong",
+      "Yu Cao",
+      "Yuan-Kun Wang",
+      "Zhibo Liu",
+      "Dayong Yang",
+      "Chengjian He",
+      "Chuan Xu",
+      "Peitao Liu",
+      "Shao-Chun Li",
+      "Xing-Qiu Chen",
+      "Wencai Ren"
+    ],
+    "summary": "Nature Communications, Published online: 23 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70946-7\">doi:10.1038/s41467-026-70946-7</a>The MoSi2N4 family is an emerging class of van der Waals materials with interesting properties. Here, the authors report a systematic characterization of point defects in monolayer WSi2N4 and MoSi2N4, showing their influence on the electronic properties of the materials.",
+    "source": "Nature Communications",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03397-z",
+    "title": "Monsoon-driven waves induce a prevailing recession in mangrove forests across the Ganges-Brahmaputra-Meghna Delta",
+    "link": "https://www.nature.com/articles/s43247-026-03397-z",
+    "authors": [
+      "Yuan Xiong",
+      "Zhijun Dai",
+      "Chuqi Long",
+      "Xuefei Mei",
+      "Jinping Cheng",
+      "Cong Mai Van",
+      "Binh An Nguyen",
+      "David M. Kennedy"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 24 March 2026; <a href=\"https://www.nature.com/articles/s43247-026-03397-z\">doi:10.1038/s43247-026-03397-z</a>Monsoon-driven waves, amplified by sea-level rise and cyclones, drove shoreline retreat at around 6 meter per year in the Ganges-Brahmaputra-Meghna Delta, whereas tidal currents enhanced sediment redistribution, increasing total mangrove area by 133 hectares per year from 1988–2022, based on Landsat image analysis.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03371-9",
+    "title": "Land-atmosphere feedbacks and anthropogenic greenhouse gas forcing intensify subseasonal drought-to-pluvial abrupt transitions",
+    "link": "https://www.nature.com/articles/s43247-026-03371-9",
+    "authors": [
+      "Yinghao Fu",
+      "Haishen Lü",
+      "Ali Levent Yagci",
+      "Yonghua Zhu",
+      "Yingying Xu",
+      "Tingxing Chen",
+      "Jiaying Liu",
+      "Yiding Ding",
+      "Di Liu",
+      "Long Xiang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 23 March 2026; <a href=\"https://www.nature.com/articles/s43247-026-03371-9\">doi:10.1038/s43247-026-03371-9</a>Abrupt transitions from drought to extreme precipitation occur more often under higher atmospheric greenhouse gas levels, and are favored through the influence of soil moisture deficits on convective precipitation, revealed by a global assessment based on reanalysis data and climate model projections.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03429-8",
+    "title": "Forest management plan validation gradually reduces forest loss in Congo Basin concessions",
+    "link": "https://www.nature.com/articles/s43247-026-03429-8",
+    "authors": [
+      "Kenneth Houngbedji",
+      "Marc Bouvier",
+      "Antoine Leblois",
+      "Jean-Sylvestre Makak",
+      "Benoit Mertens"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 23 March 2026; <a href=\"https://www.nature.com/articles/s43247-026-03429-8\">doi:10.1038/s43247-026-03429-8</a>Validated forest management plans cut forest loss by 47% in Congo Basin concessions, with reductions emerging gradually and persisting for up to 19 years across five countries, based on two decades of counterfactual analysis.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03399-x",
+    "title": "Unique microbes released by retreating glaciers are rarely propagated to coastal ecosystems",
+    "link": "https://www.nature.com/articles/s43247-026-03399-x",
+    "authors": [
+      "Keshao Liu",
+      "Yongqin Liu",
+      "Zhihao Zhang",
+      "Xuezi Guo",
+      "Hongzhi Qin",
+      "Xinshu Zhu",
+      "Xuefeng Zhang",
+      "Yuying Chen"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 23 March 2026; <a href=\"https://www.nature.com/articles/s43247-026-03399-x\">doi:10.1038/s43247-026-03399-x</a>Metabolically unique glacial microbes dominate foreland communities but rarely persist in fjords, showing limited functional transfer across the land-sea interface, based on genome-resolved metagenomics along a glacier-to-fjord gradient",
+    "source": "Communications Earth & Environment",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S001282522600084X",
+    "title": "A review of evolving remote sensing and automated techniques in rock glacier mapping",
+    "link": "https://www.sciencedirect.com/science/article/pii/S001282522600084X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 22 March 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Sunil Tamang, Shelley MacDonell, Benjamin Aubrey Robson, James Shulmeister, James Brasington",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26001573",
+    "title": "A regime shift in great lakes nearshore total freeboard dynamics driven by synchronized climate patterns",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26001573?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 June 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 683Author(s): Yihang Ding, C.K. Shum, Michael Bevis, Shuaiying Wu, Shengdao Wang, Yuan Xue, Xudong Fu",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26001664",
+    "title": "Large-scale avulsion of the lower Yellow River revealed by landscape evolution modeling",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26001664?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 June 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 683Author(s): Xiang He, Xiaoping Yuan, Jun Cheng, David B. Kemp, Xianyan Wang, Zongmin Zhu, Junsheng Nie, Shucheng Xie",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117459",
+    "title": "Zeeman: A Deep Learning Framework for Regional Atmospheric Chemistry Forecasting",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117459?af=R",
+    "authors": [
+      "Mijie Pang, \nJianbing Jin, \nArjo Segers, \nHai Xiang Lin, \nGuoqiang Wang, \nHong Liao, \nWei Han"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-22",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120855",
+    "title": "Multi‐Century Projections of Dynamic Sea Level Based on an Updated Two‐Layer Emulator",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120855?af=R",
+    "authors": [
+      "Jin Xing, \nJiacan Yuan, \nChris Smith, \nDawei Li"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-22",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121260",
+    "title": "Drivers of Changing Interannual Variability in Autumn‐Early Winter Arctic Sea Ice (1950–2024)",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121260?af=R",
+    "authors": [
+      "Lejiang Yu, \nShiyuan Zhong, \nTimo Vihma"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-22",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL121728",
+    "title": "Modeling Variability in Vertical Profiles of Particulate Organic Carbon Flux",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL121728?af=R",
+    "authors": [
+      "Katherine Taylor, \nRaffaele Ferrari, \nB. B. Cael"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-22",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121185",
+    "title": "Insights From Two Decades of Seismicity at Columbia Glacier",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121185?af=R",
+    "authors": [
+      "Sebin John, \nMichael E. West, \nMartin Truffer"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-22",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120895",
+    "title": "Satellite Observations Reveal Complex Zonal Shifts of Western Boundary Currents Over the Past Three Decades",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120895?af=R",
+    "authors": [
+      "Yihang Zhang, \nShuyi Zhou, \nFanghua Xu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-22",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120079",
+    "title": "Transient Evolution of Polar Amplification Under Different CO2 Ramping Rates",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120079?af=R",
+    "authors": [
+      "Camille Hankel, \nDavid B. Bonan"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-22",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121182",
+    "title": "Rapid Evolution of Super Equatorial Plasma Bubbles and X‐Pattern EIA Formation During Extreme Storm Conditions on 12 November 2025",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121182?af=R",
+    "authors": [
+      "Shasha Zou, \nLei Liu, \nHang Liu, \nAnthea Coster, \nRobert Kerr, \nJonas Souza, \nAngela Santos"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-22",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012755",
+    "title": "Seismic Constraints on Temperature, Partial Melt, and Lithosphere‐Asthenosphere Dynamics in the Southwestern United States",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012755?af=R",
+    "authors": [
+      "E. M. Golos, \nK. M. Fischer, \nZ. Eilon"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 3, March 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-03-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001973",
+    "title": "Source-specific carbon dioxide production and acetoclastic methanogenesis upon anaerobic degradation of dissolved organic matter",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001973?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 23 March 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Yongqiang Zhou, Jiayi Wu, Lei Zhou, Yunlin Zhang, Kyoung-Soon Jang, Liwei Zhang, José R. Paranaíba, Christopher C. Keneally, Justin D. Brookes, David P. Hamilton, Erik Jeppesen",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S001670372600195X",
+    "title": "Iron (Fe) isotopes decipher Fe fate in acid mine drainage within a karst watershed",
+    "link": "https://www.sciencedirect.com/science/article/pii/S001670372600195X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 22 March 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Yuhui Liu, Yafei Xia, Jing Sun, Lei Song, Ting Gao, Meng Qi, Chengshuai Liu",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag184",
+    "title": "Genome-wide Association Studies and QTL Mapping for Traits Deviating from Normal Distribution",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag184/8537784?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Quantitative traits are the targets for genome-wide association studies (GWAS) and quantitative trait locus (QTL) mapping. After adjusting for systematic effects, these traits are assumed to be normally distributed so that typical linear models (LM) and linear mixed models (LMM) can be used to detect markers associated with QTLs. Many traits in crops, animals and humans, however, do not follow the assumed normal distribution and many of them are not even continuously distributed. We developed statistical models and software packages to map QTLs and perform association studies for such non-normal traits under the generalized linear mixed model (GLMM) framework. We developed a pseudo response (PSR) method to estimate the polygenic variance by generating a pseudo response variable that is treated as a conventional quantitative trait. We then scanned the genome for markers associated with the PSR variable in the usual linear mixed model. The new method is called the pseudo response generalized linear mixed model (PSR-GLMM). We illustrated the method with the purple color trait of rice (binary trait) and a set of simulated non-normal traits. We then applied the method to four datasets: a binary trait from an <span style=\"font-style: italic;\">Arabidopsis</span> population, a binomial trait from a pig population, a Poisson trait from the same pig population and an ordinal trait from a dog population. A software package has been developed in R to perform GWAS and QTL mapping for binary, binomial, Poisson and ordinal traits (PSR-GLMM/R), including normally distributed traits as a special case. The R package can also be applied to perform generalized linear mixed model analysis for a general purpose beyond QTL mapping and GWAS.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag182",
+    "title": "Hydrodynamic cavitation for prebiotic ribose formation from H2O and CO2",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag182/8537775?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>H<sub>2</sub>O and CO<sub>2</sub> are considered as fundamental precursors for the prebiotic formation of biomolecules. Their conversion to biomolecules under early Earth conditions is critical for understanding origin of life. However, direct formation from these simple compounds remains unverified, leaving the mechanistic role of H<sub>2</sub>O unresolved. Herein, we demonstrate ribose synthesis from H<sub>2</sub>O and CO<sub>2</sub> under prebiotic conditions <span style=\"font-style: italic;\">via</span> hydrodynamic cavitation, a process naturally occurring in ancient oceans. Ca<sup>2+</sup>-mediated hydrodynamic cavitation in a Venturi reactor produced ribose as the major sugar product. Ribose was predicted to be formed from formaldehyde and CH<sub>2</sub>OH· radicals generated <span style=\"font-style: italic;\">via</span> a sequential reaction involving OH·, H· and C<sub>1</sub>· radicals derived from H<sub>2</sub>O and CO<sub>2</sub> under high-temperature/pressure induced by hydrodynamic cavitation, followed by successive CH<sub>2</sub>OH· radical substitutions. These findings indicate that early Earth’s aqueous fluids could enable abiotic biomolecule formation, suggesting flowing H<sub>2</sub>O acted as both driver and reactant in life’s chemical origin.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826001289",
+    "title": "Magmatic evolution and mineralization potential of the Husite complex pluton in the Kekesala ore district, Chinese Western Tianshan: Insights from zircon and apatite geochemistry",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826001289?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 22 March 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Yan Zhang, Yiwei Peng, Xuexiang Gu, Mingwei Song, Lei Peng, Fuwei Xie",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826001307",
+    "title": "In-situ u-pb geochronology and elemental signatures of titanite from the Songshunangou porphyry Au deposit, North Qilian orogenic belt, China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826001307?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 22 March 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Weizhe Wu, Xuhui Wang, Xinghai Lang, Zifeng Ye, Zuopeng Xiang, Yulin Deng, Weicai Dong, Chao Luo, Stephanie Lohmeier, Hartwig E. Frimmel",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826001319",
+    "title": "Machine learning-driven dissection of lithium distribution and enrichment mechanisms in bauxite-bearing rock series: insights from northern Guizhou, south China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826001319?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 22 March 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Hai-Lan Li, Can Jiang, Hong-Peng Fan, Qing-Yu Li, Zhi-Long Huang",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826001290",
+    "title": "Hydrogeochemical features and formation mechanisms of geothermal circulation water in Lushan, Jiangxi, China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826001290?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 22 March 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Bo Zhang, Bai Gao, Wenjie Ma, Keng Xuan, Dandan Huang, Yuanyuan Liu, Silei Xie, Zheng Fang, Yan Ding, Lihong Zhang",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
     "id": "10.1029/2025RG000884",
     "title": "Bayesian Inference for Subsurface Geophysical Inverse Problems",
     "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025RG000884?af=R",
