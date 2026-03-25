@@ -1,5 +1,677 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-026-10403-z",
+    "title": "Author Correction: 7-Dehydrocholesterol is an endogenous suppressor of ferroptosis",
+    "link": "https://www.nature.com/articles/s41586-026-10403-z",
+    "authors": [
+      "Florencio Porto Freitas",
+      "Hamed Alborzinia",
+      "Ancély Ferreira dos Santos",
+      "Palina Nepachalovich",
+      "Lohans Pedrera",
+      "Omkar Zilka",
+      "Alex Inague",
+      "Corinna Klein",
+      "Nesrine Aroua",
+      "Kamini Kaushal",
+      "Bettina Kast",
+      "Svenja M. Lorenz",
+      "Viktoria Kunz",
+      "Helene Nehring",
+      "Thamara N. Xavier da Silva",
+      "Zhiyi Chen",
+      "Sena Atici",
+      "Sebastian G. Doll",
+      "Emily L. Schaefer",
+      "Ifedapo Ekpo",
+      "Werner Schmitz",
+      "Aline Horling",
+      "Peter Imming",
+      "Sayuri Miyamoto",
+      "Ann M. Wehman",
+      "Thiago C. Genaro-Mattos",
+      "Karoly Mirnics",
+      "Lokender Kumar",
+      "Judith Klein-Seetharaman",
+      "Svenja Meierjohann",
+      "Isabel Weigand",
+      "Matthias Kroiss",
+      "Georg W. Bornkamm",
+      "Fernando Gomes",
+      "Luis Eduardo Soares Netto",
+      "Manjima B. Sathian",
+      "David B. Konrad",
+      "Douglas F. Covey",
+      "Bernhard Michalke",
+      "Kurt Bommert",
+      "Ralf C. Bargou",
+      "Ana Garcia-Saez",
+      "Derek A. Pratt",
+      "Maria Fedorova",
+      "Andreas Trumpp",
+      "Marcus Conrad",
+      "José Pedro Friedmann Angeli"
+    ],
+    "summary": "Nature, Published online: 24 March 2026; <a href=\"https://www.nature.com/articles/s41586-026-10403-z\">doi:10.1038/s41586-026-10403-z</a>Author Correction: 7-Dehydrocholesterol is an endogenous suppressor of ferroptosis",
+    "source": "Nature",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00942-w",
+    "title": "Marine life is a silent casualty of armed conflicts",
+    "link": "https://www.nature.com/articles/d41586-026-00942-w",
+    "authors": [
+      "Seithikurippu R. Pandi-Perumal",
+      "Konda Mani Saravanan"
+    ],
+    "summary": "Nature, Published online: 24 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00942-w\">doi:10.1038/d41586-026-00942-w</a>Marine life is a silent casualty of armed conflicts",
+    "source": "Nature",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00940-y",
+    "title": "Scientists should join collaborative online editing communities for biodiversity",
+    "link": "https://www.nature.com/articles/d41586-026-00940-y",
+    "authors": [
+      "Heidi M. Meudt",
+      "Siobhan Leachman",
+      "Tiago Lubiana",
+      "Sabine von Mering"
+    ],
+    "summary": "Nature, Published online: 24 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00940-y\">doi:10.1038/d41586-026-00940-y</a>Scientists should join collaborative online editing communities for biodiversity",
+    "source": "Nature",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00644-3",
+    "title": "Why it’s hard to guess the high note",
+    "link": "https://www.nature.com/articles/d41586-026-00644-3",
+    "authors": [],
+    "summary": "Nature, Published online: 24 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00644-3\">doi:10.1038/d41586-026-00644-3</a>An explanation of the difficulty in judging musical tones, and colourful rings spotted around the Sun, in this week’s pick from the Nature archive.",
+    "source": "Nature",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00943-9",
+    "title": "Salt lakes are shrinking and expanding, causing havoc in conservation",
+    "link": "https://www.nature.com/articles/d41586-026-00943-9",
+    "authors": [
+      "Egor Zadereev"
+    ],
+    "summary": "Nature, Published online: 24 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00943-9\">doi:10.1038/d41586-026-00943-9</a>Salt lakes are shrinking and expanding, causing havoc in conservation",
+    "source": "Nature",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00941-x",
+    "title": "UK scraps airborne lab that tracks climate, pollution and weather systems",
+    "link": "https://www.nature.com/articles/d41586-026-00941-x",
+    "authors": [
+      "Euan G. Nisbet",
+      "Maria R. Russo"
+    ],
+    "summary": "Nature, Published online: 24 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00941-x\">doi:10.1038/d41586-026-00941-x</a>UK scraps airborne lab that tracks climate, pollution and weather systems",
+    "source": "Nature",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00938-6",
+    "title": "‘Zombie cells’ return from the dead — after a genome transplant",
+    "link": "https://www.nature.com/articles/d41586-026-00938-6",
+    "authors": [
+      "Ewen Callaway"
+    ],
+    "summary": "Nature, Published online: 24 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00938-6\">doi:10.1038/d41586-026-00938-6</a>Technique that inserts the genome of one bacterial species into the ‘dead’ cells of another could open doors for synthetic biologists.",
+    "source": "Nature",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00945-7",
+    "title": "Can a mouse be cloned indefinitely? Decades-long experiment has answers",
+    "link": "https://www.nature.com/articles/d41586-026-00945-7",
+    "authors": [
+      "Heidi Ledford"
+    ],
+    "summary": "Nature, Published online: 24 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00945-7\">doi:10.1038/d41586-026-00945-7</a>Repeated cloning from a single mouse failed after 58 generations. Researchers say harmful DNA changes are to blame.",
+    "source": "Nature",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00950-w",
+    "title": "Antimatter has been transported for the first time ever — in the back of CERN's truck",
+    "link": "https://www.nature.com/articles/d41586-026-00950-w",
+    "authors": [
+      "Elizabeth Gibney"
+    ],
+    "summary": "Nature, Published online: 24 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00950-w\">doi:10.1038/d41586-026-00950-w</a>Physicists have succeeded for the first time in transporting the most expensive and most volatile substance on Earth — antimatter.",
+    "source": "Nature",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00892-3",
+    "title": "These medical X-rays are all deepfakes — and they fool even radiologists",
+    "link": "https://www.nature.com/articles/d41586-026-00892-3",
+    "authors": [
+      "Jenna Ahart"
+    ],
+    "summary": "Nature, Published online: 24 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00892-3\">doi:10.1038/d41586-026-00892-3</a>Radiologists and large language models alike have a hard time picking out real medical images from fake ones.",
+    "source": "Nature",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00932-y",
+    "title": "How the war in Iran is reshaping the energy landscape",
+    "link": "https://www.nature.com/articles/d41586-026-00932-y",
+    "authors": [
+      "Aisha Al-Sarihi"
+    ],
+    "summary": "Nature, Published online: 24 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00932-y\">doi:10.1038/d41586-026-00932-y</a>As prices surge and governments scramble to respond, the crisis underscores an urgent need to rethink energy security.",
+    "source": "Nature",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00883-4",
+    "title": "Why AI hasn’t caused a job apocalypse — so far",
+    "link": "https://www.nature.com/articles/d41586-026-00883-4",
+    "authors": [
+      "Martha Gimbel"
+    ],
+    "summary": "Nature, Published online: 24 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00883-4\">doi:10.1038/d41586-026-00883-4</a>Current evidence points to modest effects of artificial-intelligence tools on jobs, highlighting how bad data, not sweeping automation, is driving much of today’s alarm.",
+    "source": "Nature",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00879-0",
+    "title": "How DNA in dirt is shaking up the study of human origins",
+    "link": "https://www.nature.com/articles/d41586-026-00879-0",
+    "authors": [
+      "Dyani Lewis"
+    ],
+    "summary": "Nature, Published online: 24 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00879-0\">doi:10.1038/d41586-026-00879-0</a>Researchers are pulling clues from genetic material in ice age soils and rewriting chapters of human history.",
+    "source": "Nature",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00957-3",
+    "title": "Daily briefing: We’ve just had the 11 hottest years on record",
+    "link": "https://www.nature.com/articles/d41586-026-00957-3",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 23 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00957-3\">doi:10.1038/d41586-026-00957-3</a>A new report shows that Earth’s climate is more out of balance than at any other time in recorded history. Plus, a lab-grown oesophagus and evidence that sperm whales headbutt.",
+    "source": "Nature",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00947-5",
+    "title": "Daily briefing: Why stress causes eczema to flare up in mice",
+    "link": "https://www.nature.com/articles/d41586-026-00947-5",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 20 March 2026; <a href=\"https://www.nature.com/articles/d41586-026-00947-5\">doi:10.1038/d41586-026-00947-5</a>A group of stress-responsive skin neurons produce inflammatory proteins that drive eczema symptoms. Plus, the ongoing debate about how people first settled in South America and how people are greening their traditional tent homes in Mongolia.",
+    "source": "Nature",
+    "date": "2026-03-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-01952-z",
+    "title": "Large-scale aggregation of humid heatwaves exacerbated by coastal oceanic warming",
+    "link": "https://www.nature.com/articles/s41561-026-01952-z",
+    "authors": [
+      "Fenying Cai",
+      "Dieter Gerten",
+      "Keer Zhang",
+      "Tuantuan Zhang",
+      "Song Yang",
+      "Jürgen Kurths"
+    ],
+    "summary": "Nature Geoscience, Published online: 24 March 2026; <a href=\"https://www.nature.com/articles/s41561-026-01952-z\">doi:10.1038/s41561-026-01952-z</a>Coastal ocean warming drives the recent increase in large-scale aggregation of humid heatwaves, accounting for up to two-thirds of their rising frequency and spatial extent, according to climate reanalyses and model simulations from 1982–2023.",
+    "source": "Nature Geoscience",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-01950-1",
+    "title": "Entrained debris records regrowth of the Greenland Ice Sheet after the last interglacial",
+    "link": "https://www.nature.com/articles/s41561-026-01950-1",
+    "authors": [
+      "Nicholas Holschuh",
+      "Knut Christianson",
+      "William Dienstfrey",
+      "Benjamin Hills",
+      "Andrew O. Hoffman",
+      "John Paden",
+      "Kate Winter",
+      "Ruth Zuraw"
+    ],
+    "summary": "Nature Geoscience, Published online: 24 March 2026; <a href=\"https://www.nature.com/articles/s41561-026-01950-1\">doi:10.1038/s41561-026-01950-1</a>Englacial structures in the Greenland Ice Sheet contain debris lifted hundreds of metres into the ice column, likely forming as the expanding ice sheet overrode its frozen margin following the last interglacial, according to 3D airborne radar imaging.",
+    "source": "Nature Geoscience",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71095-7",
+    "title": "Unveiling the biodiversity of large DNA viruses in intertidal mudflats via metagenomics",
+    "link": "https://www.nature.com/articles/s41467-026-71095-7",
+    "authors": [
+      "Mengzhi Ji",
+      "Yan Li",
+      "Mengqi Wang",
+      "Xia Liu",
+      "Xiaofan Gong",
+      "Qichao Tu"
+    ],
+    "summary": "Nature Communications, Published online: 24 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-71095-7\">doi:10.1038/s41467-026-71095-7</a>Large DNA viruses (LDVs) are unique members of the Earth’s biosphere but remain poorly understood in many ecosystems. In this study, the authors uncovered the diversity, ecological patterns and drivers of intertidal LDVs in intertidal mudflats through large-scale sampling and sequencing efforts.",
+    "source": "Nature Communications",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71031-9",
+    "title": "Acid-tolerant injectable bioadhesive for sutureless repair of large gastric perforation",
+    "link": "https://www.nature.com/articles/s41467-026-71031-9",
+    "authors": [
+      "Ze Wang",
+      "Bo Cao",
+      "Longsong Li",
+      "Hao Cui",
+      "Bo Wei",
+      "Jianxin Cui",
+      "Xing Wang"
+    ],
+    "summary": "Nature Communications, Published online: 24 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-71031-9\">doi:10.1038/s41467-026-71031-9</a>Gastric perforation sealing is challenging due to the acidic environment presented by gastric fluid. Here, authors report an injectable hydrogel bioadhesive for sealing of large gastric perforations.",
+    "source": "Nature Communications",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71067-x",
+    "title": "SNX-mediated biogenesis of a plant-unique vesicle derived from the multivesicular body",
+    "link": "https://www.nature.com/articles/s41467-026-71067-x",
+    "authors": [
+      "Yanbin Li",
+      "Ran Tao",
+      "Hai Zhang",
+      "Xiaokang Wen",
+      "Stephen King Pong Leung",
+      "Qing Qi",
+      "Xiaohui Zheng",
+      "Haoxuan Guo",
+      "Congxian Wu",
+      "Zhifei Fu",
+      "Xiaorong Huang",
+      "Wilson Chun Yu Lau",
+      "Liwen Jiang",
+      "Yong Cui"
+    ],
+    "summary": "Nature Communications, Published online: 24 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-71067-x\">doi:10.1038/s41467-026-71067-x</a>Li et al. identify small spherical vesicles budding from plant multivesicular bodies as likely retrograde carriers and demonstrate that SNX proteins drive their formation, revealing a distinct mechanism for protein recycling during plant development.",
+    "source": "Nature Communications",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70802-8",
+    "title": "Nanoscale exchange-bias magnetic tunnel junctions enabled memristive synapse and leaky-integrate-fire neuron for neuromorphic computing",
+    "link": "https://www.nature.com/articles/s41467-026-70802-8",
+    "authors": [
+      "Zanhong Chen",
+      "Dehang Zhu",
+      "Ao Du",
+      "Yuzhang Shi",
+      "Wenlong Cai",
+      "Zixi Wang",
+      "Yuqi Duan",
+      "Shiyang Lu",
+      "Kaihua Cao",
+      "He Zhang",
+      "Deming Zhang",
+      "Hongxi Liu",
+      "Kewen Shi",
+      "Weisheng Zhao"
+    ],
+    "summary": "Nature Communications, Published online: 24 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70802-8\">doi:10.1038/s41467-026-70802-8</a>Magnetic tunnel junctions face challenges in emulating neuromorphic devices within a single film stack platform. Chen et al. fabricate spintronics-based artificial synapses and spiking neurons and implement a convolutional spiking neural network, showing 96% accuracy in a gesture recognition task.",
+    "source": "Nature Communications",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70996-x",
+    "title": "Direct conversion of enzymatic hydrolysis lignin to jet fuel via relay catalysis",
+    "link": "https://www.nature.com/articles/s41467-026-70996-x",
+    "authors": [
+      "Hanzhang Gong",
+      "Lu Wang",
+      "Xiang Li",
+      "Yuan Zhuang",
+      "Yuhan Ma",
+      "Yushuai Sang",
+      "Yongdan Li",
+      "Zhaofu Fei",
+      "Paul J. Dyson"
+    ],
+    "summary": "Nature Communications, Published online: 24 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70996-x\">doi:10.1038/s41467-026-70996-x</a>Structural complexity often hinders the efficient conversion of lignin into sustainable high-value products. This bifunctional core–shell catalyst enables a relay reaction that transforms lignin into jet-fuel range cycloalkanes with high yields.",
+    "source": "Nature Communications",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70701-y",
+    "title": "Recurring marine phosphorus spikes during major palaeozoic mass extinctions and climate change",
+    "link": "https://www.nature.com/articles/s41467-026-70701-y",
+    "authors": [
+      "Matthew S. Dodd",
+      "Chao Li",
+      "Zihu Zhang",
+      "Aleksey Y. Sadekov",
+      "André Desrochers",
+      "Olle Hints",
+      "Detian Yan",
+      "Xiangrong Yang",
+      "Annette D. George",
+      "Maya Elrick",
+      "David White",
+      "Wenkun Qie",
+      "Bo Chen",
+      "Andrew S. Merdith",
+      "Benjamin J. W. Mills"
+    ],
+    "summary": "Nature Communications, Published online: 24 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70701-y\">doi:10.1038/s41467-026-70701-y</a>Phosphorus locked in carbonate rocks from seven global sites shows simultaneous marine phosphorus spikes during major mass extinctions. Modelling ties high marine phosphorus to eutrophication, CO2 drawdown, and global cooling.",
+    "source": "Nature Communications",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70459-3",
+    "title": "Tunable and nonlinearity-enhanced dispersive-plus-dissipative coupling in photon-pressure circuits",
+    "link": "https://www.nature.com/articles/s41467-026-70459-3",
+    "authors": [
+      "Mohamad Kazouini",
+      "Janis Peter",
+      "Zisu Emily Guo",
+      "Benedikt Wilde",
+      "Kevin Uhl",
+      "Dieter Koelle",
+      "Reinhold Kleiner",
+      "Daniel Bothner"
+    ],
+    "summary": "Nature Communications, Published online: 24 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70459-3\">doi:10.1038/s41467-026-70459-3</a>This work demonstrates a nonlinearity-enhanced combination of dispersive and dissipative coupling in photon-pressure circuits, a circuit-QED analog of optomechanics, and reveals how transparency and backaction are modified by coupling-interference. The results hold relevance for radiation-pressure systems, (quantum) control protocols and Hamiltonian simulation.",
+    "source": "Nature Communications",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70880-8",
+    "title": "Emergent discrete space-time crystal of Majorana-like quasiparticles in chiral liquid crystals",
+    "link": "https://www.nature.com/articles/s41467-026-70880-8",
+    "authors": [
+      "Hanqing Zhao",
+      "Rui Zhang",
+      "Ivan I. Smalyukh"
+    ],
+    "summary": "Nature Communications, Published online: 24 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70880-8\">doi:10.1038/s41467-026-70880-8</a>Time crystals, which break time translation symmetry, have garnered significant interest in both quantum and classical systems due to their potential applications and fundamental implications. This study demonstrates the emergence of classical discrete space-time crystals in chiral liquid crystals, revealing the behavior of Majorana-like quasiparticles within facilitating period-doubling phenomena across various conditions.",
+    "source": "Nature Communications",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03415-0",
+    "title": "Lake expansion underpinned the Silk Road prosperity during a drought period",
+    "link": "https://www.nature.com/articles/s43247-026-03415-0",
+    "authors": [
+      "Ruijin Chen",
+      "Jiaju Zhao",
+      "Aifeng Zhou",
+      "Panpan Ji",
+      "Zhiguo Rao",
+      "Haipeng Wang",
+      "Fahu Chen",
+      "Jianhui Chen"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 24 March 2026; <a href=\"https://www.nature.com/articles/s43247-026-03415-0\">doi:10.1038/s43247-026-03415-0</a>Enhanced meltwater in arid Central Asia during a warm and dry period in the Tang dynasty between CE 600 and 900 created well-watered corridors and supported Silk Road prosperity, according to a high-resolution lake-level record from Jili Lake, China",
+    "source": "Communications Earth & Environment",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2530832123?af=R",
+    "title": "Recent extremes in Antarctic sea ice extent modulated by ocean heat ventilation",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2530832123?af=R",
+    "authors": [
+      "Earle A. WilsonLexi ArlenEthan C. CampbellaDepartment of Earth System Science, Stanford University, Stanford, CA 94305-4216bPolar Science Center, Applied Physics Laboratory, University of Washington, Seattle, WA 98105-6698"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 14, April 2026. <br />SignificanceAntarctic sea ice is an integral component of the climate system, regulating heat and CO2exchange between the surface and deep ocean. Contrary to the gradual ice loss predicted by climate models, we have observed ice expansion until 2015, ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2514066123?af=R",
+    "title": "Unprecedented Amazonian rainforests damage during the 2023–2024 droughts",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2514066123?af=R",
+    "authors": [
+      "Hao BaiXiangzhuo LiuHui YangJerome ChavePhilippe CiaisJean-Pierre WigneronSassan SaatchiJingfeng XiaoThuy Le ToanXiaomei HuZiyan YangLijun WangLei FanYitong YaoXiuzhi ChenYanxu LiuBaolin XueQinghua GuoZhiyao TangHongyan LiuJingyun FangShengli TaoaInstitute of Ecology, College of Urban and Environmental Sciences, and State Key Laboratory of Vegetation Structure, Function and Construction, Peking University, Beijing 100871, ChinabUMR 1391 Interaction Sol Plante Atmosphère, Institut National de Recherche pour l’Agriculture, l’Alimentation et l’Environnement, Villenave d’Ornon 33140, FrancecCollege of Urban and Environmental Sciences, Peking University, Beijing 100871, ChinadCentre de Recherche sur la Biodiversité et l’Environnement, UMR 5300, Centre National de la Recherche Scientifique (CNRS), Institut pour la Recherche et le Développement, Institut National Polytechnique de Toulouse, Université de Toulouse, Toulouse Cedex 9 31062, FranceeLaboratoire des Sciences du Climat et de l’Environnement, Commissariat à l’Energie Atomique et aux Energies Alternatives, Centre National de la Recherche Scientifique, Université de Versailles St Quentin en Yvelines, Université Paris-Saclay, Gif-sur-Yvette 91191, FrancefJet Propulsion Laboratory, California Institute of Technology, Pasadena, CA 91109gInstitute of the Environment and Sustainability, University of California, Los Angeles, CA 90095hEarth Systems Research Center, Institute for the Study of Earth, Oceans, and Space, University of New Hampshire, Durham, NH 03824iCentre d’Etudes Spatiales de la Biosphère, Toulouse 31400, FrancejChongqing Jinfo Mountain Karst Ecosystem National Observation and Research Station, School of Geographical Sciences, Southwest University, Chongqing 400715, ChinakDivision of Geological and Planetary Sciences, California Institute of Technology, Pasadena, CA 91125lSchool of Atmospheric Sciences, Guangdong Province Data Center of Terrestrial and Marine Ecosystems Carbon Cycle, Sun Yat-sen University, Zhuhai, Guangdong 510275, ChinamState Key Laboratory of Earth Surface Processes and Hazards Risk Governance, Faculty of Geographical Science, Beijing Normal University, Beijing 100875, ChinanAdvanced Interdisciplinary Institute of Satellite Applications, Beijing Normal University, Beijing 100875, ChinaoInstitute of Remote Sensing and Geographic Information System, School of Earth and Space Sciences, Peking University, Beijing 100871, China"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 13, March 2026. <br />SignificanceThe Amazonian rainforests account for around a quarter of global forest carbon stocks, and they are increasingly threatened by severe droughts, particularly the record-breaking and consecutive droughts of 2023–2024. Using long-term continuous ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2602952123?af=R",
+    "title": "Spinning carbon and sinking phosphorus: Misaligned cycles in the sea",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2602952123?af=R",
+    "authors": [
+      "Matthew J. ChurchKatie N. CoatesaFlathead Lake Biological Station, University of Montana, Polson, MT 59860"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 13, March 2026. <br />",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226000887",
+    "title": "The Lhasa Terrane: A tale of two origins and its convergence at the Northern Margin of Gondwana",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226000887?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 24 March 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Chang-Sheng Yu, Mei-Fu Zhou, Ming Wang, Jian-Bo Zhou, Wen-Jun Hu",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-03-25",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120837",
+    "title": "Europa is Embedded in Non‐Maxwellian, Anisotropic Electron Distributions",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120837?af=R",
+    "authors": [
+      "S. P. Ellis, \nJ. R. Szalay, \nG. Livadiotis, \nS. R. Carberry Mogan, \nF. Allegrini, \nR. W. Ebert, \nM. Horányi, \nD. J. McComas, \nT. Oberg, \nY. Sarkango, \nA. H. Sulaiman"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120646",
+    "title": "Mesospheric and Lower Thermospheric Responses to the May 2024 Geomagnetic Storm in the Antarctic Peninsula",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120646?af=R",
+    "authors": [
+      "Byeong‐Gwon Song, \nIn‐Sun Song, \nMasaru Kogure, \nGeonhwa Jee, \nJeong‐Han Kim, \nChangsup Lee, \nEunsol Kim, \nYoung‐Bae Ham, \nHosik Kam"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119794",
+    "title": "Decadal Shifts in Groundwater Age Detected by Environmental Tracers Across California, USA",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119794?af=R",
+    "authors": [
+      "By Bryant C. Jurgens, \nZeno F. Levy"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121029",
+    "title": "Evolution of Open Magnetic Flux During Substorms: The Effects of Dipole Tilt Angle",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121029?af=R",
+    "authors": [
+      "A. Nair, \nL. Holappa, \nH. Vanhamäki, \nS. E. Milan"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120000",
+    "title": "Teleseismic Radial Anisotropy Reveals a Sill‐Dominated Magma Reservoir Beneath the Valles Caldera, New Mexico",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120000?af=R",
+    "authors": [
+      "Gaoshan Guo, \nHaiqiang Lan, \nTao Xu, \nQinya Liu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL121634",
+    "title": "Quantifying and Classifying Non‐Stationary Turbulence Under Sub‐Mesoscale Disturbances",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL121634?af=R",
+    "authors": [
+      "Yue Xu, \nYan Ren, \nHongsheng Zhang, \nPeixuan Kang, \nJiening Liang, \nXianjie Cao, \nPengfei Tian, \nLei Zhang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121051",
+    "title": "Atmospheric Dynamics of IR‐Active Particles Released From Mars' Surface",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121051?af=R",
+    "authors": [
+      "Mark I. Richardson, \nSamaneh Ansari, \nBowen Fan, \nRamses Ramirez, \nHooman Mohseni, \nMichael A. Mischna, \nMichael H. Hecht, \nLiam J. Steele, \nFelix Sharipov, \nEdwin S. Kite"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 6, 28 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012708",
+    "title": "Growth and Chemical Evolution of the Kohistan Arc Crust, Northern Pakistan, Western Himalayas",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012708?af=R",
+    "authors": [
+      "Paul Sotiriou, \nKarsten M. Haase, \nMarcel Regelous"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 3, March 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033092",
+    "title": "The Variation of the Cenozoic Magmatic Activity Across the Sumatra Region Caused by Wharton Fossil Ridge Subduction",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033092?af=R",
+    "authors": [
+      "Jiawei Li, \nQing Liang, \nYadan Mao, \nChao Chen, \nHuilin Wang"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 3, March 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726002073",
+    "title": "Theoretical evaluation of kinetic triple oxygen isotope fractionation during phosphoric acid digestion of carbonates",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726002073?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 24 March 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Feixiang Liu, Xiaobin Cao",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-03-25",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38703.1/727779/Dates-and-rates-of-loess-deposition-and-soil",
+    "title": "Dates and rates of loess deposition and soil formation on the Snake River Plain, Idaho, USA",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38703.1/727779/Dates-and-rates-of-loess-deposition-and-soil",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Loess-paleosol sequences in eolian deposits on the Snake River Plain, Idaho, western United States, preserve records of late Pleistocene to Holocene glacial-interglacial cycles. Here, we examine climate-driven changes in the timing and rate of loess accretion, soil formation, and pedogenic carbonate accumulation in the eastern and central Snake River Plain. High rates of loess deposition often correspond with dry, cold, and windy conditions and/or high sediment supply, while soil formation indicates landscape stability. Optically stimulated luminescence dating of four loess-soil sequences provides a record of the timing of loess deposition, and radiocarbon dating (<sup>14</sup>C) of soil inorganic carbon provides ages for soil formation and pedogenic carbonate precipitation. On the central Snake River Plain, marine isotope stage (MIS) 3 is marked by loess deposition between ca. 50 ka and 33 ka, and pedogenic carbonate accumulation between ca. 42 ka calibrated years before present (cal. B.P.) and 31 ka cal. B.P. During MIS 2, loess deposition between ca. 21 ka and 15 ka is contemporaneous with pedogenic carbonate precipitation. MIS 2 is characterized by diffuse pedogenic carbonate formation and rapid loess accumulation. Both the eastern and central Snake River Plain study sites experienced high rates of loess deposition during MIS 2; however, the eastern Snake River Plain had almost three times faster rates of loess accumulation (0.56−0.63 m/k.y. from ca. 25 ka to 17 ka) as compared to the central Snake River Plain (0.18−0.26 m/k.y. from ca. 21 ka to 15 ka). During MIS 1, loess deposition on the central Snake River Plain ca. 11 ka was coincident with pedogenic carbonate formation ca. 10 ka cal. B.P. MIS 3 and MIS 1 are characterized by A horizons and well-developed Bk horizons, indicating soil stability and lower rates of loess accumulation during these intervals. This study highlights the role of late Quaternary−scale climatic variability on rates and amounts of soil inorganic carbon storage.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-03-23",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag178",
+    "title": "Atmospheric oxidation capacity at northern midlatitude regions is reaching a turning point",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag178/8539750?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The hydroxyl radical (OH) constitutes the primary atmospheric oxidant, governing the removal of short-lived greenhouse gases such as methane and the formation of secondary pollutants, including ozone. Characterizing long-term OH variability is critical for understanding atmospheric oxidation capacity and formulation of air quality improvement strategies. Although previous studies have linked OH increases to anthropogenic emissions, particularly nitrogen oxides (NO<sub>x</sub>), the historical evolution of OH remains poorly constrained. Here, we develop an observation-based method (OBM) to quantify spatiotemporal variability of surface OH concentration and identify its key turning points for China, Europe and the United States. Relative to clean regions, OH concentrations have increased by about 300% in all three regions, mainly attributable to enhanced NO<sub>x</sub> emissions. However, OBM-derived trends reveal that OH levels have reached a turning point, with statistically significant decreases observed at ∼10% of stations in Europe and the United States, while ∼85% of stations continue to increase. At hemispheric mid-latitudes, OH levels have remained near peak values of (5–9) × 10<sup>6</sup> cm<sup>−3</sup> over the past 50–60 years, and it may take another several decades to fully return to the NO<sub>x</sub>-limited regime, beyond the turning point. These findings challenge prior assessments of OH increases or stability and suggest an emerging decline in mid-latitude atmospheric oxidation capacity, as well as provide a novel indicator of regional ozone control strategies.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag183",
+    "title": "Topological engineering of covalent organic frameworks enhances photoactivation of electron donor–acceptor complexes via conformational locking",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag183/8539748?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Electron donor–acceptor (EDA) complex photoactivation offers a valuable route for organic synthesis, yet the development of efficient catalytic systems remains a significant challenge. We present a novel strategy based on topological conformational locking within covalent organic frameworks (COFs) to engineer high-performance donor platforms. Specifically, we constructed a three-dimensional (3D) COF and two two-dimensional (2D) analogues from the conformationally flexible building block 4,4ʹ,4ʹʹ,4ʹʹʹ-(1,4-phenylenebis(azanetriyl))tetrabenzaldehyde (PATB). Unlike the 2D structures, the 3D architecture intrinsically restricts molecular flexibility, stabilizing a locked conformation that significantly enhances acceptor binding affinity and facilitates efficient EDA complex formation and electron transfer. The 3D-PATB COF exhibits superior photocatalytic activity across a range of transformations, including C–H functionalization and [3+2] cyclization, and supports gram-scale synthesis with outstanding structural stability. Both experimental and computational analyses underscore the critical role of conformational locking in boosting catalytic performance, establishing topological engineering as a powerful approach for advancing EDA complex photochemistry.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag181",
+    "title": "High coastal eddy activity around Antarctica revealed by SWOT",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag181/8539739?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Antarctic marginal seas are crucial for the global climate, but direct observations, especially of mesoscale ocean eddies, remain scarce. Here, by analyzing the unprecedented high-resolution sea surface height data provided by the recently launched Surface Water and Ocean Topography (SWOT) satellite, we reveal for the first time a widespread presence of mesoscale eddies across the Antarctic continental shelf. The geographic distributions of the observed eddies, along with eddy-resolving model simulations, support the hypothesis that ice shelf basal melting and dense shelf water formation are key processes driving the prevalent eddy activity. Our findings highlight the potential of innovative satellite measurements for monitoring critical Antarctic oceanic processes, and the need to resolve the abundant Antarctic ocean eddies in climate models.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-03-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826001356",
+    "title": "Editorial Board",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826001356?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: April 2026<b>Source:</b> Ore Geology Reviews, Volume 191Author(s):",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-03-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826001381",
+    "title": "Fluid evolution and hydrodynamic driving forces of distal vein-type tin mineralization in the Dachang district, South China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826001381?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 23 March 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Yu Zhang, Chang-Hao Xiao",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-03-25",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-00881-6",
     "title": "How the idea of human superiority over nature was invented",
     "link": "https://www.nature.com/articles/d41586-026-00881-6",
