@@ -1,5 +1,595 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-71232-2",
+    "title": "Cardiomyocyte-derived GPX4 stabilizes BNIP3 to facilitate mitophagy and mitigate myocardial ischemia/reperfusion injury",
+    "link": "https://www.nature.com/articles/s41467-026-71232-2",
+    "authors": [
+      "Lingfeng Zhong",
+      "Zhenfeng Cheng",
+      "Yucong Zhang",
+      "Xiaoxi Fan",
+      "Yixin Zhou",
+      "Fan Yu",
+      "Ruihan Zheng",
+      "Derong Chen",
+      "Keke Ye",
+      "Jiahui Lin",
+      "Xi Chen",
+      "Zhouqing Huang",
+      "Chan Chen",
+      "Deling Yin",
+      "Weijian Huang",
+      "Bozhi Ye"
+    ],
+    "summary": "Nature Communications, Published online: 29 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-71232-2\">doi:10.1038/s41467-026-71232-2</a>The study reveals that GPX4 protects against myocardial ischemia/reperfusion injury by maintaining mitochondrial quality control. By stabilizing BNIP3 through USP20, GPX4 enhances mitophagy and reduces cardiac damage.",
+    "source": "Nature Communications",
+    "date": "2026-03-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71229-x",
+    "title": "Exploring how deep learning decodes anomalous diffusion via Grad-CAM",
+    "link": "https://www.nature.com/articles/s41467-026-71229-x",
+    "authors": [
+      "Jaeyong Bae",
+      "Yongjoo Baek",
+      "Hawoong Jeong"
+    ],
+    "summary": "Nature Communications, Published online: 29 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-71229-x\">doi:10.1038/s41467-026-71229-x</a>Using Grad-CAM with ResNets, this study probes how deep learning classifies anomalous diffusion from raw trajectories. The method reveals trajectory segments and multiscale features driving predictions, improving interpretability and robustness to measurement noise.",
+    "source": "Nature Communications",
+    "date": "2026-03-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71055-1",
+    "title": "Multi-field coupling enhanced plasmonic Mo<sup>δ+</sup> active site to efficiently hydrolyze ammonia borane",
+    "link": "https://www.nature.com/articles/s41467-026-71055-1",
+    "authors": [
+      "Pengcheng Li",
+      "Nengrong Tu",
+      "Yang Yang",
+      "Junxiang Li",
+      "Huilin Hou",
+      "Dongjiang Yang",
+      "Weiyou Yang"
+    ],
+    "summary": "Nature Communications, Published online: 29 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-71055-1\">doi:10.1038/s41467-026-71055-1</a>The authors find that reconstructing the Moδ+ active site via multi-field coupling effectively boosts ammonia borane hydrolysis. They provide key insights into the plasmon polarization-induced carrier kinetics and hydrolysis mechanism.",
+    "source": "Nature Communications",
+    "date": "2026-03-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71119-2",
+    "title": "Phosphorylation of SF3B1 by CDK11 orchestrates spliceosome activation via SNIP1-dependent RES complex recruitment",
+    "link": "https://www.nature.com/articles/s41467-026-71119-2",
+    "authors": [
+      "Pavla Gajdušková",
+      "Igor Ruiz de Los Mozos",
+      "Milan Hluchý",
+      "Antonina Myšková",
+      "Kateřina Zábrady",
+      "Peter Maník",
+      "Neda Dragišić",
+      "Kateřina Hanáková",
+      "David Potěšil",
+      "Sara Bologna",
+      "Jiří Nováček",
+      "Caroline C. Friedel",
+      "Konstantinos Tripsianes",
+      "Zbyněk Zdráhal",
+      "Dalibor Blazek"
+    ],
+    "summary": "Nature Communications, Published online: 29 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-71119-2\">doi:10.1038/s41467-026-71119-2</a>Cells rely on tightly controlled RNA splicing to ensure proper gene expression. Here, the authors show that CDK11-driven phosphorylation of SF3B1 recruits SNIP1 and the RES complex to activate the spliceosome, uncovering a signaling pathway essential for accurate splicing, cell survival, and disease prevention.",
+    "source": "Nature Communications",
+    "date": "2026-03-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71194-5",
+    "title": "Modulating nuclear stiffness and envelope barrier facilitates AAV nuclear entry and reduces immunogenicity",
+    "link": "https://www.nature.com/articles/s41467-026-71194-5",
+    "authors": [
+      "Yangsen Ou",
+      "Fuhua Wu",
+      "Chunting He",
+      "Shuang Luo",
+      "Zhaofei Guo",
+      "Yongshun Zhang",
+      "Rui Hu",
+      "Yanhua Xu",
+      "Xue Tang",
+      "Yuanhao Zhao",
+      "Lin Ye",
+      "Xiaoyan Chen",
+      "Shuting Bai",
+      "Guangsheng Du",
+      "Xun Sun"
+    ],
+    "summary": "Nature Communications, Published online: 28 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-71194-5\">doi:10.1038/s41467-026-71194-5</a>Low efficiency and immunotoxicity limit rAAVs clinical use. Here, the authors show that encapsulating rapamycin in PF127 micelles modulates cellular biomechanics, enhancing AAV-mediated gene transfer while reducing immunogenicity demonstrating application in osteoimmunological disorders.",
+    "source": "Nature Communications",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71246-w",
+    "title": "Cartilage targeting hydrogel nanoplatform degrades BRD4 to alleviate osteoarthritis via Nav1.7 axis",
+    "link": "https://www.nature.com/articles/s41467-026-71246-w",
+    "authors": [
+      "Qirui Zhao",
+      "Tongtong Xu",
+      "Zuchao Du",
+      "Xiaoqing Lu",
+      "Yan Zhang",
+      "Linjia Peng",
+      "Zixuan Gao",
+      "Weicheng Wang",
+      "Binyu Zhu",
+      "Zhigang Liu",
+      "Guangjie Yang",
+      "Hui Zhao",
+      "Zhiming Song",
+      "Qiankun Lou",
+      "Jiaming Li",
+      "Zhiguang Ren",
+      "Zhe Yu",
+      "Wei Wang",
+      "Yanlei Liu",
+      "Hui Liang",
+      "Jesus M. de la Fuente",
+      "Daxiang Cui"
+    ],
+    "summary": "Nature Communications, Published online: 28 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-71246-w\">doi:10.1038/s41467-026-71246-w</a>Osteoarthritis is driven by epigenetic dysregulation, yet targeted therapies remain elusive. Here, the authors develop a cartilage-targeting hydrogel delivering BRD4-degrading PROTACs to suppress the BRD4- Nav1.7 axis and alleviate osteoarthritis.",
+    "source": "Nature Communications",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70423-1",
+    "title": "Accumulation of virtual tokens towards a jackpot reward enhances performance and value encoding in dorsal anterior cingulate cortex",
+    "link": "https://www.nature.com/articles/s41467-026-70423-1",
+    "authors": [
+      "Demetrio Ferro",
+      "Habiba Azab",
+      "Benjamin Y. Hayden",
+      "Rubén Moreno-Bote"
+    ],
+    "summary": "Nature Communications, Published online: 28 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70423-1\">doi:10.1038/s41467-026-70423-1</a>Decision-making is influenced by subjective reference points. Here, choices are framed as potential gains or losses relative to a cumulative token count, revealing a gain-related substrate of reference-dependency in dorsal anterior cingulate cortex.",
+    "source": "Nature Communications",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71107-6",
+    "title": "In-situ growth of biomimetic ion-selective membranes via confined molecular encapsulation for superior fluoride/chloride separation",
+    "link": "https://www.nature.com/articles/s41467-026-71107-6",
+    "authors": [
+      "Qian Chen",
+      "Mei-Ling Liu",
+      "Sheng Jiang",
+      "Yu-Tong Zhang",
+      "Yue-Wen Jia",
+      "Wei-Xing Li",
+      "Shi-Peng Sun",
+      "Weihong Xing"
+    ],
+    "summary": "Nature Communications, Published online: 28 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-71107-6\">doi:10.1038/s41467-026-71107-6</a>A “confined molecular encapsulation” strategy enables one-step fabrication of biomimetic ion-selective membranes. The in-situ formed MOFs with tunable sizes facilitate highly precise ion differentiation.",
+    "source": "Nature Communications",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03431-0",
+    "title": "Biomass burning increase in Southeast Asia is dominated by char black carbon",
+    "link": "https://www.nature.com/articles/s43247-026-03431-0",
+    "authors": [
+      "Wenhuai Song",
+      "Ying Zhang",
+      "Meng Gao",
+      "Feng Xie",
+      "Fang Cao",
+      "Martin Rauber",
+      "Sawaeng Kawichai",
+      "Tippawan Prapamontol",
+      "Sönke Szidat",
+      "Yiran Peng",
+      "Gregory R. Carmichael",
+      "Yan-Lin Zhang"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 28 March 2026; <a href=\"https://www.nature.com/articles/s43247-026-03431-0\">doi:10.1038/s43247-026-03431-0</a>Over 90% of the biomass burning-related black carbon in Southeast Asia is char, leading to models overestimating absorption, according to thermal-optical analysis and radiocarbon source attribution of black carbon particles in Southeast Asia.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03439-6",
+    "title": "Synergistic reductions in fine particles and fossil fuel carbon dioxide revealed by tree-ring radiocarbon analysis",
+    "link": "https://www.nature.com/articles/s43247-026-03439-6",
+    "authors": [
+      "Yao Qu",
+      "Zhenchuan Niu",
+      "Weijian Zhou",
+      "Yunfei Huang",
+      "Sen Wang",
+      "Xue Feng",
+      "Guiqian Zhang",
+      "Xuefeng Lu",
+      "Jocelyn C. Turnbull",
+      "Xiangrui Kong"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 28 March 2026; <a href=\"https://www.nature.com/articles/s43247-026-03439-6\">doi:10.1038/s43247-026-03439-6</a>From the early 2010s to 2021, fine particles and fossil-fuel carbon dioxide in two Chinese cities declined, showing national clean-air policies improved both climate and air quality, according to tree-ring radiocarbon and urban air pollutant datasets",
+    "source": "Communications Earth & Environment",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226000917",
+    "title": "Lithospheric and atmospheric state shifts controlled the global distribution of iron oxide-apatite (IOA) deposits",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226000917?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 27 March 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Shengchao Yan, Bo Wan, John Mavrogenes, Ulf B. Andersson",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-03-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26001858",
+    "title": "Corrigendum to Gravity-driven fold-thrust belt at the Martian dichotomy Earth Planet. Sci. Lett. 671 (2025) 119645",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26001858?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 June 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 684Author(s): F. Carboni, O. Karagoz, J.B. Ruh, T. Kenkmann",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-03-29",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119319",
+    "title": "Hydro‐Mechanical Controls on Swarm Recurrence on the Westernmost Gofar Transform Fault, East Pacific Rise",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119319?af=R",
+    "authors": [
+      "Lintong Jiang, \nShihuai Zhang, \nXiaying Li"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120588",
+    "title": "Impacts of Carbon Dioxide Deposition on Martian Near‐Surface Wave Activity",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120588?af=R",
+    "authors": [
+      "Hung Kwan Fok, \nAnthony Toigo, \nDarryn Waugh"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121618",
+    "title": "Sulfur‐Bearing hcp Iron for Earth's Inner Core",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121618?af=R",
+    "authors": [
+      "Emiko Sugimura‐Komabayashi, \nSamuel Thompson, \nTetsuya Komabayashi, \nDamien Freitas, \nMark Robertson, \nNico Giordano, \nAnna Pakhomova, \nHanns‐Peter Liermann"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120357",
+    "title": "Regional‐to‐Global Tectonic and Trench‐Morphology Effects of Oceanic Plateau Subduction",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120357?af=R",
+    "authors": [
+      "Yang Liu, \nNicolas Coltice, \nLaetitia Le Pourhiet, \nZiyin Wu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119635",
+    "title": "Incorporating Particle Settling Enhancement in a Coarse‐Mode Deposition Model",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119635?af=R",
+    "authors": [
+      "Andrew P. Grace, \nDavid Richter"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118718",
+    "title": "Coupled Space Weathering: Nanophase Iron Formation by Micrometeoroid Impact and Solar Wind Sputtering",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118718?af=R",
+    "authors": [
+      "Ziyu Huang, \nMasatoshi Hirabayashi"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120804",
+    "title": "Pollution‐Clearing Induced Fog Suppression Even Under Extremely Humid Conditions Over North China Plain During 2013–2024",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120804?af=R",
+    "authors": [
+      "Taomou Zong, \nZhijun Wu, \nTeng Liu, \nXiaofan Wang, \nWenxu Fang, \nMin Hu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120956",
+    "title": "Foreshock Migration Preceding the 2025 Mw 8.8 Kamchatka Earthquake: Insights From Single‐Station Observations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120956?af=R",
+    "authors": [
+      "Ji Zhang, \nAitaro Kato, \nWei Wang, \nMiao Zhang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/grl.72340",
+    "title": "Issue Information",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/grl.72340?af=R",
+    "authors": [
+      null
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119871",
+    "title": "Multi‐Centennial Variability of the Afro‐Asian Monsoon Linked to Atlantic Meridional Overturning Circulation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119871?af=R",
+    "authors": [
+      "Jiazhi He, \nWeiyi Sun, \nBin Wang, \nJian Liu, \nDeliang Chen, \nLiang Ning, \nJuan Li, \nBo Lu, \nBin Liu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012821",
+    "title": "Crustal Magma Storage and Plumbing System Beneath the Tianchi and Wangtian'e Volcanoes, Changbaishan Intraplate Volcanic Field, China and North Korea",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012821?af=R",
+    "authors": [
+      "Xiaomeng Niu, \nXingli Fan, \nXin Wang, \nQi‐Fu Chen, \nYanru An, \nDaining Yang, \nYunjie Ji, \nYuhan Ding, \nJianhong Kang, \nSheng Guan"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 4, April 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB031725",
+    "title": "Robust Directional Analysis of Magnetic Microscopy Images Using Non‐Linear Inversion and Iterative Euler Deconvolution",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB031725?af=R",
+    "authors": [
+      "Gelson F. Souza‐Junior, \nLeonardo Uieda, \nRicardo I. F. Trindade, \nRoger R. Fu, \nUalisson D. Bellon, \nYago M. Castro"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 4, April 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033434",
+    "title": "Measurement of Phase Velocity and Ellipticity of Multi‐Mode Surface Waves by Beamforming Multi‐Component Ambient Seismic Noise",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033434?af=R",
+    "authors": [
+      "Tongwei Qin, \nYouyuan Zhang, \nShanshan Jia, \nLaiyu Lu"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 4, April 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB031768",
+    "title": "Northeastern Greenland Paleomagnetic Records Indicate the Influence of Geomagnetic Flux Lobe Intensity on Virtual Geomagnetic Pole Migration During the Holocene",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB031768?af=R",
+    "authors": [
+      "Juliette Girard, \nGuillaume St‐Onge, \nChristof Pearce, \nFrance Lagroix, \nMarit‐Solveig Seidenkrantz, \nKatrine Juul Andresen, \nJean‐Carlos Montero‐Serrano, \nPierre Francus"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 4, April 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726002097",
+    "title": "Controls on the cadmium isotopic compositions of marine sediments in the oligotrophic Western Pacific",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726002097?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 27 March 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Zheyuan Zhang, Tao Li, Tianyu Chen, Gang Yang, Jianfan Zheng, Yanguang Liu",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-03-29",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54158.1/727953/An-ancient-sandstorm-recorded-by-supercritical",
+    "title": "An ancient sandstorm recorded by supercritical climbing wind ripple strata in Gale crater, Mars",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54158.1/727953/An-ancient-sandstorm-recorded-by-supercritical",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Direct evidence of isolated transient atmospheric events are rarely preserved in the geological record, yet when observed can provide valuable insight into ancient atmospheric and sediment transport processes. Climbing wind ripple strata (specifically termed supercritical climbing translatent strata) were identified for the first time on Mars by the Curiosity rover within a sequence of aeolian strata in Gale crater. Here, six interstratified packages of climbing and planar wind ripple strata are described and interpreted. They resulted from fluctuating wind speed that varied sediment transport rates, combined with flow separation and expansion associated with a leeward slope. These conditions caused rapid deposition of sediment onto migrating wind ripples, occasionally resulting in supercritical angles of climb, recording gusting winds that originated from the south. Interstratified packages of climbing wind ripple strata uniquely record a broader sustained event such as a sandstorm, potentially lasting several hours or more.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54183.1/727952/Contourite-deposits-reveal-late-Paleocene-to-early",
+    "title": "Contourite deposits reveal late Paleocene to early Eocene deepwater circulation in the Norwegian-Greenland Sea",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54183.1/727952/Contourite-deposits-reveal-late-Paleocene-to-early",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The history of deep-water circulation between the Norwegian-Greenland Sea (NGS) and the North Atlantic Ocean is poorly constrained for the Paleocene to early Eocene—a period characterized by prolonged rifting and subsequent seafloor spreading. We integrate seismic stratigraphy and biostratigraphy from the NGS to demonstrate several phases of bottom-current erosion and deposition, indicating deepwater circulation before and during breakup. A confined contourite depositional system developed in the central NGS during the late Paleocene. This phase was followed by an ∼2 m.y. period of reduced circulation in the earliest Eocene, when a volcanic landmass restricted the marine connections to the North Atlantic. Renewed bottom-current activity in the earliest Eocene led to widespread contourite deposition along an ∼350 km stretch of the western NGS. This circulation system consisted of a southward-flowing western branch and a northward-flowing eastern branch, resembling Neogene to modern circulation patterns. Our results indicate that bottom-current activity predates previous records of contourite drift deposits in the NGS, and that the timing and distribution of contourite deposition were strongly controlled by the evolving basin configuration. We link early Eocene deepwater circulation to the formation of new seaways during breakup and seafloor spreading, rather than bathymetric changes of distant ocean gateways. These results have important implications for basin segmentation during the rift-to-drift transition and for reconstructing early deepwater exchange between the NGS and the North Atlantic.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-03-27",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/121/1/45/727881/Deciphering-Fluid-and-Uranium-Mobilities-in",
+    "title": "Deciphering Fluid and Uranium Mobilities in Unconformity-Related Uranium Deposits Using Uranium Oxides: The Waterfound Case Study",
+    "link": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/121/1/45/727881/Deciphering-Fluid-and-Uranium-Mobilities-in",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The Athabasca basin (Saskatchewan, Canada) hosts high-grade unconformity-related uranium deposits occurring at the interface between Archean-Paleoproterozoic crystalline basement and the Paleozoic to Meso-proterozoic sedimentary basin, rooted above basement-hosted graphite-rich structures. Episodic fluid circulations (1.6–1.0 Ga) are considered to have produced extensive mineralization and hydrothermal haloes in this context. The succession of fluid episodes after the initial uranium deposition nevertheless obscures understanding of the timing and conditions of deposit formation. This study targets the Waterfound U prospect in the northeastern basin, where structural and mineralogical contexts linked to uranium oxides are preserved. A framework is developed and applied to uranium oxides to decipher the structural, physico-chemical, and geochronological evolution of the prospect. The results indicate that uranium oxides at Waterfound formed at 1360 ± 5 Ma in veins and fault cores, in a context of fluid overpressure, associated with clay minerals (first generation of illite and chlorite). These oxides subsequently experienced three main alteration phases: (1) localized brecciation circa 1263 Ma, associated with Ni-Co sulfarsenide precipitation; (2) alteration around 1050 Ma with partial UO<sub>2</sub> dissolution, Pb loss, and first chemical trend substitutions, linked to formation of clay minerals (second generation of illite and chlorite); and (3) a near-recent (&lt;100 Ma) alteration causing Pb loss, a second trend of chemical substitutions, and formation of new generation UO<sub>2</sub> from oxidized meteoric water. The study highlights the necessity of integrating structural, mineralogical, and geochemical data to accurately reconstruct uranium deposit formation and postcrystallization alteration throughout the geologic history of the Athabasca basin and related Canadian Shield.</span>",
+    "source": "Economic Geology Current Issue",
+    "date": "2026-01-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/121/1/247/727880/The-Society-of-Economic-Geologists-Awards-for-2025",
+    "title": "The Society of Economic Geologists Awards for 2025*",
+    "link": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/121/1/247/727880/The-Society-of-Economic-Geologists-Awards-for-2025",
+    "authors": [],
+    "summary": "",
+    "source": "Economic Geology Current Issue",
+    "date": "2026-01-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/121/1/197/727879/Application-of-Failure-Mode-Diagrams-to-the",
+    "title": "Application of Failure Mode Diagrams to the Formation of Orogenic Gold Deposits in the Classic Val-d’Or Gold District, Canada, With Emphasis on the Newly Discovered Ormaque Deposit",
+    "link": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/121/1/197/727879/Application-of-Failure-Mode-Diagrams-to-the",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The Ormaque gold deposit is located within the Val-d’Or mining district of the Archean Abitibi greenstone belt, Quebec, where the influential fault-valve model for the formation of orogenic gold deposits was first applied. The deposit is hosted within the synvolcanic C porphyry, which was emplaced in volcaniclastic rocks of the ca. 2704 Ma Val-d’Or Formation. Ormaque consists of gently dipping, extensional quartz-tourmaline-carbonate veins flanking reverse faults. The veins are surrounded by alteration halos, which contain tourmaline, carbonate, and pyrite; these are locally overprinted by late albite and pyrite. Native gold and Au-Ag-Te-Bi–bearing polymetallic minerals occur as inclusions and fracture-fill in pyrite, tourmaline, and carbonate, and as disseminated grains along grain boundaries.Ormaque is dominated by extensional veins and differs from other Val-d’Or deposits, which are either dominated by fault-fill veins (e.g., Triangle, Plug No. 4, and Mine No. 3) or comprise both fault-fill and extensional veins in more equal proportions (e.g., Sigma, Lamaque, and Mine No. 2 deposits). All deposits are hosted by misoriented faults, which either cut through ca. 2685 Ma competent plugs (first group of deposits) or C porphyry (second group of deposits). Ormaque further differs from these deposits by a near lack of fault-fill veins and its more severely misoriented, steeply N- and S-dipping faults. The latter are reactivated, and extensional veins form at supralithostatic fluid pressures and low differential stress. With increasing misorientation angle, the maximum differential stress for shear reactivation of faults decreases, and the range of differential stresses over which extensional veins can form increases. The higher reactivation angles (80°) of the faults at Ormaque likely favored the formation of extensional veins rather than fault-fill veins over a wider range of differential stress and resulted in a predominance of extensional veins. Using failure mode diagrams, the study highlights how differences in reactivation angles may relate to the reactivation of preexisting high-angle faults and rotation of new faults during regional horizontal shortening, which led to differences in deposit style across a single mining district.</span>",
+    "source": "Economic Geology Current Issue",
+    "date": "2026-01-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/121/1/241/727878/REVIEWERS-OF-MANUSCRIPTS",
+    "title": "REVIEWERS OF MANUSCRIPTS",
+    "link": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/121/1/241/727878/REVIEWERS-OF-MANUSCRIPTS",
+    "authors": [],
+    "summary": "",
+    "source": "Economic Geology Current Issue",
+    "date": "2026-01-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/121/1/75/727877/Pyrite-Re-Os-Geochronology-of-Carbonate-Hosted-Zn",
+    "title": "Pyrite Re-Os Geochronology of Carbonate-Hosted Zn-Pb Deposits of the Canadian Cordillera",
+    "link": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/121/1/75/727877/Pyrite-Re-Os-Geochronology-of-Carbonate-Hosted-Zn",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The Cambrian-Devonian platform carbonate rocks found throughout the eastern Canadian Cordillera are important hosts of Zn-Pb sulfide mineralization. Models for mineralization commonly invoke either Laramide compression, or hydrothermal circulation associated with an active tectonic margin that was present during the Paleozoic. To distinguish between these possibilities, we have dated two Zn-Pb deposits from the northeastern Canadian Cordillera (Robb Lake and Prairie Creek) using pyrite Re-Os geochronology. The age of Robb Lake (348 ± 26 Ma) overlaps with that of the clastic-dominated deposits in the Kechika trough, located directly to the west, and is consistent with both sets of deposit types being related to a common metallogenic system. Pyrite collected from stratabound sulfides and quartz-carbonate-sulfide veins from the main orebody at Prairie Creek was dated to 315.7 ± 8.3 Ma and is statistically indistinguishable from the age of 322 ± 10 Ma calculated from Mississippi Valley-type mineralization distal to the main orebody. Our Re-Os dates require that mineralization at Prairie Creek and Robb Lake occurred during the Paleozoic, in stark contrast to previous age estimates made by paleomagnetism (&lt;150 Ma). Consequently, Zn-Pb mineralization in the northern cordillera formed in response to an active margin that existed along the western margin of North America during the Paleozoic, and it is not related to the Laramide compression.</span>",
+    "source": "Economic Geology Current Issue",
+    "date": "2026-01-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/121/1/243/727876/INSTRUCTIONS-TO-AUTHORS-2026",
+    "title": "INSTRUCTIONS TO AUTHORS, 2026",
+    "link": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/121/1/243/727876/INSTRUCTIONS-TO-AUTHORS-2026",
+    "authors": [],
+    "summary": "",
+    "source": "Economic Geology Current Issue",
+    "date": "2026-01-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/121/1/173/727875/Pyrite-Textures-Trace-Element-Chemistries-and",
+    "title": "Pyrite Textures, Trace Element Chemistries, and Isotopic Signatures (S, Pb) Suggest Hybrid Ore-Forming Processes in the World-Class Metasediment-Hosted Liba Au Deposit, West Qinling Orogen, Central China",
+    "link": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/121/1/173/727875/Pyrite-Textures-Trace-Element-Chemistries-and",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The Liba Au deposit (109.8 t Au at 1.99 g/t) in the West Qinling orogen (central China) is hosted in Middle Devonian greenschist facies metamorphosed clastic rocks and carbonates and has a close spatio-temporal relationship with Late Triassic granitoid complex and mafic to felsic dikes. The Au mineralization is localized within west-northwest to east-west fracture zones and characterized by pyrite disseminations and subordinate auriferous quartz veins. Based on field and textural relationships, the following four paragenetic stages are defined: (1) pre-ore stage marked by deformed pyrite, (2) early ore stage comprising quartz-pyrite and quartz-sericite-pyrite ores, (3) late ore stage composed of quartz-polymetallic sulfide veins, and (4) post-ore stage of barren calcite.Pre-ore stage pyrite (Au ≤ 3.0 ppm) has δ<sup>34</sup>S values of 5.0 to 6.8‰, which are lower than those for orestage pyrites (6.8–10.4‰). This S isotope difference discounts the possibility that some of the ore-forming S was sourced from the local metasedimentary host rocks. Pyrite from the early ore stage displays core-mantlerim zoned textures and hosts fine-grained native gold grains and has relatively high contents of invisible Au (≤600 ppm) in its mantle zones. The uniform δ<sup>34</sup>S values (mostly 8.5–10.4‰) and <sup>206</sup>Pb/<sup>204</sup>Pb ratios (18.3918–18.6362) for these pyrites suggest a deep-seated homogenized source for ore fluids, most likely derived from metamorphic devolatilization of Paleozoic metasedimentary rocks. Pyrite of the late ore stage, closely associated with abundant native gold, can be subdivided into a texturally early Au-bearing generation (Au ≤ 8.9 ppm; δ<sup>34</sup>S of 8.6–9.3‰; <sup>206</sup>Pb/<sup>204</sup>Pb of 18.9885–18.9959), which is overprinted by a texturally later Au-poor generation (Au ≤ 2.0 ppm; δ<sup>34</sup>S of 8.8–9.6‰) and Au-bearing generation (Au ≤ 3.9 ppm; δ<sup>34</sup>S of 6.8–8.5‰; <sup>206</sup>Pb/<sup>204</sup>Pb of 18.9501–18.9890). The lower δ<sup>34</sup>S values and more radiogenic Pb isotope signature, combined with enrichment in Cu, Zn, Ag, Sn, Sb, and Pb in this latest Au-bearing pyrite, indicate a different fluid source, which is suggested to originate from magmatic-hydrothermal fluids that interacted with the enveloping Devonian metasedimentary rocks.Integration of our new data with previous studies suggests the Liba Au deposit is hybrid in nature and involved multiple fluid sources and multiple Au deposition stages—a finding that has also been documented in other orogenic Au deposit settings worldwide. In addition, systematic in situ chemical and isotopic analyses of texturally well-constrained pyrite provide the means to geochemically characterize the entire fluid evolution history, as done at Liba, and fingerprint the fluid reservoirs and processes implicated in orogenic Au systems.</span>",
+    "source": "Economic Geology Current Issue",
+    "date": "2026-01-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/121/1/25/727208/Unearthing-Alteration-Halos-Associated-with",
+    "title": "Unearthing Alteration Halos Associated with Paleoproterozoic Nb-Y-F Pegmatites in a Scandinavian Caledonian High-Grade Metamorphic Belt",
+    "link": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/121/1/25/727208/Unearthing-Alteration-Halos-Associated-with",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Alteration halos in wall rocks are potential indicators of rare element pegmatites; however, halos associated with niobium-yttrium-fluorine (NYF) pegmatites are poorly documented. It is also unclear whether such halos can survive subsequent orogenic overprinting. In this contribution, we examine the wall rocks of Paleoproterozoic rare element pegmatites that underwent amphibolite facies metamorphism during the Scandinavian Caledonian orogeny. These pegmatites represent the largest known intraplutonic NYF-type bodies globally. Radiometric and geochemical profiles of the surrounding granitic gneiss wall rocks reveal ~2- to 15-m-wide dispersion halos marked by radiometric anomalies and enrichment in rare and radioactive elements, including Cs, Li, F, Sn, Ta, U, Th, Nb, Rb, and Tl. These elements are carried by Caledonian metamorphic minerals but originated from the interaction between Paleoproterozoic pegmatite-derived fluids and the granitic protolith. Remarkably, the Caledonian profiles preserve the geochemical signatures of the original Paleoproterozoic pegmatite halos. Our findings demonstrate that the geochemistry of alteration halos of rare element pegmatites can persist through high-grade metamorphic overprinting. These halos can be traced using radiometry or bulk and mineral geochemistry, offering a promising vectoring tool for exploring ancient NYF-type pegmatites in younger orogenic belts.</span>",
+    "source": "Economic Geology Current Issue",
+    "date": "2026-01-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/121/1/1/727112/Tungsten-Mineralization-in-the-Eastern-Alps",
+    "title": "Tungsten Mineralization in the Eastern Alps (Austria): Implications of Scheelite Trace Element Composition for Exploration Potential Evaluation",
+    "link": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/121/1/1/727112/Tungsten-Mineralization-in-the-Eastern-Alps",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Greenfield exploration during the 1970s to 1980s has revealed tungsten enrichment in various geologic units of the Eastern Alps. This study aims to develop assessment criteria (fingerprints) for the evaluation of regional tungsten potentials in the Eastern Alps based on mineralogical and chemical criteria from 17 of these tungsten discoveries, including the world-class Felbertal tungsten deposit. Scheelite (CaWO<sub>4</sub>) is the most common tungsten mineral in the Eastern Alps and was investigated by combined cathodoluminescence imaging, electron probe microanalysis (EPMA), and in situ laser ablation-inductively coupled plasma-mass spectrometry (LA-ICP-MS). This approach allows the identification of three mineralization styles in the Eastern Alps: (1) intrusion-related, (2) polymetallic (As, Sb, Au), and (3) carbonate-hosted stratabound scheelite mineralization. Our results show that the trace elements Na, Sr, Nb, Mo, and total rare earth elements (ΣREE) + Y are suitable for distinguishing scheelite from different ore-forming environments. The proposed (log[Sr/Mo] vs. log[Na/Nb]) diagram facilitates the discrimination of these mineralization styles irrespective of the metamorphic overprint and reflects chemical signatures of specific ore-forming processes. The diagram provides a clear distinction of intrusion-related magmatic-hydrothermal deposits from other styles of tungsten mineralization with less promising economic potential as well as orogenic gold deposits of metamorphogenic origin. Felbertal is clearly assigned to the intrusion-related magmatic-hydrothermal deposits and differs significantly from all the other examined scheelite occurrences in the Eastern Alps. The comparison with global scheelite data sets shows that these findings have the potential to be implemented across worldwide exploration projects.</span>",
+    "source": "Economic Geology Current Issue",
+    "date": "2026-01-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/121/1/219/726450/Episodic-Ore-Redistribution-in-Carlin-Type-Gold",
+    "title": "Episodic Ore Redistribution in Carlin-Type Gold Deposits in Southeastern Yunnan Province, SW China",
+    "link": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/121/1/219/726450/Episodic-Ore-Redistribution-in-Carlin-Type-Gold",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The central-southern Youjiang basin in southeastern Yunnan hosts numerous Carlin-type gold deposits, such as the pyroclastic-hosted Bieli and the siliciclastic-hosted Bielidong deposits. In both deposits, gold occurs as lattice-bound Au<sup>+</sup> in sulfide minerals of different paragenetic stages: sedimentary framboidal pyrite (Py<sub>S</sub>), diagenetic dissolution-reprecipitation porous pyrite (Py<sub>DR</sub>), hydrothermal early ore pyrite (Py1), main ore pyrite/arsenopyrite (Py2/Apy2), and late ore pyrite (Py3). The textures show there were multiple pulses of fluid flow related to the formation of the deposits. Sedimentary and diagenetic pyrite has negligible Au (&lt;1 ppm) and As (&lt;0.5 wt %) contents and extremely negative δ<sup>34</sup>S (−49.7 to −21.4‰) values, which differ markedly from early ore Py1 (Au = 0.05–4.20 ppm; As = 0.32–4.16 wt %; δ<sup>34</sup>S = −3.54 to 10.5‰), main ore sulfide minerals (Py2 and Apy2; mean Au = 9.28 and 39.2 ppm, mean As = 3.16 and 44.6 wt %, mean δ<sup>34</sup>S = 4.68 and 12.1‰), and late-stage Py3 (Au = 2.27–27.4 ppm; As = 7.80–9.49 wt %; δ<sup>34</sup>S = 8.62–13.5‰). The main ore sulfide minerals display positive δ<sup>34</sup>S values (4.68–12.1‰) and pronounced mass-independent sulfur isotope signatures (Δ<sup>33</sup>S = –2.80 to +8.16‰). The chemical composition and the δ<sup>34</sup>S and Δ<sup>33</sup>S values of ore sulfides indicate that the fluids were derived from a sedimentary source, most probably the Precambrian metamorphic rocks beneath the Phanerozoic basin. Both deposits formed by the same process, and the fluids came from the same source. Differences between the deposits are largely related to the local host rocks. The mobilization of the fluids seems to be the far-field effect of tectonic processes at the margins of the South China block.</span>",
+    "source": "Economic Geology Current Issue",
+    "date": "2026-01-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/121/1/117/726428/The-Origin-of-Topaz-Rich-Breccias-at-the-Akulla-Au",
+    "title": "The Origin of Topaz-Rich Breccias at the Åkulla Au-Te Deposit, Paleoproterozoic Skellefte District, Sweden",
+    "link": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/121/1/117/726428/The-Origin-of-Topaz-Rich-Breccias-at-the-Akulla-Au",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Complex breccia host rocks, quartz-topaz alumina-rich alteration, and low-sulfide ore (&lt;3%) differentiate the Åkulla Au-Te deposit from nearby volcanogenic massive sulfide (VMS) deposits, which are the main deposit type in the Skellefte district. At Åkulla, mineralization comprises native gold and telluride minerals in disseminated, remobilized fracture-associated, quartz vein–associated, and sulfide-associated styles within a steeply dipping lens-shaped domain of strongly altered 1.9 Ga dacitic to andesitic volcanic rocks. The host rocks and mineralization are flattened and elongated subparallel to the main D<sub>2</sub> tectonic foliation and lineation and are metamorphosed to upper greenschist facies. The deposit has an almost concentrically zoned hydrothermal alteration pattern with a quartz-topaz–rich core that is centered on a breccia complex. Topaz occurs as discrete altered clasts in the breccias as well as pervasive to patchy alteration. The quartz-topaz-sericite-andalusite core is poor in sulfide and passes outward to sericite-andalusite ± corundum ± quartz ± chlorite associations, then to sericite and finally chlorite. Stringer veins and small semimassive to massive base metal sulfide lenses occur in the alteration zones outside the topaz core, continue ~300 m updip to the Åkulla Östra massive sulfide deposit, and resemble footwall alteration and mineralization associated with nearby VMS deposits.Four main breccia facies are identified based on textural characteristics: monomict jigsaw-fit breccia; poorly sorted, dominantly polymict breccia with rotated clasts; moderately sorted matrix-supported polymict breccia; and well-sorted breccias with graded bedding. These breccias are attributed to quench and hydrothermal brecciation in a sea-floor to subseafloor setting during emplacement of a dacitic-andesitic volcanic complex. Clast size grading within breccia facies with topaz-rich clasts is dominated by fining to the northeast, the same direction as in nearby volcaniclastic sedimentary rocks, indicating that these breccias were emplaced while the strata were flat lying or gently dipping. This constrains the formation of the topaz-rich breccias and Au-Te mineralization to the early synvolcanic evolution of the succession, possibly prior to or during rotation of strata in extensional fault blocks. The topaz- and alumina-rich alteration of the breccias is attributed to acidic, F-rich, probably magmatic-hydrothermal fluids. The Åkulla Au-Te deposit represents unusual, F-rich, subseafloor synvolcanic mineralization within a larger VMS mineral system. The relationship we demonstrate between VMS mineralization, sulfide-poor Au-Te mineralization, complex breccias, and magmatic ore fluids at Åkulla will modify exploration models for VMS mineralization in the Skellefte district and should be considered in other VMS districts.</span>",
+    "source": "Economic Geology Current Issue",
+    "date": "2026-01-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/121/1/93/725334/Establishing-Mineral-Chemical-Vectors-Toward",
+    "title": "Establishing Mineral Chemical Vectors Toward Metamorphosed Volcanic-Hosted Massive Sulfide Deposits: New Insights from Chlorite, White Mica, and Garnet",
+    "link": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/121/1/93/725334/Establishing-Mineral-Chemical-Vectors-Toward",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>This study assesses the potential of chlorite, white mica, and garnet chemistry, coupled with hyperspectral data, as vectoring tools in metamorphosed volcanic-hosted massive sulfide (VHMS) deposits. Samples were collected from the King Zn deposit of the Eastern Goldfields superterrane, Yilgarn craton, which was metamorphosed to the amphibolite facies. In situ chlorite-white mica chemical trends match the shifting positions of the 2,200W and 2,250W absorption features obtained by short-wave infrared (SWIR) spectroscopy. These include a shift from muscovite to Na muscovite in the felsic footwall approaching mineralization, to phengite in the hanging wall, and mostly mixed Fe-Mg chlorite compositions with shifts to Mg-rich chlorite in the Mg-metasomatized felsic footwall. Fluorine (up to 2,500 ppm) and Mn (up to 1.1 wt %) contents of chlorite increase systematically through the footwall of the deposit toward the massive sulfide but drop sharply in the hanging wall—a trend mirrored in F contents in white mica (up to 2,500 ppm) and Mn in garnet (up to 17 wt %). These variations are attributed to premetamorphic footwall metasomatism and can trace hydrothermal up-flow zones in metamorphosed VHMS systems. Thermal infrared (TIR) signatures (11,100W and 11,300DW) correlate negatively with almandine and positively with spessartine contents in garnet, while rare earth element (REE) profiles of garnet further aid in the assessment of VHMS prospectivity. Positive Eu anomalies and downward-dipping heavy rare earth element (HREE) profiles in garnet enriched in the almandine end member distinguish mineralization-related garnet from those of barren metamorphic or igneous origins. Several elements, including Sr-Ba-Rb contents in white mica, Al in chlorite, and Ca-Mn with positive Eu anomalies in garnet, also differentiate footwall from least altered hanging-wall units. This study highlights the effectiveness of integrating chlorite, white mica, and garnet chemistry with hyperspectral data for regional VHMS exploration in high-grade metamorphic terranes.</span>",
+    "source": "Economic Geology Current Issue",
+    "date": "2026-01-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/121/1/145/723464/The-Papagaios-Gold-Deposit-Record-of-Multiple",
+    "title": "The Papagaios Gold Deposit: Record of Multiple Hydrothermal Mineralization Events in the Pitangui Greenstone Belt, Brazil",
+    "link": "https://pubs.geoscienceworld.org/segweb/economicgeology/article/121/1/145/723464/The-Papagaios-Gold-Deposit-Record-of-Multiple",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The Papagaios gold deposit in the Pitangui greenstone belt, Brazil, exhibits a complex metallogenic evolution characterized by multiple hydrothermal events. This study presents the first comprehensive characterization of its geology, petrography, lithogeochemistry, and mineral chemistry to elucidate the gold mineralization evolution. The mineralization is hosted in granitoids and a metavolcanic-sedimentary sequence metamorphosed to amphibolite facies (~630°C, garnet-biotite geothermobarometry) and is structurally controlled by east-northeast to west-southwest shear zones. Four hydrothermal stages have been identified based on their relationship to the S<sub><span style=\"font-style: italic;\">n</span></sub> foliation. The pre-S<sub><span style=\"font-style: italic;\">n</span></sub> stage features Mn-rich dolomite and talc-dolomite-chlorite-actinolite veins, with gold-bearing pyrite disseminated in metabasalts and volcaniclastic rocks, suggesting a possible Archean volcanic-hosted massive sulfide (VHMS)-like system. Syn-S<sub><span style=\"font-style: italic;\">n</span></sub> mineralization is hosted in silicified zones with carbonate-chlorite halos, where free gold is associated with sulfide assemblages. Chlorite chemistry points to formation temperatures of 180° to 475°C under oxidizing conditions, while lithogeochemistry reveals an Au-Cu-Pb-Zn signature. Syn- to late-S<sub><span style=\"font-style: italic;\">n</span></sub> Na-Ca alteration halos envelop Neoarchean granitic intrusions, suggesting a high-temperature and saline magmatic-hydrothermal process consistent with intrusion-related systems. The post-S<sub><span style=\"font-style: italic;\">n</span></sub> stage shows propylitic and phyllic alteration with Au-Fe-As–rich sulfide-oxide assemblages formed between 190° and 390°C under reducing conditions, according to chlorite chemistry, while tourmaline chemistry suggests saline fluids, and white mica points to formation pressures around 2 kbar. This stage may reflect a late Neoarchean magmatic-hydrothermal fluid release or a Paleoproterozoic overprint. The multistage evolution of the Papagaios deposit is distinct from other mineral deposits within the Pitangui greenstone belt and Quadrilátero Ferrífero metallogenic scenario, and implies an interplay of VHMS, orogenic, and intrusionrelated gold systems.</span>",
+    "source": "Economic Geology Current Issue",
+    "date": "2026-01-01",
+    "sent": true
+  },
+  {
+    "id": "http://doi.org/10.1093/nsr/nwag200",
+    "title": "DISC1 mutant macaques capture behavioral and neural hallmarks of psychiatric disease",
+    "link": "https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwag200/8554179?rss=1",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Schizophrenia is a devastating and complex neurological disorder with poorly understood neurodevelopmental origins. Current rodent models often fail to fully capture human symptomology, hindering therapeutic development. We generated a germline-transmissible <span style=\"font-style: italic;\">DISC1</span> mutant model in cynomolgus macaques using CRISPR-Cas9 targeting of exon 9. F0 founders and their F1 heterozygous offspring displayed increased stereotypic behaviors and self-injury, reduced exploration, social withdrawal, and sleep fragmentation. Fluoxetine partially ameliorated these behaviors in one founder. Neuroimaging revealed enlarged dorsal striatum (suggesting dopaminergic hyperfunction) and reduced medial amygdala (associated with emotional dysregulation). Plasma metabolomics indicated elevated dopamine and 3-methoxytyramine alongside decreased serotonin metabolite HIAA. Notably, one mosaic male exhibited enhanced visual precision and aberrant multisensory integration. Single-nuclei RNA sequencing of the dorsolateral prefrontal cortex revealed an excitatory/inhibitory imbalance – specifically, reduced parvalbumin-positive interneurons and synaptic dysregulation – accompanied by downregulation of autism-risk genes. These macaques recapitulate key psychiatric phenotypes including social deficits, aggression and anxiety, providing a valuable model for screening and testing of targeted therapeutics.</span>",
+    "source": "National Science Review Advance Access",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826001411",
+    "title": "Corrigendum to “Clustering in geo-data science: Navigating uncertainty to select the most reliable method” [Ore Geol. Rev. 181 (2025) 106591]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826001411?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 28 March 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Behnam Sadeghi",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-03-29",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-00954-6",
     "title": "Huge lung-cancer screening campaign boosts early diagnosis",
     "link": "https://www.nature.com/articles/d41586-026-00954-6",
