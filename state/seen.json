@@ -1,5 +1,193 @@
 [
   {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226000930",
+    "title": "Global guardians of the desert: The unseen world of soil nematodes in Earth's most extreme ecosystems",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226000930?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 28 March 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Waqar Islam, Fanjiang Zeng, Mohammed O. Alshaharni, Zhang Zhihao",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-03-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X2600186X",
+    "title": "Influence of effective normal stress on frictional behavior of granitic faults under hydrothermal conditions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X2600186X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 June 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 684Author(s): Gang Song, Lu Yao, Tao Yang, Shengli Ma",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-03-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26001925",
+    "title": "From dry to damp lunar mantle: How trace water in orthopyroxene reshapes the internal thermal state of the Moon",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26001925?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 June 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 684Author(s): Xinxin Yan, Xinzhuan Guo, Yun Zhou, Yuping Song, Qingshan Zhang, Meng Lv",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-03-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26001950",
+    "title": "The molybdenum isotope composition of the Bulk Silicate Earth constrained from molybdenites and its implications for the nature of late-stage building blocks",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26001950?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 June 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 684Author(s): Yao Sun, Jonas Tusch, Xiaorui Fan, Jifeng Xu, Chao Li, Kristoffer Szilas, Carsten Münker, Jingao Liu, Mario Fischer-Gödde",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-03-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26001895",
+    "title": "Melting from 1000°C and geophysical discontinuities in the shallow Earth’s mantle",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26001895?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 June 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 684Author(s): Emmanuel Gardés, Mickael Laumonier, Tahar Hammouda, Geeth Manthilake",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-03-30",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122066",
+    "title": "Submesoscale Eddies Buffer the Atlantic Niño/Niña Weakening Under Greenhouse Warming",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122066?af=R",
+    "authors": [
+      "Shengpeng Wang, \nYushan Qu, \nYun Yang, \nZhao Jing, \nHong Wang, \nYuhu Chen, \nLixin Wu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL119816",
+    "title": "Unstable Drainage Dynamics During Multiphase Flow Across Capillary Heterogeneities",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119816?af=R",
+    "authors": [
+      "C. Harris, \nS. Krevor, \nA. H. Muggeridge, \nM. Camilleri, \nS. J. Jackson"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120486",
+    "title": "A Within Canopy Deposition Model Capturing the Influence of Microplastic Size, Biological Cohesion, and Vegetation‐Generated Turbulence",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120486?af=R",
+    "authors": [
+      "Hyoungchul Park, \nHeidi Nepf"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120355",
+    "title": "A Machine Learning‐Based High‐Resolution Inventory of Soil Inorganic Carbon Across the Contiguous United States",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120355?af=R",
+    "authors": [
+      "Zahra Ghahremani, \nDavid Huber, \nArash Modaresi Rad, \nMike J. Johnson, \nJennifer Pierce"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL121876",
+    "title": "Daytime Ionospheric Density Enhancement Driven by Poleward Neutral Wind Shear Associated With Gravity Waves During the November 2025 Geomagnetic Storm",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL121876?af=R",
+    "authors": [
+      "Qi Jiang, \nJiuhou Lei, \nZhongli Li, \nFuqing Huang, \nRong Xia, \nTong Dang, \nXinan Yue, \nXiaoli Luan"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120021",
+    "title": "Rapid Land Surface Uplift and Groundwater Recovery Observed During the Syrian War",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120021?af=R",
+    "authors": [
+      "Saeed Mhanna, \nLandon J. S. Halloran, \nYves Tille, \nAhmed Haj Asaad, \nFrancois Zwahlen, \nPhilip Brunner"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032422",
+    "title": "Global Primary and Secondary Microseism Multi‐Decade Geographic Variation, Secular Intensification, and Period Lengthening",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032422?af=R",
+    "authors": [
+      "Richard C. Aster, \nThomas A. Lee, \nFrederik J. Simons, \nAdam T. Ringler, \nRobert E. Anthony"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 4, April 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033633",
+    "title": "Rift‐Induced Repositioning of Mantle Plumes Beneath the Indian Lithosphere: Implications for Deccan Volcanism",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033633?af=R",
+    "authors": [
+      "Dip Ghosh, \nJoyjeet Sen, \nNibir Mandal"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 4, April 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033101",
+    "title": "Mantle Dynamic Topography of the Fringing Oceanic Basins of Antarctica",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033101?af=R",
+    "authors": [
+      "A. C. A. Dunn, \nN. J. White, \nR. Larter, \nP. L. Slay, \nM. C. Holdt"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 4, April 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-03-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726002115",
+    "title": "The effects of magmatic recharge on primary lunar melt compositions: Implications for the water and other volatile budget of the Moon",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726002115?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 28 March 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Dian Ji, Rajdeep Dasgupta, Cin-Ty Lee",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-03-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726002127",
+    "title": "Rare earth element geochemistry in saline alkaline lakes from the East African Rift, Kenya: the case of the “missing” Ce anomaly",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726002127?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 28 March 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Lukas Klose, Timmu Kreitsmann, Lydia A. Olaka, Moses O. Misongo, Michael Bau",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-03-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0169136826001393",
+    "title": "Genesis of Magnesite–talc–brucite deposits in Paleoproterozoic Mg-rich carbonate formations, Liaodong Peninsula, northeast China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0169136826001393?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 28 March 2026<b>Source:</b> Ore Geology ReviewsAuthor(s): Jun Zheng, Guyue Hu, Han Chen, Xiuwen Li, Hongqi Wu, Xin Li, Ning Ding, Wen Sun, Junpeng Zhao, Peng Li, Feng Chang",
+    "source": "ScienceDirect Publication: Ore Geology Reviews",
+    "date": "2026-03-30",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-026-71232-2",
     "title": "Cardiomyocyte-derived GPX4 stabilizes BNIP3 to facilitate mitophagy and mitigate myocardial ischemia/reperfusion injury",
     "link": "https://www.nature.com/articles/s41467-026-71232-2",
