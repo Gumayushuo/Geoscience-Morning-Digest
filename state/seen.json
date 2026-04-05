@@ -1,5 +1,571 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-026-01103-9",
+    "title": "What Artemis II’s astronauts will look for on the Moon’s far side",
+    "link": "https://www.nature.com/articles/d41586-026-01103-9",
+    "authors": [
+      "Alexandra Witze"
+    ],
+    "summary": "Nature, Published online: 04 April 2026; <a href=\"https://www.nature.com/articles/d41586-026-01103-9\">doi:10.1038/d41586-026-01103-9</a>Mission scientists spoke to Nature about the geological features they’re most excited for the crew to observe.",
+    "source": "Nature",
+    "date": "2026-04-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71147-y",
+    "title": "Layer-selective hydrogenation and proton transport in twisted bilayer graphene",
+    "link": "https://www.nature.com/articles/s41467-026-71147-y",
+    "authors": [
+      "J. Tong",
+      "G. Chen",
+      "H. Li",
+      "E. Hoenig",
+      "M. Alhashmi",
+      "X. Zhang",
+      "D. Bahamon",
+      "G. R. Tainton",
+      "S. Sullivan-Allsop",
+      "Y. Mayamei",
+      "D. R. da Costa",
+      "L. F. Vega",
+      "S. J. Haigh",
+      "D. Domaretskiy",
+      "F. M. Peeters",
+      "M. Lozada-Hidalgo"
+    ],
+    "summary": "Nature Communications, Published online: 04 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71147-y\">doi:10.1038/s41467-026-71147-y</a>Authors demonstrate layer-selective conductor–insulator transitions in twisted bilayer graphene driven by hydrogenation, realising an electrochemical interface with two decoupled 2D electron gases that enables configurable logic gates.",
+    "source": "Nature Communications",
+    "date": "2026-04-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71562-1",
+    "title": "Advancing green mobile networks",
+    "link": "https://www.nature.com/articles/s41467-026-71562-1",
+    "authors": [
+      "Antonio De Domenico",
+      "Nicola Piovesan",
+      "Xiaoyi Zhou",
+      "Xiaowen Li",
+      "Magnus Olsson",
+      "Xin Chen"
+    ],
+    "summary": "Nature Communications, Published online: 04 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71562-1\">doi:10.1038/s41467-026-71562-1</a>Mobile communication underpins society, evolving from calls to AI and increasing network demands. To cut energy use and environmental impact, this work reviews standardized energy metrics and data-driven solutions for greener mobile networks.",
+    "source": "Nature Communications",
+    "date": "2026-04-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71416-w",
+    "title": "Multiscale electric fields direct charges to single-atom cobalt sites for photocatalytic H<sub>2</sub> production",
+    "link": "https://www.nature.com/articles/s41467-026-71416-w",
+    "authors": [
+      "Ailing Pan",
+      "Bin Liu",
+      "Hong Du",
+      "Chuanyi Wang",
+      "Yuanyuan Che",
+      "Hewen Liu",
+      "Gang Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 04 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71416-w\">doi:10.1038/s41467-026-71416-w</a>Researchers develop a biomimetic covalent organic framework that uses multi-scale electric fields to direct charges to single-atom cobalt sites, achieving efficient solar hydrogen production without noble metals.",
+    "source": "Nature Communications",
+    "date": "2026-04-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71423-x",
+    "title": "An in vivo fitness gene of <i>Toxoplasma</i>, MIC11, is essential for PLP1-mediated egress from host cells",
+    "link": "https://www.nature.com/articles/s41467-026-71423-x",
+    "authors": [
+      "Yuta Tachibana",
+      "Xue Gu",
+      "Miwa Sasai",
+      "Hidetaka Kosako",
+      "Eizo Takashima",
+      "Daron M. Standley",
+      "Vern B. Carruthers",
+      "Dominique Soldati-Favre",
+      "Masahiro Yamamoto"
+    ],
+    "summary": "Nature Communications, Published online: 04 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71423-x\">doi:10.1038/s41467-026-71423-x</a>This study reveals how Toxoplasma gondii exits host cells to spread infection. Researchers found that a key protein, MIC11, works with parasite perforin to disrupt membranes—a mechanism conserved even in the feline stages of infection.",
+    "source": "Nature Communications",
+    "date": "2026-04-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70879-1",
+    "title": "Realizing Landau levels with open equifrequency contours around band singularities",
+    "link": "https://www.nature.com/articles/s41467-026-70879-1",
+    "authors": [
+      "Cuicui Lu",
+      "Oubo You",
+      "Yanji Zheng",
+      "Shaojie Ma",
+      "Qingdong Yang",
+      "Hsun-Chi Chan",
+      "Zhihao Wang",
+      "Wenshuo Ma",
+      "Yong-Chun Liu",
+      "Shuang Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 04 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-70879-1\">doi:10.1038/s41467-026-70879-1</a>Landau levels have been observed in systems only with closed equifrequency contours (EFCs) around band singularities, i.e. type-I Dirac or Weyl systems. Here, we demonstrate the existence of Landau levels with open EFCs around band singularities through combined action of artificial electric and magnetic fields, whereas they cannot be generated by B only.",
+    "source": "Nature Communications",
+    "date": "2026-04-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71374-3",
+    "title": "Non-toxic silver telluride colloidal quantum dot mid-infrared photodetector",
+    "link": "https://www.nature.com/articles/s41467-026-71374-3",
+    "authors": [
+      "So Young Eom",
+      "Jin Hyeok Lee",
+      "Haemin Song",
+      "Suheon Son",
+      "Kwang Seob Jeong"
+    ],
+    "summary": "Nature Communications, Published online: 04 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71374-3\">doi:10.1038/s41467-026-71374-3</a>Eom et al. report the growth of Ag2Te colloidal quantum dots for mid-infrared photodetectors covering the 3–5 μm infrared range. The detector shows a rise/fall time of 211/523 ns and a noise-equivalent temperature difference of 0.3 K, which has potential for reliable diagnosis of fever-level body temperatures.",
+    "source": "Nature Communications",
+    "date": "2026-04-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-71275-5",
+    "title": "A universal atomically dispersed cobalt catalyst for alkylation of ketones alcohols and lignin-derived compounds",
+    "link": "https://www.nature.com/articles/s41467-026-71275-5",
+    "authors": [
+      "Zhuang Ma",
+      "Binyu Zhang",
+      "Yanbin Cui",
+      "Changyue Ren",
+      "Xinmin Li",
+      "Rajenahally V. Jagadeesh",
+      "Matthias Beller"
+    ],
+    "summary": "Nature Communications, Published online: 04 April 2026; <a href=\"https://www.nature.com/articles/s41467-026-71275-5\">doi:10.1038/s41467-026-71275-5</a>In this work, the authors present a method for the atom-efficient and “waste-free” construction of C-C bonds in ketones with alcohols, including lignin-derived compounds, using a heterogeneous cobalt-based single atom catalyst.",
+    "source": "Nature Communications",
+    "date": "2026-04-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03454-7",
+    "title": "Elasticity of seifertite under mantle conditions and its implications for velocity anomalies at the core-mantle boundary",
+    "link": "https://www.nature.com/articles/s43247-026-03454-7",
+    "authors": [
+      "Longyu Duan",
+      "Dong Wang",
+      "Fan Zou",
+      "Wenzhong Wang",
+      "Zhongqing Wu"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 04 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03454-7\">doi:10.1038/s43247-026-03454-7</a>Seifertite’s high seismic velocities and strong anisotropy make it a likely contributor to lowermost-mantle anisotropy and may help explain reduced wave speeds just above the D” layer, according to high pressure and temperature analyses.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03469-0",
+    "title": "Water filtration using softwood membranes provides a nature-based solution for nanoplastic removal",
+    "link": "https://www.nature.com/articles/s43247-026-03469-0",
+    "authors": [
+      "Alice Pradel",
+      "Maximilian Ritter",
+      "Wenqing Yan",
+      "Denise M. Mitrano"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 04 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03469-0\">doi:10.1038/s43247-026-03469-0</a>Cross-sectional slices of unaltered softwood, used as pressure-driven membrane filter, reduced nanoplastic concentrations from artificial freshwater by approximately 90% thanks to the xylem’s microstructure, according to proof-of-concept experiments.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03412-3",
+    "title": "The world’s enclosed seas highlight the need for urgent emission reductions and societal adaptation",
+    "link": "https://www.nature.com/articles/s43247-026-03412-3",
+    "authors": [
+      "Matthias Gröger",
+      "Florian Börgel",
+      "Cyril Dutheil",
+      "Sven Karsten",
+      "H. E. Markus Meier",
+      "Kseniia Safonova",
+      "Georg Sebastian Völker"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 04 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03412-3\">doi:10.1038/s43247-026-03412-3</a>Under 2 °C of mean global warming, 60% of the area of the world's enclosed marginal seas will be in a near-permanent marine heatwave state by the mid-century, according to a study employing climate model projections and reanalysis data.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03471-6",
+    "title": "A multi-temporal window framework reveals the temporal-scale-dependent stability of soil microbiomes under warming",
+    "link": "https://www.nature.com/articles/s43247-026-03471-6",
+    "authors": [
+      "Gang Fu",
+      "Wei Sun"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 04 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03471-6\">doi:10.1038/s43247-026-03471-6</a>Soil microbiome community stability is a dynamic and temporal scale-dependent emergent property and is maintained by a temporal scale-driven shift from reliance on species resistance to compensatory asynchrony, according to a decade-long warming experiment in Damxung County, North Tibetan Plateau.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03472-5",
+    "title": "Phosphorus cycling dynamics in stratified low-phosphorus lakes",
+    "link": "https://www.nature.com/articles/s43247-026-03472-5",
+    "authors": [
+      "Zhao Wei",
+      "Baoying Wang",
+      "Hao Yan",
+      "Longchen Zhu",
+      "Yu Wei",
+      "Yankai Shang",
+      "Huiming Bao"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 04 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03472-5\">doi:10.1038/s43247-026-03472-5</a>Rapid remineralization of organic phosphorus near the thermocline supplies phosphate to upper layers, promoting rapid algal growth during summer stratification, according to high-resolution vertical phosphate oxygen-isotope analyses in two low-phosphorous lakes in China.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03475-2",
+    "title": "Legislation system lacking scientific basis undermines ecological health of Yangtze River",
+    "link": "https://www.nature.com/articles/s43247-026-03475-2",
+    "authors": [
+      "Binbin Wang",
+      "Hao Zhuang",
+      "Jason H. Knouft"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 04 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03475-2\">doi:10.1038/s43247-026-03475-2</a>Court-ordered fish releases often undermine, rather than support, the ecological health of the Yangtze River, according to analysis of illegal fishing cases in China over 2015-2021.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43247-026-03470-7",
+    "title": "Terrestrial organic matter input causes dual effects on methylmercury accumulation in coastal planktonic food webs",
+    "link": "https://www.nature.com/articles/s43247-026-03470-7",
+    "authors": [
+      "Aleksandra Skrobonja",
+      "Sonia Brugel",
+      "Anne L. Soerensen",
+      "Evelina Griniene",
+      "Agneta Andersson",
+      "Erik Björn"
+    ],
+    "summary": "Communications Earth &amp; Environment, Published online: 03 April 2026; <a href=\"https://www.nature.com/articles/s43247-026-03470-7\">doi:10.1038/s43247-026-03470-7</a>Terrestrial organic matter boosts methyl-mercury bioaccumulation in coastal planktons by promoting heterotrophy, but increased dissolved organic matter thiols reduces its bioavailability, making net mercury uptake depend on changing organic-matter inputs, based on Baltic Sea mesocosm experiments.",
+    "source": "Communications Earth & Environment",
+    "date": "2026-04-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26002050",
+    "title": "Calcium carbonate interactions with brucite in shallow subduction zones and implications for deep water-carbon cycles",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26002050?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 June 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 684Author(s): Weibin Gui, Jin Liu, Jun Hu, Penghui Sun, Ao Deng, Yongjun Tian, Fahui Xiong",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-04-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26002141",
+    "title": "Decadal-scale dynamics of barchan dunes in the Taklamakan Desert",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26002141?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 June 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 684Author(s): Yuan Wang, Peng Liang, Xiaoping Yang",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-04-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26002116",
+    "title": "Orthopyroxene rheology and the effective viscosity of the Hadean upper mantle",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26002116?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 June 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 684Author(s): Brianna V. Fernandez, Jun Korenaga",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-04-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26001962",
+    "title": "Osmium isotope dichotomy between impactites from the Procellarum KREEP Terrane and the lunar highlands",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26001962?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 June 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 684Author(s): Yash Srivastava, James M.D. Day, Alexandra Bighouse, Anthony M. Gargano, Lang Qin, Kimberly Tait, Brian R. Joy",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-04-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120419",
+    "title": "Wave‐Based Quantification of Ion Composition in the Earth's Magnetosphere‐Ionosphere‐Coupling Region",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120419?af=R",
+    "authors": [
+      "Zhijie Qin, \nHui Zhu, \nZhihai Ouyang, \nHuicong Chen, \nZhenghao She"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-03",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120535",
+    "title": "Concurrent Variations in Air–Sea Heat Fluxes and Sea Ice Extensions Under Cold‐Air Outbreaks: The First Joint Buoy–Cruise Observational Results in the Bohai Sea",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120535?af=R",
+    "authors": [
+      "Yulin Lu, \nXiangzhou Song, \nJianxi Dong, \nHongjun Su, \nYunwei Yan, \nXuhua Cheng, \nShijian Hu, \nFeiyang Wang, \nZhuoqi Chen, \nXiao Cheng"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-03",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122321",
+    "title": "Height‐Dependent Sensitivity of Cloud Scales to Surface Temperature Anomaly Observed by Active Satellites",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122321?af=R",
+    "authors": [
+      "Lijie Zhang, \nJiming Li, \nZhenyu Cao, \nSihang Xu, \nQiudi Xu, \nBida Jian, \nYang Wang, \nYuan Wang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-03",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122029",
+    "title": "Mars' Ionospheric Response to the Onset and Early Phase of 20 May 2024 Solar Flare",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122029?af=R",
+    "authors": [
+      "Shaosui Xu, \nEdward M. Thiemann, \nAli Rahmati, \nDavid L. Mitchell, \nKathleen G. Hanley, \nWenyi Sun, \nJames P. McFadden, \nChristopher M. Fowler, \nMehdi Benna, \nChristian X. Mazelle, \nShannon M. Curry"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-03",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120435",
+    "title": "Quantifying Sources of Subseasonal Prediction Skill in CESM2 Within a Perfect Modeling Framework",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120435?af=R",
+    "authors": [
+      "Judith Berner, \nAbigail Jaye, \nJadwiga H. Richter, \nAnne A. Glanville"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-03",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121461",
+    "title": "Unexpected Daytime N2O5 in Urban Areas: Formation Mechanisms and Environmental Impacts",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121461?af=R",
+    "authors": [
+      "Ziyi Lin, \nLingjun Li, \nLingling Xu, \nXiaoting Ji, \nKeran Zhang, \nChen Yang, \nGaojie Chen, \nXiaolong Fan, \nJinsheng Chen"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-03",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121604",
+    "title": "Foundation‐Scale Satellite Embeddings Reframe Hydrological Generalization as a Representation Problem",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121604?af=R",
+    "authors": [
+      "Zhigang Ou, \nYi Zheng"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-03",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120799",
+    "title": "Strong Ventilation Drives the Aerosol Pollution Receptor Center and Its Interannual Variability in Central China's Twain‐Hu Basin",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120799?af=R",
+    "authors": [
+      "Yongqing Bai, \nLing Zhang, \nYujie Jiang, \nTianliang Zhao, \nLijuan Shen, \nKai Meng, \nJie Xiong, \nXiaoyun Sun, \nWeiyang Hu, \nXiefei Zhi"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-03",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120412",
+    "title": "Characterizing the Unique Chemical Imprint of On‐Axis, Lower‐Temperature Hydrothermal Flow to the Deep Ocean (Southern East Pacific Rise, 16.5°–18.0°S)",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120412?af=R",
+    "authors": [
+      "Laura E. Moore, \nRandelle M. Bundy, \nJoseph A. Resing, \nScott White, \nTamara Baumberger, \nPeter N. Sedwick, \nNathaniel J. Buck, \nAnson M. Antriasian, \nIsaac Keohane, \nBettina M. Sohst, \nSharon L. Walker, \nChristopher R. German"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-03",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121149",
+    "title": "Hill‐Terrain Modulation of Inland Snow‐Cloud Microphysics: Polarimetric Radar and Balloon‐Borne Particle Imaging Radiosonde Observations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121149?af=R",
+    "authors": [
+      "K. Takami, \nK. Suzuki, \nY. Hara, \nY. Fujimori"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 7, 16 April 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-04-03",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GC013100",
+    "title": "Thank You to Our 2025 Peer Reviewers",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC013100?af=R",
+    "authors": [
+      "Jacqueline Dixon, \nPaul Asimow, \nWhitney Behr, \nAlvaro Fernandez Bremer, \nMarie Edmonds, \nDavid Hernández Uribe, \nBoris Kaus, \nAnne Paul, \nSonia Tikoo, \nBranwen Williams"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 4, April 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-04-03",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032637",
+    "title": "Rheological Properties and Induced‐Coulomb Stress in the Southern Sumatra Subduction Zone: Insights From the 2007 Mw8.4 Bengkulu Earthquake",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032637?af=R",
+    "authors": [
+      "Siyuan Yang, \nYan Hu, \nJian Lin"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 4, April 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-04-03",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032764",
+    "title": "Autocorrelation‐Based Imaging of Crustal Discontinuities Including the Main Himalayan Thrust and Vp/Vs Ratio in the Jammu and Kashmir Himalaya",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032764?af=R",
+    "authors": [
+      "Hari Ram Thapa, \nSupriyo Mitra, \nAbdelkrim Aoudia, \nGordana Vlahovic, \nKeith Priestley, \nSunil Kumar Wanchoo"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 4, April 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-04-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726002309",
+    "title": "Thallium oxidative fractionation on birnessite-like phases: insights from mineralogical and isotope analyses of adsorption time series experiments",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726002309?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 3 April 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Yi Wang, Rachel Phillips, Colleen M Hansel, Sune Nielsen",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-04-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726002255",
+    "title": "Experimental constraints on the partitioning behaviour of uranium (VI) in dolomite",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726002255?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 3 April 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Cole A. McCormick, Dalton S. Hardisty, Chelsea L. Pederson, Watts L. Dietrich, Isaac Bondzie-Selby, Mohammed S. Hashim, Kimberly V. Lau",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-04-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726002267",
+    "title": "Genesis of exceptionally scandium-rich clinopyroxene in magnetite ore at El Laco: Implications for the formation of iron oxide-apatite (IOA) deposits",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726002267?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 3 April 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Qiuhong Xie, Zhaochong Zhang, Adam Simon, Eduardo Campos, Tong Hou, Xiangkun Zhu, Yu Wang",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-04-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726002280",
+    "title": "Large-scale gold incorporation in bulk pyrite mediated by arsenic",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726002280?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 3 April 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Zi-Yue Gao, Kun-Feng Qiu, Razvan Caracas, Bing-Cheng Luo, Xin Liu, Zheng-Yu Long, Deng-Yang He, Jia-Nan Fu, Mei-Jing Xu, Hao-Cheng Yu, Zheng-Jiang Ding, Jun Deng",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-04-05",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54266.1/728208/New-Re-Os-constraint-for-the-Bitter-Springs",
+    "title": "New Re-Os constraint for the Bitter Springs anomaly in NW Canada: Exploring connections between continental weathering and the Tonian Os cycle",
+    "link": "https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G54266.1/728208/New-Re-Os-constraint-for-the-Bitter-Springs",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The Tonian Period (1000−717 Ma) was a crucial episode in the coevolution of Earth and life, and well-preserved sedimentary strata provide an opportunity to interrogate the paleoenvironmental conditions in the lead up to eukaryote proliferation. The Bitter Springs negative carbon isotope anomaly (BSA) represents the first documented prominent disturbance to the carbon cycle during the Tonian and is an important chemostratigraphic marker and tie point for studying ocean biogeochemistry and calibrating biostratigraphy during this period. Current radiometric ages for the BSA are from strata bracketing the excursion, which provide maximum and minimum constraints but do not permit a complete evaluation of the excursion’s timing and duration. We report a Re-Os age of 799.6 ± 3.5 Ma from within the BSA preserved in the Wynniatt Formation of the Shaler Supergroup, Northwest Territories, Canada. This age is the first precise radiometric age constraint from strata that host the BSA, thereby providing an important new tie point for improving mid-Tonian age models and stratigraphic correlation. In addition, we present an Os isotope (<sup>187</sup>Os/<sup>188</sup>Os) chemostratigraphic dataset suggesting that the source of Os fluctuated prior to the BSA in the Amundsen Basin, possibly linked to local changes in sea level. Our findings highlight that basin-scale sequence stratigraphy should be considered when interpreting radiogenic isotopic trends and their biogeochemical implications in deep-time sedimentary records.</span>",
+    "source": "Geology Advance Access",
+    "date": "2026-04-03",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-10004/728165/Reactions-between-carbonatitic-melt-and-syenitic",
+    "title": "Reactions between carbonatitic melt and syenitic wall rocks drive REE mineralization in the Maoniuping deposit, southwest China",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-10004/728165/Reactions-between-carbonatitic-melt-and-syenitic",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Carbonatite-related rare earth element (REE) deposits commonly form by complex magmatic−hydrothermal processes. In this study, REE-mineralized metasomatic alteration selvages surrounding carbonatite dikelets in the Oligocene Maoniuping REE deposit, southwest China, were investigated to determine the role of metasomatic interactions between evolved carbonatitic magmatic–hydrothermal fluids and silicate wall rocks in controlling REE mineralization. The alteration selvages contain primary assemblages of clinopyroxene, amphibole, phlogopite, feldspars, calcite, and bastnäsite, along with accessory apatite, titanite, thorite, and zircon. Electron probe microanalysis, laser ablation–inductively coupled plasma–mass spectrometry, whole-rock geochemical, and sensitive high-resolution ion microprobe oxygen isotopic methods were used to investigate the origins of the carbonatite dikelets by examining the mineral assemblages in the metasomatic selvages peripheral to the dikelets. The widespread occurrence of alkali silicate minerals in both the metasomatic selvages and carbonatites in the Dagudao section in the Maoniuping deposit indicates that silica enrichment in the evolved carbonatitic melts resulted from interactions with syenite. Calcite in the selvages has near-chondritic Y/Ho ratios (25.8–31.3), consistent with limited fluid–rock interactions and the preservation of magmatic compositions. Titanite associated with clinopyroxene, has high Fe/(Fe + Al) ratios (0.65–0.84) and elevated REE contents (1.95–3.59 wt.%), This result, and the textural association and distinctive negative Eu anomalies (Eu/Eu* = 0.58–0.98) of titanite are indicative of crystallization from an Fe- and REE-rich carbonatitic melt that had interacted with silicate wall rocks. Zircon within the selvages has textures and compositions indicative of hydrothermal overprinting, including low Th/U ratios (&lt; 0.4), variable Ce anomalies (Ce/Ce* =0.94–9.8) and (Sm/La)<sub>N</sub> values (0.24–126), and low δ<sup>18</sup>O<sub>V-SMOW</sub> values (2.63‰–4.41‰). The composition is similar to that of zircon from the altered syenitic wall rocks and reflects interactions with late-stage, low-δ¹⁸O<sub>V-SMOW</sub> fluids. Petrographic and geochemical evidence indicate two stages of mineralization. The initial stage involved metasomatic interactions between evolved carbonatitic melt and syenite, leading to Na–K depletion and SiO₂ enrichment in the residual melt, and the precipitation of alkali silicate minerals, titanite, apatite, and bastnäsite. The subsequent hydrothermal stage is evident from the dissolution of apatite and bastnäsite overgrowths, indicative of localized REE remobilization rather than the large-scale introduction of REE. The results show that early magmatic metasomatism (i.e., antiskarn development) between carbonatitic melt and wall rocks is key to establishing the primary REE endowment, whereas later hydrothermal activity mainly causes local redistribution of the REE.</span>",
+    "source": "American Mineralogist Advance Access",
+    "date": "2026-04-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-10097/728164/High-pressure-spectroscopic-signatures-of-the",
+    "title": "High-pressure spectroscopic signatures of the distortion and iron spin transition in Fe-bearing magnesite",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-10097/728164/High-pressure-spectroscopic-signatures-of-the",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The behavior of iron-bearing magnesium carbonate (Mg,Fe)CO<sub>3</sub> at high pressures has significant implications for deep carbon cycling in Earth’s mantle, as this composition more realistically reflects the carbonates expected in the Earth’s deep interior. In this study, we have investigated high-pressure vibrational properties of Fe-bearing magnesite using synchrotron Mössbauer, infrared (IR), and Raman spectroscopies in diamond anvil cells up to ∼71 GPa at room temperature. Above 29 GPa, Raman and IR spectra reveal signatures of pressure-induced lattice distortion, including splitting of lattice-coupled (<span style=\"font-style: italic;\">T</span>) and in-plane bending (ν<sub>4</sub>) modes of internal CO<sub>3</sub><sup>2-</sup> vibrations, changes in the pressure dependence of the wavenumbers of both Raman and IR modes, and a variation in the <span style=\"font-style: italic;\">L</span>/ν<sub>4</sub> mode intensity ratio. While lattice distortion has been proposed in pure MgCO<sub>3</sub>, even minor Fe substitution alters the response of internal modes. This result suggests that low Fe content can modify the local bonding environment, which may influence the high-pressure and -temperature stability of the MgCO<sub>3</sub>-FeCO<sub>3</sub> solid solution. Mössbauer spectra show that a high-spin to low-spin transition occurs between ∼45–50 GPa in Fe-bearing magnesite. Raman and IR measurements display discontinuous shifts in both lattice (<span style=\"font-style: italic;\">L</span>) and internal vibrational (ν<sub>1</sub> and ν<sub>4</sub>) modes across the spin transition. Previous studies on the MgCO<sub>3</sub> endmember have reported additional lattice distortion near 50 GPa, close to the pressure at which the spin transition occurs in Fe-rich compositions. The relative changes in the Grüneisen parameters (Δγ) of the lattice mode across the spin transition for Fe-containing compositions and the further distortion for MgCO<sub>3</sub> endmember exhibit a linear dependence on Fe content, whereas those of the internal modes show a second-order, non-linear trend, particularly for the ν<sub>4</sub> mode. Both lattice and internal modes may reflect the combined effect of lattice distortion and the spin transition, but the two cannot be distinguished from the behavior of the lattice mode. While lattice distortions have been discussed for the Mg-endmember, they have not been reported for Fe-bearing or Fe-rich compositions, possibly because the lattice distortions may be masked by the dominant effects of the spin transition, particularly in Fe-rich compositions. Since lattice modes are expected to primarily govern elastic wave propagation and the contribution of internal-mode variations is limited, the Fe-content dependence of sound velocities after the spin transition is expected to be approximately linear. This suggests that Fe-bearing carbonates may lower seismic wave velocities in the deep mantle where they are sufficiently abundant.</span>",
+    "source": "American Mineralogist Advance Access",
+    "date": "2026-04-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-10074/728163/Oxide-coated-silicate-droplets-record-three",
+    "title": "Oxide-coated silicate droplets record three immiscible melts in sulfide-silicate emulsions",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-10074/728163/Oxide-coated-silicate-droplets-record-three",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Emulsion textures between sulfide and silicate minerals provide insight into the complex mingling behaviors between immiscible sulfide and silicate melts. The Sora gabbroic intrusion in eastern Germany not only hosts exceptionally well-preserved emulsion textures but also displays previously undescribed spherical silicate droplets within a sulfide matrix. These droplets are completely enclosed by thin coats of partly skeletal magnetite, ilmenite, apatite and/or biotite. The mineral assemblage and crystal morphologies of these coats suggest the involvement of a third immiscible Fe-Ti-P-rich melt (besides silicate and sulfide melts) during the formation of the emulsion textures. Supporting evidence includes the absence of reaction textures at the droplet interfaces, the independence of the composition of hosting sulfides and the enrichment of V and Cr in magnetite and Mn in ilmenite, hence of elements that are generally incompatible in both sulfide and silicate melts. This dense, rapidly crystallized Fe-Ti-P melt enclosing silicate droplets could have acted as geological emulsifier, increasing the effective density of the coated silicate melt and preventing its ascent through the hosting denser sulfide melt. This prevention of coalescence could have likely contributed to the exceptionally well preserved emulsion textures at the Sora intrusion.This study provides new evidence for three-liquid immiscibility involving silicate, sulfide, and Fe-Ti-P melts in a natural example and highlights how their interaction can preserve complex multi-melt processes in magmatic systems.</span>",
+    "source": "American Mineralogist Advance Access",
+    "date": "2026-04-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-10036/728162/Synthesis-of-Critical-Element-bearing-Olivine-and",
+    "title": "Synthesis of Critical Element-bearing Olivine and Pyroxene",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/doi/10.2138/am-2025-10036/728162/Synthesis-of-Critical-Element-bearing-Olivine-and",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Nickel (Ni) and cobalt (Co) are critical elements necessary for the transition to carbon-free energy generation. Increasing global demand for these elements requires new sources to be found. Both Ni and Co are found in low concentrations in mafic and ultramafic silicate minerals. To systematically understand the partitioning behavior of these elements in silicate minerals and to provide starting materials for experiments, we synthesized forsterite and enstatite with Ni and Co contents between 1.2 and 8.6 wt.%. We find that &gt;95% purity syntheses of large batches (tens of grams) of both minerals are possible and that purity decreases with increasing Ni or Co dopant levels in enstatite syntheses. Impurities in forsterite syntheses include cristobalite and enstatite, while impurities in enstatite syntheses include cristobalite and forsterite. Partitioning of Ni and Co dopants favors forsterite over enstatite, with a more pronounced effect observed in Ni than Co. The doped minerals serve as starting materials for experiments that seek to extract critical elements from ultramafic and mafic rocks, in which the primary carriers of Ni and Co are olivine and pyroxene.</span>",
+    "source": "American Mineralogist Advance Access",
+    "date": "2026-04-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38794.1/728193/Paleoarchean-continental-emergence-in-the-North",
+    "title": "Paleoarchean continental emergence in the North China Craton indicated by low δ 18 O granites",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38794.1/728193/Paleoarchean-continental-emergence-in-the-North",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Emergent continental crust is important for the evolution of Earth’s surface system and the development of habitability, and it is apparent that early Archean cratons were locally emerged. However, it remains unresolved if the North China Craton, which preserves ancient (4.1−4.0 Ga) crustal remnants, had emergent continental crust during the early Archean. Here, we report geochronological and geochemical data on Paleo−Mesoarchean potassic granites in Eastern Hebei, within the North China Craton, to determine whether or not there was any early Archean exposed landmass in this craton. We constrain that the studied potassic granites formed at ca. 3.2 Ga, and their bulk-rock and zircon Hf isotopic geochemistry reveals that they were produced by anatexis of Paleoarchean tonalite-trondhjemite-granodiorite (TTG) crust. Their low zircon δ<sup>18</sup>O values should have been inherited from their Paleoarchean TTG source, and <sup>18</sup>O-depletion of this Paleoarchean TTG source was achieved through high-temperature hydrothermal alteration with the infiltration of isotopically light meteoric water into the shallow crust, prior to the ca. 3.2 Ga anatexis. The identification of Paleoarchean TTG crust altered by meteoric water in Eastern Hebei indicates the emergence of continental crust in the North China Craton during 3.6−3.2 Ga, and this Paleoarchean continental emergence could have been associated with magmatic underplating during mantle plume activities, which is also evidenced by the Paleoarchean enriched plume remnants in Eastern Hebei.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-04-03",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38424.1/728192/3-D-gravity-inversion-of-the-deep-spreading",
+    "title": "3-D gravity inversion of the deep spreading pattern of rock bodies and its control on lead-zinc deposits, Qingchengzi, Liaodong, China",
+    "link": "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38424.1/728192/3-D-gravity-inversion-of-the-deep-spreading",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">The Liaodong Qingchengzi ore district, a representative magmatic-hydrothermal lead-zinc system in northeastern China, is characterized by the Late Triassic Shuangdinggou (zircon U-Pb age 224 Ma) and Xinling (225 Ma) granitic intrusions, which exhibit congruence in lithology, age, and tectonic setting, as evidenced by their shared emplacement along the same NE-trending Erdaogou fracture zone, implying a concealed subsurface connection that may have governed ore-fluid pathways. Despite this, the characteristics and influence of this deep-seated link remain unresolved. This investigation employs the isolation forest algorithm for gravity data analysis. Compared with the Z-score and local outlier factor methods, the isolation forest method more effectively suppresses isolated noisy measurements while preserving the overall geometry of the Bouguer gravity anomalies, as indicated by cleaner anomaly patterns and reduced directional Kriging interpolation errors. Kriging interpolation was implemented to refine spatial continuity (root mean square error = 0.0552). Trend surface analysis facilitated the isolation of local gravity anomalies, thereby improving the delineation of concealed structures. A 3-D University of British Columbia−Geophysical Inversion Facility (UBC-GIF) gravity inversion model, spanning 28.8 × 37.6 × 5 km, reveals a “bridge-like” high-density connector at a depth of ∼2200 m, linking the two bodies and coinciding with the NE-trending Erdaogou fracture and the spatial distribution of lead-zinc mineralization. Interactive profile inversion along profiles A−A′ and B−B′ constrained the basal depth to ∼4500 m, with a root mean square misfit of &lt;0.194 mGal between the observed and calculated gravity anomalies. These findings substantiate a persistent deep connection, with the Erdaogou fracture acting as a conduit for magma intrusion and hydrothermal fluid migration. The observed “connectivity-fracture-fluid” coupling mechanism provides novel geophysical evidence for mineralization processes within the Liaoji Rift and supports the exploration of concealed ore deposits in analogous geological settings.</span>",
+    "source": "GSA Bulletin Advance Access",
+    "date": "2026-04-03",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-01105-7",
     "title": "Massive budget cuts for US science proposed again by Trump administration",
     "link": "https://www.nature.com/articles/d41586-026-01105-7",
